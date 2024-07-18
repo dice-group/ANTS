@@ -9,8 +9,8 @@ Our approach aims to address the challenges of abstractive entity summarization 
 ## Repository Structure: 
 ```
 ├── data
-│   ├── essum
-|       -├── dbpedia
+│   └── essum
+|        ├── dbpedia
 |        └── faces
 ├── LICENSE
 └── README.md
