@@ -6,9 +6,9 @@ ESSUM dataset is composed of:
 2. ESSUM-Abstract-Summaries
 
 ## Creation of the ESSUM-Triples Dataset
-The ESSUM-Triples dataset is designed to evaluate whether baseline models, knowledge graph embedding (KGE) models, and large language models (LLM) can predict or infer absent triples in their generated entity summaries by selecting top-1o triples summaries.
+ESSUM-Triples dataset is designed to evaluate whether baseline models, knowledge graph embedding (KGE) models, and large language models (LLM) can predict or infer absent triples in their generated entity summaries by selecting top-1o triples summaries.
 
-The ESSUM-Triples dataset is created through the following procedures:
+ESSUM-Triples dataset is created through the following procedures:
 
 1. **Preparation of the Dataset from ESBM-DBpedia (version 1.2) and FACES:** 
 
@@ -23,11 +23,14 @@ The ESSUM-Triples dataset is created through the following procedures:
     The removed triples are stored as the test set, while the remaining triples are divided into training and validation sets with a 90:10 ratio.
 
 ## Creation of the ESSUM-Abstract-Summaries Dataset
-The ESSUM-Abstract-Summaries dataset is aimed at benchmarking the performance of abstractive summarization models on KGs.
+ESSUM-Abstract-Summaries dataset is aimed at benchmarking the performance of abstractive summarization models on KGs.
 
-The ESSUM-Abstract-Summaries dataset is created through the following procedures:
+ESSUM-Abstract-Summaries dataset is created through the following procedures:
 
 1. **Preparation of the Dataset:**
+
    We select the entities from the ESBM-DBpedia and FACES datasets that exist in Wikipedia articles. Out of the 125 entities from ESBM-DBpedia, 110 are found in Wikipedia articles and contain at least one paragraph of information.
-3. **Retrieving Abstract-Summaries:**
+   
+2. **Retrieving Abstract-Summaries:**
+
    ESSUM-Abstract-Summaries are created by selecting sentences from Wikipedia articles that mention named entities relevant to the subject. Specifically, the first two paragraphs of the Wikipedia articles are retrieved to ensure the inclusion of relevant information. 
