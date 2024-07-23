@@ -1,0 +1,1 @@
+< pad > The population of Kotumachagi is 6895 and its type of architecture is http: / / www.dbpedia.org / class / yago / GeographicalArea108574314. The Kotumachagi is a village with a lattice of 15.54259 and its type of architecture is http: / / www.dbpedia.org / class / yago / Location10002738. < / s >

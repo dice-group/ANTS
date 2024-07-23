@@ -1,0 +1,1 @@
+< pad > The Pinnacle Mountain in South Carolina has an elevation of 1040.892 metres above sea level and is located at 1040.892 metres above sea level. It is typified as http: / / dbpedia.org / class / yago / Mountain109359803 and is of the type http: / / dbpedia.org / class / yago / GeologicalFormation109287968. < / s >

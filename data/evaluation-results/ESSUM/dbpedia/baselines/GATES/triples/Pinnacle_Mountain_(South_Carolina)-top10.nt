@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Area108497294> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/elevation> "1040.892" .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NaturalPlace> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/nationalTopographicSystemMapNumber> "USGSTable Rock" .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeologicalFormation109287968> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/mountainRange> <http://dbpedia.org/resource/Blue_Ridge_Mountains> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Location100027167> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Mountain109359803> .

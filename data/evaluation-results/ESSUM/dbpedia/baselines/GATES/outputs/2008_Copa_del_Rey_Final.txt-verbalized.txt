@@ -1,0 +1,1 @@
+< pad > The 2008 Copa del Rey Final (http: / / www.schema.org / ontology / sportsevent /) is the type of football match for the 2008 Copa del Rey Final (http: / / www.dbpedia.org / ontology / sportsEvent). The 2008 Copa del Rey Final is in the category of Valencia CF matches, and has the following details: http: / / www.dbpedia.org / ontology / FootballMatch. The < / s >

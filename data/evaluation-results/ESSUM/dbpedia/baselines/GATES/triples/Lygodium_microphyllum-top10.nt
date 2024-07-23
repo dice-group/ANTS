@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/conservationStatusSystem> "TNC" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pteridophyta_of_Australia> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Africa> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*L. scandens var. microphyllum (Cav.)Luerss.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*L. scandens (L.)Sw.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pteridophyta_of_Asia> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Lygodium> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Brunei> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pteridophyta_of_Australasia> .

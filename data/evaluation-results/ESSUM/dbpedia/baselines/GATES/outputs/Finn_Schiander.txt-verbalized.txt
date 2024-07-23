@@ -1,0 +1,1 @@
+< pad > The type of Finn Schiander is http: / / dbpedia.org / ontology / Agent and his language is http: / / dbpedia.org / class / yago / LivingThing100000419. In 1967-01-01 he passed away in his class, which is http: / / dbpedia.org / class / yago / LivingThing10000058. The type of his body is the http: / / www.wikidata.org / entity / Queendom / Q215627. < / s >

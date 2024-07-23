@@ -1,0 +1,1 @@
+< pad > The 2009-10 Swiss Cup has its time at 14: 30 CET and is typed as http: / / www.dbpedia.org / ontology / Soccertournament. It has the name of the Cup, which is http: / / www.dbpedia.org / ontology / Soccertournament. The 2009-2010 Swiss Cup has its time of 14: 00 CET and its type is http: / / www.schema.org / sportsEvent. The 2009-10 Swiss Cup has its < / s >
