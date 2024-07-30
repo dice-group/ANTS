@@ -1,0 +1,78 @@
+http://dbpedia.org/resource/Lineatriton_orchimelas	http://www.w3.org/2000/01/rdf-schema#label	Lineatriton orchimelas
+http://dbpedia.org/resource/Cindy_Mackey	http://www.w3.org/2000/01/rdf-schema#label	Cindy Mackey
+http://dbpedia.org/resource/Terrorist_Threats	http://dbpedia.org/ontology/releaseDate	2003-12-09
+http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)	http://www.w3.org/2000/01/rdf-schema#label	Pinnacle Mountain (South Carolina)
+http://dbpedia.org/resource/Richmond–Petersburg_Turnpike	http://xmlns.com/foaf/0.1/name	Richmond–Petersburg Turnpike
+http://dbpedia.org/resource/Gerbil_mouse	http://xmlns.com/foaf/0.1/name	Gerbil mouse
+http://dbpedia.org/resource/Svyatoslav_Tanasov	http://xmlns.com/foaf/0.1/givenName	Svyatoslav
+http://dbpedia.org/resource/Inverted_repeat-lacking_clade	http://dbpedia.org/ontology/synonym	*Temperate herbaceous clade
+http://dbpedia.org/resource/North_Haledon,_New_Jersey	http://dbpedia.org/ontology/areaTotal	9059778.409955328
+http://dbpedia.org/resource/Henlow	http://dbpedia.org/ontology/areaCode	01462
+http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)	http://dbpedia.org/ontology/frequencyOfPublication	Monthly
+http://dbpedia.org/resource/If_(Glasvegas_song)	http://dbpedia.org/ontology/runtime	269.0
+http://dbpedia.org/resource/Bornean_mountain_ground_squirrel	http://dbpedia.org/ontology/conservationStatus	LC
+http://dbpedia.org/resource/Burgery_ambush	http://dbpedia.org/ontology/causalties	2 dead
+http://dbpedia.org/resource/Lepiota_helveola	http://www.w3.org/2000/01/rdf-schema#label	Lepiota helveola
+http://dbpedia.org/resource/Hagar_Wilde	http://xmlns.com/foaf/0.1/givenName	Hagar
+http://dbpedia.org/resource/2011_Kor_Royal_Cup	http://www.w3.org/2000/01/rdf-schema#label	2011 Kor Royal Cup
+http://dbpedia.org/resource/Battle_of_Sampur	http://dbpedia.org/ontology/result	Sri Lankan Army victory
+http://dbpedia.org/resource/Darreh_Dang	http://xmlns.com/foaf/0.1/name	دره دنگ
+http://dbpedia.org/resource/Hagar_Wilde	http://dbpedia.org/ontology/imdbId	0928444
+http://dbpedia.org/resource/Battle_of_Cepeda_(1820)	http://www.w3.org/2000/01/rdf-schema#label	Battle of Cepeda (1820)
+http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me	http://dbpedia.org/ontology/certification	Platinum (RIAA)
+http://dbpedia.org/resource/Ashot_I_of_Iberia	http://dbpedia.org/ontology/activeYearsEndYear	0830-01-01
+http://dbpedia.org/resource/Can_U_Get_wit_It	http://www.w3.org/2000/01/rdf-schema#label	Can U Get wit It
+http://dbpedia.org/resource/Andrew_Kippis	http://purl.org/dc/elements/1.1/description	British minister
+http://dbpedia.org/resource/Muławki	http://www.w3.org/2003/01/geo/wgs84_pos#lat	54.051945
+http://dbpedia.org/resource/Uelsby	http://dbpedia.org/ontology/areaTotal	10600000.0
+http://dbpedia.org/resource/Battle_of_Sampur	http://dbpedia.org/ontology/date	2006-08-28
+http://dbpedia.org/resource/Saint-Raphaël,_Var	http://dbpedia.org/ontology/postalCode	83700 and 83530
+http://dbpedia.org/resource/2012–13_UEFA_Champions_League	http://xmlns.com/foaf/0.1/name	UEFA Champions League
+http://dbpedia.org/resource/Adrian_Griffin	http://dbpedia.org/ontology/activeYearsStartYear	1996-01-01
+http://dbpedia.org/resource/Wernshausen	http://dbpedia.org/ontology/elevation	257.0
+http://dbpedia.org/resource/Kaalpurush	http://www.w3.org/2000/01/rdf-schema#label	Kaalpurush
+http://dbpedia.org/resource/Roque_Ceruti	http://dbpedia.org/ontology/deathYear	1760-01-01
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/2003/01/geo/wgs84_pos#lat	45.9213
+http://dbpedia.org/resource/Can_U_Get_wit_It	http://dbpedia.org/ontology/releaseDate	1994-07-01
+http://dbpedia.org/resource/Zarudcze	http://www.w3.org/2000/01/rdf-schema#label	Zarudcze
+http://dbpedia.org/resource/If_(Glasvegas_song)	http://www.w3.org/2000/01/rdf-schema#label	If (Glasvegas song)
+http://dbpedia.org/resource/North_Haledon,_New_Jersey	http://dbpedia.org/ontology/areaLand	8945818.933100544
+http://dbpedia.org/resource/2013_Gulf_Cup_of_Nations	http://xmlns.com/foaf/0.1/name	Gulf Cup of Nations
+http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal	http://dbpedia.org/ontology/time	18:35
+http://dbpedia.org/resource/Tchonoro	http://xmlns.com/foaf/0.1/name	Tchonoro
+http://dbpedia.org/resource/Enallagma_truncatum	http://www.w3.org/2000/01/rdf-schema#label	Enallagma truncatum
+http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)	http://dbpedia.org/ontology/issn	0342-4642
+http://dbpedia.org/resource/Sting_Me	http://dbpedia.org/ontology/runtime	279.0
+http://dbpedia.org/resource/Time_(Dave_Clark_album)	http://www.w3.org/2000/01/rdf-schema#label	Time (Dave Clark album)
+http://dbpedia.org/resource/Battle_of_Cepeda_(1820)	http://xmlns.com/foaf/0.1/name	Battle of Cepeda
+http://dbpedia.org/resource/Hiroshi_Mori_(writer)	http://purl.org/dc/elements/1.1/description	Japanese writer
+http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros	http://www.w3.org/2000/01/rdf-schema#label	Eastern Sumatran rhinoceros
+http://dbpedia.org/resource/Juhan_Muks	http://www.w3.org/2000/01/rdf-schema#label	Juhan Muks
+http://dbpedia.org/resource/Roderick_Carr	http://xmlns.com/foaf/0.1/name	Sir Charles Roderick Carr
+http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final	http://dbpedia.org/ontology/date	2011-09-24
+http://dbpedia.org/resource/King_of_the_Mountain_(film)	http://dbpedia.org/ontology/gross	2100000.0
+http://dbpedia.org/resource/Cindy_Mackey	http://purl.org/dc/elements/1.1/description	Professional golfer
+http://dbpedia.org/resource/1960_Glover_Trophy	http://xmlns.com/foaf/0.1/name	VIIIGlover Trophy
+http://dbpedia.org/resource/Juhan_Muks	http://purl.org/dc/elements/1.1/description	Estonian artist
+http://dbpedia.org/resource/Anthony_Beaumont-Dark	http://dbpedia.org/ontology/birthDate	1932-10-11
+http://dbpedia.org/resource/2011_Kor_Royal_Cup	http://xmlns.com/foaf/0.1/name	2011 Kor Royal Cup
+http://dbpedia.org/resource/Roderick_Carr	http://dbpedia.org/ontology/militaryCommand	Commander in Chief, Air Headquarters India
+http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)	http://xmlns.com/foaf/0.1/name	Hey Boy
+http://dbpedia.org/resource/Lygodium_microphyllum	http://dbpedia.org/ontology/synonym	*L. scandens var. intermedium (Ces.)
+http://dbpedia.org/resource/2013_Gulf_Cup_of_Nations	http://dbpedia.org/ontology/time	19:15
+http://dbpedia.org/resource/Stara_Bučka	http://dbpedia.org/ontology/elevation	262.2
+http://dbpedia.org/resource/Uelsby	http://www.w3.org/2000/01/rdf-schema#label	Uelsby
+http://dbpedia.org/resource/Finn_Schiander	http://dbpedia.org/ontology/deathDate	1967-01-01
+http://dbpedia.org/resource/Siamese_mud_carp	http://dbpedia.org/ontology/conservationStatusSystem	iucn3.1
+http://dbpedia.org/resource/Juhan_Muks	http://xmlns.com/foaf/0.1/givenName	Juhan
+http://dbpedia.org/resource/Momchil_Tsvetanov	http://dbpedia.org/ontology/number	7
+http://dbpedia.org/resource/Touch_of_Death_(1961_film)	http://xmlns.com/foaf/0.1/name	Touch of Death
+http://dbpedia.org/resource/Najmadin_Shukr_Rauf	http://xmlns.com/foaf/0.1/name	Rauf, Najmadin Shukr
+http://dbpedia.org/resource/Stemonoporus_laevifolius	http://dbpedia.org/ontology/conservationStatus	EN
+http://dbpedia.org/resource/Stara_Bučka	http://xmlns.com/foaf/0.1/name	Stara Bučka
+http://dbpedia.org/resource/Lygodium_microphyllum	http://dbpedia.org/ontology/conservationStatus	G5
+http://dbpedia.org/resource/Stemonoporus_laevifolius	http://dbpedia.org/ontology/conservationStatusSystem	IUCN2.3
+http://dbpedia.org/resource/Battle_of_Cepeda_(1820)	http://dbpedia.org/ontology/result	Federalistvictory
+http://dbpedia.org/resource/Hiroshi_Mori_(writer)	http://xmlns.com/foaf/0.1/homepage	http://www001.upp.so-net.ne.jp/mori/index.html
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://xmlns.com/foaf/0.1/homepage	http://www.lucywardsings.com/
+http://dbpedia.org/resource/The_Honolulu_Advertiser	http://xmlns.com/foaf/0.1/homepage	http://www.honoluluadvertiser.com
