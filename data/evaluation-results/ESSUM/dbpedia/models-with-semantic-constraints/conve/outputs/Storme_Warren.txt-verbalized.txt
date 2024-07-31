@@ -1,0 +1,1 @@
+< pad > The type of storme warren is http: / / www.wikidata.org / entity / q215627. It has the following details: http: / / www.w3.org / 2002 / 07 / owl # thing, its size is object1000002684, it is a living people category and its location is XMLNs.com / foaf / 0.1 / person. < / s >

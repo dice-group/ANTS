@@ -1,0 +1,1 @@
+< pad > The juhan muks are typed as http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # naturalperson. They are type of http: / / www.wikidata.org / entity / q5 and are http: / / www.wikidata.org / entity / q5. The juhan muks have been championindie by yagolegalactor and causalagent1000007347. < / s >

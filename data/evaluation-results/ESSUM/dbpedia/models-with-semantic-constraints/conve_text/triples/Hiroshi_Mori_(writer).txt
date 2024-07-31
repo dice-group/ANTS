@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/ellery_queen
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1957_births
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactorgeo
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q215627
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684

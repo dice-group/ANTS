@@ -1,0 +1,16 @@
+http://dbpedia.org/resource/momchil_tsvetanov	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/momchil_tsvetanov	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/momchil_tsvetanov	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:pfc_botev_plovdiv_players
+http://dbpedia.org/resource/momchil_tsvetanov	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:bulgarian_footballers
+http://dbpedia.org/resource/momchil_tsvetanov	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:association_football_midfielders
+http://dbpedia.org/resource/momchil_tsvetanov	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/momchil_tsvetanov	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:pfc_litex_lovech_players
+http://dbpedia.org/resource/momchil_tsvetanov	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/momchil_tsvetanov__7
+http://dbpedia.org/resource/momchil_tsvetanov	http://dbpedia.org/ontology/position	http://dbpedia.org/resource/midfielder
+http://dbpedia.org/resource/momchil_tsvetanov	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/whole100003553
+http://dbpedia.org/resource/momchil_tsvetanov	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/momchil_tsvetanov__3
+http://dbpedia.org/resource/momchil_tsvetanov	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/momchil_tsvetanov__2
+http://dbpedia.org/resource/momchil_tsvetanov	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/momchil_tsvetanov__4
+http://dbpedia.org/resource/momchil_tsvetanov	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1990_births
+http://dbpedia.org/resource/momchil_tsvetanov	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/momchil_tsvetanov__6
+http://dbpedia.org/resource/momchil_tsvetanov	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#agent

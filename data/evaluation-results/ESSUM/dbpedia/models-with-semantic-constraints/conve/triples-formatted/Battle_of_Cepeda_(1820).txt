@@ -1,0 +1,1 @@
+ <H> battle_of_cepeda_(1820) <R> type <T> http://schema.org/event <H> battle_of_cepeda_(1820) <R> type <T> event <H> battle_of_cepeda_(1820) <R> type <T> societalevent

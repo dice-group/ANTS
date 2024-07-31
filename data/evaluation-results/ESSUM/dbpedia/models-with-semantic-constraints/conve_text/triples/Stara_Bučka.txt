@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/stara_bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/region108630985
+http://dbpedia.org/resource/stara_bučka	http://dbpedia.org/ontology/ispartof	http://dbpedia.org/resource/southeast_slovenia_statistical_region
+http://dbpedia.org/resource/stara_bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/stara_bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
+http://dbpedia.org/resource/stara_bučka	http://dbpedia.org/ontology/ispartof	http://dbpedia.org/resource/lower_carniola
+http://dbpedia.org/resource/stara_bučka	http://dbpedia.org/ontology/ispartof	http://dbpedia.org/resource/municipality_of_škocjan
+http://dbpedia.org/resource/stara_bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/stara_bučka	http://dbpedia.org/ontology/locatedinarea	http://schema.org/place
+http://dbpedia.org/resource/stara_bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/geographicalarea108574314

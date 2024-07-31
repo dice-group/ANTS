@@ -1,0 +1,1 @@
+< pad > hiroshi mori is a type of writer that is found at http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # naturalperson. It is a type of physicalentity100001930, an object1000002684 and an article of faith in http: / / www.wikidata.org / entity / q215627. < / s >

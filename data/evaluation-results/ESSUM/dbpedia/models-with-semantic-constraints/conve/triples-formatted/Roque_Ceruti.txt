@@ -1,0 +1,1 @@
+ <H> roque_ceruti <R> type <T> http://xmlns.com/foaf/0.1/person <H> roque_ceruti <R> subject <T> tulsa,_oklahoma <H> roque_ceruti <R> type <T> http://schema.org/person <H> roque_ceruti <R> type <T> http://www.wikidata.org/entity/q215627 <H> roque_ceruti <R> type <T> http://www.wikidata.org/entity/q5 <H> roque_ceruti <R> type <T> person

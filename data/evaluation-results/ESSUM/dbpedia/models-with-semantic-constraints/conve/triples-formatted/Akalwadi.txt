@@ -1,0 +1,1 @@
+ <H> akalwadi <R> type <T> http://www.wikidata.org/entity/q486972 <H> akalwadi <R> type <T> region108630985 <H> akalwadi <R> type <T> http://www.w3.org/2002/07/owl#thing <H> akalwadi <R> kingdom <T> animal <H> akalwadi <R> type <T> location <H> akalwadi <R> type <T> populatedplace <H> akalwadi <R> type <T> village

@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/finn_schiander	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:saints_of_georgia_(country)
+http://dbpedia.org/resource/finn_schiander	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
+http://dbpedia.org/resource/finn_schiander	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:9th-century_christian_martyrs
+http://dbpedia.org/resource/finn_schiander	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:monarchs_of_georgia_(country)
+http://dbpedia.org/resource/finn_schiander	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/finn_schiander	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:9th-century_christian_saints
+http://dbpedia.org/resource/finn_schiander	http://dbpedia.org/ontology/championindoublemale	http://dbpedia.org/class/yago/worker109632518
+http://dbpedia.org/resource/finn_schiander	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactor
+http://dbpedia.org/resource/finn_schiander	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/finn_schiander	http://dbpedia.org/ontology/championindoublemale	http://dbpedia.org/class/yago/causalagent100007347
+http://dbpedia.org/resource/finn_schiander	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q215627
+http://dbpedia.org/resource/finn_schiander	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:bagrationi_dynasty_of_tao-klarjeti

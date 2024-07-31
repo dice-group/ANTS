@@ -1,0 +1,1 @@
+< pad > Hagar Wilde is a type of person who is http: / / www.wikidata.org / entity / q5 and is http: / / www.wikidata.org / entity / q215627. He is a type of person who is http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # naturalperson and has the LCCNs.com / foaf / 0.1 / person. < / s >

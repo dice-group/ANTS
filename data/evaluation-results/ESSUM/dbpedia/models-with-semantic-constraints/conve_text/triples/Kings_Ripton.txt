@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/ontology/distributor	http://commons.wikimedia.org/wiki/special:filepath/st_peter's,_kings_ripton_-_geograph.org.uk_-_839692.jpg
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_kingdom
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactorgeo
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place

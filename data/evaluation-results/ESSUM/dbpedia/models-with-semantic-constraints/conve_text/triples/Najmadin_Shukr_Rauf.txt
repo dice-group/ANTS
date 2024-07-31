@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1985_deaths
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_kirkuk_province
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:iraqi_kurdish_people
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactorgeo
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:kurdish_guerrillas
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1957_births
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/organism100004475
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/ba'athist_iraq

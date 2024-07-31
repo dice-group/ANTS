@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:orange_county_blues_fc_players
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q215627
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_expatriate_soccer_players
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:premier_development_league_players
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:atlanta_silverbacks_players
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:north_american_soccer_league_players

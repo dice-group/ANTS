@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/resource/schmalkalden-meiningen
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/wernshausen	http://xmlns.com/foaf/0.1/depiction	http://commons.wikimedia.org/wiki/special:filepath/wappen_wernshausen.png
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement

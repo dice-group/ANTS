@@ -1,0 +1,1 @@
+ <H> hey_boy_(teddybears_song) <R> type <T> http://www.wikidata.org/entity/q386724 <H> hey_boy_(teddybears_song) <R> type <T> http://schema.org/creativework <H> hey_boy_(teddybears_song) <R> type <T> http://www.w3.org/2002/07/owl#thing <H> hey_boy_(teddybears_song) <R> type <T> work <H> hey_boy_(teddybears_song) <R> type <T> musicalwork

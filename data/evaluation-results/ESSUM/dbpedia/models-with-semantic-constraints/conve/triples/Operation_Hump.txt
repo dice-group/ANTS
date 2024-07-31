@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/psychologicalfeature100023100
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/massacre_on_34th_street
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/event100029378
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/abstraction100002137
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/act100030358

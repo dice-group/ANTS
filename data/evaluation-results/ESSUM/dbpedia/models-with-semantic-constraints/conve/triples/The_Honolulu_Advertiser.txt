@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/the_honolulu_advertiser	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/product104007894
+http://dbpedia.org/resource/the_honolulu_advertiser	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/the_honolulu_advertiser	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/press106263369
+http://dbpedia.org/resource/the_honolulu_advertiser	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:danish-language_newspapers
+http://dbpedia.org/resource/the_honolulu_advertiser	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:media_in_copenhagen
+http://dbpedia.org/resource/the_honolulu_advertiser	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q11032
+http://dbpedia.org/resource/the_honolulu_advertiser	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/periodicalliterature
+http://dbpedia.org/resource/the_honolulu_advertiser	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:publications_established_in_1884
+http://dbpedia.org/resource/the_honolulu_advertiser	http://dbpedia.org/ontology/headquarter	http://dbpedia.org/resource/hawaii
+http://dbpedia.org/resource/the_honolulu_advertiser	http://dbpedia.org/ontology/headquarter	http://dbpedia.org/resource/honolulu
+http://dbpedia.org/resource/the_honolulu_advertiser	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/simon_(2004_film)
+http://dbpedia.org/resource/the_honolulu_advertiser	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1884_establishments_in_denmark

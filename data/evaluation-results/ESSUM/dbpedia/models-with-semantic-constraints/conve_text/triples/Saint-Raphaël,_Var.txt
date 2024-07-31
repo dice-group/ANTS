@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/ontology/department	http://dbpedia.org/resource/var_(department)
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/ontology/network	http://dbpedia.org/resource/france
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#spatialthing
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/e._k._mawlong	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/e._k._mawlong	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:chief_ministers_of_meghalaya
+http://dbpedia.org/resource/e._k._mawlong	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/e._k._mawlong	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_east_khasi_hills_district
+http://dbpedia.org/resource/e._k._mawlong	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/e._k._mawlong	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/livingthing100004258
+http://dbpedia.org/resource/e._k._mawlong	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1946_births
+http://dbpedia.org/resource/e._k._mawlong	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/e._k._mawlong	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_shillong
+http://dbpedia.org/resource/e._k._mawlong	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2008_deaths

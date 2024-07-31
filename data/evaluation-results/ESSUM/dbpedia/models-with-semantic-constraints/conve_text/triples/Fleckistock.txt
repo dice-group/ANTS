@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:alpine_three-thousanders
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/resource/salbitschijen
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/mountain109359803
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/resource/stucklistock
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/ontology/species	http://dbpedia.org/resource/sagami_railway_izumino_line
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/ontology/department	http://dbpedia.org/resource/india
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:hills_of_brandenburg
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mountains_of_the_alps
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/naturalelevation109366317

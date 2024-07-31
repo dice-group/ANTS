@@ -1,0 +1,1 @@
+< pad > The muwki is located in Indiana, at the location of http: / / www.wikidata.org / q486972. It has an object1000002684, a physicalentity100001930, and an address of http: / / www.w3.org / 2002 / 07 / owl # thing. < / s >

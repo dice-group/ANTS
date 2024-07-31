@@ -1,0 +1,17 @@
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/adrian_griffin__8
+http://dbpedia.org/resource/adrian_griffin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#agent
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/ontology/ispartof	http://commons.wikimedia.org/wiki/special:filepath/adrian_griffin.jpg?width=300
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:small_forwards
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/adrian_griffin__3
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/seton_hall_pirates_men's_basketball
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/adrian_griffin__5
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/adrian_griffin__4
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:undrafted_national_basketball_association_players
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:sportspeople_from_wichita,_kansas
+http://dbpedia.org/resource/adrian_griffin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/adrian_griffin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/livingpeople
+http://dbpedia.org/resource/adrian_griffin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/adrian_griffin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/adrian_griffin__10
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:african-american_basketball_coaches

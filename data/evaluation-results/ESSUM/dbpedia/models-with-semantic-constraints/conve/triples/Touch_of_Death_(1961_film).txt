@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_kingdom
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing

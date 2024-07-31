@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english-language_films
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_comedy_films
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1930s_comedy_films
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/gerard_carbonara
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_films
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/film
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:paramount_pictures_films

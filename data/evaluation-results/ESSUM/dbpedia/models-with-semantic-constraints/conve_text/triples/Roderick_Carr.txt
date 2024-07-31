@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_naval_air_service_aviators
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/feilding
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:new_zealand_air_marshals
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_feilding
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:explorers_of_antarctica
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/livingthing100004258
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:new_zealand_recipients_of_the_légion_d'honneur
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/currentmember	http://commons.wikimedia.org/wiki/special:filepath/air_mshl_sir_roderick_carr.jpg
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/physicalentity100001930
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/agent
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q215627

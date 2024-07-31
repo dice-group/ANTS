@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
+http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/ayrovo	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:villages_in_kardzhali_province
+http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity

@@ -1,0 +1,16 @@
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/ontology/termperiod	http://commons.wikimedia.org/wiki/special:filepath/andrew_scott_sloan_(wisconsin_congressman).jpg?width=300
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/pe_maung_tin
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/beaver_dam,_wisconsin
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/amasa_cobb
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:members_of_the_united_states_house_of_representatives_from_wisconsin
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:wisconsin_attorneys_general
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1895_deaths
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactor
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q215627
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mayors_of_places_in_wisconsin
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/secretary_of_state_for_transport
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:wisconsin_lawyers
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/ontology/broadcastarea	http://dbpedia.org/resource/republican_party_(united_states)

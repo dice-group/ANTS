@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:knights_bachelor
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/ontology/distributor	http://commons.wikimedia.org/wiki/special:filepath/st_peter's,_kings_ripton_-_geograph.org.uk_-_839692.jpg
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/ontology/category	http://dbpedia.org/ontology/agent
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactorgeo
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:members_of_the_parliament_of_the_united_kingdom_for_english_constituencies
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uk_mps_1983–87
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#agent
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_birmingham,_west_midlands
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/svyatoslav_tanasov__2
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2006_deaths

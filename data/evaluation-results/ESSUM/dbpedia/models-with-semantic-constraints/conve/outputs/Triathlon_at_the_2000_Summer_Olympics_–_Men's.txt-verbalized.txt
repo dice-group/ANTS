@@ -1,0 +1,1 @@
+< pad > The triathlon at the 2000 summer olympics is a type of societalevent. It is held in the event and has the following details: http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # event. The event is a one-off, bi-annual event and the participants are given the event type of schema.org / event. < / s >

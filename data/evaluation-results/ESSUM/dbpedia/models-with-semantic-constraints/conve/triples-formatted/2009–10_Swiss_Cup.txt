@@ -1,0 +1,1 @@
+ <H> 2009–10_swiss_cup <R> type <T> http://www.wikidata.org/entity/q1656682 <H> 2009–10_swiss_cup <R> type <T> societalevent <H> 2009–10_swiss_cup <R> type <T> http://www.w3.org/2002/07/owl#thing <H> 2009–10_swiss_cup <R> type <T> event <H> 2009–10_swiss_cup <R> type <T> http://schema.org/event

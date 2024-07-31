@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:orange_county_blues_fc_players
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:north_american_soccer_league_players
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q215627
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/defender_(association_football)
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:premier_development_league_players
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/athlete
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:atlanta_silverbacks_players
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_expatriate_soccer_players

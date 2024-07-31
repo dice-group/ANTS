@@ -1,0 +1,1 @@
+ <H> hiroshi_mori_(writer) <R> type <T> http://www.wikidata.org/entity/q215627 <H> hiroshi_mori_(writer) <R> type <T> http://www.w3.org/2002/07/owl#thing <H> hiroshi_mori_(writer) <R> type <T> physicalentity100001930 <H> hiroshi_mori_(writer) <R> type <T> object100002684 <H> hiroshi_mori_(writer) <R> type <T> http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson

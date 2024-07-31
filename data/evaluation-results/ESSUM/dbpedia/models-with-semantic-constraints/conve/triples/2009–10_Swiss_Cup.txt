@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/2009–10_swiss_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q1656682
+http://dbpedia.org/resource/2009–10_swiss_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/2009–10_swiss_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/2009–10_swiss_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/2009–10_swiss_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event

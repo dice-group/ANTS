@@ -1,0 +1,1 @@
+ <H> ovophis <R> type <T> http://www.wikidata.org/entity/q19088 <H> ovophis <R> type <T> animal <H> ovophis <R> class <T> reptile <H> ovophis <R> type <T> species <H> ovophis <R> phylum <T> chordate <H> ovophis <R> type <T> http://www.w3.org/2002/07/owl#thing <H> ovophis <R> type <T> eukaryote <H> ovophis <R> kingdom <T> animal

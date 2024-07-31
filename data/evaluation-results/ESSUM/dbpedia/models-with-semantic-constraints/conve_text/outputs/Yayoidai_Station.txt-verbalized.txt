@@ -1,0 +1,1 @@
+< pad > Yayoidai station is located in the city of Bath, which is on the south west of the Sagami railway izumino line. The station has a type of yagogeoentity and is located at http: / / schema.org / place. It serves the yayoidai station which has the type of http: / / www.schema.org / place and the serving line is the sagami railway izumino line. < / s >

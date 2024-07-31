@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/athlete
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#agent
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/bronzemedalist	http://dbpedia.org/resource/fabrice_gautrat__4
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/bronzemedalist	http://dbpedia.org/resource/fabrice_gautrat__1
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_expatriate_soccer_players

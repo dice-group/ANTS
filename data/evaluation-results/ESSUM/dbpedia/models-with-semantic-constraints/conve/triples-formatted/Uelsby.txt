@@ -1,0 +1,1 @@
+ <H> uelsby <R> subject <T> category:populated_places_in_aligudarz_county <H> uelsby <R> type <T> physicalentity100001930 <H> uelsby <R> subject <T> category:populated_places_in_abbottabad_district <H> uelsby <R> type <T> object100002684 <H> uelsby <R> type <T> yagolegalactorgeo <H> uelsby <R> type <T> location100027167 <H> uelsby <R> type <T> http://www.w3.org/2002/07/owl#thing

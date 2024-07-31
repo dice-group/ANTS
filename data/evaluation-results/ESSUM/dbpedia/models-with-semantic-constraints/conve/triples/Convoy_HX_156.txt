@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/arthropod
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event

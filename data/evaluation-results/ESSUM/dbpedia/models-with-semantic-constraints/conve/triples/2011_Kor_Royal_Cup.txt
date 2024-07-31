@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/pancho_villa
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/2011_kor_royal_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:kor_royal_cup_seasons
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/luís_medina_barrón
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent

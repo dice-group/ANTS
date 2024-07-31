@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/sauxillanges	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/finn_schiander
+http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#spatialthing
+http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/physicalentity100001930
+http://dbpedia.org/resource/sauxillanges	http://dbpedia.org/ontology/sisternewspaper	http://dbpedia.org/resource/puy-de-dôme
