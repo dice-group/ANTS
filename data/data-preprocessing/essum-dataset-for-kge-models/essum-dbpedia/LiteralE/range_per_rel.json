@@ -1,0 +1,488 @@
+{
+    "http://dbpedia.org/ontology/battle": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/ontology/fastestDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/fastestDriverTeam": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/firstDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/location": [
+        "Stadium",
+        "Person",
+        "Building",
+        "Infrastructure",
+        "ArchitecturalStructure",
+        "Place",
+        "Single"
+    ],
+    "http://dbpedia.org/ontology/secondDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/secondTeam": [
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/thirdDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/thirdTeam": [
+        "Company",
+        "Agent"
+    ],
+    "http://purl.org/dc/terms/subject": [
+        "Category"
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        "SocietalEvent",
+        "FootballMatch",
+        "Animal",
+        "Mammal",
+        "Congressman",
+        "BaseballPlayer",
+        "WrittenWork",
+        "EducationalInstitution",
+        "Olympics",
+        "RailwayStation",
+        "Species",
+        "Bird",
+        "Fungus",
+        "ScreenWriter",
+        "RouteOfTransportation",
+        "GrandPrix",
+        "BasketballPlayer",
+        "Cartoon",
+        "Writer",
+        "Tournament",
+        "Work",
+        "Plant",
+        "Wikidata:Q11424",
+        "Person",
+        "MilitaryPerson",
+        "SportsEvent",
+        "RadioStation",
+        "Royalty",
+        "ArchitecturalStructure",
+        "Organisation",
+        "Album",
+        "SoccerPlayer",
+        "PeriodicalLiterature",
+        "Amphibian",
+        "TennisTournament",
+        "Crustacean",
+        "AcademicJournal",
+        "Athlete",
+        "WrestlingEvent",
+        "Village",
+        "Fish",
+        "MusicalWork",
+        "Unknown",
+        "Place",
+        "Agent",
+        "Eukaryote",
+        "Settlement",
+        "MilitaryConflict",
+        "Politician",
+        "GolfPlayer",
+        "Event",
+        "Insect",
+        "Film",
+        "MusicalArtist",
+        "University",
+        "Newspaper",
+        "OlympicEvent",
+        "NaturalPlace",
+        "Reptile",
+        "Mountain",
+        "HistoricPlace",
+        "PopulatedPlace",
+        "Single",
+        "TelevisionShow",
+        "SoccerTournament",
+        "Location"
+    ],
+    "http://dbpedia.org/ontology/country": [
+        "Country",
+        "Person",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/firstDriverTeam": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/poleDriver": [
+        "Person"
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        "GeographicalFeature",
+        "Image",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/followingEvent": [
+        "WrestlingEvent",
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/ontology/previousEvent": [
+        "WrestlingEvent",
+        "SocietalEvent"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+        "Unknown",
+        "SocietalEvent",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/city": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/team": [
+        "EducationalInstitution",
+        "SportsTeam",
+        "SoccerClub",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/category": [
+        "TelevisionShow"
+    ],
+    "http://dbpedia.org/ontology/championInDoubleMale": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/championInSingleMale": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/currentMember": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/genre": [
+        "Single",
+        "Genre",
+        "MusicGenre",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/previousWork": [
+        "Single",
+        "Work",
+        "Unknown",
+        "Album"
+    ],
+    "http://dbpedia.org/ontology/recordLabel": [
+        "RecordLabel",
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/subsequentWork": [
+        "Work",
+        "Album"
+    ],
+    "http://dbpedia.org/ontology/broadcastArea": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/programmeFormat": [
+        "Organisation"
+    ],
+    "http://dbpedia.org/ontology/birthPlace": [
+        "Person",
+        "PopulatedPlace",
+        "Unknown",
+        "Place",
+        "Settlement"
+    ],
+    "http://dbpedia.org/ontology/deathPlace": [
+        "Place",
+        "Settlement"
+    ],
+    "http://dbpedia.org/ontology/party": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/successor": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        "Image",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/artist": [
+        "Person",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/college": [
+        "EducationalInstitution",
+        "Organisation"
+    ],
+    "http://dbpedia.org/ontology/league": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/termPeriod": [
+        "TimePeriod"
+    ],
+    "http://dbpedia.org/ontology/class": [
+        "Animal",
+        "Plant",
+        "Unknown",
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/family": [
+        "Band",
+        "Plant",
+        "Animal",
+        "Unknown",
+        "Insect"
+    ],
+    "http://dbpedia.org/ontology/genus": [
+        "Animal",
+        "Plant",
+        "Person",
+        "Fish",
+        "Unknown",
+        "Amphibian",
+        "Insect"
+    ],
+    "http://dbpedia.org/ontology/order": [
+        "Band",
+        "Mammal",
+        "Unknown",
+        "Eukaryote",
+        "Reptile"
+    ],
+    "http://dbpedia.org/ontology/phylum": [
+        "Animal"
+    ],
+    "http://dbpedia.org/ontology/isPartOf": [
+        "PopulatedPlace",
+        "Unknown",
+        "Place",
+        "Settlement"
+    ],
+    "http://dbpedia.org/ontology/timeZone": [
+        "Settlement",
+        "Unknown",
+        "Galaxy",
+        "SportsEvent"
+    ],
+    "http://dbpedia.org/ontology/type": [
+        "MusicGenre",
+        "Unknown",
+        "Settlement"
+    ],
+    "http://dbpedia.org/ontology/binomialAuthority": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/kingdom": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/predecessor": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/division": [
+        "Animal",
+        "Plant",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/commander": [
+        "Person",
+        "MilitaryPerson"
+    ],
+    "http://dbpedia.org/ontology/isPartOfMilitaryConflict": [
+        "MilitaryPerson",
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/ontology/place": [
+        "City",
+        "Person",
+        "Place"
+    ],
+    "http://www.w3.org/2002/07/owl#differentFrom": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/ontology/associatedBand": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/associatedMusicalArtist": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/album": [
+        "Work",
+        "Album"
+    ],
+    "http://dbpedia.org/ontology/format": [
+        "Software",
+        "RecordLabel",
+        "Unknown",
+        "University"
+    ],
+    "http://dbpedia.org/ontology/musicalArtist": [
+        "Person",
+        "Agent",
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/musicalBand": [
+        "Person",
+        "Agent",
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/producer": [
+        "MusicalArtist",
+        "Person",
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/writer": [
+        "Person",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/position": [
+        "Athlete",
+        "RugbyPlayer",
+        "BaseballPlayer"
+    ],
+    "http://dbpedia.org/ontology/language": [
+        "Band",
+        "Language"
+    ],
+    "http://dbpedia.org/ontology/network": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/starring": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/species": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/careerStation": [
+        "CareerStation"
+    ],
+    "http://dbpedia.org/ontology/basedOn": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/locatedInArea": [
+        "Person",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/mountainRange": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/parentMountainPeak": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/lastRace": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/ontology/translator": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/ceremonialCounty": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/award": [
+        "Unknown",
+        "Award"
+    ],
+    "http://dbpedia.org/ontology/influencedBy": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/nationality": [
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/notableWork": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/academicDiscipline": [
+        "MedicalSpecialty"
+    ],
+    "http://dbpedia.org/ontology/publisher": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/director": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/musicComposer": [
+        "MusicalArtist",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/editing": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/district": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/instrument": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/promotion": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/residence": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/governmentType": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/cinematography": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/distributor": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/almaMater": [
+        "University",
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/occupation": [
+        "Person",
+        "Unknown",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/ontology/religion": [
+        "Food"
+    ],
+    "http://dbpedia.org/ontology/stateOfOrigin": [
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/notableCommander": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/headquarter": [
+        "MusicalArtist",
+        "Person",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/department": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/region": [
+        "AdministrativeRegion"
+    ],
+    "http://dbpedia.org/ontology/author": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/relative": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/series": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/owner": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/bronzeMedalist": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/goldMedalist": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/recordedIn": [
+        "PopulatedPlace",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/operatedBy": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/servingRailwayLine": [
+        "RailwayLine"
+    ]
+}

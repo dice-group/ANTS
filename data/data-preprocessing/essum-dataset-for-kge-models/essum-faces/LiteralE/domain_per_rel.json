@@ -1,0 +1,1037 @@
+{
+    "http://dbpedia.org/ontology/artist": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/genre": [
+        "Work",
+        "Software"
+    ],
+    "http://dbpedia.org/ontology/producer": [
+        "Work",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/recordLabel": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/subsequentWork": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/thumbnail": [
+        "EducationalInstitution",
+        "Work",
+        "Person",
+        "Agent",
+        "Company",
+        "GeographicalFeature",
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/type": [
+        "Work",
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/writer": [
+        "Work",
+        "Person",
+        "Software"
+    ],
+    "http://dbpedia.org/property/album": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/artist": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/format": [
+        "Work",
+        "MusicalArtist"
+    ],
+    "http://dbpedia.org/property/genre": [
+        "Work",
+        "Software"
+    ],
+    "http://dbpedia.org/property/hasPhotoCollection": [
+        "EducationalInstitution",
+        "Work",
+        "Person",
+        "Agent",
+        "Software",
+        "Company",
+        "GeographicalFeature",
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/label": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/producer": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/type": [
+        "Work",
+        "EducationalInstitution",
+        "Company"
+    ],
+    "http://dbpedia.org/property/writer": [
+        "Work",
+        "Person"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+        "Work",
+        "Person",
+        "Agent",
+        "Company",
+        "Software",
+        "Place"
+    ],
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf": [
+        "EducationalInstitution",
+        "Work",
+        "Person",
+        "Agent",
+        "Software",
+        "Company",
+        "GeographicalFeature",
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/director": [
+        "Work",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/distributor": [
+        "Work",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/musicComposer": [
+        "Work",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/narrator": [
+        "Work",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/starring": [
+        "Work",
+        "Person"
+    ],
+    "http://dbpedia.org/property/director": [
+        "Work",
+        "Person"
+    ],
+    "http://dbpedia.org/property/music": [
+        "Work",
+        "Person"
+    ],
+    "http://dbpedia.org/property/narrator": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/starring": [
+        "Work",
+        "Person"
+    ],
+    "http://dbpedia.org/property/studio": [
+        "Work",
+        "Person"
+    ],
+    "http://dbpedia.org/property/title": [
+        "Person"
+    ],
+    "http://xmlns.com/foaf/0.1/depiction": [
+        "EducationalInstitution",
+        "Work",
+        "Person",
+        "Software",
+        "Company",
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/award": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/birthPlace": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/deathPlace": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/doctoralAdvisor": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/doctoralStudent": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/field": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/knownFor": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/almaMater": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/doctoralAdvisor": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/doctoralStudents": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/field": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/knownFor": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/prizes": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/thesisUrl": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/workInstitutions": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/academicAdvisor": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/residence": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/academicAdvisors": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/birthPlace": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/children": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/fields": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/placeOfBirth": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/placeOfDeath": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/shortDescription": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/country": [
+        "EducationalInstitution",
+        "Work",
+        "Person",
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/leaderName": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/timeZone": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/leaderName": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/leaderParty": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/leaderTitle": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/link": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/motto": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/parts": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/partsType": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/populationBlank1Title": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/region": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/stateParty": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/subdivisionName": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/subdivisionType": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/url": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/governmentType": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/isPartOf": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/blankName": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/governmentType": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/north": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/northwest": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/south": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/southeast": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/southwest": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/timezone": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/timezoneDst": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/west": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/cinematography": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/editing": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/cinematography": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/distributor": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/editing": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/almaMater": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/child": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/party": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/profession": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/region": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/religion": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/spouse": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/successor": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/termPeriod": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/vicePresident": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/data": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/office": [
+        "Person",
+        "Place"
+    ],
+    "http://dbpedia.org/property/party": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/predecessor": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/profession": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/religion": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/residence": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/spouse": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/state": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/creator": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/executiveProducer": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/format": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/location": [
+        "Work",
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/network": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/audioFormat": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/creator": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/executiveProducer": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/location": [
+        "Work",
+        "Company"
+    ],
+    "http://dbpedia.org/property/network": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/status": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/associate": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/appointed": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/deathPlace": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/successor": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/channel": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/company": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/channel": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/followedBy": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/board": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/occupation": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/after": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/before": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/boards": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/parents": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/restingPlace": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/ancestry": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/origin": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/restingplace": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/musicalBand": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/previousWork": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/recordedIn": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/fromAlbum": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/citizenship": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/influenced": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/influencedBy": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/nationality": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/awards": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/citizenship": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/influenced": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/influences": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/nationality": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/workplaces": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/composer": [
+        "Work",
+        "Software"
+    ],
+    "http://dbpedia.org/ontology/computingMedia": [
+        "Software"
+    ],
+    "http://dbpedia.org/ontology/computingPlatform": [
+        "Software"
+    ],
+    "http://dbpedia.org/ontology/developer": [
+        "Software"
+    ],
+    "http://dbpedia.org/ontology/gameEngine": [
+        "Software"
+    ],
+    "http://dbpedia.org/ontology/publisher": [
+        "Software"
+    ],
+    "http://dbpedia.org/ontology/series": [
+        "Software"
+    ],
+    "http://dbpedia.org/property/composer": [
+        "Work",
+        "Software"
+    ],
+    "http://dbpedia.org/property/developer": [
+        "Software"
+    ],
+    "http://dbpedia.org/property/engine": [
+        "Software"
+    ],
+    "http://dbpedia.org/property/media": [
+        "Software"
+    ],
+    "http://dbpedia.org/property/modes": [
+        "Software"
+    ],
+    "http://dbpedia.org/property/platform": [
+        "Software"
+    ],
+    "http://dbpedia.org/property/platforms": [
+        "Software"
+    ],
+    "http://dbpedia.org/property/publisher": [
+        "Software"
+    ],
+    "http://dbpedia.org/ontology/capital": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/currency": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/language": [
+        "MusicalArtist",
+        "Work",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/officialLanguage": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/capital": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/currency": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/demonym": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/establishedEvent": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/legislature": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/lowerHouse": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/officialLanguages": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/sovereigntyType": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/timeZone": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/timeZoneDst": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/upperHouse": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/regionalLanguage": [
+        "MusicalArtist"
+    ],
+    "http://dbpedia.org/property/callingCode": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/cctld": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/regionalLanguages": [
+        "MusicalArtist"
+    ],
+    "http://dbpedia.org/property/source": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/presenter": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/company": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/narrated": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/presenter": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/runtime": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/themeMusicComposer": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/foundedBy": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/industry": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/keyPerson": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/locationCountry": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/owner": [
+        "Agent",
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/owningCompany": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/parentCompany": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/product": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/founder": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/industry": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/keyPeople": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/locationCity": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/locationCountry": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/openingTheme": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/predecessor": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/father": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/house": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/issue": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/mother": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/succession": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/regionServed": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/tradedAs": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/president": [
+        "Person",
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/order": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/president": [
+        "Person",
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/related": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/voice": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/division": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/service": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/divisions": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/owner": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/products": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/services": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/album": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/ceo": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/chairman": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/ground": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/league": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/season": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/chairman": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/ground": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/league": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/manager": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/name": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/other": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/s": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/preceded": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/designer": [
+        "Software"
+    ],
+    "http://dbpedia.org/ontology/city": [
+        "EducationalInstitution",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/mouthMountain": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/mouthPlace": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/mouthPosition": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/source": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/sourceCountry": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/sourceMountain": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/sourcePlace": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/sourcePosition": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/property/city": [
+        "EducationalInstitution",
+        "Place"
+    ],
+    "http://dbpedia.org/property/source1Location": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/northeast": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/stateReligion": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/country": [
+        "Work",
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/editor": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/language": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/languages": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/languages2Type": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/screenplay": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/affiliation": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/athletics": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/campus": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/provost": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/state": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/affiliations": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/athletics": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/logo": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/mascot": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/provost": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/battle": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/militaryBranch": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/militaryRank": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/relation": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/alongside": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/battles": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/branch": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/anthem": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/largestCity": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/borderingstates": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/candidate": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/highestpoint": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/largestcity": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/largestmetro": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/lieutenantGovernor": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/lowerhouse": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/lowestpoint": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/seallink": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/senators": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/succeeded": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/upperhouse": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/camera": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/story": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/stateOfOrigin": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/honorificPrefix": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/honorificSuffix": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/sport": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/years": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/deputy": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/primeMinister": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/deputy": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/occupation": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/primeminister": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/rank": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/education": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/hometown": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/family": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/relations": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/mouthRegion": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/ontology/riverMouth": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/ontology/sourceRegion": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/mouthCountry": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/mouthLocation": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/mouthRegion": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/sourceLocation": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/sourceRegion": [
+        "GeographicalFeature"
+    ]
+}
