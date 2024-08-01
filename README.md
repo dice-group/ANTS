@@ -9,16 +9,18 @@ Our approach aims to address the challenges of abstractive entity summarization 
 ## Repository Structure: 
 ```
 ├── data
-│   ├── essum                # Contains benchmark datasets
+│   ├── ESSUM                   # Contains benchmark datasets
 │   │   ├── dbpedia
 │   │   └── faces
-│   └── evaluation-results   # Contains the experiment results evaluated on the benchmark
-│       ├── dbpedia
-│       │   ├── baselines    # Contains baseline experiment results including GATES, DeepLENS, etc.
-│       │   └── ants         # Contains results of our approach
-│       └── faces
-│           ├── baselines    # Contains baseline experiment results including GATES, DeepLENS, etc.
-│           └── ants         # Contains results of our approach
+|   ├── data-precessing         # Contains data preparetion for for the task
+│   └── evaluation-results      # Contains the experiment results evaluated on the benchmark
+|       └── ESSUM 
+│           ├── dbpedia
+│           │   ├── baselines    # Contains baseline experiment results including GATES, DeepLENS, etc.
+│           │   └── ants         # Contains results of our approach
+│           └── faces
+│               ├── baselines    # Contains baseline experiment results including GATES, DeepLENS, etc.
+│               └── ants         # Contains results of our approach
 ├── LICENSE
 └── README.md
 
