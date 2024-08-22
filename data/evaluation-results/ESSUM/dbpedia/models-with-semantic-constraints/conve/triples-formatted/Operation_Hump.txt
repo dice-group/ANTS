@@ -1,1 +1,0 @@
- <H> operation_hump <R> type <T> psychologicalfeature100023100 <H> operation_hump <R> previousevent <T> massacre_on_34th_street <H> operation_hump <R> type <T> event100029378 <H> operation_hump <R> type <T> http://www.w3.org/2002/07/owl#thing <H> operation_hump <R> type <T> abstraction100002137 <H> operation_hump <R> type <T> act100030358

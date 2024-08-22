@@ -1,1 +1,0 @@
-< pad > The type of intensive care medicine journal (journal) is http: / / www.wikidata.org / entity / q386724. It is a type of work in progress and has the type of http: / / schema.org / creativework. The journal has an average workload of 1280754669 and its full address is http: / / www.w3.org / 2002 / 07 / owl # thing. < / s >

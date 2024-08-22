@@ -1,1 +1,0 @@
- <H> darreh_dang <R> type <T> http://www.wikidata.org/entity/q486972 <H> darreh_dang <R> type <T> physicalentity100001930 <H> darreh_dang <R> subject <T> category:populated_places_in_aligudarz_county <H> darreh_dang <R> type <T> http://www.w3.org/2002/07/owl#thing <H> darreh_dang <R> type <T> object100002684 <H> darreh_dang <R> type <T> location

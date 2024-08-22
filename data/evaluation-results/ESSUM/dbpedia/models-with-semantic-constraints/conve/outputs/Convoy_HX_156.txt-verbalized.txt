@@ -1,1 +1,0 @@
-< pad > The societalevent convoy hx 156 is a type of event. It is located at http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # event. It has an arthropod phylum and is a type of event. The hx 156 is also known as a http: / / schema.org / event. < / s >

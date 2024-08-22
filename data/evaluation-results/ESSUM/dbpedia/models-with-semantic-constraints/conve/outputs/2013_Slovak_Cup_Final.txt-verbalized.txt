@@ -1,1 +1,0 @@
-< pad > The slovak cup final is held in July 2013 and is http: / / www.wikidata.org / entity / q1656682. It is a type of societalevent and an event. The 2013 slovak cup final is type of event and is of the type http: / / www.w3.org / 2002 / 07 / owl # thing. < / s >

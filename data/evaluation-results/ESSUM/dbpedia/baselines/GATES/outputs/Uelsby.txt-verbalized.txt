@@ -1,1 +1,0 @@
-< pad > The Uelsby is an http: / / www.digbpedia.org / class / yago / UrbanArea108675967. Uelsby's type of name is http: / / www.w3.org / 2002 / 07 / owl # Thing. Uelsby's label is Uelsby and their point of view is http: / / dbpedia.org / class / yago / Location100027167. Uelsby's height is 5.56666666666667. < / s >

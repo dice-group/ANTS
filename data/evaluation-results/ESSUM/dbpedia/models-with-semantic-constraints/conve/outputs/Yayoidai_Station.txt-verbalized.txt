@@ -1,1 +1,0 @@
-< pad > Yayoidai station, which is type of yagopermanentlylocated, is located in the city of Bath, at http: / / www.w3.org / 2002 / 07 / owl # thing. The station is also located at http: / / schema.org / place. < / s >

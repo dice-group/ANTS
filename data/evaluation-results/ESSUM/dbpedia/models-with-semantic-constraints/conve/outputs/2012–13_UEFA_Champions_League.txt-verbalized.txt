@@ -1,1 +1,0 @@
-< pad > The 2012-13 uefa championships league is an epoch type event and took place during 2012.http: / / www.ontologydesignpatterns.org / ont / dul.owl # event. The league is based on the type of event, http: / / www.wikidata.org / entity / q1656682. < / s >

@@ -1,1 +1,0 @@
- <H> kings_ripton <R> type <T> http://www.wikidata.org/entity/q486972 <H> kings_ripton <R> type <T> http://www.w3.org/2002/07/owl#thing <H> kings_ripton <R> type <T> physicalentity100001930 <H> kings_ripton <R> type <T> object100002684 <H> kings_ripton <R> type <T> location <H> kings_ripton <R> kingdom <T> animal <H> kings_ripton <R> country <T> united_kingdom

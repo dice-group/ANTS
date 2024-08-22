@@ -1,1 +1,0 @@
-< pad > 3way fm is a community radio station located in the radiostation at 3way fm. Their type of code is http: / / www.wikidata.org / entity / q43229. They are a type of http: / / www.ontologydesignpatterns.org / ont / dul / dul / dul.owl # agent. The 3way fm is a type of http: / / schema.org / organization and their language is http: / / www.wikidata. < / s >

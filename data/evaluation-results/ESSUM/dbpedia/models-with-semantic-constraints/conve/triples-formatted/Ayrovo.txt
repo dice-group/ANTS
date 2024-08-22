@@ -1,1 +1,0 @@
- <H> ayrovo <R> type <T> http://schema.org/place <H> ayrovo <R> type <T> http://www.wikidata.org/entity/q486972 <H> ayrovo <R> type <T> http://www.w3.org/2002/07/owl#thing <H> ayrovo <R> subject <T> category:villages_in_kardzhali_province <H> ayrovo <R> type <T> location <H> ayrovo <R> type <T> yagopermanentlylocatedentity

@@ -1,1 +1,0 @@
- <H> convoy_hx_156 <R> type <T> http://schema.org/event <H> convoy_hx_156 <R> phylum <T> arthropod <H> convoy_hx_156 <R> type <T> http://www.w3.org/2002/07/owl#thing <H> convoy_hx_156 <R> type <T> http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event <H> convoy_hx_156 <R> type <T> societalevent <H> convoy_hx_156 <R> type <T> event

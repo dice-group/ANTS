@@ -1,6 +1,0 @@
-http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
-http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
-http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q1656682
-http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/edward_pellew,_1st_viscount_exmouth
-http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/act100030358
-http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/psychologicalfeature100023100

@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/african_grey_hornbill	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/chordate
-http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
-http://dbpedia.org/resource/african_grey_hornbill	http://dbpedia.org/ontology/position	http://commons.wikimedia.org/wiki/special:filepath/tockus_nasutus_-near_sawela_lodge,_lake_naivasha,_kenya_-female-8.jpg
-http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q729
-http://dbpedia.org/resource/african_grey_hornbill	http://dbpedia.org/ontology/position	http://dbpedia.org/resource/lake_naivasha
-http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
-http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
-http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal

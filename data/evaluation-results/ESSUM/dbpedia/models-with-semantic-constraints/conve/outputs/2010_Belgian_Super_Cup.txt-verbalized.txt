@@ -1,1 +1,0 @@
-< pad > The 2010 belgian super cup is a sportsevent which is part of the societalevent. It is located in the city of London, has an address of http: / / www.w3.org / 2002 / 07 / owl # thing and plays at http: / / schema.org / event. < / s >

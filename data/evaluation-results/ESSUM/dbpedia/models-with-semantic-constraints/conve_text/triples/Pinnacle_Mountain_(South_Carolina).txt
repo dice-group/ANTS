@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
-http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#spatialthing
-http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_kingdom
-http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/ontology/department	http://dbpedia.org/resource/blue_ridge_mountains
-http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/physicalentity100001930
-http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
-http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mountains_of_south_carolina

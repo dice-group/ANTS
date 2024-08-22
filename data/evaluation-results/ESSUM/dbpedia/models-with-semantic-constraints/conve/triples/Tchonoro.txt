@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
-http://dbpedia.org/resource/tchonoro	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:assoli
-http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167
-http://dbpedia.org/resource/tchonoro	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/bạc_liêu_province
-http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagogeoentity
-http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
-http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/region108630985
-http://dbpedia.org/resource/tchonoro	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:populated_places_in_aligudarz_county
-http://dbpedia.org/resource/tchonoro	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:populated_places_in_abbottabad_district

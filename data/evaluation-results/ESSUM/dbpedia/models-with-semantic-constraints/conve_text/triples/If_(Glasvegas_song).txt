@@ -1,1 +1,0 @@
-http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/ontology/basedon	http://dbpedia.org/resource/james_allan_(musician)

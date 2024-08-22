@@ -1,1 +1,0 @@
- <H> 392_(album) <R> type <T> work <H> 392_(album) <R> type <T> musicalwork <H> 392_(album) <R> genre <T> rock_music <H> 392_(album) <R> type <T> http://www.wikidata.org/entity/q386724 <H> 392_(album) <R> type <T> http://schema.org/creativework <H> 392_(album) <R> type <T> http://www.w3.org/2002/07/owl#thing

@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/burgery_ambush	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/burgery_ambush	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/irish_war_of_independence
-http://dbpedia.org/resource/burgery_ambush	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:dungarvan
-http://dbpedia.org/resource/burgery_ambush	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:history_of_county_waterford
-http://dbpedia.org/resource/burgery_ambush	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1921_in_ireland
-http://dbpedia.org/resource/burgery_ambush	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
-http://dbpedia.org/resource/burgery_ambush	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
-http://dbpedia.org/resource/burgery_ambush	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
-http://dbpedia.org/resource/burgery_ambush	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:military_actions_and_engagements_during_the_irish_war_of_independence

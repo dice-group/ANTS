@@ -1,1 +1,0 @@
- <H> 2010_belgian_super_cup <R> type <T> http://www.w3.org/2002/07/owl#thing <H> 2010_belgian_super_cup <R> type <T> event <H> 2010_belgian_super_cup <R> type <T> http://schema.org/event <H> 2010_belgian_super_cup <R> type <T> sportsevent <H> 2010_belgian_super_cup <R> type <T> societalevent

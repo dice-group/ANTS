@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/organization
-http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q43229
-http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#socialperson
-http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q15265344
-http://dbpedia.org/resource/3way_fm	http://dbpedia.org/ontology/locatedinarea	http://dbpedia.org/ontology/radiostation
-http://dbpedia.org/resource/3way_fm	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/community_radio
-http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#agent

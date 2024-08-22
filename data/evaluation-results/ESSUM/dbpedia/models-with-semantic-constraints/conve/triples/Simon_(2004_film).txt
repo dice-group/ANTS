@@ -1,6 +1,0 @@
-http://dbpedia.org/resource/simon_(2004_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
-http://dbpedia.org/resource/simon_(2004_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
-http://dbpedia.org/resource/simon_(2004_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english-language_films
-http://dbpedia.org/resource/simon_(2004_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1930s_comedy_films
-http://dbpedia.org/resource/simon_(2004_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/simon_(2004_film)	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/resource/eddy_terstall

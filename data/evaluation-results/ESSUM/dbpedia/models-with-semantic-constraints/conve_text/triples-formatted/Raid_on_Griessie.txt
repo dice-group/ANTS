@@ -1,1 +1,0 @@
- <H> raid_on_griessie <R> type <T> societalevent <H> raid_on_griessie <R> type <T> event <H> raid_on_griessie <R> type <T> http://www.wikidata.org/entity/q1656682 <H> raid_on_griessie <R> starring <T> edward_pellew,_1st_viscount_exmouth <H> raid_on_griessie <R> type <T> act100030358 <H> raid_on_griessie <R> type <T> psychologicalfeature100023100
