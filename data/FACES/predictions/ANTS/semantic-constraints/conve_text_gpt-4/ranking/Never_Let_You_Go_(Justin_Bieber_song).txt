@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/type	http://dbpedia.org/resource/promotional_recording
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/teen_pop
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/label	http://dbpedia.org/resource/island_records
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/genre	Pop
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/artist	http://dbpedia.org/resource/justin_bieber
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/writer	Justin Bieber
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/writer	Johntá Austin
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/writer	Bryan-Michael Cox
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/runtime	254
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/recordLabel	Island Records
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/bryan-michael_cox
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/producer	Johntá Austin
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/releaseDate	2010-03-02
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/associatedMusicalArtist	Justin Bieber
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/language	English
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/artist	Justin Bieber
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/musicComposer	Johntá Austin
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/previousWork	One Time Justin Bieber song
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/recordedIn	2009
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/lyrics	"There's nothing that I wouldn't do,  I'll find my way back to you"
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:justin_bieber_songs
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/single
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/song
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/nexttitle	http://dbpedia.org/resource/turn_to_you_(mother's_day_dedication)
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/followingWork	Somebody to Love Justin Bieber song
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/studio	Avatar Studios
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/certification	RIAA: Gold
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/musicFormat	CD single
+Never Let You Go Justin Bieber song	http://dbpedia.org/ontology/musicalArtist	Justin Bieber

@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:capitol_records_albums
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/writer	http://dbpedia.org/resource/sir_jinx
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/type	http://dbpedia.org/resource/so-called_chaos
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/genre	http://dbpedia.org/resource/west_coast_hip_hop
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/label	http://dbpedia.org/resource/hoo-bangin'_records
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/producer	http://dbpedia.org/resource/damizza
+Terrorist Threats	http://dbpedia.org/ontology/location	United States
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/language	http://dbpedia.org/resource/dutch_language
+Terrorist Threats	http://dbpedia.org/ontology/status	Active
+Terrorist Threats	http://dbpedia.org/ontology/affiliation	Westside Connection
+Terrorist Threats	http://dbpedia.org/ontology/result	Increased security measures
+Terrorist Threats	http://dbpedia.org/ontology/motive	Political ideology
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/prevtitle	http://dbpedia.org/resource/bow_down
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:albums_produced_by_fredwreck
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:albums_produced_by_midi_mafia
+Terrorist Threats	http://dbpedia.org/ontology/cause	Social and Political Inequality
+Terrorist Threats	http://dbpedia.org/ontology/target	United States
+Terrorist Threats	http://dbpedia.org/ontology/partOf	Black Hippy
+Terrorist Threats	http://dbpedia.org/ontology/perpetrator	Westside Connection
+Terrorist Threats	http://dbpedia.org/ontology/injuries	0
+Terrorist Threats	http://dbpedia.org/ontology/weaponType	Improvised Explosive Device
+Terrorist Threats	http://dbpedia.org/ontology/suspects	Westside Connection
+Terrorist Threats	http://dbpedia.org/ontology/legislation	USA PATRIOT Act
+Terrorist Threats	http://dbpedia.org/ontology/securityMeasures	Increased Surveillance
+Terrorist Threats	http://dbpedia.org/ontology/preventionMethods	Intelligence gathering

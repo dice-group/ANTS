@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/3way_fm	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/station
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/station
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/agent
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/organisation
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/broadcaster
+http://dbpedia.org/resource/3way_fm	http://dbpedia.org/property/format	http://dbpedia.org/resource/community_radio
+http://dbpedia.org/resource/3way_fm	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:radio_stations_established_in_1990
+http://dbpedia.org/resource/3way_fm	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:community_radio_stations_in_australia
+http://dbpedia.org/resource/3way_fm	http://dbpedia.org/ontology/broadcastarea	http://dbpedia.org/resource/warrnambool
+http://dbpedia.org/resource/3way_fm	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/disques_vogue

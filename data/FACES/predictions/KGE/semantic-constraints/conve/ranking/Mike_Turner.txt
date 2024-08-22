@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/mike_turner	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/mike_turner	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:21st-century_american_politicians
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/hugh_bayley
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/property/successor	http://dbpedia.org/resource/rhine_mclin
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/property/successor	http://dbpedia.org/resource/paolo_alli
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/property/state	http://dbpedia.org/resource/united_states_congressional_delegations_from_ohio
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/georgetown_university
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/mike_turner__tenure__4
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/mike_turner__tenure__2
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/mike_turner__tenure__3

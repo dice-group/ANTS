@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/property/genre	http://dbpedia.org/resource/fighting_game
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/sega_saturn
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/gt_interactive
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/gt_interactive_software
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/midway_games

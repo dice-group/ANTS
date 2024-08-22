@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/john_goodman
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/studio	http://dbpedia.org/resource/graham_king
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/cinematography	http://dbpedia.org/resource/rodrigo_prieto
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/distributor	http://dbpedia.org/resource/warner_bros._pictures
+http://dbpedia.org/resource/argo_(2012_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:warner_bros._films
+http://dbpedia.org/resource/argo_(2012_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_whose_director_won_the_best_director_golden_globe
+http://dbpedia.org/resource/argo_(2012_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_whose_director_won_the_best_direction_bafta_award
+http://dbpedia.org/resource/argo_(2012_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:race-related_controversies_in_film
+http://dbpedia.org/resource/argo_(2012_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_set_in_1980
+http://dbpedia.org/resource/argo_(2012_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work

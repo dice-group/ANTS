@@ -1,0 +1,1 @@
+ <H> zarudcze <R> deathplace <T> village <H> zarudcze <R> type <T> location <H> zarudcze <R> type <T> object100002684 <H> zarudcze <R> type <T> http://schema.org/place <H> zarudcze <R> type <T> place <H> zarudcze <R> type <T> populatedplace

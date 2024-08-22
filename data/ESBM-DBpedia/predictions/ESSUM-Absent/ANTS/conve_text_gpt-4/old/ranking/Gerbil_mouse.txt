@@ -1,0 +1,34 @@
+http://dbpedia.org/resource/gerbil_mouse	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
+http://dbpedia.org/resource/gerbil_mouse	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/gerbil_mouse	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q729
+http://dbpedia.org/resource/gerbil_mouse	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal
+http://dbpedia.org/resource/gerbil_mouse	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/gerbil_mouse	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_of_cameroon
+http://dbpedia.org/resource/gerbil_mouse	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:hornbills
+http://dbpedia.org/resource/gerbil_mouse	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_of_asia
+http://dbpedia.org/resource/gerbil_mouse	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_of_south_africa
+http://dbpedia.org/resource/gerbil_mouse	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:nesomyid_rodents
+Gerbil mouse	http://dbpedia.org/ontology/family	Muridae
+Gerbil mouse	http://dbpedia.org/ontology/class	Mammalia
+Gerbil mouse	http://dbpedia.org/ontology/order	Rodentia
+Gerbil mouse	http://dbpedia.org/ontology/weight	"60-130g"
+Gerbil mouse	http://dbpedia.org/ontology/length	10-12cm
+http://dbpedia.org/resource/gerbil_mouse	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/chordate
+Gerbil mouse	http://dbpedia.org/ontology/phylum	Chordata
+http://dbpedia.org/resource/gerbil_mouse	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/animal
+Gerbil mouse	http://dbpedia.org/ontology/kingdom	Animalia
+Gerbil mouse	http://dbpedia.org/ontology/synonym	"Meriones unguiculatus"
+Gerbil mouse	http://dbpedia.org/ontology/genus	Gerbillus
+Gerbil mouse	http://dbpedia.org/ontology/product	Pet
+Gerbil mouse	http://dbpedia.org/ontology/related	Rodentia
+Gerbil mouse	http://dbpedia.org/ontology/conservationStatus	Least Concern
+http://dbpedia.org/resource/gerbil_mouse	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/dendromurinae
+http://dbpedia.org/resource/gerbil_mouse	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/nesomyidae
+Gerbil mouse	http://dbpedia.org/ontology/isA	Rodent
+Gerbil mouse	http://dbpedia.org/ontology/habitat	Deserts and arid regions
+Gerbil mouse	http://dbpedia.org/ontology/lifespan	2-4 years
+Gerbil mouse	http://dbpedia.org/ontology/diet	Seeds
+Gerbil mouse	http://dbpedia.org/ontology/predator	Birds of prey
+Gerbil mouse	http://dbpedia.org/ontology/distribution	Asia
+Gerbil mouse	http://dbpedia.org/ontology/behavior	burrowing
+Gerbil mouse	http://dbpedia.org/ontology/reproduction	"Monogamous breeding"

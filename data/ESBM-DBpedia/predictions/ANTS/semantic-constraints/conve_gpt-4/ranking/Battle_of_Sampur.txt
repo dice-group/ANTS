@@ -1,0 +1,26 @@
+http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_of_sampur	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/battle
+http://dbpedia.org/resource/battle_of_sampur	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_eastern_theater_of_eelam_war_iv
+http://dbpedia.org/resource/battle_of_sampur	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:september_2006_events_in_asia
+http://dbpedia.org/resource/battle_of_sampur	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2006_in_sri_lanka
+Battle of Sampur	http://dbpedia.org/ontology/location	Sampur,  Sri Lanka
+Battle of Sampur	http://dbpedia.org/ontology/battle	Sri Lankan Civil War
+Battle of Sampur	http://dbpedia.org/ontology/commander	Sarath Fonseka
+Battle of Sampur	http://dbpedia.org/ontology/combatant	Liberation Tigers of Tamil Eelam
+Battle of Sampur	http://dbpedia.org/ontology/combatant	Sri Lanka Armed Forces
+Battle of Sampur	http://dbpedia.org/ontology/place	Sampur,  Sri Lanka
+Battle of Sampur	http://dbpedia.org/ontology/date	2006-08-28
+Battle of Sampur	http://dbpedia.org/ontology/result	Sri Lankan government victory
+Battle of Sampur	http://dbpedia.org/ontology/previousEvent	Eastern Theater of Eelam War IV
+Battle of Sampur	http://dbpedia.org/ontology/participant	Sri Lankan Military
+Battle of Sampur	http://dbpedia.org/ontology/participant	Liberation Tigers of Tamil Eelam
+Battle of Sampur	http://dbpedia.org/ontology/nextEvent	Eastern Theater of Eelam War IV
+Battle of Sampur	http://dbpedia.org/ontology/territory	Eastern Province,  Sri Lanka
+Battle of Sampur	http://dbpedia.org/ontology/casualties	?
+Battle of Sampur	http://dbpedia.org/ontology/partOf	Sri Lankan Civil War
+Battle of Sampur	http://dbpedia.org/ontology/outcome	Sri Lankan government victory
+Battle of Sampur	http://dbpedia.org/ontology/coordinateLocation	8.3483°N 81.7172°E
+Battle of Sampur	http://dbpedia.org/ontology/militaryConflict	Eelam War IV
+Battle of Sampur	http://dbpedia.org/ontology/cause	Sri Lankan Civil War
+Battle of Sampur	http://dbpedia.org/ontology/strategicObjective	Regaining control of the Muttur area
+Battle of Sampur	http://dbpedia.org/ontology/context	Sri Lankan Civil War

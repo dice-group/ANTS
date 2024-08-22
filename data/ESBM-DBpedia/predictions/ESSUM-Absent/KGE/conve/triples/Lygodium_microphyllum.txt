@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:pteridophyta_of_africa
+http://dbpedia.org/resource/lygodium_microphyllum	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/lygodium
+http://dbpedia.org/resource/lygodium_microphyllum	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/leptosporangiate_fern
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/plant
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q756
+http://dbpedia.org/resource/lygodium_microphyllum	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/schizaeales
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fern_species
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:pteridophyta_of_australasia
+http://dbpedia.org/resource/lygodium_microphyllum	http://dbpedia.org/ontology/thumbnail	http://commons.wikimedia.org/wiki/special:filepath/ars_lygodium_microphyllum_foliage.jpg?width=300
+http://dbpedia.org/resource/lygodium_microphyllum	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/plant
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_new_guinea
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:plants_described_in_1801
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/whole100003553

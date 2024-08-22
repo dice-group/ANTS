@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/album
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/title	http://dbpedia.org/resource/gangsta_nation
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/writer	http://dbpedia.org/resource/damizza
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/writer	http://dbpedia.org/resource/knoc-turn'al
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/property/writer	http://dbpedia.org/resource/mack_10
+Terrorist Threats	http://dbpedia.org/ontology/location	United States
+Terrorist Threats	http://dbpedia.org/ontology/status	Active
+Terrorist Threats	http://dbpedia.org/ontology/affiliation	Westside Connection
+Terrorist Threats	http://dbpedia.org/ontology/result	Increased security measures
+Terrorist Threats	http://dbpedia.org/ontology/motive	Political ideology
+Terrorist Threats	http://dbpedia.org/ontology/cause	Social and Political Inequality
+Terrorist Threats	http://dbpedia.org/ontology/target	United States
+Terrorist Threats	http://dbpedia.org/ontology/partOf	Black Hippy
+Terrorist Threats	http://dbpedia.org/ontology/perpetrator	Westside Connection
+Terrorist Threats	http://dbpedia.org/ontology/injuries	0
+Terrorist Threats	http://dbpedia.org/ontology/weaponType	Improvised Explosive Device
+Terrorist Threats	http://dbpedia.org/ontology/suspects	Westside Connection
+Terrorist Threats	http://dbpedia.org/ontology/legislation	USA PATRIOT Act
+Terrorist Threats	http://dbpedia.org/ontology/securityMeasures	Increased Surveillance
+Terrorist Threats	http://dbpedia.org/ontology/preventionMethods	Intelligence gathering

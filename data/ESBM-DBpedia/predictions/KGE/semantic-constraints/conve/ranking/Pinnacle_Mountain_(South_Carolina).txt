@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/mountain
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/property/location	http://dbpedia.org/resource/south_carolina
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/u.s._state
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/mountain
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:landforms_of_pickens_county,_south_carolina
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:protected_areas_of_pickens_county,_south_carolina
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/ontology/locatedinarea	http://dbpedia.org/resource/pickens_county,_south_carolina
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/property/lasteruption	http://dbpedia.org/resource/pleistocene

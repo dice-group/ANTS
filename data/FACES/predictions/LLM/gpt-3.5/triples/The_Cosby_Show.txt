@@ -1,0 +1,15 @@
+The Cosby Show	hasCastMember	Bill Cosby
+The Cosby Show	hasCastMember	Phylicia Rashad
+The Cosby Show	hasCastMember	Malcolm-Jamal Warner
+The Cosby Show	hasGenre	Sitcom
+The Cosby Show	hasSeasons	8
+The Cosby Show	hasEpisodes	202
+The Cosby Show	hasSetting	Brooklyn, New York
+The Cosby Show	hasThemeSong	"Kiss Me"
+The Cosby Show	hasAwards	6 Emmy Awards
+The Cosby Show	hasSpinOff	A Different World
+The Cosby Show	hasLegacy	Influential in changing the portrayal of African-Americans on television
+The Cosby Show	hasCreator	Bill Cosby
+The Cosby Show	hasOriginalNetwork	NBC
+The Cosby Show	hasRunTime	22 minutes per episode
+The Cosby Show	hasPremiereDate	September 20, 1984

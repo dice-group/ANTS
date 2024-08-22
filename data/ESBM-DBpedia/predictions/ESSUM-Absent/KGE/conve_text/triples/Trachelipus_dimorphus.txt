@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/trachelipus_dimorphus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal
+http://dbpedia.org/resource/trachelipus_dimorphus	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/animal
+http://dbpedia.org/resource/trachelipus_dimorphus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/trachelipus_dimorphus	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/chordate
+http://dbpedia.org/resource/trachelipus_dimorphus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
+http://dbpedia.org/resource/trachelipus_dimorphus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/trachelipus_dimorphus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:animals_described_in_1941
+http://dbpedia.org/resource/trachelipus_dimorphus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing

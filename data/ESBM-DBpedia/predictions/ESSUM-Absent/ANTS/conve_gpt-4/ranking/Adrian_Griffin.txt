@@ -1,0 +1,25 @@
+Adrian Griffin	http://dbpedia.org/ontology/careerStation	Chicago Bulls
+Adrian Griffin	http://dbpedia.org/ontology/birthPlace	Wichita,  Kansas
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:sportspeople_from_wichita,_kansas
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_men's_basketball_players
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_expatriate_basketball_people_in_italy
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:chicago_bulls_players
+Adrian Griffin	http://dbpedia.org/ontology/birthDate	1974-07-04
+Adrian Griffin	http://dbpedia.org/ontology/position	Basketball coach
+Adrian Griffin	http://dbpedia.org/ontology/height	1.96 m
+Adrian Griffin	http://dbpedia.org/ontology/award	NBA Championship
+Adrian Griffin	http://dbpedia.org/ontology/formerTeam	Chicago Bulls
+Adrian Griffin	http://dbpedia.org/ontology/nationality	United States
+Adrian Griffin	http://dbpedia.org/ontology/weight	98 kg
+Adrian Griffin	http://dbpedia.org/ontology/number	44
+Adrian Griffin	http://dbpedia.org/ontology/child	Alan Griffin
+Adrian Griffin	http://dbpedia.org/ontology/draftYear	1996
+Adrian Griffin	http://dbpedia.org/ontology/college	Seton Hall University
+Adrian Griffin	http://dbpedia.org/ontology/draftTeam	Boston Celtics
+Adrian Griffin	http://dbpedia.org/ontology/team	Toronto Raptors
+Adrian Griffin	http://dbpedia.org/ontology/careerHighlight	NBA champion
+Adrian Griffin	http://dbpedia.org/ontology/coachingCareerStation	Toronto Raptors
+Adrian Griffin	http://dbpedia.org/ontology/highSchool	Seton Hall Preparatory School
+Adrian Griffin	http://dbpedia.org/ontology/playingCareer	1996–2008
+Adrian Griffin	http://dbpedia.org/ontology/assistantCoachOf	Toronto Raptors

@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/enallagma_truncatum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:taxonomy_articles_created_by_polbot
+http://dbpedia.org/resource/enallagma_truncatum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:insects_described_in_1888
+http://dbpedia.org/resource/enallagma_truncatum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:insects_of_cuba
+http://dbpedia.org/resource/enallagma_truncatum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/enallagma_truncatum	http://dbpedia.org/property/origin	http://dbpedia.org/resource/france

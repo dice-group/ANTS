@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/mexican_revolution
+http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://dbpedia.org/property/markdescription	http://dbpedia.org/resource/wrocław
+http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1914_in_mexico
+http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/schmalkalden
+http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://dbpedia.org/property/place	http://dbpedia.org/resource/zacatecas,_zacatecas
+http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://dbpedia.org/property/markdescription	http://dbpedia.org/resource/adair_county,_iowa
+http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/stadion_oláh_gábor_út
+http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:june_1914_events

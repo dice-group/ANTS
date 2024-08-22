@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/barack_obama	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/president_barack_obama.jpg/200px-president_barack_obama.jpg
+http://dbpedia.org/resource/barack_obama	http://dbpedia.org/property/candidate	http://dbpedia.org/resource/texas
+http://dbpedia.org/resource/barack_obama	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/joe_biden
+http://dbpedia.org/resource/barack_obama	http://dbpedia.org/property/profession	http://dbpedia.org/resource/community_organizing
+http://dbpedia.org/resource/barack_obama	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/harvard_law_school

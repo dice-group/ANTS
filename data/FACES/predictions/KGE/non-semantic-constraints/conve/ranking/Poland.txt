@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/poland	http://xmlns.com/foaf/0.1/depiction	http://upload.wikimedia.org/wikipedia/commons/e/e9/flag_of_poland_(normative).svg
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/starring	http://dbpedia.org/resource/jack_thompson
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/prime_minister_of_poland
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/kingdom_of_poland_(1025%e2%80%931385)
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/languages2type	http://dbpedia.org/resource/regional_language

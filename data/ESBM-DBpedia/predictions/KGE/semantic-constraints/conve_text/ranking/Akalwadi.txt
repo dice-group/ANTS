@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/akalwadi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/akalwadi	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/bijapur_district,_karnataka
+http://dbpedia.org/resource/akalwadi	http://dbpedia.org/property/neare	http://dbpedia.org/resource/orion,_queensland
+http://dbpedia.org/resource/akalwadi	http://dbpedia.org/property/nearw	http://dbpedia.org/resource/cona_creek,_queensland
+http://dbpedia.org/resource/akalwadi	http://dbpedia.org/ontology/ceremonialcounty	http://dbpedia.org/resource/buckinghamshire

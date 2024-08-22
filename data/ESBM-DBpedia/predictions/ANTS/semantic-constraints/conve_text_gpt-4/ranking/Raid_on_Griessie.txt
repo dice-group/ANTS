@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/getafe_cf
+http://dbpedia.org/resource/raid_on_griessie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:naval_battles_involving_the_netherlands
+http://dbpedia.org/resource/raid_on_griessie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:december_1807_events
+http://dbpedia.org/resource/raid_on_griessie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1807_in_asia
+http://dbpedia.org/resource/raid_on_griessie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:naval_battles_of_the_napoleonic_wars
+Raid on Griessie	http://dbpedia.org/ontology/location	Gresik
+Raid on Griessie	http://dbpedia.org/ontology/commander	Edward Pellew
+Raid on Griessie	http://dbpedia.org/ontology/subsequentWork	Raid on Batavia
+Raid on Griessie	http://dbpedia.org/ontology/previousWork	Battle of Malacca 1784
+Raid on Griessie	http://dbpedia.org/ontology/combatant	Dutch East India Company
+Raid on Griessie	http://dbpedia.org/ontology/strength	"717 men"
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/gresik
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/java
+Raid on Griessie	http://dbpedia.org/ontology/place	Griessie
+Raid on Griessie	http://dbpedia.org/ontology/date	1784-11-26
+Raid on Griessie	http://dbpedia.org/ontology/result	Dutch victory
+Raid on Griessie	http://dbpedia.org/ontology/participant	Dutch East India Company
+Raid on Griessie	http://dbpedia.org/ontology/territory	Dutch East Indies
+Raid on Griessie	http://dbpedia.org/ontology/casualties	6
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/napoleonic_wars
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/championindoublefemale	http://dbpedia.org/resource/richard_bache
+Raid on Griessie	http://dbpedia.org/ontology/partOf	Fourth Anglo-Dutch War
+Raid on Griessie	http://dbpedia.org/ontology/cause	Dutch East India Company's monopoly on the spice trade
+Raid on Griessie	http://dbpedia.org/ontology/conflict	Fourth Anglo-Dutch War
+Raid on Griessie	http://dbpedia.org/ontology/strategy	Surprise attack
+Raid on Griessie	http://dbpedia.org/ontology/aftermath	Destruction of the port and its facilities
+Raid on Griessie	http://dbpedia.org/ontology/battleName	Battle of Griessie
+Raid on Griessie	http://dbpedia.org/ontology/coordinateLocation	Point112.733333 -7.433333
+Raid on Griessie	http://dbpedia.org/ontology/belligerent	United Kingdom

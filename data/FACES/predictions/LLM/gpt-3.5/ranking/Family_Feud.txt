@@ -1,0 +1,15 @@
+Family Feud	http://dbpedia.org/ontology/hasHost	Steve Harvey
+Family Feud	http://dbpedia.org/ontology/hasFormat	Game show
+Family Feud	http://dbpedia.org/ontology/hasGenre	Comedy
+Family Feud	http://dbpedia.org/ontology/hasPrize	$20,000
+Family Feud	http://dbpedia.org/ontology/hasLocation	Los Angeles
+Family Feud	http://dbpedia.org/ontology/hasDuration	30 minutes
+Family Feud	http://dbpedia.org/ontology/hasContestants	Two families
+Family Feud	http://dbpedia.org/ontology/hasSurveyQuestions	100
+Family Feud	http://dbpedia.org/ontology/hasThemeSong	The Feud by Robert Israel
+Family Feud	http://dbpedia.org/ontology/hasSpinoff	Celebrity Family Feud
+Family Feud	http://dbpedia.org/ontology/hasOriginalAirDate	July 12, 1976
+Family Feud	http://dbpedia.org/ontology/hasRevival	2008
+Family Feud	http://dbpedia.org/ontology/hasViewership	5 million
+Family Feud	http://dbpedia.org/ontology/hasContestantAgeLimit	18 years
+Family Feud	http://dbpedia.org/ontology/hasNetwork	ABC

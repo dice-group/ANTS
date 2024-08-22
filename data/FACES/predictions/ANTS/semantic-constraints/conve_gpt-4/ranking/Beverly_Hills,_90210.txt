@@ -1,0 +1,39 @@
+http://dbpedia.org/resource/beverly_hills,_90210	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:serial_drama_television_series
+http://dbpedia.org/resource/beverly_hills,_90210	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:television_shows_filmed_in_los_angeles
+Beverly_Hills,_90210	http://dbpedia.org/ontology/country	United States
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/lindsay_price
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/tiffani_thiessen
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/mark_damon_espinoza
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/jason_priestley
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/carol_potter_(actress)
+Beverly_Hills,_90210	http://dbpedia.org/ontology/starring	Jason Priestley
+Beverly_Hills,_90210	http://dbpedia.org/ontology/starring	Shannen Doherty
+Beverly_Hills,_90210	http://dbpedia.org/ontology/starring	Jennie Garth
+Beverly_Hills,_90210	http://dbpedia.org/ontology/starring	Ian Ziering
+Beverly_Hills,_90210	http://dbpedia.org/ontology/starring	Gabrielle Carteris
+Beverly_Hills,_90210	http://dbpedia.org/ontology/starring	Luke Perry
+Beverly_Hills,_90210	http://dbpedia.org/ontology/starring	Brian Austin Green
+Beverly_Hills,_90210	http://dbpedia.org/ontology/starring	Tori Spelling
+Beverly_Hills,_90210	http://dbpedia.org/ontology/starring	Carol Potter
+Beverly_Hills,_90210	http://dbpedia.org/ontology/starring	James Eckhouse
+Beverly_Hills,_90210	http://dbpedia.org/ontology/genre	Teen drama
+Beverly_Hills,_90210	http://dbpedia.org/ontology/runtime	44 minutes
+Beverly_Hills,_90210	http://dbpedia.org/ontology/award	Teen Choice Awards
+Beverly_Hills,_90210	http://dbpedia.org/ontology/language	English
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/currentclub	http://dbpedia.org/resource/melrose_place_(2009_tv_series)
+Beverly_Hills,_90210	http://dbpedia.org/ontology/distributor	CBS Television Distribution
+Beverly_Hills,_90210	http://dbpedia.org/ontology/cinematography	Tony Cutrono
+Beverly_Hills,_90210	http://dbpedia.org/ontology/network	Fox
+Beverly_Hills,_90210	http://dbpedia.org/ontology/productionCompany	Spelling Television
+Beverly_Hills,_90210	http://dbpedia.org/ontology/numberOfEpisodes	293
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/fields	http://dbpedia.org/resource/darren_star
+Beverly_Hills,_90210	http://dbpedia.org/ontology/creator	Darren Star
+Beverly_Hills,_90210	http://dbpedia.org/ontology/numberOfSeasons	10
+Beverly_Hills,_90210	http://dbpedia.org/ontology/executiveProducer	Aaron Spelling
+Beverly_Hills,_90210	http://dbpedia.org/ontology/related	Melrose Place
+Beverly_Hills,_90210	http://dbpedia.org/ontology/composer	John E. Davis
+Beverly_Hills,_90210	http://dbpedia.org/ontology/broadcastArea	United States
+Beverly_Hills,_90210	http://dbpedia.org/ontology/editor	Victor Du Bois
+Beverly_Hills,_90210	http://dbpedia.org/ontology/originalLanguage	English
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/championinmixeddouble	http://dbpedia.org/resource/tori_spelling
+Beverly_Hills,_90210	http://dbpedia.org/ontology/spinOff	Melrose Place

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/2013_slovak_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mšk_žilina_matches
+http://dbpedia.org/resource/2013_slovak_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:slovak_cup_finals
+http://dbpedia.org/resource/2013_slovak_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2012–13_in_slovak_football
+http://dbpedia.org/resource/2013_slovak_cup_final	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/štadión_mfk_ružomberok
+http://dbpedia.org/resource/2013_slovak_cup_final	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/ružomberok
+http://dbpedia.org/resource/2013_slovak_cup_final	http://dbpedia.org/ontology/followingevent	http://dbpedia.org/resource/2014_slovak_cup_final
+http://dbpedia.org/resource/2013_slovak_cup_final	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/mšk_žilina
+http://dbpedia.org/resource/2013_slovak_cup_final	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/2012_slovak_cup_final
+http://dbpedia.org/resource/2013_slovak_cup_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/2013_slovak_cup_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event

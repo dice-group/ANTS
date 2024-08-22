@@ -1,0 +1,29 @@
+http://dbpedia.org/resource/ashot_i_of_iberia	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/ashot_i_of_iberia	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:kouropalatai
+http://dbpedia.org/resource/ashot_i_of_iberia	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:9th-century_christian_saints
+Ashot I of Iberia	http://dbpedia.org/ontology/birthPlace	Iberia
+Ashot I of Iberia	http://dbpedia.org/ontology/birthDate	820
+Ashot I of Iberia	http://dbpedia.org/ontology/occupation	Monarch
+Ashot I of Iberia	http://dbpedia.org/ontology/title	King of Iberia
+Ashot I of Iberia	http://dbpedia.org/ontology/deathPlace	Bagaran
+Ashot I of Iberia	http://dbpedia.org/ontology/deathDate	826
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/stephen_iii_of_iberia
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/property/successor	http://dbpedia.org/resource/adarnase_ii_of_tao-klarjeti
+Ashot I of Iberia	http://dbpedia.org/ontology/predecessor	Adarnase IV of Iberia
+Ashot I of Iberia	http://dbpedia.org/ontology/successor	Bagrat I of Iberia
+Ashot I of Iberia	http://dbpedia.org/ontology/award	Order of Saints George and Constantine
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/property/nationalteam	http://dbpedia.org/resource/stede_bonnet
+Ashot I of Iberia	http://dbpedia.org/ontology/nationality	Georgia
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/property/origin	http://dbpedia.org/resource/florida
+Ashot I of Iberia	http://dbpedia.org/ontology/spouse	Gurandukht of the Guaramids
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/property/residence	http://dbpedia.org/resource/san_jose,_california
+Ashot I of Iberia	http://dbpedia.org/ontology/child	Bagrat II of Iberia
+Ashot I of Iberia	http://dbpedia.org/ontology/parent	Bagrat II of Iberia
+Ashot I of Iberia	http://dbpedia.org/ontology/religion	Christianity
+Ashot I of Iberia	http://dbpedia.org/ontology/allegiance	Principality of Iberia
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/property/house	http://dbpedia.org/resource/bagrationi_dynasty
+Ashot I of Iberia	http://dbpedia.org/ontology/placeOfBurial	Samtavro Monastery
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/ontology/canonizedplace	http://dbpedia.org/resource/united_states
+Ashot I of Iberia	http://dbpedia.org/ontology/royalHouse	Bagrationi dynasty
+Ashot I of Iberia	http://dbpedia.org/ontology/reign	813–830
+Ashot I of Iberia	http://dbpedia.org/ontology/dynasty	Bagrationi dynasty

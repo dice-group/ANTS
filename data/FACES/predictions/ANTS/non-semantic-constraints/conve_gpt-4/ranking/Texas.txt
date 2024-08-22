@@ -1,0 +1,38 @@
+http://dbpedia.org/resource/texas	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/flag_of_texas.svg/200px-flag_of_texas.svg.png
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/candidate	http://dbpedia.org/resource/barack_obama
+http://dbpedia.org/resource/texas	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
+Texas	http://dbpedia.org/ontology/country	United States
+Texas	http://dbpedia.org/ontology/utcOffset	-6
+Texas	http://dbpedia.org/ontology/timeZone	Central_Time_Zone
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/coordinated_universal_time
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/central_standard_time
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/mountain_standard_time
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/central_time_zone_(north_america)
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/central_daylight_time
+Texas	http://dbpedia.org/ontology/populationTotal	29145505
+Texas	http://dbpedia.org/ontology/elevation	"170 meters"
+Texas	http://dbpedia.org/ontology/postalCode	"TX"
+Texas	http://dbpedia.org/ontology/areaTotal	695662000000
+Texas	http://dbpedia.org/ontology/leaderTitle	Governor
+Texas	http://dbpedia.org/ontology/motto	"Friendship"
+Texas	http://dbpedia.org/ontology/foundingDate	1845-12-29
+Texas	http://dbpedia.org/ontology/governmentType	Republic
+Texas	http://dbpedia.org/ontology/capital	Austin
+Texas	http://dbpedia.org/ontology/isPartOf	United States
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/legislature	http://dbpedia.org/resource/texas_legislature
+Texas	http://dbpedia.org/ontology/largestCity	Houston
+Texas	http://dbpedia.org/ontology/officialLanguage	English
+Texas	http://dbpedia.org/ontology/leaderName	Greg Abbott
+Texas	http://dbpedia.org/ontology/border	New Mexico
+Texas	http://dbpedia.org/ontology/border	Oklahoma
+Texas	http://dbpedia.org/ontology/border	Arkansas
+Texas	http://dbpedia.org/ontology/border	Louisiana
+Texas	http://dbpedia.org/ontology/border	Mexico
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/lowerhouse	http://dbpedia.org/resource/texas_house_of_representatives
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/lowestpoint	http://dbpedia.org/resource/gulf_of_mexico
+http://dbpedia.org/resource/texas	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/texas?oldid=547668601
+http://dbpedia.org/resource/texas	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/texas
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/highestpoint	http://dbpedia.org/resource/guadalupe_peak
+Texas	http://dbpedia.org/ontology/gdpNominal	2.0 trillion USD
+Texas	http://dbpedia.org/ontology/flag	Flag_of_Texas
+Texas	http://dbpedia.org/ontology/nickname	"The Lone Star State"

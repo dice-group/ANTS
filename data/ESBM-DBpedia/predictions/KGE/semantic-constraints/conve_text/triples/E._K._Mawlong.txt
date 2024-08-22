@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/e._k._mawlong	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/e._k._mawlong	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/politician
+http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/ontology/canonizedplace	http://dbpedia.org/resource/haarlemmermeer
+http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/property/deathplace	http://dbpedia.org/resource/shillong
+http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/e._k._mawlong__tenure__1
+http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/property/successor	http://dbpedia.org/resource/flinder_anderson_khonglam
+http://dbpedia.org/resource/e._k._mawlong	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:chief_ministers_of_meghalaya
+http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/british_raj
+http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/st._anthony's_college,_shillong
+http://dbpedia.org/resource/e._k._mawlong	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:meghalaya_politicians

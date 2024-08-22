@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/manchester_city_f.c.	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:premier_league_clubs
+http://dbpedia.org/resource/manchester_city_f.c.	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:manchester_city_f.c.
+http://dbpedia.org/resource/manchester_city_f.c.	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uefa_cup_winners'_cup_winning_clubs
+http://dbpedia.org/resource/manchester_city_f.c.	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:former_english_football_league_clubs
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/ground	http://dbpedia.org/resource/city_of_manchester_stadium
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/kyle_walker
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/cole_palmer
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/james_trafford
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/luke_mbete
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/rico_lewis

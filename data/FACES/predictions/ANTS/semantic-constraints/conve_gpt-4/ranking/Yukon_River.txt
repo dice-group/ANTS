@@ -1,0 +1,39 @@
+Yukon River	http://dbpedia.org/ontology/country	Canada
+Yukon River	http://dbpedia.org/ontology/country	United States
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/innoko_river
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/tanana_river
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/white_river_(yukon)
+Yukon River	http://dbpedia.org/ontology/city	Whitehorse
+Yukon River	http://dbpedia.org/ontology/length	3185 km
+Yukon River	http://dbpedia.org/ontology/mouthPlace	Bering Sea
+Yukon River	http://dbpedia.org/ontology/mouthMountain	Bering Sea
+Yukon River	http://dbpedia.org/ontology/mouthElevation	0
+Yukon River	http://dbpedia.org/ontology/watershed	832000 square kilometers
+Yukon River	http://dbpedia.org/ontology/sourceElevation	2,210 ft
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/tributariesright	http://dbpedia.org/resource/koyukuk_river
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/tributariesright	http://dbpedia.org/resource/stewart_river_(yukon)
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/mouthplace	http://dbpedia.org/resource/kusilvak_census_area,_alaska
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/countryadmindivisionstitle	http://dbpedia.org/resource/provinces_and_territories_of_canada
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/tributariesright	http://dbpedia.org/resource/big_salmon_river_(yukon)
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/tributariesright	http://dbpedia.org/resource/tagish_river
+http://dbpedia.org/resource/yukon_river	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:canadian_heritage_rivers
+http://dbpedia.org/resource/yukon_river	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:rivers_of_unorganized_borough,_alaska
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/rivermouth	http://dbpedia.org/resource/bering_sea
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/majorshrine	http://dbpedia.org/resource/stevens_village,_alaska
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/discharge5location	http://dbpedia.org/resource/dawson_city
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/tributariesright	http://dbpedia.org/resource/teslin_river
+http://dbpedia.org/resource/yukon_river	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:rivers_of_yukon–koyukuk_census_area,_alaska
+Yukon River	http://dbpedia.org/ontology/discharge	6200 m3/s
+Yukon River	http://dbpedia.org/ontology/sourceRegion	British Columbia
+Yukon River	http://dbpedia.org/ontology/tributary	White River
+Yukon River	http://dbpedia.org/ontology/basinCountry	United States
+Yukon River	http://dbpedia.org/ontology/basinCountry	Canada
+Yukon River	http://dbpedia.org/ontology/sourceCountry	Canada
+Yukon River	http://dbpedia.org/ontology/source	Atlin Lake
+Yukon River	http://dbpedia.org/ontology/sourceLatitude	61.036944
+Yukon River	http://dbpedia.org/ontology/sourceLongitude	-141.0
+Yukon River	http://dbpedia.org/ontology/riverSystem	Yukon River
+Yukon River	http://dbpedia.org/ontology/rightTributary	White River
+Yukon River	http://dbpedia.org/ontology/leftTributary	Tanana River
+Yukon River	http://dbpedia.org/ontology/flowingThrough	Canada
+Yukon River	http://dbpedia.org/ontology/flowingThrough	Alaska

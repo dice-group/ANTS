@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/england	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english-speaking_countries_and_territories
+http://dbpedia.org/resource/england	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:great_britain
+http://dbpedia.org/resource/england	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:germanic_countries_and_territories
+http://dbpedia.org/resource/england	http://dbpedia.org/property/status	http://dbpedia.org/resource/countries_of_the_united_kingdom
+http://dbpedia.org/resource/england	http://dbpedia.org/property/languages	http://dbpedia.org/resource/english_language_in_england
+http://dbpedia.org/resource/england	http://dbpedia.org/property/currency	http://dbpedia.org/resource/pound_sterling
+http://dbpedia.org/resource/england	http://dbpedia.org/property/legaljurisdiction	http://dbpedia.org/resource/england_and_wales
+http://dbpedia.org/resource/england	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/æthelstan
+http://dbpedia.org/resource/england	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/acts_of_union_1707
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/soundrecording	http://dbpedia.org/resource/england__sound__3

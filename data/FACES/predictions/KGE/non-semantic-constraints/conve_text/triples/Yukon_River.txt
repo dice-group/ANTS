@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/mouthregion	http://dbpedia.org/resource/alaska
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/canada
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/sourcemountain	http://dbpedia.org/resource/atlin_district
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/name	http://dbpedia.org/resource/manchester_city_f.c.
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/sourceregion	http://dbpedia.org/resource/british_columbia
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/mouthmountain	http://dbpedia.org/resource/wade_hampton_census_area,_alaska
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/mouthcountry	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/after	http://dbpedia.org/resource/richard_mentor_johnson
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/rivermouth	http://dbpedia.org/resource/bering_sea

@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:starsailor_(band)_songs
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2003_singles
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/starsailor_(band)
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/whole100003553
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/ontology/silvermedalist	http://dbpedia.org/resource/silence_is_easy
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:emi_records_singles
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q134556
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/single
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_james_stelfox
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:song_recordings_produced_by_phil_spector

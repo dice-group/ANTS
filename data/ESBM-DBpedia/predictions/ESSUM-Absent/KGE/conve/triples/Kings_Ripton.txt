@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:civil_parishes_in_cambridgeshire
+http://dbpedia.org/resource/kings_ripton	http://xmlns.com/foaf/0.1/depiction	http://commons.wikimedia.org/wiki/special:filepath/st_peter's,_kings_ripton_-_geograph.org.uk_-_839692.jpg
+http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:huntingdonshire
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/ontology/thumbnail	http://commons.wikimedia.org/wiki/special:filepath/st_peter's,_kings_ripton_-_geograph.org.uk_-_839692.jpg?width=300
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_kingdom
+http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:villages_in_cambridgeshire
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/cambridgeshire
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167

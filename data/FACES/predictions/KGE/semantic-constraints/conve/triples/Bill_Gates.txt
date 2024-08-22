@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_nonprofit_chief_executives
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_corporate_directors
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_inventors
+http://dbpedia.org/resource/bill_gates	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/microsoft
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:21st-century_american_engineers
+http://dbpedia.org/resource/bill_gates	http://dbpedia.org/ontology/spouse	http://dbpedia.org/resource/melinda_french_gates
+http://dbpedia.org/resource/bill_gates	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/bill_gates	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/bill_&_melinda_gates_foundation
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_people_of_german_descent
+http://dbpedia.org/resource/bill_gates	http://dbpedia.org/property/venues	http://dbpedia.org/resource/harvard_university
+http://dbpedia.org/resource/bill_gates	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species

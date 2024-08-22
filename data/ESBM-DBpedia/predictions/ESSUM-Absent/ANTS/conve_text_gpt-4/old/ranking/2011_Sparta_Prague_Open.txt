@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/2011_sparta_prague_open	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:geography_of_thuringia
+http://dbpedia.org/resource/2011_sparta_prague_open	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_in_czech_sport
+http://dbpedia.org/resource/2011_sparta_prague_open	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:sparta_prague_open
+http://dbpedia.org/resource/2011_sparta_prague_open	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_itf_women's_circuit
+2011 Sparta Prague Open	http://dbpedia.org/ontology/country	Czech Republic
+2011 Sparta Prague Open	http://dbpedia.org/ontology/location	Prague
+2011 Sparta Prague Open	http://dbpedia.org/ontology/date	2011-05-14
+2011 Sparta Prague Open	http://dbpedia.org/ontology/tenant	TK Sparta Praha
+2011 Sparta Prague Open	http://dbpedia.org/ontology/participant	Anastasia Pavlyuchenkova
+2011 Sparta Prague Open	http://dbpedia.org/ontology/sport	Tennis
+2011 Sparta Prague Open	http://dbpedia.org/ontology/category	Tennis tournaments in the Czech Republic
+2011 Sparta Prague Open	http://dbpedia.org/ontology/champion	Magdaléna Rybáriková
+2011 Sparta Prague Open	http://dbpedia.org/ontology/event	Tennis
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/recordedin	http://commons.wikimedia.org/wiki/special:filepath/reamer_barn.jpg
+http://dbpedia.org/resource/2011_sparta_prague_open	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/sagami_railway_izumino_line
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/guilty_as_charged
+http://dbpedia.org/resource/2011_sparta_prague_open	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/2011_sparta_prague_open	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/2011_sparta_prague_open	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent
+http://dbpedia.org/resource/2011_sparta_prague_open	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/stirling_moss
+2011 Sparta Prague Open	http://dbpedia.org/ontology/surface	Clay
+2011 Sparta Prague Open	http://dbpedia.org/ontology/prizeMoney	100,000
+2011 Sparta Prague Open	http://dbpedia.org/ontology/runnerUp	Petra Cetkovská
+2011 Sparta Prague Open	http://dbpedia.org/ontology/sponsor	Sparta
+2011 Sparta Prague Open	http://dbpedia.org/ontology/previousEdition	2010 Sparta Prague Open
+2011 Sparta Prague Open	http://dbpedia.org/ontology/nextEdition	2012 Sparta Prague Open
+2011 Sparta Prague Open	http://dbpedia.org/ontology/editionNumber	13
+2011 Sparta Prague Open	http://dbpedia.org/ontology/venue	TK Sparta Praha
+2011 Sparta Prague Open	http://dbpedia.org/ontology/numberOfParticipants	32
+2011 Sparta Prague Open	http://dbpedia.org/ontology/associatedLeague	ITF Women's Circuit
+2011 Sparta Prague Open	http://dbpedia.org/ontology/organiser	TK Sparta Praha

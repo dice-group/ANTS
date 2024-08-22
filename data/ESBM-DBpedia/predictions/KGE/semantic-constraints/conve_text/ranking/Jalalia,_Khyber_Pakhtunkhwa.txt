@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/jalalia,_khyber_pakhtunkhwa	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/jalalia,_khyber_pakhtunkhwa	http://dbpedia.org/property/city	http://dbpedia.org/resource/dorchester,_dorset
+http://dbpedia.org/resource/jalalia,_khyber_pakhtunkhwa	http://dbpedia.org/ontology/inflow	http://dbpedia.org/resource/burnt_river_(ontario)
+http://dbpedia.org/resource/jalalia,_khyber_pakhtunkhwa	http://dbpedia.org/property/blank1infosec	http://dbpedia.org/resource/diácono_joão_luiz_pozzobon
+http://dbpedia.org/resource/jalalia,_khyber_pakhtunkhwa	http://dbpedia.org/property/blank1infosec	http://dbpedia.org/resource/são_josé,_santa_maria

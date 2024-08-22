@@ -1,0 +1,22 @@
+2009–10 Swiss Cup	http://dbpedia.org/ontology/numberOfMatches	65
+2009–10 Swiss Cup	http://dbpedia.org/ontology/country	Switzerland
+2009–10 Swiss Cup	http://dbpedia.org/ontology/location	Switzerland
+http://dbpedia.org/resource/2009–10_swiss_cup	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/2012–13_debreceni_vsc_season
+2009–10 Swiss Cup	http://dbpedia.org/ontology/award	FC Basel
+2009–10 Swiss Cup	http://dbpedia.org/ontology/date	2009–2010
+2009–10 Swiss Cup	http://dbpedia.org/ontology/season	2009-2010
+2009–10 Swiss Cup	http://dbpedia.org/ontology/previousEvent	2008–09 Swiss Cup
+2009–10 Swiss Cup	http://dbpedia.org/ontology/followingEvent	2010–11 Swiss Cup
+2009–10 Swiss Cup	http://dbpedia.org/ontology/sport	Association football
+2009–10 Swiss Cup	http://dbpedia.org/ontology/isPartOf	Swiss Cup
+2009–10 Swiss Cup	http://dbpedia.org/ontology/champion	FC Basel
+2009–10 Swiss Cup	http://dbpedia.org/ontology/numberOfTeams	64
+http://dbpedia.org/resource/2009–10_swiss_cup	http://xmlns.com/foaf/0.1/depiction	http://commons.wikimedia.org/wiki/special:filepath/wembley_stadium,_illuminated.jpg
+http://dbpedia.org/resource/2009–10_swiss_cup	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/saint-raphaël,_var
+http://dbpedia.org/resource/2009–10_swiss_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/soccertournament
+http://dbpedia.org/resource/2009–10_swiss_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/tournament
+2009–10 Swiss Cup	http://dbpedia.org/ontology/winner	FC Basel
+2009–10 Swiss Cup	http://dbpedia.org/ontology/runnerUp	Lausanne-Sport
+2009–10 Swiss Cup	http://dbpedia.org/ontology/competition	Swiss Football Association
+2009–10 Swiss Cup	http://dbpedia.org/ontology/referee	Massimo Busacca
+2009–10 Swiss Cup	http://dbpedia.org/ontology/venue	Stade de Suisse

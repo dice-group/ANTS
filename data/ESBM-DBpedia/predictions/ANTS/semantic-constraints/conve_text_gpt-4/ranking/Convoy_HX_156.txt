@@ -1,0 +1,31 @@
+Convoy HX 156	http://dbpedia.org/ontology/location	North Atlantic
+Convoy HX 156	http://dbpedia.org/ontology/class	HX convoys
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/commander	http://dbpedia.org/resource/admiral
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/place	http://dbpedia.org/resource/north_atlantic
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/vukoman_aračić
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/johan_pein
+Convoy HX 156	http://dbpedia.org/ontology/commander	Edward Stephen Fogarty Fegen
+Convoy HX 156	http://dbpedia.org/ontology/previousWork	Convoy HX 155
+Convoy HX 156	http://dbpedia.org/ontology/combatant	United Kingdom
+Convoy HX 156	http://dbpedia.org/ontology/strength	42 ships
+Convoy HX 156	http://dbpedia.org/ontology/place	North Atlantic Ocean
+Convoy HX 156	http://dbpedia.org/ontology/affiliation	Allied Forces
+Convoy HX 156	http://dbpedia.org/ontology/date	1941-10-23
+Convoy HX 156	http://dbpedia.org/ontology/related	Battle of the Atlantic
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/elberfeld
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/baghdad
+Convoy HX 156	http://dbpedia.org/ontology/territory	United Kingdom
+Convoy HX 156	http://dbpedia.org/ontology/name	"Convoy HX 156"
+Convoy HX 156	http://dbpedia.org/ontology/casualties	1 ship sunk
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/world_war_ii
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/secondteam	http://dbpedia.org/resource/fc_barcelona_femení
+http://dbpedia.org/resource/convoy_hx_156	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:naval_battles_of_world_war_ii_involving_the_united_states
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/markdescription	http://dbpedia.org/resource/wrocław
+Convoy HX 156	http://dbpedia.org/ontology/partOf	Battle of the Atlantic
+Convoy HX 156	http://dbpedia.org/ontology/militaryConflict	Battle of the Atlantic
+Convoy HX 156	http://dbpedia.org/ontology/outcome	Reached destination without loss
+Convoy HX 156	http://dbpedia.org/ontology/followingWork	Convoy HX 157
+Convoy HX 156	http://dbpedia.org/ontology/force	Royal Navy
+Convoy HX 156	http://dbpedia.org/ontology/strategy	"escort group system"
+Convoy HX 156	http://dbpedia.org/ontology/ship	USS Kearny
+Convoy HX 156	http://dbpedia.org/ontology/wasPartOf	Battle of the Atlantic

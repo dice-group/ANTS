@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/property/title	http://dbpedia.org/resource/german_campaign_of_1813
+http://dbpedia.org/resource/2011_kor_royal_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_in_thai_football_cups
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/suphachalasai_stadium
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/property/city	http://dbpedia.org/resource/bangkok
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/followingevent	http://dbpedia.org/resource/2012_kor_royal_cup

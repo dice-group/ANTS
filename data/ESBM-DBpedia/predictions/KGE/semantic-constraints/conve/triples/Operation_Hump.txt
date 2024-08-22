@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:history_of_đồng_nai_province
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1965_in_vietnam
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_vietnam_war_involving_the_united_states
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_and_operations_of_the_vietnam_war_in_1965
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/ellis_w._williamson
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_vietnam_war_involving_australia
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/vietnam_war
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/đồng_nai_province

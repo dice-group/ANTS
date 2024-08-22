@@ -1,0 +1,20 @@
+Kings Ripton	http://dbpedia.org/ontology/country	United Kingdom
+Kings Ripton	http://dbpedia.org/ontology/location	Huntingdonshire
+Kings Ripton	http://dbpedia.org/ontology/utcOffset	0
+Kings Ripton	http://dbpedia.org/ontology/timeZone	GMT
+Kings Ripton	http://dbpedia.org/ontology/elevation	22
+Kings Ripton	http://dbpedia.org/ontology/postalCode	PE28
+Kings Ripton	http://dbpedia.org/ontology/areaTotal	9.366
+Kings Ripton	http://dbpedia.org/ontology/areaCode	01487
+Kings Ripton	http://dbpedia.org/ontology/leaderTitle	Parish Council Chairman
+Kings Ripton	http://dbpedia.org/ontology/nearestCity	Huntingdon
+Kings Ripton	http://dbpedia.org/ontology/governmentType	Civil parish
+Kings Ripton	http://dbpedia.org/ontology/demonym	Kings Riptonian
+Kings Ripton	http://dbpedia.org/ontology/isPartOf	Cambridgeshire
+Kings Ripton	http://dbpedia.org/ontology/currency	Pound sterling
+Kings Ripton	http://dbpedia.org/ontology/officialLanguage	English
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing

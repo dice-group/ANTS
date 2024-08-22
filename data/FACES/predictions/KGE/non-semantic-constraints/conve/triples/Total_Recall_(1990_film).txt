@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/michael_ironside
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/rachel_ticotin
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/sharon_stone
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/director	http://dbpedia.org/resource/paul_verhoeven
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/ronny_cox
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/ontology/musiccomposer	http://dbpedia.org/resource/jerry_goldsmith
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/jost_vacano

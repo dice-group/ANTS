@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english-language_films
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/country	United States
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/bob_burns_(comedian)
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/charles_bickford
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/susan_hayward
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/starring	Susan Hayward
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/rock_music
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/genre	Comedy.
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/writer	Anthony Veiller
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/runtime	80 minutes
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/producer	Adolph Zukor
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/releaseDate	1939-08-04
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/director	Alfred Santell.
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/language	English
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/distributor	Paramount Pictures
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/musicComposer	Gerard Carbonara
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/cinematography	Henry Sharp
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/productionCompany	Paramount Pictures.
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/editing	Otto Meyer
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/basedOn	Uncle Dudley
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/studio	Paramount Pictures
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/boxOffice	Not available
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/filmFestival	None

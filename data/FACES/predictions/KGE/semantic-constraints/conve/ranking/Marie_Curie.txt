@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/marie_curie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/marie_curie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:19th-century_french_chemists
+http://dbpedia.org/resource/marie_curie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:19th-century_french_inventors
+http://dbpedia.org/resource/marie_curie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:congress_poland_emigrants_to_france
+http://dbpedia.org/resource/marie_curie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:french_atheists
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/doctoralstudent	http://dbpedia.org/resource/ladislas_goldstein
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/congress_poland
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/academicdiscipline	http://dbpedia.org/resource/chemistry
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/property/doctoraladvisor	http://dbpedia.org/resource/gabriel_lippmann
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/doctoralstudent	http://dbpedia.org/resource/marguerite_perey

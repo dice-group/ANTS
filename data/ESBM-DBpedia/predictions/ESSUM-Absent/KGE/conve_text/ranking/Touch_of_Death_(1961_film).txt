@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:black-and-white_films
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/marcel_hensema
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/ispartof	http://dbpedia.org/resource/william_lucas_(actor)
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/eddy_terstall
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work

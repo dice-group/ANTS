@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/henriiv.jpg/200px-henriiv.jpg
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/issue	http://dbpedia.org/resource/louis_xiii_of_france
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/jeanne_d'albret
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/kingdom_of_navarre
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/jeanne_iii_of_navarre
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/succession	http://dbpedia.org/resource/list_of_french_monarchs
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/pau,_pyr%c3%a9n%c3%a9es-atlantiques
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/henry_iii_of_france
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/succession	http://dbpedia.org/resource/list_of_navarrese_monarchs

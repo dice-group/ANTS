@@ -1,0 +1,26 @@
+Convoy HX 156	http://dbpedia.org/ontology/location	North Atlantic
+Convoy HX 156	http://dbpedia.org/ontology/class	HX convoys
+Convoy HX 156	http://dbpedia.org/ontology/commander	Edward Stephen Fogarty Fegen
+Convoy HX 156	http://dbpedia.org/ontology/previousWork	Convoy HX 155
+Convoy HX 156	http://dbpedia.org/ontology/combatant	United Kingdom
+Convoy HX 156	http://dbpedia.org/ontology/strength	42 ships
+Convoy HX 156	http://dbpedia.org/ontology/place	North Atlantic Ocean
+Convoy HX 156	http://dbpedia.org/ontology/affiliation	Allied Forces
+Convoy HX 156	http://dbpedia.org/ontology/date	1941-10-23
+Convoy HX 156	http://dbpedia.org/ontology/related	Battle of the Atlantic
+Convoy HX 156	http://dbpedia.org/ontology/territory	United Kingdom
+Convoy HX 156	http://dbpedia.org/ontology/name	Convoy HX 156
+Convoy HX 156	http://dbpedia.org/ontology/casualties	1 ship sunk
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+Convoy HX 156	http://dbpedia.org/ontology/partOf	Battle of the Atlantic
+Convoy HX 156	http://dbpedia.org/ontology/militaryConflict	Battle of the Atlantic
+Convoy HX 156	http://dbpedia.org/ontology/outcome	Reached destination without loss
+Convoy HX 156	http://dbpedia.org/ontology/followingWork	Convoy HX 157
+Convoy HX 156	http://dbpedia.org/ontology/force	Royal Navy
+Convoy HX 156	http://dbpedia.org/ontology/strategy	escort group system
+Convoy HX 156	http://dbpedia.org/ontology/ship	USS Kearny
+Convoy HX 156	http://dbpedia.org/ontology/wasPartOf	Battle of the Atlantic

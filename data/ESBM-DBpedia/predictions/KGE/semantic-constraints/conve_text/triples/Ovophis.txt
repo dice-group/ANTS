@@ -1,0 +1,2 @@
+http://dbpedia.org/resource/ovophis	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/insect
+http://dbpedia.org/resource/ovophis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:snake_genera

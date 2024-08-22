@@ -1,0 +1,29 @@
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:japanese_mystery_writers
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:nagoya_university_alumni
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:writers_from_aichi_prefecture
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/writer
+Hiroshi Mori writer	http://dbpedia.org/ontology/birthPlace	Atsugi,  Kanagawa
+Hiroshi Mori writer	http://dbpedia.org/ontology/birthPlace	Japan
+Hiroshi Mori writer	http://dbpedia.org/ontology/birthDate	1957-12-07.
+Hiroshi Mori writer	http://dbpedia.org/ontology/birthDate	1957-12-07
+Hiroshi Mori writer	http://dbpedia.org/ontology/occupation	Writer
+Hiroshi Mori writer	http://dbpedia.org/ontology/genre	Mystery fiction
+Hiroshi Mori writer	http://dbpedia.org/ontology/almaMater	Tokai University
+Hiroshi Mori writer	http://dbpedia.org/ontology/award	Mystery Writers of Japan Award
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://dbpedia.org/property/children	http://dbpedia.org/resource/einstein_family
+Hiroshi Mori writer	http://dbpedia.org/ontology/nationality	Japan
+Hiroshi Mori writer	http://dbpedia.org/ontology/language	Japanese
+Hiroshi Mori writer	http://dbpedia.org/ontology/education	Kyoto University
+Hiroshi Mori writer	http://dbpedia.org/ontology/academicDiscipline	Architecture
+Hiroshi Mori writer	http://dbpedia.org/ontology/residence	Japan
+Hiroshi Mori writer	http://dbpedia.org/ontology/influencedBy	Edogawa Ranpo
+Hiroshi Mori writer	http://dbpedia.org/ontology/employer	Kyoto University
+Hiroshi Mori writer	http://dbpedia.org/ontology/notableWork	The Perfect Insider
+Hiroshi Mori writer	http://dbpedia.org/ontology/pseudonym	Morimura Seiichi
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://dbpedia.org/ontology/notablework	http://dbpedia.org/resource/subete_ga_f_ni_naru
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/aichi_prefecture
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://dbpedia.org/ontology/notablework	http://dbpedia.org/resource/the_sky_crawlers
+Hiroshi Mori writer	http://dbpedia.org/ontology/website	http://morinoie.jp/
+Hiroshi Mori writer	http://dbpedia.org/ontology/children	Rina Mori

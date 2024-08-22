@@ -1,0 +1,30 @@
+Usain Bolt	http://dbpedia.org/ontology/team	Jamaica athletics team
+Usain Bolt	http://dbpedia.org/ontology/birthPlace	Sherwood Content
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:bbc_sports_personality_world_sport_star_of_the_year_winners
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:medalists_at_the_2012_summer_olympics
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:track_&_field_news_athlete_of_the_year_winners
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:medalists_at_the_2016_summer_olympics
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:competitors_stripped_of_summer_olympics_medals
+Usain Bolt	http://dbpedia.org/ontology/country	Jamaica
+Usain Bolt	http://dbpedia.org/ontology/occupation	Athlete
+Usain Bolt	http://dbpedia.org/ontology/height	1.95 m
+Usain Bolt	http://dbpedia.org/ontology/recordLabel	G.H. Mumm
+Usain Bolt	http://dbpedia.org/ontology/award	IAAF World Athlete of the Year
+Usain Bolt	http://dbpedia.org/ontology/nationality	Jamaica
+Usain Bolt	http://dbpedia.org/ontology/associatedMusicalArtist	NJ
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/property/sport	http://dbpedia.org/resource/track_and_field
+Usain Bolt	http://dbpedia.org/ontology/weight	"207 pounds"
+Usain Bolt	http://dbpedia.org/ontology/education	University of Technology Jamaica
+Usain Bolt	http://dbpedia.org/ontology/child	None
+Usain Bolt	http://dbpedia.org/ontology/residence	Kingston Jamaica
+Usain Bolt	http://dbpedia.org/ontology/parent	Jennifer Bolt.
+Usain Bolt	http://dbpedia.org/ontology/parent	Wellesley Bolt.
+Usain Bolt	http://dbpedia.org/ontology/relative	Sadiki Bolt
+Usain Bolt	http://dbpedia.org/ontology/coach	Glen Mills
+Usain Bolt	http://dbpedia.org/ontology/sport	Athletics
+Usain Bolt	http://dbpedia.org/ontology/category	Jamaican male sprinters
+Usain Bolt	http://dbpedia.org/ontology/partner	Kasi Bennett
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/ontology/topleveldomain	http://dbpedia.org/resource/category:medalists_at_the_2008_summer_olympics
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/sherwood_content
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/property/restoredby	http://dbpedia.org/resource/category:athletes_(track_and_field)_at_the_2008_summer_olympics
+Usain Bolt	http://dbpedia.org/ontology/sponsor	Puma

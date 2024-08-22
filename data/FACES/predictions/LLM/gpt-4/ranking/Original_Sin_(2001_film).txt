@@ -1,0 +1,20 @@
+Original Sin 2001 film	http://dbpedia.org/ontology/country	United States
+Original Sin 2001 film	http://dbpedia.org/ontology/starring	Angelina Jolie
+Original Sin 2001 film	http://dbpedia.org/ontology/genre	Thriller
+Original Sin 2001 film	http://dbpedia.org/ontology/writer	Cornell Woolrich
+Original Sin 2001 film	http://dbpedia.org/ontology/runtime	118 minutes
+Original Sin 2001 film	http://dbpedia.org/ontology/producer	Denise Di Novi
+Original Sin 2001 film	http://dbpedia.org/ontology/releaseDate	2001-08-03
+Original Sin 2001 film	http://dbpedia.org/ontology/director	Michael Cristofer
+Original Sin 2001 film	http://dbpedia.org/ontology/language	English
+Original Sin 2001 film	http://dbpedia.org/ontology/distributor	Metro-Goldwyn-Mayer
+Original Sin 2001 film	http://dbpedia.org/ontology/musicComposer	Terence Blanchard
+Original Sin 2001 film	http://dbpedia.org/ontology/cinematography	Rodrigo Prieto
+Original Sin 2001 film	http://dbpedia.org/ontology/productionCompany	Metro-Goldwyn-Mayer
+Original Sin 2001 film	http://dbpedia.org/ontology/editing	Luis Colina
+Original Sin 2001 film	http://dbpedia.org/ontology/budget	$42 million
+Original Sin 2001 film	http://dbpedia.org/ontology/gross	$10, 019, 109
+Original Sin 2001 film	http://dbpedia.org/ontology/basedOn	Waltz into Darkness
+Original Sin 2001 film	http://dbpedia.org/ontology/filmLocation	Mexico
+Original Sin 2001 film	http://dbpedia.org/ontology/screenplay	Michael Cristofer
+Original Sin 2001 film	http://dbpedia.org/ontology/costumeDesigner	Dona Granata.

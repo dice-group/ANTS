@@ -1,0 +1,22 @@
+http://dbpedia.org/resource/wehlaberg	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/hill
+Wehlaberg	http://dbpedia.org/ontology/country	Germany
+Wehlaberg	http://dbpedia.org/ontology/location	Germany
+Wehlaberg	http://dbpedia.org/ontology/elevation	525.0
+Wehlaberg	http://dbpedia.org/ontology/state	Thuringia
+Wehlaberg	http://dbpedia.org/ontology/nearestCity	Uslar
+Wehlaberg	http://dbpedia.org/ontology/mountainRange	Harz
+Wehlaberg	http://dbpedia.org/ontology/prominence	153.0
+Wehlaberg	http://dbpedia.org/ontology/name	Wehlaberg
+http://dbpedia.org/resource/wehlaberg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/naturalplace
+http://dbpedia.org/resource/wehlaberg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/mountain
+http://dbpedia.org/resource/wehlaberg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/wehlaberg	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:hills_of_brandenburg
+Wehlaberg	http://dbpedia.org/ontology/parentPeak	Harz
+Wehlaberg	http://dbpedia.org/ontology/ascentRoute	Via Jena
+Wehlaberg	http://dbpedia.org/ontology/isolation	3.06 kilometres
+Wehlaberg	http://dbpedia.org/ontology/topoMap	TK25
+Wehlaberg	http://dbpedia.org/ontology/coordinateLocation	Point11.0167 51.25
+Wehlaberg	http://dbpedia.org/ontology/geology	Variscan orogeny
+Wehlaberg	http://dbpedia.org/ontology/protectedArea	Biosphärenreservat Schorfheide-Chorin
+Wehlaberg	http://dbpedia.org/ontology/photo	http://commons.wikimedia.org/wiki/Special:FilePath/Wehlaberg.JPG
+Wehlaberg	http://dbpedia.org/ontology/borderingCountry	Germany

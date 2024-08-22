@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/property/placeofdeath	http://dbpedia.org/resource/hessen
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/property/placeofdeath	http://dbpedia.org/resource/hesse
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/engel_group
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/property/knownfor	http://dbpedia.org/resource/engel_expansion
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/property/placeofdeath	http://dbpedia.org/resource/germany
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/leipzig_university
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/university_of_berlin
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/university_of_leipzig
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/mathematics

@@ -1,0 +1,3 @@
+http://dbpedia.org/resource/rubus_arizonensis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_texas
+http://dbpedia.org/resource/rubus_arizonensis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:plants_described_in_1914
+http://dbpedia.org/resource/rubus_arizonensis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:rubus

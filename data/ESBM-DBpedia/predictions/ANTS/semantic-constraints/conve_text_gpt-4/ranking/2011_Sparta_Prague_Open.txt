@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/2011_sparta_prague_open	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
+http://dbpedia.org/resource/2011_sparta_prague_open	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+2011 Sparta Prague Open	http://dbpedia.org/ontology/country	Czech Republic
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/hampden_park
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/celtic_park
+2011 Sparta Prague Open	http://dbpedia.org/ontology/location	Prague
+2011 Sparta Prague Open	http://dbpedia.org/ontology/date	2011-05-14
+2011 Sparta Prague Open	http://dbpedia.org/ontology/tenant	TK Sparta Praha
+2011 Sparta Prague Open	http://dbpedia.org/ontology/participant	Anastasia Pavlyuchenkova
+2011 Sparta Prague Open	http://dbpedia.org/ontology/sport	Tennis
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/history_of_spain_(1810–73)
+2011 Sparta Prague Open	http://dbpedia.org/ontology/category	Tennis tournaments in the Czech Republic
+2011 Sparta Prague Open	http://dbpedia.org/ontology/champion	Magdaléna Rybáriková
+2011 Sparta Prague Open	http://dbpedia.org/ontology/event	Tennis
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/championindoublemale	http://dbpedia.org/resource/petra_cetkovská
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/championinmixeddouble	http://dbpedia.org/resource/tatiana_golovin
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/championinsinglefemale	http://dbpedia.org/resource/michaëlla_krajicek
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/championinmixeddouble	http://dbpedia.org/resource/richard_gasquet
+http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/poledriver	http://dbpedia.org/resource/jim_clark
+2011 Sparta Prague Open	http://dbpedia.org/ontology/surface	Clay
+2011 Sparta Prague Open	http://dbpedia.org/ontology/prizeMoney	100, 000
+2011 Sparta Prague Open	http://dbpedia.org/ontology/runnerUp	Petra Cetkovská
+2011 Sparta Prague Open	http://dbpedia.org/ontology/sponsor	Sparta
+2011 Sparta Prague Open	http://dbpedia.org/ontology/previousEdition	2010 Sparta Prague Open
+2011 Sparta Prague Open	http://dbpedia.org/ontology/nextEdition	2012 Sparta Prague Open
+2011 Sparta Prague Open	http://dbpedia.org/ontology/editionNumber	13
+2011 Sparta Prague Open	http://dbpedia.org/ontology/venue	TK Sparta Praha
+2011 Sparta Prague Open	http://dbpedia.org/ontology/numberOfParticipants	32
+2011 Sparta Prague Open	http://dbpedia.org/ontology/associatedLeague	ITF Women's Circuit
+2011 Sparta Prague Open	http://dbpedia.org/ontology/organiser	TK Sparta Praha

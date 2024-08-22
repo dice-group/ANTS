@@ -1,0 +1,27 @@
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/woodlouse
+Lygodium microphyllum	http://dbpedia.org/ontology/family	Lygodiaceae
+Lygodium microphyllum	http://dbpedia.org/ontology/class	Species
+Lygodium microphyllum	http://dbpedia.org/ontology/order	Schizaeales
+Lygodium microphyllum	http://dbpedia.org/ontology/phylum	Pteridophyta
+Lygodium microphyllum	http://dbpedia.org/ontology/kingdom	Plantae
+Lygodium microphyllum	http://dbpedia.org/ontology/synonym	"Lygodium heterodoxum"
+Lygodium microphyllum	http://dbpedia.org/ontology/genus	Lygodium
+Lygodium microphyllum	http://dbpedia.org/ontology/binomialAuthority	Carl Borivoj Presl
+Lygodium microphyllum	http://dbpedia.org/ontology/related	Invasive species
+Lygodium microphyllum	http://dbpedia.org/ontology/domain	Plantae
+Lygodium microphyllum	http://dbpedia.org/ontology/isPartOf	Pteridophyta
+Lygodium microphyllum	http://dbpedia.org/ontology/conservationStatus	Least Concern
+Lygodium microphyllum	http://dbpedia.org/ontology/species	Lygodium
+Lygodium microphyllum	http://dbpedia.org/ontology/commonName	"Old World climbing fern"
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_the_northwestern_pacific
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_fiji
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/fern
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:ferns_of_africa
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:plants_described_in_1801
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_china
+Lygodium microphyllum	http://dbpedia.org/ontology/habitat	Swamps
+Lygodium microphyllum	http://dbpedia.org/ontology/distribution	Southeast Asia
+Lygodium microphyllum	http://dbpedia.org/ontology/nativeRange	Southeast Asia
+Lygodium microphyllum	http://dbpedia.org/ontology/tribe	Lygodiaceae
+Lygodium microphyllum	http://dbpedia.org/ontology/subfamily	Schizaeoideae
+Lygodium microphyllum	http://dbpedia.org/ontology/invasiveTo	Florida

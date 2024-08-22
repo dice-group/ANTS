@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/stara_bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/stara_bučka	http://dbpedia.org/ontology/subdivision	http://dbpedia.org/resource/lower_carniola
+http://dbpedia.org/resource/stara_bučka	http://dbpedia.org/property/p	http://dbpedia.org/resource/joseph_vantini
+http://dbpedia.org/resource/stara_bučka	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/southeast_slovenia_statistical_region
+http://dbpedia.org/resource/stara_bučka	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/municipalities_of_slovenia

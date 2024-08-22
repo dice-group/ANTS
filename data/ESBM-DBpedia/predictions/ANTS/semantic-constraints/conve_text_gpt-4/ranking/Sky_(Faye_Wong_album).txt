@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mandopop_albums
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/cantopop
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/mandopop
+Sky Faye Wong album	http://dbpedia.org/ontology/country	Hong Kong
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/label	http://dbpedia.org/resource/cinepoly
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/producer	http://dbpedia.org/resource/lou_adler
+Sky Faye Wong album	http://dbpedia.org/ontology/genre	Cantopop
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/artist	http://dbpedia.org/resource/faye_wong
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/rev	http://dbpedia.org/resource/allmusic
+Sky Faye Wong album	http://dbpedia.org/ontology/recordLabel	Cinepoly
+Sky Faye Wong album	http://dbpedia.org/ontology/award	Golden Melody Award for Best Mandarin Female Singer
+Sky Faye Wong album	http://dbpedia.org/ontology/producer	Faye Wong
+Sky Faye Wong album	http://dbpedia.org/ontology/releaseDate	"1994-11-10"
+Sky Faye Wong album	http://dbpedia.org/ontology/releaseDate	10 November 1994
+Sky Faye Wong album	http://dbpedia.org/ontology/associatedBand	Faye Wong
+Sky Faye Wong album	http://dbpedia.org/ontology/associatedMusicalArtist	Faye Wong
+Sky Faye Wong album	http://dbpedia.org/ontology/language	Chinese
+Sky Faye Wong album	http://dbpedia.org/ontology/artist	Faye Wong
+Sky Faye Wong album	http://dbpedia.org/ontology/previousWork	Random Thoughts Faye Wong album
+Sky Faye Wong album	http://dbpedia.org/ontology/engineer	Yoshihiko Kannari
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/nexttitle	http://dbpedia.org/resource/please_myself
+Sky Faye Wong album	http://dbpedia.org/ontology/followingWork	Fable Faye Wong album
+Sky Faye Wong album	http://dbpedia.org/ontology/musicFormat	CD
+Sky Faye Wong album	http://dbpedia.org/ontology/certification	Gold
+Sky Faye Wong album	http://dbpedia.org/ontology/studio	Chung King Studios
+Sky Faye Wong album	http://dbpedia.org/ontology/mixingEngineer	Alvin Leong
+Sky Faye Wong album	http://dbpedia.org/ontology/masteringEngineer	Doug Sax
+Sky Faye Wong album	http://dbpedia.org/ontology/coverArt	https://en.wikipedia.org/wiki/File:Faye_Wong_Sky.jpg

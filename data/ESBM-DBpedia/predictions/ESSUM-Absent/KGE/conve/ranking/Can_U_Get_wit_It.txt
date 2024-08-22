@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/can_u_get_wit_it	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/can_u_get_wit_it	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/can_u_get_wit_it	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/can_u_get_wit_it	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/single
+http://dbpedia.org/resource/can_u_get_wit_it	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/laface_records
+http://dbpedia.org/resource/can_u_get_wit_it	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/medium106254669

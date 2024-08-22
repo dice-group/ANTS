@@ -1,0 +1,1 @@
+ <H> czech_republic <R> establishedevent <T> czechoslovakia <H> czech_republic <R> leadername <T> milo%c5%a1_zeman <H> czech_republic <R> officiallanguages <T> czech_language <H> czech_republic <R> governmenttype <T> parliamentary_republic <H> czech_republic <R> establishedevent <T> dissolution_of_czechoslovakia

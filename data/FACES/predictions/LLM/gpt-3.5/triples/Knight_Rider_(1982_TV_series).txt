@@ -1,0 +1,15 @@
+Knight Rider (1982 TV series)	premieredOn	September 26, 1982
+Knight Rider (1982 TV series)	createdBy	Glen A. Larson
+Knight Rider (1982 TV series)	mainCharacter	Michael Knight
+Knight Rider (1982 TV series)	mainActor	David Hasselhoff
+Knight Rider (1982 TV series)	genre	Action
+Knight Rider (1982 TV series)	setting	Los Angeles, California
+Knight Rider (1982 TV series)	themeSong	"Knight Rider Theme" by Stu Phillips
+Knight Rider (1982 TV series)	runningTime	45 minutes
+Knight Rider (1982 TV series)	numberofSeasons	4
+Knight Rider (1982 TV series)	numberofEpisodes	90
+Knight Rider (1982 TV series)	language	English
+Knight Rider (1982 TV series)	filmingLocation	California
+Knight Rider (1982 TV series)	vehicle	KITT (Knight Industries Two Thousand
+Knight Rider (1982 TV series)	villains	K.A.R.R. (Knight Automated Roving Robot
+Knight Rider (1982 TV series)	awards	2 Emmy Awards

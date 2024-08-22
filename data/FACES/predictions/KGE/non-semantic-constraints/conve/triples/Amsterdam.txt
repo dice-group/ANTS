@@ -1,0 +1,16 @@
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/parliamentary_republic
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/carolien_gehrels
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/eric_van_der_burg
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/populationblank1title	http://dbpedia.org/resource/demonym
+http://dbpedia.org/resource/amsterdam	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/amsterdam
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/parts	http://dbpedia.org/resource/amsterdam-centrum
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/maarten_van_poelgeest
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/andr%c3%a9e_van_es
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/amsterdam
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/automotive_industry
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/freek_ossel
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/amsterdam_collage.png/200px-amsterdam_collage.png
+http://dbpedia.org/resource/amsterdam	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/amsterdam?oldid=548577509
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/parts	http://dbpedia.org/resource/amsterdam-noord
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/parts	http://dbpedia.org/resource/amsterdam-zuidoost
+http://dbpedia.org/resource/amsterdam	http://dbpedia.org/ontology/timezone	http://dbpedia.org/resource/central_european_time

@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/dissolution_of_the_union_between_norway_and_sweden
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/nationallanguages	http://dbpedia.org/resource/scandoromani_language
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/occupation	http://dbpedia.org/resource/constitutional_monarchy
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/currency	http://dbpedia.org/resource/norwegian_krone
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/norway__historicalevent__6
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/norway__historicalevent__5
+http://dbpedia.org/resource/norway	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:countries_in_europe
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/norway__historicalevent__4
+http://dbpedia.org/resource/norway	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:872_establishments
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/carl_e._paulsen
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/topleveldomain	http://dbpedia.org/resource/.no
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/norway__historicalevent__1
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/governmenttype	http://dbpedia.org/resource/unitary_state
+http://dbpedia.org/resource/norway	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:member_states_of_the_european_free_trade_association
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/norway__historicalevent__8

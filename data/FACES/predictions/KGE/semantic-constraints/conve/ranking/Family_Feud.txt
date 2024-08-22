@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/family_feud	http://dbpedia.org/property/creator	http://dbpedia.org/resource/mark_goodson
+http://dbpedia.org/resource/family_feud	http://dbpedia.org/ontology/format	http://dbpedia.org/resource/monaural
+http://dbpedia.org/resource/family_feud	http://dbpedia.org/ontology/format	http://dbpedia.org/resource/5.1_surround_sound
+http://dbpedia.org/resource/family_feud	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1999_american_television_series_debuts
+http://dbpedia.org/resource/family_feud	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2010s_american_game_shows
+http://dbpedia.org/resource/family_feud	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:television_series_by_cbs_studios
+http://dbpedia.org/resource/family_feud	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:cbs_original_programming
+http://dbpedia.org/resource/family_feud	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_television_spin-offs
+http://dbpedia.org/resource/family_feud	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/family_feud	http://dbpedia.org/ontology/executiveproducer	http://dbpedia.org/resource/steve_harvey

@@ -1,0 +1,17 @@
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/soundrecording	http://dbpedia.org/resource/england__sound__4
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/soundrecording	http://dbpedia.org/resource/england__sound__3
+http://dbpedia.org/resource/england	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/callum_taylor_(english_cricketer)
+http://dbpedia.org/resource/england	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:great_britain
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/headquarter	http://dbpedia.org/resource/ryanair_uk
+http://dbpedia.org/resource/england	http://dbpedia.org/property/source	http://dbpedia.org/resource/william_shakespeare
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/hometown	http://dbpedia.org/resource/double_trouble_(dance_music_producers)
+http://dbpedia.org/resource/england	http://dbpedia.org/property/servicearea	http://dbpedia.org/resource/jolly_bus
+http://dbpedia.org/resource/england	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:germanic_countries_and_territories
+http://dbpedia.org/resource/england	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalartist
+http://dbpedia.org/resource/england	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/country
+http://dbpedia.org/resource/england	http://dbpedia.org/property/headquarters	http://dbpedia.org/resource/british_mediterranean_airways
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/director	http://dbpedia.org/resource/charles_iii
+http://dbpedia.org/resource/england	http://dbpedia.org/property/headquarters	http://dbpedia.org/resource/british_northwest_airlines
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/metro_report_international
+http://dbpedia.org/resource/england	http://dbpedia.org/property/region	http://dbpedia.org/resource/hertford_rugby_football_club
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/luctonians

@@ -1,0 +1,27 @@
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/saint-raphaël,_var	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/commune
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/france
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/municipalities_of_mexico
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/schmalkalden
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/property/east	http://dbpedia.org/resource/cleburne_county,_alabama
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/ontology/frazioni	http://dbpedia.org/resource/quaglietta
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/list_of_sovereign_states
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/property/blank2namesec	http://dbpedia.org/resource/icao_airport_code
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/property/blank1namesec	http://dbpedia.org/resource/iata_airport_code
+Saint-Raphaël	http://dbpedia.org/ontology/Var	postalCode,  83700
+Saint-Raphaël	http://dbpedia.org/ontology/Var	areaCode,  83700
+Saint-Raphaël	http://dbpedia.org/ontology/Var	elevation,  0
+Saint-Raphaël	http://dbpedia.org/ontology/Var	department,  Var
+Saint-Raphaël	http://dbpedia.org/ontology/Var	region,  Provence-Alpes-Côte d'Azur
+Saint-Raphaël	http://dbpedia.org/ontology/Var	country,  France
+Saint-Raphaël	http://dbpedia.org/ontology/Var	mayor,  Frédéric Masquelier
+Saint-Raphaël	http://dbpedia.org/ontology/Var	inseeCode,  83118
+Saint-Raphaël	http://dbpedia.org/ontology/Var	twinTown,  Fredericksburg,  Virginia
+Saint-Raphaël	http://dbpedia.org/ontology/Var	populationDensity,  372
+Saint-Raphaël	http://dbpedia.org/ontology/Var	timezone,  CET
+Saint-Raphaël	http://dbpedia.org/ontology/Var	areaTotal,  89.59
+Saint-Raphaël	http://dbpedia.org/ontology/Var	populationAsOf,  2020
+Saint-Raphaël	http://dbpedia.org/ontology/Var	leaderName,  Frédéric Masquelier
+Saint-Raphaël	http://dbpedia.org/ontology/Var	subdivisionType,  Commune
+Saint-Raphaël	http://dbpedia.org/ontology/Var	leaderTitle,  Mayor
+Saint-Raphaël	http://dbpedia.org/ontology/Var	governmentType,  Commune

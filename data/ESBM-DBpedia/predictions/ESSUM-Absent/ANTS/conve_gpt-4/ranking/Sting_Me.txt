@@ -1,0 +1,26 @@
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_rich_robinson
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1992_singles
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_chris_robinson_(singer)
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_recordings_(record_label)_singles
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:southern_rock_songs
+Sting Me	http://dbpedia.org/ontology/genre	Rock music
+Sting Me	http://dbpedia.org/ontology/runtime	4:39
+Sting Me	http://dbpedia.org/ontology/recordLabel	Def American
+Sting Me	http://dbpedia.org/ontology/producer	Brendan O'Brien
+Sting Me	http://dbpedia.org/ontology/releaseDate	1992-05-21
+Sting Me	http://dbpedia.org/ontology/releaseDate	1992-05-19
+Sting Me	http://dbpedia.org/ontology/releaseDate	1992-05-01
+Sting Me	http://dbpedia.org/ontology/associatedBand	The Black Crowes
+Sting Me	http://dbpedia.org/ontology/associatedMusicalArtist	The Black Crowes
+Sting Me	http://dbpedia.org/ontology/artist	The Black Crowes
+Sting Me	http://dbpedia.org/ontology/musicComposer	The Black Crowes
+Sting Me	http://dbpedia.org/ontology/previousWork	Remedy
+Sting Me	http://dbpedia.org/ontology/album	The Southern Harmony and Musical Companion
+Sting Me	http://dbpedia.org/ontology/soundRecording	The Black Crowes
+Sting Me	http://dbpedia.org/ontology/recordedIn	The Southern Harmony and Musical Companion
+Sting Me	http://dbpedia.org/ontology/lyrics	Treat me like I'm a bad girl,  even when I'm being good to you. I don't want you to thank me,  you can just spank me. Some guys like to sweet talk,  and others,  they like to tease,  tie my hands behind my back and,  ooh,  I'm in ecstasy.
+Sting Me	http://dbpedia.org/ontology/musicBy	The Black Crowes
+Sting Me	http://dbpedia.org/ontology/nextWork	Hotel Illness
+Sting Me	http://dbpedia.org/ontology/musicalBand	The Black Crowes
+Sting Me	http://dbpedia.org/ontology/musicalArtist	The Black Crowes
+Sting Me	http://dbpedia.org/ontology/certification	Gold

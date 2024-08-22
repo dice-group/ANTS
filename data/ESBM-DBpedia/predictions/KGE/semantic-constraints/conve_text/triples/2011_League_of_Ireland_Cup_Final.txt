@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/turners_cross_(stadium)
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:cork_city_f.c._matches
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:september_2011_sports_events_in_europe
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://dbpedia.org/property/commander	http://dbpedia.org/resource/fukushima_masanori
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:derry_city_f.c._matches
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_in_republic_of_ireland_association_football_cups
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://dbpedia.org/property/referee	http://dbpedia.org/resource/johan_verbist
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/derry_city_f.c.
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://dbpedia.org/property/venue	http://dbpedia.org/resource/sugiura_shigekatsu
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://dbpedia.org/property/venue	http://dbpedia.org/resource/oda_hidenobu

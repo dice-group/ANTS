@@ -1,0 +1,9 @@
+England	http://dbpedia.org/ontology/birthPlace	William Shakespeare
+England	http://dbpedia.org/ontology/award	Victoria Cross
+England	http://dbpedia.org/ontology/associatedBand	The Beatles
+England	http://dbpedia.org/ontology/associatedMusicalArtist	The Beatles
+England	http://dbpedia.org/ontology/alias	Blighty
+England	http://dbpedia.org/ontology/instrument	Church bell
+England	http://dbpedia.org/ontology/formationYear	927
+England	http://dbpedia.org/ontology/musicSubgenre	Britpop
+England	http://dbpedia.org/ontology/musicFestival	Glastonbury Festival

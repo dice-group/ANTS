@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/radomir_putnik
+http://dbpedia.org/resource/battle_of_bregalnica	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_second_balkan_war
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:vardar_macedonia_(1912–1918)
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/janko_vukotić
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/ottoman_empire
+http://dbpedia.org/resource/battle_of_bregalnica	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/event100029378
+http://dbpedia.org/resource/battle_of_bregalnica	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/battle_of_bregalnica	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/battle_of_bregalnica	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:conflicts_in_1913
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/živojin_mišić
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/mihail_savov
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/stiliyan_kovachev
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_involving_serbia

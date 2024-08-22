@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/property/location	http://dbpedia.org/resource/adelaide
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/ellis_w._williamson
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/melbourne
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/organisation
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/vietnam_war

@@ -1,0 +1,29 @@
+http://dbpedia.org/resource/juhan_muks	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/artist
+http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th-century_estonian_painters
+http://dbpedia.org/resource/juhan_muks	http://dbpedia.org/property/title	http://dbpedia.org/resource/list_of_awards_and_nominations_received_by_carey_mulligan
+Juhan Muks	http://dbpedia.org/ontology/birthPlace	Kambja Parish
+Juhan Muks	http://dbpedia.org/ontology/birthDate	1899-03-27
+Juhan Muks	http://dbpedia.org/ontology/occupation	Painter
+Juhan Muks	http://dbpedia.org/ontology/deathPlace	Tartu
+http://dbpedia.org/resource/juhan_muks	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/satire
+Juhan Muks	http://dbpedia.org/ontology/genre	Expressionism
+Juhan Muks	http://dbpedia.org/ontology/deathDate	1983-03-23
+Juhan Muks	http://dbpedia.org/ontology/award	Kristjan Raud Art Award
+Juhan Muks	http://dbpedia.org/ontology/nationality	Estonia
+Juhan Muks	http://dbpedia.org/ontology/associatedBand	Põhja Konn
+Juhan Muks	http://dbpedia.org/ontology/education	Pallas Art School
+Juhan Muks	http://dbpedia.org/ontology/knownFor	Painting
+Juhan Muks	http://dbpedia.org/ontology/spouse	Alma Muks
+Juhan Muks	http://dbpedia.org/ontology/parent	Alma Muks
+Juhan Muks	http://dbpedia.org/ontology/influencedBy	Konrad Mägi
+http://dbpedia.org/resource/juhan_muks	http://dbpedia.org/property/house	http://dbpedia.org/resource/ruckman_(australian_rules_football_position)
+Juhan Muks	http://dbpedia.org/ontology/movement	Expressionism
+http://dbpedia.org/resource/juhan_muks	http://dbpedia.org/property/baseofoperations	http://dbpedia.org/resource/koronowo
+http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1899_births
+http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1983_deaths
+http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/juhan_muks	http://dbpedia.org/property/deathplace	http://dbpedia.org/resource/vienna
+Juhan Muks	http://dbpedia.org/ontology/children	Uno Muks
+Juhan Muks	http://dbpedia.org/ontology/sibling	Paul Burman
+Juhan Muks	http://dbpedia.org/ontology/works	"Youth"
+Juhan Muks	http://dbpedia.org/ontology/notableWorks	"Kalevipoeg"

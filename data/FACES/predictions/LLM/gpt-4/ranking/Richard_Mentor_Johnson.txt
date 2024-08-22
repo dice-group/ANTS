@@ -1,0 +1,20 @@
+Richard Mentor Johnson	http://dbpedia.org/ontology/birthPlace	Beargrass Virginia
+Richard Mentor Johnson	http://dbpedia.org/ontology/occupation	Politician
+Richard Mentor Johnson	http://dbpedia.org/ontology/deathPlace	Frankfort Kentucky
+Richard Mentor Johnson	http://dbpedia.org/ontology/termPeriod	1837-1841
+Richard Mentor Johnson	http://dbpedia.org/ontology/office	Vice President of the United States
+Richard Mentor Johnson	http://dbpedia.org/ontology/almaMater	Transylvania University
+Richard Mentor Johnson	http://dbpedia.org/ontology/award	Congressional Gold Medal
+Richard Mentor Johnson	http://dbpedia.org/ontology/battle	Battle of the Thames
+Richard Mentor Johnson	http://dbpedia.org/ontology/nationality	United States
+Richard Mentor Johnson	http://dbpedia.org/ontology/education	Transylvania University
+Richard Mentor Johnson	http://dbpedia.org/ontology/spouse	Julia Chinn
+Richard Mentor Johnson	http://dbpedia.org/ontology/serviceStartYear	1807
+Richard Mentor Johnson	http://dbpedia.org/ontology/religion	Christianity
+Richard Mentor Johnson	http://dbpedia.org/ontology/signature	http://commons.wikimedia.org/wiki/Special:FilePath/Richard_Mentor_Johnson_sig.png
+Richard Mentor Johnson	http://dbpedia.org/ontology/vicePresident	Martin Van Buren
+Richard Mentor Johnson	http://dbpedia.org/ontology/militaryRank	Colonel
+Richard Mentor Johnson	http://dbpedia.org/ontology/branch	United States Army
+Richard Mentor Johnson	http://dbpedia.org/ontology/children	Imogene Malvinia Johnson
+Richard Mentor Johnson	http://dbpedia.org/ontology/parents	Jemima Suggett Johnson
+Richard Mentor Johnson	http://dbpedia.org/ontology/parents	Robert Johnson

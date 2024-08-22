@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mountains_of_switzerland
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mountains_of_the_canton_of_uri
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/ontology/locatedinarea	http://dbpedia.org/resource/canton_of_uri
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/ontology/mountainrange	http://dbpedia.org/resource/urner_alps
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:alpine_three-thousanders
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/ontology/locatedinarea	http://dbpedia.org/resource/switzerland
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/mountain
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/parentpeak	http://dbpedia.org/resource/dammastock
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/operator	http://dbpedia.org/resource/sunbus

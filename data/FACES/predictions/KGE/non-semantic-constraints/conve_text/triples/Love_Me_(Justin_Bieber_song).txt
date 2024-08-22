@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/aladdin_(1992_disney_film)
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/artist	http://dbpedia.org/resource/justin_bieber
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/rbmg
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/album	http://dbpedia.org/resource/my_world_(ep)
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/electropop
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/computingplatform	http://dbpedia.org/resource/mortal_kombat_trilogy
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/synthpop
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/island_def_jam_music_group
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/love_me_(justin_bieber_song)?oldid=547160061
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/type	http://dbpedia.org/resource/promotional_recording

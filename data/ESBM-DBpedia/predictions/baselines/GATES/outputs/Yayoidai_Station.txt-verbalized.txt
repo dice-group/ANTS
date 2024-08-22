@@ -1,0 +1,1 @@
+< pad > The Yayoidai Station is located in Japan at 5-2 Yayoidai. The station is operated by the Sagami Railway and has the following details: http: / / dbpedia.org / ontology / infrastructure / http: / / schema.org / Place. The station is opened on Jan 1st 1976, has a passenger count of 16032 and an address of 205.html. < / s >

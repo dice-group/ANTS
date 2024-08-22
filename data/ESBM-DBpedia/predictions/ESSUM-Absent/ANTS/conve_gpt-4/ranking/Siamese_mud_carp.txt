@@ -1,0 +1,24 @@
+http://dbpedia.org/resource/siamese_mud_carp	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_the_mekong_basin
+http://dbpedia.org/resource/siamese_mud_carp	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_laos
+http://dbpedia.org/resource/siamese_mud_carp	http://xmlns.com/foaf/0.1/depiction	http://commons.wikimedia.org/wiki/special:filepath/mekong_river_location.jpg
+Siamese mud carp	http://dbpedia.org/ontology/family	Cyprinidae
+http://dbpedia.org/resource/siamese_mud_carp	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/actinopterygii
+Siamese mud carp	http://dbpedia.org/ontology/class	Henicorhynchus
+http://dbpedia.org/resource/siamese_mud_carp	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/characiformes
+Siamese mud carp	http://dbpedia.org/ontology/order	Cypriniformes
+Siamese mud carp	http://dbpedia.org/ontology/weight	1.5-2.3 kg
+Siamese mud carp	http://dbpedia.org/ontology/length	25 cm
+Siamese mud carp	http://dbpedia.org/ontology/phylum	Chordata
+Siamese mud carp	http://dbpedia.org/ontology/kingdom	Animalia
+Siamese mud carp	http://dbpedia.org/ontology/synonym	Henicorhynchus siamensis
+Siamese mud carp	http://dbpedia.org/ontology/genus	Henicorhynchus
+Siamese mud carp	http://dbpedia.org/ontology/binomialAuthority	Sauvage,  1883
+Siamese mud carp	http://dbpedia.org/ontology/isPartOf	Cyprinidae
+Siamese mud carp	http://dbpedia.org/ontology/conservationStatus	Least Concern
+Siamese mud carp	http://dbpedia.org/ontology/species	Henicorhynchus siamensis
+Siamese mud carp	http://dbpedia.org/ontology/habitat	Freshwater
+Siamese mud carp	http://dbpedia.org/ontology/distribution	Southeast Asia
+Siamese mud carp	http://dbpedia.org/ontology/lifespan	5-6 years
+Siamese mud carp	http://dbpedia.org/ontology/waterType	Freshwater
+Siamese mud carp	http://dbpedia.org/ontology/diet	aquatic plants
+Siamese mud carp	http://dbpedia.org/ontology/relatedTo	Henicorhynchus

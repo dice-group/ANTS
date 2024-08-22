@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/militaryconflict
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/location	http://dbpedia.org/resource/ludwigshafen
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/commander	http://dbpedia.org/resource/karl_dönitz
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/commander	http://dbpedia.org/resource/admiral
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/place	http://dbpedia.org/resource/north_atlantic
+http://dbpedia.org/resource/convoy_hx_156	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:naval_battles_of_world_war_ii_involving_the_united_states
+http://dbpedia.org/resource/convoy_hx_156	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:north_atlantic_convoys_of_world_war_ii
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/markdescription	http://dbpedia.org/resource/henryków_lubański

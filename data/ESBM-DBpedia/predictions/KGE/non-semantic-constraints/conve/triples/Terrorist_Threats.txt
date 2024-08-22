@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:albums_produced_by_fredwreck
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/capitol_records
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:gangsta_rap_albums
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:ice_cube_albums
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mack_10_albums
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/artifact100021939
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/ontology/previouswork	http://dbpedia.org/resource/invisible_tape
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q2188189
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2003_albums

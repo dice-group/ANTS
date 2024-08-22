@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_james_stelfox
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:starsailor_(band)_songs
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/property/artist	http://dbpedia.org/resource/starsailor_(band)
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/property/album	http://dbpedia.org/resource/silence_is_easy
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/emi_records

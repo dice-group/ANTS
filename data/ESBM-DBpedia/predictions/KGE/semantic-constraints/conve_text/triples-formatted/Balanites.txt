@@ -1,0 +1,1 @@
+ <H> balanites <R> subject <T> category:balanites <H> balanites <R> authority <T> alire_raffeneau_delile <H> balanites <R> type <T> plant <H> balanites <R> hypernym <T> plants

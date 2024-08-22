@@ -1,0 +1,18 @@
+http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
+http://dbpedia.org/resource/ayrovo	http://dbpedia.org/property/country	http://dbpedia.org/resource/bulgaria
+Ayrovo	http://dbpedia.org/ontology/location	Bulgaria
+Ayrovo	http://dbpedia.org/ontology/headquarter	Bulgaria
+Ayrovo	http://dbpedia.org/ontology/industry	Tourism
+Ayrovo	http://dbpedia.org/ontology/product	Cheese
+Ayrovo	http://dbpedia.org/ontology/foundingDate	1488
+Ayrovo	http://dbpedia.org/ontology/parentCompany	Volkswagen Group
+Ayrovo	http://dbpedia.org/ontology/locationCity	Veliko Tarnovo
+Ayrovo	http://dbpedia.org/ontology/locationCountry	Bulgaria
+Ayrovo	http://dbpedia.org/ontology/subsidiary	Gazprom
+Ayrovo	http://dbpedia.org/ontology/isPartOf	Bulgaria
+Ayrovo	http://dbpedia.org/ontology/founder	Vasil Terziev
+Ayrovo	http://dbpedia.org/ontology/name	Ayrovo
+http://dbpedia.org/resource/ayrovo	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/countries_of_the_world
+http://dbpedia.org/resource/ayrovo	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/kardzhali_province
+Ayrovo	http://dbpedia.org/ontology/affiliate	Levski Sofia

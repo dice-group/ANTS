@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
+Battle on the Elster	http://dbpedia.org/ontology/location	Leipzig
+Battle on the Elster	http://dbpedia.org/ontology/commander	Wenceslaus I of Bohemia
+Battle on the Elster	http://dbpedia.org/ontology/combatant	Holy Roman Empire
+Battle on the Elster	http://dbpedia.org/ontology/combatant	Polish-Lithuanian Commonwealth
+Battle on the Elster	http://dbpedia.org/ontology/militaryBranch	Holy Roman Empire
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/property/combatant	http://dbpedia.org/resource/henry_iv_of_germany
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/hohenmölsen
+Battle on the Elster	http://dbpedia.org/ontology/place	White Elster River
+Battle on the Elster	http://dbpedia.org/ontology/date	1080-10-14
+Battle on the Elster	http://dbpedia.org/ontology/result	Victory of the Halberdiers and Knights
+Battle on the Elster	http://dbpedia.org/ontology/isPartOfMilitaryConflict	Napoleonic Wars
+Battle on the Elster	http://dbpedia.org/ontology/militaryUnit	Imperial Army
+Battle on the Elster	http://dbpedia.org/ontology/previousEvent	Battle of Lucka
+Battle on the Elster	http://dbpedia.org/ontology/nextEvent	Battle of Wettin
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/juiz_de_fora
+Battle on the Elster	http://dbpedia.org/ontology/battleHonours	King's German Legion
+Battle on the Elster	http://dbpedia.org/ontology/territory	Germany
+Battle on the Elster	http://dbpedia.org/ontology/casualties	"600"
+http://dbpedia.org/resource/battle_on_the_elster	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/battle
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/great_saxon_revolt
+http://dbpedia.org/resource/battle_on_the_elster	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_involving_saxony
+http://dbpedia.org/resource/battle_on_the_elster	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:great_saxon_revolt
+Battle on the Elster	http://dbpedia.org/ontology/partOf	War of the Sixth Coalition
+Battle on the Elster	http://dbpedia.org/ontology/coordinateLocation	Point12.0333 51.3333
+Battle on the Elster	http://dbpedia.org/ontology/strategy	Skirmish tactics
+Battle on the Elster	http://dbpedia.org/ontology/tactic	Encirclement
+Battle on the Elster	http://dbpedia.org/ontology/aftermath	Death of Henry II the Pious

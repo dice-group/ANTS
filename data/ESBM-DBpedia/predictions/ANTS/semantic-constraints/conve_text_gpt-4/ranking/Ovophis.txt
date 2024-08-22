@@ -1,0 +1,21 @@
+http://dbpedia.org/resource/ovophis	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/insect
+http://dbpedia.org/resource/ovophis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:snake_genera
+Ovophis	http://dbpedia.org/ontology/family	Viperidae
+Ovophis	http://dbpedia.org/ontology/class	Reptilia
+Ovophis	http://dbpedia.org/ontology/order	Squamata
+Ovophis	http://dbpedia.org/ontology/length	"0.6 to 1.5 meters"
+Ovophis	http://dbpedia.org/ontology/phylum	Chordata
+Ovophis	http://dbpedia.org/ontology/kingdom	Animalia
+Ovophis	http://dbpedia.org/ontology/synonym	Trigonocephalus
+Ovophis	http://dbpedia.org/ontology/genus	Viperidae
+Ovophis	http://dbpedia.org/ontology/domain	Animalia
+Ovophis	http://dbpedia.org/ontology/isPartOf	Viperidae
+Ovophis	http://dbpedia.org/ontology/conservationStatus	Least Concern
+Ovophis	http://dbpedia.org/ontology/species	Ovophis monticola
+Ovophis	http://dbpedia.org/ontology/habitat	Asia
+Ovophis	http://dbpedia.org/ontology/venomous	true
+Ovophis	http://dbpedia.org/ontology/distribution	Asia
+Ovophis	http://dbpedia.org/ontology/sameAs	http://dbpedia.org/resource/Ovophis
+Ovophis	http://dbpedia.org/ontology/tribe	Calamariinae
+Ovophis	http://dbpedia.org/ontology/subFamily	Crotalinae
+Ovophis	http://dbpedia.org/ontology/biozone	Holocene

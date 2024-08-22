@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/czech_republic	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:member_states_of_the_three_seas_initiative
+http://dbpedia.org/resource/czech_republic	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:republics
+http://dbpedia.org/resource/czech_republic	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:member_states_of_nato
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/languages	http://dbpedia.org/resource/polish_language
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/languages	http://dbpedia.org/resource/vietnamese_language
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/languages	http://dbpedia.org/resource/belarusian_language
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/ontology/capital	http://dbpedia.org/resource/prague
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/czech_republic__historicalevent__4
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/governmenttype	http://dbpedia.org/resource/unitary_state
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/symboltype	http://dbpedia.org/resource/coat_of_arms_of_the_czech_republic

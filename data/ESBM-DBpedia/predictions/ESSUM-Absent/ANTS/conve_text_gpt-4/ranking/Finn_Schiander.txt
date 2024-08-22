@@ -1,0 +1,24 @@
+Finn Schiander	http://dbpedia.org/ontology/team	Kongelig Norsk Seilforening
+http://dbpedia.org/resource/finn_schiander	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:estonian_painters
+Finn Schiander	http://dbpedia.org/ontology/birthPlace	Norway
+Finn Schiander	http://dbpedia.org/ontology/birthDate	1890-02-10
+Finn Schiander	http://dbpedia.org/ontology/birthDate	1890-02-14
+Finn Schiander	http://dbpedia.org/ontology/birthDate	1890-06-03.
+Finn Schiander	http://dbpedia.org/ontology/country	Norway
+Finn Schiander	http://dbpedia.org/ontology/occupation	Sailor
+Finn Schiander	http://dbpedia.org/ontology/deathPlace	Oslo
+Finn Schiander	http://dbpedia.org/ontology/activeYearsStartYear	1927
+Finn Schiander	http://dbpedia.org/ontology/deathDate	1970-11-24
+Finn Schiander	http://dbpedia.org/ontology/award	Holmenkollen medal
+Finn Schiander	http://dbpedia.org/ontology/nationality	Norway
+Finn Schiander	http://dbpedia.org/ontology/weight	71 kg
+Finn Schiander	http://dbpedia.org/ontology/child	Wilhelm Schiander
+Finn Schiander	http://dbpedia.org/ontology/parent	Thorleif Schjelderup
+Finn Schiander	http://dbpedia.org/ontology/sport	Sailing
+Finn Schiander	http://dbpedia.org/ontology/championships	Norwegian Sailing Championships
+http://dbpedia.org/resource/finn_schiander	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/finn_schiander	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactor
+http://dbpedia.org/resource/finn_schiander	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/causalagent100007347
+http://dbpedia.org/resource/finn_schiander	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+Finn Schiander	http://dbpedia.org/ontology/educationalInstitution	Norwegian School of Economics
+Finn Schiander	http://dbpedia.org/ontology/educationMajor	Law

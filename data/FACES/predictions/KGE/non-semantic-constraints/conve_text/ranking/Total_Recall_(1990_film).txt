@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/total_recall.jpg/200px-total_recall.jpg
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/sharon_stone
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/music	http://dbpedia.org/resource/jerry_goldsmith
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/studio	http://dbpedia.org/resource/studiocanal
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/studio	http://dbpedia.org/resource/carolco_pictures

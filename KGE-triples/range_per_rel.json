@@ -1,0 +1,4818 @@
+{
+    "http://dbpedia.org/ontology/album": [
+        "Album",
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/artist": [
+        "MusicalArtist",
+        "Band",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/genre": [
+        "MusicalWork",
+        "ProgrammingLanguage",
+        "TelevisionShow",
+        "Agent",
+        "Election",
+        "Person",
+        "BiologicalDatabase",
+        "Genre",
+        "Language",
+        "Book",
+        "Company",
+        "Work",
+        "Organisation",
+        "Unknown",
+        "Single",
+        "PeriodicalLiterature",
+        "Magazine",
+        "MusicGenre",
+        "Device",
+        "Software",
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/musicType": [
+        "Album",
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/recordLabel": [
+        "RecordLabel",
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/soundRecording": [
+        "Document"
+    ],
+    "http://dbpedia.org/ontology/type": [
+        "NaturalPlace",
+        "Building",
+        "University",
+        "MeanOfTransportation",
+        "Place",
+        "TelevisionShow",
+        "EducationalInstitution",
+        "Mountain",
+        "Country",
+        "Village",
+        "RailwayLine",
+        "Person",
+        "Album",
+        "Broadcaster",
+        "IceHockeyPlayer",
+        "Language",
+        "Book",
+        "Company",
+        "BroadcastNetwork",
+        "Work",
+        "Organisation",
+        "AdministrativeRegion",
+        "Unknown",
+        "City",
+        "School",
+        "Ship",
+        "Settlement",
+        "PeriodicalLiterature",
+        "MusicGenre",
+        "PopulatedPlace",
+        "HorseRace",
+        "MilitaryUnit",
+        "PersonFunction",
+        "Bridge"
+    ],
+    "http://dbpedia.org/property/album": [
+        "Album",
+        "Work"
+    ],
+    "http://dbpedia.org/property/genre": [
+        "MusicGenre",
+        "Language",
+        "MusicalWork",
+        "Book",
+        "Company",
+        "Person",
+        "Software",
+        "Album",
+        "ProgrammingLanguage",
+        "Work",
+        "Agent",
+        "Organisation",
+        "BiologicalDatabase",
+        "Unknown",
+        "Genre",
+        "Band"
+    ],
+    "http://dbpedia.org/property/label": [
+        "Disease",
+        "Building",
+        "RecordLabel",
+        "Company",
+        "PopulatedPlace",
+        "Agent",
+        "Organisation",
+        "Place",
+        "Unknown",
+        "Castle",
+        "Infrastructure",
+        "EthnicGroup",
+        "SocietalEvent",
+        "ArchitecturalStructure"
+    ],
+    "http://purl.org/dc/terms/subject": [
+        "Category"
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        "Tournament",
+        "RadioStation",
+        "Building",
+        "SportsManager",
+        "MilitaryPerson",
+        "TelevisionShow",
+        "CityDistrict",
+        "Song",
+        "MountainRange",
+        "Town",
+        "WorldHeritageSite",
+        "Event",
+        "BeautyQueen",
+        "Writer",
+        "Grape",
+        "Royalty",
+        "Year",
+        "BusCompany",
+        "BiologicalDatabase",
+        "HistoricBuilding",
+        "Book",
+        "RadioHost",
+        "AdministrativeRegion",
+        "Unknown",
+        "Road",
+        "Criminal",
+        "CollegeCoach",
+        "Amphibian",
+        "Olympics",
+        "Coach",
+        "TelevisionStation",
+        "Magazine",
+        "Volcano",
+        "Website",
+        "Fern",
+        "MilitaryUnit",
+        "AustralianRulesFootballPlayer",
+        "PersonFunction",
+        "Youtuber",
+        "Fungus",
+        "TennisTournament",
+        "GolfPlayer",
+        "Database",
+        "MusicalWork",
+        "Mammal",
+        "University",
+        "GaelicGamesPlayer",
+        "Saint",
+        "SoccerManager",
+        "Agent",
+        "Boxer",
+        "MartialArtist",
+        "Convention",
+        "Mountain",
+        "ChristianBishop",
+        "Crustacean",
+        "ClericalAdministrativeRegion",
+        "VolleyballPlayer",
+        "TelevisionEpisode",
+        "Stream",
+        "AmericanFootballPlayer",
+        "Cyclist",
+        "Fish",
+        "WrestlingEvent",
+        "Race",
+        "BasketballPlayer",
+        "MilitaryConflict",
+        "River",
+        "Diocese",
+        "GrandPrix",
+        "FashionDesigner",
+        "BadmintonPlayer",
+        "SoccerClub",
+        "Publisher",
+        "Work",
+        "Film",
+        "ArtificialSatellite",
+        "EurovisionSongContestEntry",
+        "Skier",
+        "Newspaper",
+        "FootballLeagueSeason",
+        "Ship",
+        "Settlement",
+        "FormerMunicipality",
+        "SoccerPlayer",
+        "Library",
+        "Swimmer",
+        "SiteOfSpecialScientificInterest",
+        "Play",
+        "Cricketer",
+        "Athlete",
+        "Automobile",
+        "Group",
+        "NaturalPlace",
+        "FloweringPlant",
+        "Reptile",
+        "Place",
+        "ProtectedArea",
+        "PoliticalParty",
+        "Country",
+        "Canal",
+        "Eukaryote",
+        "Species",
+        "RailwayLine",
+        "GovernmentalAdministrativeRegion",
+        "Location",
+        "MusicalArtist",
+        "OlympicEvent",
+        "WomensTennisAssociationTournament",
+        "Broadcaster",
+        "CyclingRace",
+        "Infrastructure",
+        "Curler",
+        "Dancer",
+        "Language",
+        "MotorsportRacer",
+        "Company",
+        "DartsPlayer",
+        "MixedMartialArtsEvent",
+        "Museum",
+        "CelestialBody",
+        "BodyOfWater",
+        "Animal",
+        "City",
+        "PeriodicalLiterature",
+        "ComedyGroup",
+        "AmusementParkAttraction",
+        "RacingDriver",
+        "GridironFootballPlayer",
+        "Noble",
+        "Academic",
+        "Musical",
+        "PopulatedPlace",
+        "MusicGenre",
+        "HorseRace",
+        "Bank",
+        "SoccerTournament",
+        "Sea",
+        "Cleric",
+        "Actor",
+        "SocietalEvent",
+        "Airline",
+        "ArchitecturalStructure",
+        "Band",
+        "Lake",
+        "ClassicalMusicComposition",
+        "Politician",
+        "WinterSportPlayer",
+        "SportsClub",
+        "Insect",
+        "Region",
+        "WrittenWork",
+        "RugbyClub",
+        "ComicsCreator",
+        "EducationalInstitution",
+        "Election",
+        "Poem",
+        "Drug",
+        "Park",
+        "Village",
+        "AustralianFootballTeam",
+        "Architect",
+        "Person",
+        "Scientist",
+        "Album",
+        "NetballPlayer",
+        "Plant",
+        "VideoGame",
+        "RugbyPlayer",
+        "Artist",
+        "HistoricPlace",
+        "IceHockeyPlayer",
+        "PublicTransitSystem",
+        "SportsTeam",
+        "GolfTournament",
+        "BaseballPlayer",
+        "FormulaOneRacer",
+        "RecordLabel",
+        "BroadcastNetwork",
+        "Island",
+        "Organisation",
+        "ChessPlayer",
+        "RouteOfTransportation",
+        "CultivatedVariety",
+        "AcademicJournal",
+        "FormulaOneTeam",
+        "School",
+        "Single",
+        "Gymnast",
+        "SkiArea",
+        "Municipality",
+        "TennisPlayer",
+        "SportsEvent",
+        "Software",
+        "Economist",
+        "FootballMatch",
+        "Presenter",
+        "Station",
+        "Bridge",
+        "Aircraft",
+        "Award",
+        "OfficeHolder"
+    ],
+    "http://dbpedia.org/ontology/champion": [
+        "Agent",
+        "Unknown",
+        "GolfPlayer",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/location": [
+        "Building",
+        "GeographicalFeature",
+        "Place",
+        "Country",
+        "Village",
+        "Stadium",
+        "Person",
+        "MusicalArtist",
+        "Infrastructure",
+        "SportFacility",
+        "Company",
+        "Island",
+        "AdministrativeRegion",
+        "Unknown",
+        "City",
+        "Settlement",
+        "RacingDriver",
+        "PopulatedPlace",
+        "Station",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/property/location": [
+        "RacingDriver",
+        "Building",
+        "SportFacility",
+        "GeographicalFeature",
+        "Village",
+        "Person",
+        "Company",
+        "MusicalArtist",
+        "Island",
+        "Place",
+        "Unknown",
+        "Infrastructure",
+        "EducationalInstitution",
+        "City",
+        "ArchitecturalStructure",
+        "Settlement",
+        "Country",
+        "Stadium"
+    ],
+    "http://purl.org/linguistics/gold/hypernym": [
+        "NaturalPlace",
+        "RadioStation",
+        "Building",
+        "GeographicalFeature",
+        "Mammal",
+        "MeanOfTransportation",
+        "University",
+        "Activity",
+        "MilitaryPerson",
+        "MusicalWork",
+        "Reptile",
+        "ChemicalCompound",
+        "Agent",
+        "Place",
+        "TelevisionShow",
+        "PoliticalParty",
+        "Fashion",
+        "EducationalInstitution",
+        "Election",
+        "Surname",
+        "Crustacean",
+        "Country",
+        "Person",
+        "Colour",
+        "MusicalArtist",
+        "GivenName",
+        "Scientist",
+        "VideoGame",
+        "Plant",
+        "RugbyPlayer",
+        "MilitaryConflict",
+        "Disease",
+        "Book",
+        "Company",
+        "RecordLabel",
+        "Organisation",
+        "Work",
+        "Athlete",
+        "AdministrativeRegion",
+        "Unknown",
+        "Sport",
+        "Road",
+        "Animal",
+        "PeriodicalLiterature",
+        "Settlement",
+        "Holiday",
+        "MusicGenre",
+        "TelevisionStation",
+        "PopulatedPlace",
+        "Website",
+        "Software",
+        "MilitaryUnit",
+        "SoccerTournament",
+        "PersonFunction",
+        "Band",
+        "ArchitecturalStructure",
+        "Aircraft",
+        "Award"
+    ],
+    "http://dbpedia.org/property/course": [
+        "Place",
+        "Unknown",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/stadium": [
+        "Building",
+        "SportFacility",
+        "PopulatedPlace",
+        "MusicalArtist",
+        "Place",
+        "Unknown",
+        "Athlete",
+        "City",
+        "ArchitecturalStructure",
+        "Settlement",
+        "Stadium"
+    ],
+    "http://dbpedia.org/property/champions": [
+        "SoccerClub",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/runnerUp": [
+        "SoccerClub",
+        "Agent",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/team": [
+        "GeographicalFeature",
+        "Person",
+        "SoccerClub",
+        "Agent",
+        "Place",
+        "Unknown",
+        "Country",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/topGoalScorer": [
+        "Athlete",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/referee": [
+        "Unknown",
+        "SoccerPlayer",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/championInDoubleMale": [
+        "Athlete",
+        "Unknown",
+        "TennisPlayer",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/championInMixedDouble": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/championInSingleFemale": [
+        "Athlete",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/championInSingleMale": [
+        "Athlete",
+        "GeographicalFeature",
+        "TennisPlayer",
+        "Person"
+    ],
+    "http://dbpedia.org/property/venue": [
+        "Building",
+        "TennisPlayer",
+        "Company",
+        "SoccerClub",
+        "Agent",
+        "Place",
+        "Unknown",
+        "IceHockeyPlayer",
+        "EducationalInstitution",
+        "ArchitecturalStructure",
+        "Stadium"
+    ],
+    "http://dbpedia.org/ontology/wikiPageRedirects": [
+        "Company",
+        "Person",
+        "Agent",
+        "Place",
+        "Unknown",
+        "SocietalEvent",
+        "ArchitecturalStructure",
+        "PeriodicalLiterature"
+    ],
+    "http://dbpedia.org/ontology/category": [
+        "SoccerLeague",
+        "Organisation",
+        "TelevisionShow",
+        "WomensTennisAssociationTournament",
+        "Unknown",
+        "TennisTournament"
+    ],
+    "http://dbpedia.org/ontology/championInDoubleFemale": [
+        "Unknown",
+        "GeographicalFeature",
+        "Person"
+    ],
+    "http://dbpedia.org/property/category": [
+        "Magazine",
+        "MusicGenre",
+        "SoccerLeague",
+        "Category",
+        "Software",
+        "Organisation",
+        "TelevisionShow",
+        "WomensTennisAssociationTournament",
+        "Unknown",
+        "PeriodicalLiterature",
+        "TennisTournament"
+    ],
+    "http://dbpedia.org/property/title": [
+        "MilitaryConflict",
+        "Building",
+        "GeographicalFeature",
+        "Person",
+        "SportsTeamMember",
+        "MilitaryPerson",
+        "MilitaryUnit",
+        "Agent",
+        "Work",
+        "Film",
+        "TelevisionShow",
+        "Place",
+        "SoccerTournament",
+        "Unknown",
+        "SocietalEvent",
+        "Single",
+        "Award"
+    ],
+    "http://dbpedia.org/ontology/place": [
+        "GeographicalFeature",
+        "Place",
+        "Country",
+        "Village",
+        "Person",
+        "MusicalArtist",
+        "Castle",
+        "Infrastructure",
+        "MilitaryConflict",
+        "RecordLabel",
+        "Island",
+        "Work",
+        "Organisation",
+        "AdministrativeRegion",
+        "Unknown",
+        "BodyOfWater",
+        "City",
+        "School",
+        "Settlement",
+        "PopulatedPlace",
+        "MilitaryUnit",
+        "Bridge",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/property/place": [
+        "Village",
+        "GeographicalFeature",
+        "Person",
+        "MusicalArtist",
+        "Island",
+        "MilitaryUnit",
+        "Place",
+        "AdministrativeRegion",
+        "Unknown",
+        "Castle",
+        "IceHockeyPlayer",
+        "Infrastructure",
+        "City",
+        "ArchitecturalStructure",
+        "Settlement",
+        "Country",
+        "Stadium"
+    ],
+    "http://dbpedia.org/property/fourth": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/third": [
+        "SoccerClub",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/tourneyName": [
+        "Tournament"
+    ],
+    "http://dbpedia.org/property/venues": [
+        "ArchitecturalStructure",
+        "Stadium",
+        "Place"
+    ],
+    "http://dbpedia.org/property/continentalcup": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/property/continentalcup1Qualifiers": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/country": [
+        "Person",
+        "Country",
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/score": [
+        "Country"
+    ],
+    "http://dbpedia.org/property/tour": [
+        "Person",
+        "Agent",
+        "Organisation",
+        "WomensTennisAssociationTournament",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/fastestDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/fastestDriverTeam": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/firstDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/firstDriverTeam": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/poleDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/poleDriverTeam": [
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/secondDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/secondTeam": [
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/thirdDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/thirdTeam": [
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/fastDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/fastTeam": [
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/firstDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/firstTeam": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/nameOfRace": [
+        "SportsEvent"
+    ],
+    "http://dbpedia.org/property/poleDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/poleTeam": [
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/secondDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/secondTeam": [
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/thirdDriver": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/thirdTeam": [
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/country": [
+        "Person",
+        "MusicalArtist",
+        "Place",
+        "Unknown",
+        "Country"
+    ],
+    "http://dbpedia.org/property/surface": [
+        "Building",
+        "Unknown",
+        "MeanOfTransportation",
+        "Bone"
+    ],
+    "http://dbpedia.org/ontology/followingEvent": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/ontology/previousEvent": [
+        "SocietalEvent",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/promotion": [
+        "Unknown",
+        "Company",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/name": [
+        "SoccerPlayer",
+        "Person",
+        "Work",
+        "Place",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/defendingChampions": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/city": [
+        "Unknown",
+        "City",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/city": [
+        "University",
+        "GeographicalFeature",
+        "MusicalArtist",
+        "Place",
+        "Unknown",
+        "City"
+    ],
+    "http://dbpedia.org/ontology/team": [
+        "Person",
+        "Activity",
+        "SoccerClub",
+        "Agent",
+        "Unknown",
+        "EducationalInstitution",
+        "School",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/ontology/isPartOfMilitaryConflict": [
+        "MilitaryConflict",
+        "GeographicalFeature",
+        "Company",
+        "MilitaryPerson",
+        "SportsEvent",
+        "Place",
+        "Unknown",
+        "SocietalEvent",
+        "Band"
+    ],
+    "http://dbpedia.org/property/partof": [
+        "MilitaryConflict",
+        "MilitaryPerson",
+        "Place",
+        "Unknown",
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/property/conf": [
+        "SoccerTournament"
+    ],
+    "http://dbpedia.org/property/league": [
+        "SoccerLeague",
+        "Agent",
+        "Organisation",
+        "SoccerTournament",
+        "Unknown",
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/teama": [
+        "SoccerClub",
+        "SportsTeam",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/teamb": [
+        "School",
+        "SoccerClub",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/round": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/ontology/commander": [
+        "SoccerPlayer",
+        "Person",
+        "MilitaryPerson",
+        "Agent",
+        "Place",
+        "Unknown",
+        "PersonFunction",
+        "School",
+        "Band",
+        "Award",
+        "OfficeHolder"
+    ],
+    "http://dbpedia.org/property/championOther": [
+        "GeographicalFeature",
+        "SoccerClub"
+    ],
+    "http://dbpedia.org/property/topScorer": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/combatant": [
+        "Company",
+        "Person",
+        "Software",
+        "MilitaryUnit",
+        "Agent",
+        "Place",
+        "Organisation",
+        "Insect",
+        "Settlement",
+        "Unknown",
+        "EthnicGroup",
+        "MilitaryConflict",
+        "Band",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/organisation": [
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/caption": [
+        "EthnicGroup",
+        "SportFacility",
+        "Person",
+        "Place",
+        "Unknown",
+        "Infrastructure",
+        "PersonFunction",
+        "ArchitecturalStructure",
+        "Settlement"
+    ],
+    "http://dbpedia.org/property/fourthOther": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/secondOther": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/thirdOther": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/rd1Team": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/artist": [
+        "Band",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/lyrics": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/music": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/nextTitle": [
+        "GeographicalFeature",
+        "Single",
+        "Unknown",
+        "Work"
+    ],
+    "http://dbpedia.org/property/prevTitle": [
+        "Album",
+        "Single",
+        "Unknown",
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/broadcastArea": [
+        "MusicalArtist",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/programmeFormat": [
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/format": [
+        "Language",
+        "Software",
+        "Unknown",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/greekPrefix": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/lang": [
+        "Language",
+        "Person",
+        "Software",
+        "Unknown",
+        "Country"
+    ],
+    "http://dbpedia.org/property/latinPrefix": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/numeral": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/birthPlace": [
+        "Person",
+        "PopulatedPlace",
+        "MusicalArtist",
+        "SoccerClub",
+        "Place",
+        "Organisation",
+        "School",
+        "AdministrativeRegion",
+        "Unknown",
+        "City",
+        "Country",
+        "Settlement",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/ontology/child": [
+        "Unknown",
+        "Royalty",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/deathPlace": [
+        "GeographicalFeature",
+        "Person",
+        "PopulatedPlace",
+        "MusicalArtist",
+        "building",
+        "Place",
+        "AdministrativeRegion",
+        "Unknown",
+        "City",
+        "Prison",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/party": [
+        "PoliticalParty",
+        "GeographicalFeature",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/termPeriod": [
+        "TimePeriod"
+    ],
+    "http://dbpedia.org/property/after": [
+        "Unknown",
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/appointer": [
+        "Person",
+        "Unknown",
+        "Legislature",
+        "Convention",
+        "OfficeHolder"
+    ],
+    "http://dbpedia.org/property/before": [
+        "Company",
+        "Person",
+        "Unknown",
+        "Cricketer",
+        "MilitaryConflict"
+    ],
+    "http://dbpedia.org/property/candidate": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/children": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/governor": [
+        "OfficeHolder",
+        "Person"
+    ],
+    "http://dbpedia.org/property/party": [
+        "PoliticalParty",
+        "GeographicalFeature",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/predecessor": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/relatives": [
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/state": [
+        "PopulatedPlace",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/successor": [
+        "Unknown",
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/logo": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/webapp": [
+        "Website",
+        "Software"
+    ],
+    "http://dbpedia.org/ontology/headquarter": [
+        "Building",
+        "GeographicalFeature",
+        "Person",
+        "PopulatedPlace",
+        "MusicalArtist",
+        "Place",
+        "Unknown",
+        "Airport",
+        "Infrastructure",
+        "City",
+        "ArchitecturalStructure",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/importantStation": [
+        "GeographicalFeature",
+        "RoadJunction",
+        "Company",
+        "Place",
+        "PersonFunction",
+        "Settlement",
+        "Unknown",
+        "EducationalInstitution",
+        "Infrastructure",
+        "IceHockeyPlayer",
+        "Station",
+        "City",
+        "ArchitecturalStructure",
+        "Prison",
+        "Band",
+        "HistoricBuilding"
+    ],
+    "http://dbpedia.org/property/headquarters": [
+        "Building",
+        "GeographicalFeature",
+        "Company",
+        "Person",
+        "PopulatedPlace",
+        "MusicalArtist",
+        "Place",
+        "Unknown",
+        "Airport",
+        "Infrastructure",
+        "City",
+        "ArchitecturalStructure",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/property/hubs": [
+        "GeographicalFeature",
+        "RoadJunction",
+        "Company",
+        "Person",
+        "Agent",
+        "Place",
+        "PersonFunction",
+        "Airport",
+        "Unknown",
+        "Infrastructure",
+        "EducationalInstitution",
+        "Station",
+        "City",
+        "IceHockeyPlayer",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/property/locale": [
+        "GeographicalFeature",
+        "Person",
+        "MusicalArtist",
+        "Place",
+        "Unknown",
+        "Station",
+        "City",
+        "Settlement"
+    ],
+    "http://dbpedia.org/property/parent": [
+        "Company",
+        "MilitaryUnit",
+        "Agent",
+        "Organisation",
+        "Place",
+        "Unknown",
+        "Airline",
+        "Country"
+    ],
+    "http://dbpedia.org/property/organism": [
+        "Fungus",
+        "Eukaryote",
+        "Species",
+        "Mammal",
+        "PersonFunction",
+        "Fish",
+        "Plant",
+        "BiologicalDatabase",
+        "Unknown",
+        "Arachnid",
+        "Animal",
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/industry": [
+        "MusicGenre",
+        "Company",
+        "Software",
+        "Agent",
+        "ProgrammingLanguage",
+        "Unknown",
+        "PersonFunction",
+        "Automobile"
+    ],
+    "http://dbpedia.org/ontology/parentCompany": [
+        "Company",
+        "MilitaryUnit",
+        "Agent",
+        "Organisation",
+        "AdministrativeRegion",
+        "Unknown",
+        "Legislature",
+        "GovernmentAgency",
+        "Airline",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/hubAirport": [
+        "GeographicalFeature",
+        "Company",
+        "Person",
+        "Agent",
+        "Place",
+        "Airport",
+        "Unknown",
+        "Infrastructure",
+        "City",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/ontology/notableWine": [
+        "Company",
+        "Person",
+        "Winery",
+        "SoccerPlayer",
+        "Grape",
+        "Place",
+        "Organisation",
+        "Unknown",
+        "Settlement",
+        "WineRegion"
+    ],
+    "http://dbpedia.org/ontology/origin": [
+        "MusicGenre",
+        "GeographicalFeature",
+        "FloweringPlant",
+        "Company",
+        "Person",
+        "PopulatedPlace",
+        "MusicalArtist",
+        "Place",
+        "ProtectedArea",
+        "AdministrativeRegion",
+        "Unknown",
+        "Settlement",
+        "Country",
+        "WineRegion"
+    ],
+    "http://dbpedia.org/ontology/species": [
+        "Language",
+        "Eukaryote",
+        "Person",
+        "Grape",
+        "Insect",
+        "Plant",
+        "CultivatedVariety",
+        "Unknown",
+        "EthnicGroup"
+    ],
+    "http://dbpedia.org/property/notableWines": [
+        "Company",
+        "Person",
+        "Winery",
+        "SoccerPlayer",
+        "Grape",
+        "Place",
+        "Unknown",
+        "Settlement",
+        "WineRegion"
+    ],
+    "http://dbpedia.org/property/origin": [
+        "MusicGenre",
+        "PopulatedPlace",
+        "Person",
+        "MusicalArtist",
+        "Agent",
+        "Place",
+        "AdministrativeRegion",
+        "Unknown",
+        "EducationalInstitution",
+        "City",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/wineRegion": [
+        "MusicGenre",
+        "GeographicalFeature",
+        "FloweringPlant",
+        "Company",
+        "PopulatedPlace",
+        "Person",
+        "Island",
+        "Agent",
+        "Place",
+        "AdministrativeRegion",
+        "Unknown",
+        "AnatomicalStructure",
+        "Settlement",
+        "Country",
+        "WineRegion"
+    ],
+    "http://dbpedia.org/property/rev": [
+        "Magazine",
+        "Company",
+        "Person",
+        "Work",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/pedigree": [
+        "FloweringPlant",
+        "Person",
+        "Agent",
+        "Grape",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/academicDiscipline": [
+        "University",
+        "MusicalWork",
+        "ProgrammingLanguage",
+        "Place",
+        "Food",
+        "Election",
+        "Stadium",
+        "Eukaryote",
+        "Person",
+        "Scientist",
+        "VideoGame",
+        "MedicalSpecialty",
+        "Disease",
+        "Language",
+        "Book",
+        "Company",
+        "Work",
+        "Organisation",
+        "Unknown",
+        "Sport",
+        "AcademicJournal",
+        "Single",
+        "MilitaryStructure",
+        "TelevisionStation",
+        "MusicGenre",
+        "Software",
+        "MilitaryUnit",
+        "TopicalConcept",
+        "PersonFunction",
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/publisher": [
+        "Company",
+        "Person",
+        "Museum",
+        "Agent",
+        "Organisation",
+        "Work",
+        "Unknown",
+        "EducationalInstitution",
+        "School",
+        "PeriodicalLiterature",
+        "Publisher",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/property/discipline": [
+        "University",
+        "MusicalWork",
+        "Activity",
+        "ProgrammingLanguage",
+        "Place",
+        "Food",
+        "Election",
+        "Person",
+        "Scientist",
+        "VideoGame",
+        "MedicalSpecialty",
+        "Disease",
+        "Language",
+        "Book",
+        "Company",
+        "Work",
+        "Organisation",
+        "Unknown",
+        "Sport",
+        "AcademicJournal",
+        "Single",
+        "MilitaryStructure",
+        "TelevisionStation",
+        "MusicGenre",
+        "SportsEvent",
+        "Software",
+        "MilitaryUnit",
+        "TopicalConcept",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/publisher": [
+        "Company",
+        "Person",
+        "Museum",
+        "Agent",
+        "Organisation",
+        "Unknown",
+        "EducationalInstitution",
+        "School",
+        "Publisher",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/ontology/language": [
+        "Language",
+        "Band",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/editor": [
+        "EducationalInstitution",
+        "Scientist",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/editor": [
+        "Scientist",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/based": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/language": [
+        "Language",
+        "Person"
+    ],
+    "http://dbpedia.org/property/editors": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/award": [
+        "Tournament",
+        "Eukaryote",
+        "University",
+        "GeographicalFeature",
+        "Person",
+        "Agent",
+        "Place",
+        "VideoGame",
+        "TelevisionShow",
+        "Unknown",
+        "Award"
+    ],
+    "http://dbpedia.org/ontology/careerStation": [
+        "GeographicalFeature",
+        "CareerStation"
+    ],
+    "http://dbpedia.org/ontology/college": [
+        "University",
+        "Work",
+        "Organisation",
+        "Unknown",
+        "EducationalInstitution",
+        "School"
+    ],
+    "http://dbpedia.org/ontology/league": [
+        "SoccerLeague",
+        "Agent",
+        "SoccerTournament",
+        "Unknown",
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/position": [
+        "Person",
+        "RugbyPlayer",
+        "Unknown",
+        "Athlete",
+        "BaseballPlayer"
+    ],
+    "http://dbpedia.org/property/careerPosition": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/college": [
+        "University",
+        "Person",
+        "SoccerClub",
+        "Agent",
+        "Work",
+        "Organisation",
+        "Unknown",
+        "EducationalInstitution",
+        "School",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/cteam": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/stat1label": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/stat2label": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/stat3label": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/alliance": [
+        "PoliticalParty",
+        "Agent",
+        "Unknown",
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/destination": [
+        "Village",
+        "GeographicalFeature",
+        "MusicalArtist",
+        "building",
+        "Place",
+        "Plant",
+        "Unknown",
+        "Airport",
+        "Infrastructure",
+        "Stadium",
+        "Town",
+        "City",
+        "School",
+        "Settlement",
+        "Country",
+        "GolfPlayer"
+    ],
+    "http://dbpedia.org/ontology/subsidiary": [
+        "Airline",
+        "Unknown",
+        "Company"
+    ],
+    "http://dbpedia.org/property/frequentFlyer": [
+        "Unknown",
+        "Company",
+        "Work"
+    ],
+    "http://dbpedia.org/property/keyPeople": [
+        "Company",
+        "Person",
+        "Unknown",
+        "PersonFunction",
+        "HistoricBuilding"
+    ],
+    "http://dbpedia.org/ontology/targetAirport": [
+        "PopulatedPlace",
+        "MusicalArtist",
+        "building",
+        "Agent",
+        "Place",
+        "Unknown",
+        "Airport",
+        "Infrastructure",
+        "EducationalInstitution",
+        "City",
+        "ArchitecturalStructure",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/property/bases": [
+        "PopulatedPlace",
+        "Agent",
+        "Place",
+        "Unknown",
+        "Airport",
+        "Infrastructure",
+        "City",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/property/center": [
+        "University",
+        "Company",
+        "building",
+        "Agent",
+        "Organisation",
+        "Unknown",
+        "EducationalInstitution",
+        "Country"
+    ],
+    "http://dbpedia.org/property/regions": [
+        "GeographicalFeature",
+        "Company",
+        "PopulatedPlace",
+        "Person",
+        "Agent",
+        "Place",
+        "Unknown",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/property/openaccess": [
+        "AcademicJournal",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/secondaryHubs": [
+        "GeographicalFeature",
+        "Agent",
+        "Place",
+        "Unknown",
+        "Airport",
+        "Infrastructure"
+    ],
+    "http://dbpedia.org/property/alliance": [
+        "Company",
+        "PoliticalParty",
+        "Unknown",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/focusCities": [
+        "Place",
+        "Airport",
+        "Unknown",
+        "Infrastructure",
+        "Settlement"
+    ],
+    "http://dbpedia.org/property/subsidiaries": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/destinations": [
+        "MusicalArtist",
+        "building",
+        "Place",
+        "Unknown",
+        "Infrastructure",
+        "City",
+        "Settlement",
+        "Country",
+        "Village"
+    ],
+    "http://dbpedia.org/property/commenced": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/founded": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/subdivision": [
+        "GeographicalFeature",
+        "Person",
+        "Place",
+        "Organisation",
+        "AdministrativeRegion",
+        "Unknown",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/timeZone": [
+        "SportsEvent",
+        "Settlement",
+        "GeographicalFeature",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/blank1InfoSec": [
+        "City",
+        "Airport",
+        "Place"
+    ],
+    "http://dbpedia.org/property/demographics1Info": [
+        "Language"
+    ],
+    "http://dbpedia.org/property/subdivisionName": [
+        "GeographicalFeature",
+        "Person",
+        "MusicalArtist",
+        "Place",
+        "Organisation",
+        "AdministrativeRegion",
+        "Unknown",
+        "City",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/property/subdivisionType": [
+        "MeanOfTransportation",
+        "Person",
+        "MusicalArtist",
+        "Agent",
+        "Organisation",
+        "Place",
+        "AdministrativeRegion",
+        "Unknown",
+        "EthnicGroup",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/property/timezone": [
+        "SportsEvent",
+        "Settlement",
+        "GeographicalFeature",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/as": [
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/composer": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/lyricist": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/director": [
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/distributor": [
+        "Unknown",
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/editing": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/musicComposer": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/producer": [
+        "MusicalArtist",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/starring": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/writer": [
+        "MusicalArtist",
+        "Unknown",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/distributor": [
+        "Unknown",
+        "Company"
+    ],
+    "http://dbpedia.org/property/editing": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/story": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/almaMater": [
+        "University",
+        "Agent",
+        "EducationalInstitution",
+        "School",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/ontology/deathCause": [
+        "Disease"
+    ],
+    "http://dbpedia.org/ontology/doctoralAdvisor": [
+        "Scientist",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/doctoralStudent": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/influencedBy": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/knownFor": [
+        "Agent",
+        "TelevisionShow",
+        "Place",
+        "Person",
+        "Album",
+        "Broadcaster",
+        "Disease",
+        "Book",
+        "Company",
+        "Work",
+        "Organisation",
+        "AdministrativeRegion",
+        "Unknown",
+        "Road",
+        "AnatomicalStructure",
+        "School",
+        "Device",
+        "PopulatedPlace",
+        "Software",
+        "Cricketer",
+        "PersonFunction",
+        "Aircraft"
+    ],
+    "http://dbpedia.org/property/doctoralAdvisor": [
+        "Scientist",
+        "Person"
+    ],
+    "http://dbpedia.org/property/education": [
+        "University",
+        "Person",
+        "Agent",
+        "EducationalInstitution",
+        "School"
+    ],
+    "http://dbpedia.org/property/influences": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/prizes": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/academicAdvisor": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/citizenship": [
+        "Disease",
+        "Unknown",
+        "Country",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/influenced": [
+        "Person",
+        "Organisation"
+    ],
+    "http://dbpedia.org/ontology/institution": [
+        "University",
+        "Company",
+        "Agent",
+        "Unknown",
+        "EducationalInstitution",
+        "School"
+    ],
+    "http://dbpedia.org/ontology/spouse": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/spouse": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/org": [
+        "Agent",
+        "Company",
+        "Organisation"
+    ],
+    "http://dbpedia.org/ontology/hybrid": [
+        "Insect",
+        "Plant",
+        "Eukaryote"
+    ],
+    "http://dbpedia.org/ontology/governingBody": [
+        "Legislature"
+    ],
+    "http://dbpedia.org/ontology/politicalLeader": [
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/areaBlank1Title": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/areaCodeType": [
+        "Unknown",
+        "Company"
+    ],
+    "http://dbpedia.org/property/blankInfoSec": [
+        "Person",
+        "Saint",
+        "Place",
+        "Unknown",
+        "Identifier"
+    ],
+    "http://dbpedia.org/property/blankNameSec": [
+        "Protein",
+        "Language",
+        "Software",
+        "Unknown",
+        "Food"
+    ],
+    "http://dbpedia.org/property/east": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/governingBody": [
+        "Company",
+        "Agent",
+        "Legislature"
+    ],
+    "http://dbpedia.org/property/leaderTitle": [
+        "Person",
+        "Agent",
+        "Organisation",
+        "Unknown",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/motto": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/north": [
+        "Unknown",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/northeast": [
+        "City",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/northwest": [
+        "City",
+        "Place"
+    ],
+    "http://dbpedia.org/property/p": [
+        "Unknown",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/populationBlank1Title": [
+        "Food",
+        "Place"
+    ],
+    "http://dbpedia.org/property/populationBlank2Title": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/seat": [
+        "Building",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/seatType": [
+        "City",
+        "Building",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/southeast": [
+        "Settlement",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/timezoneDst": [
+        "SportsEvent",
+        "Settlement",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/totalType": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/west": [
+        "Settlement",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/previousWork": [
+        "Unknown",
+        "Single",
+        "Album",
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/recordedIn": [
+        "City",
+        "Building",
+        "RecordLabel",
+        "Place"
+    ],
+    "http://dbpedia.org/property/producer": [
+        "MusicalArtist",
+        "Band",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/operator": [
+        "RailwayLine",
+        "Company",
+        "Person",
+        "Place",
+        "Organisation",
+        "Unknown",
+        "EducationalInstitution",
+        "Automobile"
+    ],
+    "http://dbpedia.org/ontology/regionServed": [
+        "GeographicalFeature",
+        "Company",
+        "PopulatedPlace",
+        "Person",
+        "Station",
+        "MusicalArtist",
+        "Island",
+        "Place",
+        "Town",
+        "AdministrativeRegion",
+        "Unknown",
+        "AnatomicalStructure",
+        "Infrastructure",
+        "EducationalInstitution",
+        "City",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/service": [
+        "MusicGenre",
+        "MeanOfTransportation",
+        "Company",
+        "MilitaryUnit",
+        "Organisation",
+        "Place",
+        "Unknown",
+        "Automobile",
+        "PersonFunction",
+        "Election",
+        "Ship"
+    ],
+    "http://dbpedia.org/property/operator": [
+        "Company",
+        "Place",
+        "Organisation",
+        "Unknown",
+        "Automobile"
+    ],
+    "http://dbpedia.org/property/serviceType": [
+        "MeanOfTransportation",
+        "Company",
+        "MilitaryUnit",
+        "Place",
+        "Organisation",
+        "Unknown",
+        "Automobile",
+        "PersonFunction",
+        "Election"
+    ],
+    "http://dbpedia.org/ontology/license": [
+        "Software",
+        "Unknown",
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/founder": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/governmentType": [
+        "PopulatedPlace",
+        "ChemicalCompound",
+        "Organisation",
+        "Unknown",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/namedAfter": [
+        "Plant",
+        "Person"
+    ],
+    "http://dbpedia.org/property/architecture": [
+        "Unknown",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/blankName": [
+        "Unknown",
+        "Road"
+    ],
+    "http://dbpedia.org/property/governmentType": [
+        "Person",
+        "PopulatedPlace",
+        "ChemicalCompound",
+        "Organisation",
+        "Unknown",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/property/postalCodeType": [
+        "Film",
+        "Island",
+        "Unknown",
+        "TelevisionShow"
+    ],
+    "http://dbpedia.org/property/settlementType": [
+        "Building",
+        "PopulatedPlace",
+        "MilitaryUnit",
+        "Organisation",
+        "Place",
+        "AdministrativeRegion",
+        "Unknown",
+        "City",
+        "Settlement",
+        "Village"
+    ],
+    "http://dbpedia.org/property/source": [
+        "GeographicalFeature",
+        "Person",
+        "Agent",
+        "Place",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/south": [
+        "Unknown",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/southwest": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/license": [
+        "Company",
+        "Software",
+        "Unknown",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/serviceArea": [
+        "GeographicalFeature",
+        "Company",
+        "PopulatedPlace",
+        "Person",
+        "MusicalArtist",
+        "Place",
+        "AdministrativeRegion",
+        "Unknown",
+        "Infrastructure",
+        "EducationalInstitution",
+        "City",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/programmingLanguage": [
+        "Language",
+        "Software",
+        "Unknown",
+        "ProgrammingLanguage"
+    ],
+    "http://dbpedia.org/property/programmingLanguage": [
+        "Language",
+        "Software",
+        "ProgrammingLanguage"
+    ],
+    "http://dbpedia.org/ontology/cinematography": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/productionCompany": [
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/cinematography": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/screenplay": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/studio": [
+        "Place",
+        "RecordLabel",
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/wines": [
+        "Company",
+        "Place",
+        "Unknown",
+        "Settlement",
+        "WineRegion"
+    ],
+    "http://dbpedia.org/ontology/parent": [
+        "Unknown",
+        "OfficeHolder",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/predecessor": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/successor": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/deathPlace": [
+        "GeographicalFeature",
+        "Person",
+        "PopulatedPlace",
+        "Place",
+        "AdministrativeRegion",
+        "Unknown",
+        "City",
+        "Prison",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/property/father": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/house": [
+        "Building",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/issue": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/fuelType": [
+        "MusicGenre",
+        "MusicalWork",
+        "MeanOfTransportation",
+        "ChemicalCompound",
+        "Unknown",
+        "Automobile",
+        "ChemicalSubstance"
+    ],
+    "http://dbpedia.org/property/founders": [
+        "Automobile",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/laboratory": [
+        "Company",
+        "Person",
+        "Agent",
+        "Unknown",
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/owningCompany": [
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/area": [
+        "MusicalArtist"
+    ],
+    "http://dbpedia.org/property/keypeople": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/owner": [
+        "EducationalInstitution",
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/radiostations": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/tvstations": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/tvtransmitters": [
+        "GeographicalFeature",
+        "RadioStation",
+        "Unknown",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/ontology/locationCountry": [
+        "Person",
+        "Place"
+    ],
+    "http://dbpedia.org/property/footnotes": [
+        "Settlement",
+        "Unknown",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/authority": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/cultivatedVariety": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/keyPerson": [
+        "Company",
+        "Person",
+        "Unknown",
+        "PersonFunction",
+        "HistoricBuilding"
+    ],
+    "http://dbpedia.org/ontology/product": [
+        "MusicGenre",
+        "Company",
+        "Person",
+        "Software",
+        "Unknown",
+        "AnatomicalStructure",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/industry": [
+        "MusicGenre",
+        "Company",
+        "Software",
+        "ProgrammingLanguage",
+        "Unknown",
+        "PersonFunction",
+        "Automobile"
+    ],
+    "http://dbpedia.org/property/products": [
+        "MusicGenre",
+        "Company",
+        "Person",
+        "Unknown",
+        "AnatomicalStructure",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/type": [
+        "MusicGenre",
+        "University",
+        "MeanOfTransportation",
+        "Company",
+        "Person",
+        "BroadcastNetwork",
+        "Book",
+        "Organisation",
+        "Place",
+        "TelevisionShow",
+        "Work",
+        "Unknown",
+        "Infrastructure",
+        "PersonFunction",
+        "EducationalInstitution",
+        "School",
+        "Mountain",
+        "Band"
+    ],
+    "http://dbpedia.org/property/alsoCalled": [
+        "FloweringPlant"
+    ],
+    "http://dbpedia.org/ontology/locationCity": [
+        "PopulatedPlace"
+    ],
+    "http://dbpedia.org/property/hqLocation": [
+        "City",
+        "Building"
+    ],
+    "http://dbpedia.org/property/hqLocationCity": [
+        "Place",
+        "PopulatedPlace"
+    ],
+    "http://dbpedia.org/ontology/education": [
+        "EducationalInstitution",
+        "School",
+        "University",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/relation": [
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/residence": [
+        "City",
+        "Person",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/almaMater": [
+        "University",
+        "Agent",
+        "EducationalInstitution",
+        "School",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/property/alongside": [
+        "OfficeHolder",
+        "Person"
+    ],
+    "http://dbpedia.org/property/awards": [
+        "Eukaryote",
+        "Unknown",
+        "Award"
+    ],
+    "http://dbpedia.org/property/residence": [
+        "City",
+        "Person",
+        "Place"
+    ],
+    "http://dbpedia.org/property/vicepresident": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/coach": [
+        "Athlete",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/appearances": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/caps": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/club": [
+        "Person",
+        "SoccerClub",
+        "Agent",
+        "Place",
+        "HockeyTeam",
+        "Unknown",
+        "Country",
+        "EducationalInstitution",
+        "School",
+        "Band",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/coach": [
+        "Athlete",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/isPartOf": [
+        "GeographicalFeature",
+        "Company",
+        "Agent",
+        "Organisation",
+        "Place"
+    ],
+    "http://dbpedia.org/property/customValue": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/commander": [
+        "MeanOfTransportation",
+        "Person",
+        "MilitaryPerson",
+        "Unknown",
+        "OfficeHolder"
+    ],
+    "http://dbpedia.org/property/strength": [
+        "MeanOfTransportation",
+        "Unknown",
+        "MilitaryUnit",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/units": [
+        "MilitaryConflict",
+        "GeographicalFeature",
+        "MilitaryUnit",
+        "Agent",
+        "Unknown",
+        "SocietalEvent",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/ontology/territory": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/next": [
+        "SocietalEvent",
+        "PoliticalParty",
+        "Infrastructure",
+        "Place"
+    ],
+    "http://dbpedia.org/property/prev": [
+        "SocietalEvent",
+        "GeographicalFeature",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/markTitle": [
+        "SocietalEvent",
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/property/nearestCity": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/markDescription": [
+        "Unknown",
+        "City",
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/property/mapLabel": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/broadcastNetwork": [
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/affiliation": [
+        "Company",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/licenceArea": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/company": [
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/composer": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/creator": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/endingTheme": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/executiveProducer": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/format": [
+        "TelevisionStation",
+        "Software",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/network": [
+        "TelevisionStation",
+        "Agent",
+        "Company",
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/openingTheme": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/related": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/audioFormat": [
+        "Software",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/company": [
+        "Publisher",
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/creator": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/pictureFormat": [
+        "Software",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/starring": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/themeMusicComposer": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/fuelType": [
+        "MusicGenre",
+        "MusicalWork",
+        "MeanOfTransportation",
+        "ChemicalCompound",
+        "Unknown",
+        "Automobile",
+        "ChemicalSubstance"
+    ],
+    "http://dbpedia.org/ontology/vehiclesInFleet": [
+        "MeanOfTransportation",
+        "Company",
+        "Place",
+        "Unknown",
+        "Automobile",
+        "Ship"
+    ],
+    "http://dbpedia.org/ontology/designer": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/designer": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/eng1Name": [
+        "Unknown",
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/maintainedBy": [
+        "Agent",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/routeEnd": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/routeStart": [
+        "Infrastructure"
+    ],
+    "http://dbpedia.org/property/metro": [
+        "Unknown",
+        "Infrastructure",
+        "Place"
+    ],
+    "http://dbpedia.org/property/metroSystem": [
+        "Company"
+    ],
+    "http://dbpedia.org/ontology/restingPlace": [
+        "GeographicalFeature",
+        "Place",
+        "Unknown",
+        "ArchitecturalStructure",
+        "Settlement"
+    ],
+    "http://dbpedia.org/property/birthPlace": [
+        "Person",
+        "PopulatedPlace",
+        "MusicalArtist",
+        "Agent",
+        "Place",
+        "Unknown",
+        "Castle",
+        "City",
+        "School",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/property/office": [
+        "Building",
+        "Person",
+        "Agent",
+        "Place",
+        "Unknown",
+        "Legislature",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/parents": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/occupation": [
+        "Person",
+        "MusicalArtist",
+        "Place",
+        "Unknown",
+        "PersonFunction",
+        "Election",
+        "Band"
+    ],
+    "http://dbpedia.org/property/transitType": [
+        "RailwayLine",
+        "MeanOfTransportation",
+        "Company",
+        "Unknown",
+        "IceHockeyPlayer",
+        "Ship"
+    ],
+    "http://dbpedia.org/property/scope": [
+        "Disease",
+        "Book",
+        "Biomolecule",
+        "MilitaryUnit",
+        "Unknown",
+        "AnatomicalStructure",
+        "HistoricPlace",
+        "Election"
+    ],
+    "http://dbpedia.org/property/species": [
+        "Language",
+        "Eukaryote",
+        "EthnicGroup"
+    ],
+    "http://dbpedia.org/ontology/channel": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/subsequentWork": [
+        "Single",
+        "Album",
+        "Work"
+    ],
+    "http://dbpedia.org/property/camera": [
+        "Software",
+        "Album",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/channel": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/executiveProducer": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/followedBy": [
+        "Work"
+    ],
+    "http://dbpedia.org/property/director": [
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/parentOrganization": [
+        "Unknown",
+        "Company"
+    ],
+    "http://dbpedia.org/property/mother": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/campus": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/description": [
+        "MusicGenre",
+        "MusicalWork",
+        "Book",
+        "Scientist",
+        "Software",
+        "Work",
+        "BiologicalDatabase",
+        "Unknown",
+        "Food"
+    ],
+    "http://dbpedia.org/property/standard": [
+        "Language",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/breeder": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/ground": [
+        "SportFacility",
+        "Place",
+        "Unknown",
+        "ArchitecturalStructure",
+        "Stadium"
+    ],
+    "http://dbpedia.org/property/region": [
+        "MusicalArtist",
+        "Agent",
+        "Organisation",
+        "Place",
+        "AdministrativeRegion",
+        "School"
+    ],
+    "http://dbpedia.org/property/sport": [
+        "Activity",
+        "Unknown",
+        "Sport"
+    ],
+    "http://dbpedia.org/ontology/associatedBand": [
+        "GeographicalFeature",
+        "Person",
+        "MusicalArtist",
+        "Agent",
+        "Unknown",
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/associatedMusicalArtist": [
+        "GeographicalFeature",
+        "Person",
+        "MusicalArtist",
+        "Agent",
+        "Unknown",
+        "Band"
+    ],
+    "http://dbpedia.org/property/associatedActs": [
+        "GeographicalFeature",
+        "Person",
+        "MusicalArtist",
+        "Agent",
+        "Unknown",
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/operatingSystem": [
+        "Device",
+        "Software"
+    ],
+    "http://dbpedia.org/property/operatingSystem": [
+        "Device",
+        "Software",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/cover": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/stations": [
+        "GeographicalFeature",
+        "Place",
+        "Unknown",
+        "Infrastructure",
+        "City"
+    ],
+    "http://dbpedia.org/ontology/hometown": [
+        "Person",
+        "MusicalArtist",
+        "Place",
+        "City",
+        "Country"
+    ],
+    "http://dbpedia.org/property/union": [
+        "Unknown",
+        "Agent",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/fleet": [
+        "Unknown",
+        "MeanOfTransportation",
+        "Company"
+    ],
+    "http://dbpedia.org/property/deathCause": [
+        "Disease"
+    ],
+    "http://dbpedia.org/property/occupation": [
+        "Unknown",
+        "Person",
+        "Band",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/students": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/class": [
+        "Animal",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/family": [
+        "Insect",
+        "Animal",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/kingdom": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/phylum": [
+        "Animal"
+    ],
+    "http://dbpedia.org/property/familia": [
+        "Insect",
+        "Animal",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/ordo": [
+        "Eukaryote"
+    ],
+    "http://dbpedia.org/property/depots": [
+        "Place",
+        "Unknown",
+        "PersonFunction",
+        "City",
+        "Band"
+    ],
+    "http://dbpedia.org/property/blank1NameSec": [
+        "Language",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/blank2NameSec": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/demographics1Title": [
+        "EthnicGroup",
+        "Unknown",
+        "Lake",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/demographics2Title": [
+        "Language",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/demographicsType": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/establishedTitle": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/partsType": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/cim": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/district": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/municipality": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/intercommunality": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/communeStatus": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/intercommunality": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/blankInfo": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/governmentHead": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/jurisdiction": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/stateHead": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/leaderName": [
+        "Person",
+        "ChemicalCompound",
+        "Agent",
+        "Place",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/locatedInArea": [
+        "Person",
+        "MusicalArtist",
+        "Place",
+        "Unknown",
+        "Settlement",
+        "Country"
+    ],
+    "http://dbpedia.org/property/age": [
+        "Country"
+    ],
+    "http://dbpedia.org/property/range": [
+        "GeographicalFeature",
+        "Settlement",
+        "MountainRange",
+        "Place"
+    ],
+    "http://dbpedia.org/property/rock": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/ceremonialCounty": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/constituencyWestminster": [
+        "AdministrativeRegion",
+        "Settlement",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/lieutenancyEngland": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/unitaryEngland": [
+        "Agent",
+        "Place"
+    ],
+    "http://dbpedia.org/property/clubs": [
+        "University",
+        "SoccerClub",
+        "Agent",
+        "Unknown",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/currentclub": [
+        "Company",
+        "Person",
+        "SoccerClub",
+        "Agent",
+        "Place"
+    ],
+    "http://dbpedia.org/property/nationalteam": [
+        "Person",
+        "SoccerClub",
+        "Agent",
+        "Unknown",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/youthclubs": [
+        "Activity",
+        "SoccerClub",
+        "Agent",
+        "Unknown",
+        "EducationalInstitution",
+        "School"
+    ],
+    "http://dbpedia.org/property/position": [
+        "Person",
+        "RugbyPlayer",
+        "Unknown",
+        "Athlete",
+        "BaseballPlayer"
+    ],
+    "http://dbpedia.org/ontology/mouthMountain": [
+        "GeographicalFeature",
+        "Person",
+        "MusicalArtist",
+        "Place",
+        "Settlement"
+    ],
+    "http://dbpedia.org/ontology/mouthPlace": [
+        "GeographicalFeature",
+        "Person",
+        "MusicalArtist",
+        "Place",
+        "Settlement"
+    ],
+    "http://dbpedia.org/property/mouthLocation": [
+        "Settlement",
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/mountainRange": [
+        "GeographicalFeature",
+        "MountainRange",
+        "Place"
+    ],
+    "http://dbpedia.org/property/listing": [
+        "GeographicalFeature",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/riverMouth": [
+        "Sea",
+        "GeographicalFeature",
+        "River",
+        "Place"
+    ],
+    "http://dbpedia.org/property/mouth": [
+        "Sea",
+        "GeographicalFeature",
+        "River",
+        "Place"
+    ],
+    "http://dbpedia.org/property/riverSystem": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/source1Location": [
+        "Unknown",
+        "GeographicalFeature",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/e": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/w": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/currentSeries": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/prevSeries": [
+        "Automobile",
+        "TelevisionShow"
+    ],
+    "http://dbpedia.org/property/relatedTo": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/titles": [
+        "Automobile",
+        "Person",
+        "TelevisionShow"
+    ],
+    "http://dbpedia.org/property/status": [
+        "Unknown",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/highschool": [
+        "EducationalInstitution",
+        "School",
+        "GeographicalFeature",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/school": [
+        "School"
+    ],
+    "http://dbpedia.org/property/currentposition": [
+        "RugbyPlayer"
+    ],
+    "http://dbpedia.org/property/highschool": [
+        "School",
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/ontology/formerTeam": [
+        "Book",
+        "SportsTeamSeason",
+        "SoccerLeague",
+        "SoccerClub",
+        "Agent",
+        "HockeyTeam",
+        "Unknown",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/highSchool": [
+        "EducationalInstitution",
+        "GeographicalFeature",
+        "School",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/statlabel": [
+        "Software",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/county": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/fedgov": [
+        "AdministrativeRegion",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/lga": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/nearE": [
+        "Unknown",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/nearN": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/nearNe": [
+        "Unknown",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/nearS": [
+        "Unknown",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/nearSe": [
+        "Unknown",
+        "Settlement",
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/property/nearSw": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/nearW": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/stategov": [
+        "Settlement",
+        "AdministrativeRegion",
+        "Unknown",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/architecturalStyle": [
+        "Organisation",
+        "Unknown",
+        "Work"
+    ],
+    "http://dbpedia.org/property/postTown": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/areaOfSearch": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/principalArea": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/constituencyWelshAssembly": [
+        "Settlement",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/lieutenancyWales": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/unitaryWales": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/militaryService": [
+        "CareerStation"
+    ],
+    "http://dbpedia.org/property/battles": [
+        "SocietalEvent",
+        "MilitaryConflict",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/succeeded": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/veneratedIn": [
+        "Building",
+        "Unknown",
+        "Pope",
+        "PersonFunction",
+        "HistoricBuilding",
+        "Country"
+    ],
+    "http://dbpedia.org/property/honorificPrefix": [
+        "Band",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/veneratedIn": [
+        "Building",
+        "Unknown",
+        "Pope",
+        "PersonFunction",
+        "HistoricBuilding",
+        "Country"
+    ],
+    "http://dbpedia.org/property/fields": [
+        "MedicalSpecialty",
+        "Organisation",
+        "Book",
+        "Work"
+    ],
+    "http://dbpedia.org/property/workplaces": [
+        "EducationalInstitution",
+        "Unknown",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/architect": [
+        "Work",
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/discharge1Location": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/property/tributariesRight": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/leaderParty": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/region": [
+        "AdministrativeRegion",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/saint": [
+        "Saint",
+        "Place",
+        "Person"
+    ],
+    "http://dbpedia.org/property/mayorParty": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/metropolitanCity": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/saint": [
+        "Saint",
+        "Place",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/canton": [
+        "Settlement",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/mayor": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/province": [
+        "Unknown",
+        "Country",
+        "Place"
+    ],
+    "http://dbpedia.org/property/countries": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/movement": [
+        "MusicGenre",
+        "Band"
+    ],
+    "http://dbpedia.org/ontology/nationality": [
+        "Language",
+        "Book",
+        "Person",
+        "PopulatedPlace",
+        "MusicalArtist",
+        "Place",
+        "EthnicGroup",
+        "Band",
+        "Country"
+    ],
+    "http://dbpedia.org/property/movement": [
+        "MusicGenre",
+        "Band"
+    ],
+    "http://dbpedia.org/property/nationality": [
+        "Book",
+        "PopulatedPlace",
+        "Person",
+        "MusicalArtist",
+        "Place",
+        "EthnicGroup",
+        "Band",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/arrondissement": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/nearestCity": [
+        "City",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/battle": [
+        "SocietalEvent",
+        "MilitaryConflict",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/namedFor": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/nearNw": [
+        "Unknown",
+        "GeographicalFeature",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/councilArea": [
+        "Person",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/lieutenancyArea": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/constituencyScottishParliament": [
+        "Settlement"
+    ],
+    "http://dbpedia.org/property/lieutenancyScotland": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/unitaryScotland": [
+        "Person",
+        "Place"
+    ],
+    "http://dbpedia.org/property/terminus": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/restoredBy": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/subsid": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/parentPeak": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/district": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/civilParish": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/shireCounty": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/shireDistrict": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/stateOfOrigin": [
+        "PopulatedPlace",
+        "MusicalArtist",
+        "EthnicGroup",
+        "Band",
+        "Country"
+    ],
+    "http://dbpedia.org/property/knownFor": [
+        "Disease",
+        "Device",
+        "Book",
+        "Company",
+        "Software",
+        "Organisation",
+        "Unknown",
+        "Road",
+        "School"
+    ],
+    "http://dbpedia.org/property/debutstadium": [
+        "Stadium",
+        "Place"
+    ],
+    "http://dbpedia.org/property/weight": [
+        "Unknown",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/nationalcompetition": [
+        "Unknown",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/column": [
+        "MeanOfTransportation",
+        "Activity",
+        "Software",
+        "Unknown",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/countryAdminDivisions": [
+        "Settlement",
+        "Country",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/profession": [
+        "PersonFunction",
+        "Book",
+        "Person"
+    ],
+    "http://dbpedia.org/property/order": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/profession": [
+        "PersonFunction",
+        "Book",
+        "Person"
+    ],
+    "http://dbpedia.org/property/timezone1Dst": [
+        "GeographicalFeature",
+        "Settlement",
+        "Unknown",
+        "SportsEvent"
+    ],
+    "http://dbpedia.org/property/constituency": [
+        "AdministrativeRegion",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/draftTeam": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/draftTeam": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/formerTeams": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/debutTeam": [
+        "SportsTeam",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/stat21label": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/stat23label": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/debutleague": [
+        "SoccerClub"
+    ],
+    "http://dbpedia.org/property/debutteam": [
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/finalteam": [
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/cis": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/coachingTeam": [
+        "Unknown",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/ontology/frazioni": [
+        "Place",
+        "Settlement",
+        "ChemicalSubstance",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/frazioni": [
+        "Place",
+        "Settlement",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/majorIslands": [
+        "Island",
+        "Place"
+    ],
+    "http://dbpedia.org/property/waterbody": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/imageCaption": [
+        "Eukaryote",
+        "MeanOfTransportation",
+        "Place",
+        "Unknown",
+        "Station",
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/ontology/notableWork": [
+        "Place",
+        "Unknown",
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/prospectLeague": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/prospectLeague": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/governorGeneral": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/lieutenantGovernor": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/monarch": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/training": [
+        "EducationalInstitution",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/training": [
+        "EducationalInstitution",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/otherparty": [
+        "PoliticalParty",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/province": [
+        "Settlement",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/provRep": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/minister1name": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/subdivname": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/blank1Name": [
+        "BiologicalDatabase",
+        "Unknown",
+        "Food"
+    ],
+    "http://dbpedia.org/ontology/countySeat": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/largestCity": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/state": [
+        "PopulatedPlace",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/1blankname": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/president": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/baseOfOperations": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/topoMaker": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/postalCode": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/homecountry": [
+        "MusicalArtist"
+    ],
+    "http://dbpedia.org/ontology/instrument": [
+        "MusicalArtist",
+        "Unknown",
+        "Agent",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/instrument": [
+        "MusicalArtist",
+        "Agent",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/ontology/parentMountainPeak": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/repteam": [
+        "SoccerClub",
+        "Unknown",
+        "SportsTeam",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/ruPosition": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/debutagainst": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/leaderName": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/relative": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/ruAmateurclubs": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/ruCurrentposition": [
+        "RugbyPlayer",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/ruNationalteam": [
+        "Unknown",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/ruProclubs": [
+        "SportsTeam",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/ruProvince": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/demographics2Info": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/etymology": [
+        "Eukaryote"
+    ],
+    "http://dbpedia.org/ontology/metropolitanBorough": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/metropolitanCounty": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/designation": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/nearestTown": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/role": [
+        "Athlete",
+        "MilitaryConflict",
+        "Unknown",
+        "Cricketer"
+    ],
+    "http://dbpedia.org/ontology/architect": [
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/personFunction": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/playingTeam": [
+        "SportsTeam",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/field": [
+        "Work",
+        "Book",
+        "Company",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/imprisoned": [
+        "Prison",
+        "Place"
+    ],
+    "http://dbpedia.org/property/states": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/playedFor": [
+        "SoccerClub",
+        "SportsTeam",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/neighboringMunicipality": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/neighboringMunicipalities": [
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/blank1Info": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/administrativeCollectivity": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/club": [
+        "SoccerClub",
+        "Agent",
+        "Unknown",
+        "EducationalInstitution",
+        "Band"
+    ],
+    "http://dbpedia.org/property/strokes": [
+        "TelevisionStation"
+    ],
+    "http://dbpedia.org/ontology/highest": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/highest": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/regionType": [
+        "Country"
+    ],
+    "http://dbpedia.org/property/collegeteam": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/originalteam": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/school": [
+        "School"
+    ],
+    "http://dbpedia.org/ontology/inflow": [
+        "Unknown",
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/property/group": [
+        "GeographicalFeature",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/inflow": [
+        "Place",
+        "GeographicalFeature",
+        "River",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/university": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/university": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/diocese": [
+        "Diocese"
+    ],
+    "http://dbpedia.org/ontology/religion": [
+        "Food"
+    ],
+    "http://dbpedia.org/property/consecratedBy": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/diocese": [
+        "Place",
+        "Diocese"
+    ],
+    "http://dbpedia.org/property/ordainedBy": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/religion": [
+        "Building",
+        "Food"
+    ],
+    "http://dbpedia.org/property/department": [
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/occupations": [
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/extour": [
+        "Organisation",
+        "Unknown",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/bowling": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/television": [
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/debutdate": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/beatifiedBy": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/canonizedBy": [
+        "Pope",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/canonizedPlace": [
+        "Person",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/majorShrine": [
+        "Person",
+        "ArchitecturalStructure",
+        "Place"
+    ],
+    "http://dbpedia.org/property/beatifiedBy": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/canonizedBy": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/canonizedPlace": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/honorificSuffix": [
+        "Unknown",
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/property/clubteam": [
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/branch": [
+        "MilitaryUnit",
+        "Agent",
+        "Place"
+    ],
+    "http://dbpedia.org/property/succession": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/1namedata": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/primeminister": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/garrison": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/conviction": [
+        "Film",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/criminalStatus": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/locations": [
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/property/weapon": [
+        "Device"
+    ],
+    "http://dbpedia.org/ontology/foundedBy": [
+        "Company",
+        "Unknown",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/owner": [
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/founder": [
+        "Company",
+        "Unknown",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/militaryBranch": [
+        "MilitaryUnit",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/commands": [
+        "Unknown",
+        "MeanOfTransportation",
+        "Agent",
+        "Place"
+    ],
+    "http://dbpedia.org/property/rank": [
+        "MilitaryPerson",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/route": [
+        "Unknown",
+        "Company"
+    ],
+    "http://dbpedia.org/property/hq": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/replace": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/commune": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/easiestRoute": [
+        "MusicGenre",
+        "Sport"
+    ],
+    "http://dbpedia.org/ontology/presenter": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/showJudge": [
+        "MusicalArtist",
+        "Person"
+    ],
+    "http://dbpedia.org/property/judges": [
+        "MusicalArtist",
+        "Person"
+    ],
+    "http://dbpedia.org/property/network": [
+        "TelevisionStation",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/presenter": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/writer": [
+        "MusicalArtist",
+        "Unknown",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/style": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/progression": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/property/connectsTo": [
+        "Unknown",
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/property/startPoint": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/endPoint": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/riverBranchOf": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/branchOf": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/island": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/islands": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/oceans": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/crosses": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/carries": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/crosses": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/downstream": [
+        "Bridge",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/upstream": [
+        "Unknown",
+        "Infrastructure"
+    ],
+    "http://dbpedia.org/property/partOf": [
+        "Disease",
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/property/manager": [
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/workInstitution": [
+        "EducationalInstitution",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/picture": [
+        "Work",
+        "Unknown",
+        "SoccerTournament"
+    ],
+    "http://dbpedia.org/property/island": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/patron": [
+        "Saint"
+    ],
+    "http://dbpedia.org/property/eyeColor": [
+        "FictionalCharacter"
+    ],
+    "http://dbpedia.org/property/hairColor": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/beatifiedPlace": [
+        "Country"
+    ],
+    "http://dbpedia.org/property/patronage": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/constellationName": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/epoch": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/majorShrine": [
+        "ArchitecturalStructure",
+        "Place"
+    ],
+    "http://dbpedia.org/property/treatySystem": [
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/nationalTeam": [
+        "SoccerClub",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/basinCountries": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/n": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/se": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/sw": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/blank2InfoSec": [
+        "Airport"
+    ],
+    "http://dbpedia.org/property/river": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/event": [
+        "PersonFunction"
+    ],
+    "http://dbpedia.org/ontology/sport": [
+        "Activity"
+    ],
+    "http://dbpedia.org/property/counties": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/s": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/countryAdminDivisionsTitle": [
+        "Agent",
+        "Organisation",
+        "AdministrativeRegion",
+        "Unknown",
+        "Country"
+    ],
+    "http://dbpedia.org/property/parts": [
+        "GeographicalFeature",
+        "AdministrativeRegion",
+        "Settlement",
+        "Place"
+    ],
+    "http://dbpedia.org/property/archipelago": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/administrator": [
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/postal2CodeType": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/communityWales": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/northEast": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/northWest": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/southEast": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/southWest": [
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/bandMember": [
+        "MusicalArtist",
+        "Unknown",
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/lowerGsspLocation": [
+        "Person",
+        "Place",
+        "GeographicalFeature",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/upperGsspLocation": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/firstAscentPerson": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/lastEruption": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/volcanicArc/belt": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/field": [
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/patrons": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/relations": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/leader": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/curlingClub": [
+        "Person",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/coachplayers": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/coachtournamentrecord": [
+        "Tournament",
+        "SocietalEvent",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/preceded": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/restingPlace": [
+        "ArchitecturalStructure",
+        "Settlement",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/president": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/draftteam": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/draftTeamPba": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/adminTeam": [
+        "EducationalInstitution",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/coachTeam": [
+        "University",
+        "Unknown",
+        "EducationalInstitution",
+        "School",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/ontology/managerClub": [
+        "Company",
+        "Unknown",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/managerclubs": [
+        "Unknown",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/institution": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/lastRace": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/property/team(s)_": [
+        "Unknown",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/organization": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/hometown": [
+        "City",
+        "Settlement",
+        "Person"
+    ],
+    "http://dbpedia.org/property/recognition": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/family": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/church": [
+        "Building"
+    ],
+    "http://dbpedia.org/property/coachteams": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/board": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/honours": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/militaryUnit": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/convictionPenalty": [
+        "Disease",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/convictionStatus": [
+        "SoccerClub"
+    ],
+    "http://dbpedia.org/ontology/pictureFormat": [
+        "Colour",
+        "Organisation",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/replaced": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/replacedBy": [
+        "Company",
+        "Agent",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/author": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/sponsor": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/hazards": [
+        "Eukaryote",
+        "Disease",
+        "Unknown",
+        "Fungus",
+        "Country"
+    ],
+    "http://dbpedia.org/ontology/computingPlatform": [
+        "Device",
+        "Software",
+        "ProgrammingLanguage",
+        "TelevisionShow",
+        "Work",
+        "InformationAppliance",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/platform": [
+        "Device",
+        "Software",
+        "InformationAppliance",
+        "TelevisionShow"
+    ],
+    "http://dbpedia.org/ontology/parentOrganisation": [
+        "Agent",
+        "Company"
+    ],
+    "http://dbpedia.org/property/networkType": [
+        "ArtificialSatellite",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/colour": [
+        "Colour"
+    ],
+    "http://dbpedia.org/property/gender": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/postcode": [
+        "Island"
+    ],
+    "http://dbpedia.org/property/schooltype": [
+        "School",
+        "University",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/captain": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/ceo": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/mostTries": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/developer": [
+        "EducationalInstitution",
+        "Unknown",
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/property/developer": [
+        "EducationalInstitution",
+        "Unknown",
+        "Company",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/formerBroadcastNetwork": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/broadcastArea": [
+        "MusicalArtist",
+        "Place"
+    ],
+    "http://dbpedia.org/property/formerAffiliations": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/series": [
+        "VideoGame",
+        "SportsTeam"
+    ],
+    "http://dbpedia.org/property/engine": [
+        "Software"
+    ],
+    "http://dbpedia.org/property/modes": [
+        "VideoGame"
+    ],
+    "http://dbpedia.org/property/publishingCity": [
+        "City",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/capital": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/currency": [
+        "Currency"
+    ],
+    "http://dbpedia.org/ontology/event": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/ontology/legislature": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/topLevelDomain": [
+        "Identifier"
+    ],
+    "http://dbpedia.org/property/capital": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/currency": [
+        "Currency"
+    ],
+    "http://dbpedia.org/property/demonym": [
+        "Band",
+        "PopulatedPlace"
+    ],
+    "http://dbpedia.org/property/establishedEvent": [
+        "Person",
+        "SportsEvent",
+        "TelevisionShow",
+        "Place",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/languages": [
+        "Language"
+    ],
+    "http://dbpedia.org/property/legislature": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/lowerHouse": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/patronSaint": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/sovereigntyType": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/symbolType": [
+        "Fashion",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/timeZoneDst": [
+        "SportsEvent"
+    ],
+    "http://dbpedia.org/property/upperHouse": [
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/ceo": [
+        "Place",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/includedWith": [
+        "Automobile",
+        "Software"
+    ],
+    "http://dbpedia.org/property/conductor": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/author": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/formerBandMember": [
+        "MusicalArtist",
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/pastMembers": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/link2At": [
+        "BiologicalDatabase",
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/notableStudent": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/citizenship": [
+        "Country"
+    ],
+    "http://dbpedia.org/property/legalJurisdiction": [
+        "Diocese"
+    ],
+    "http://dbpedia.org/property/nationalAnthem": [
+        "Single"
+    ],
+    "http://dbpedia.org/property/service": [
+        "Unknown",
+        "Company"
+    ],
+    "http://xmlns.com/foaf/0.1/logo": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/distribution": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/journal": [
+        "PeriodicalLiterature"
+    ],
+    "http://dbpedia.org/property/data": [
+        "Ship",
+        "MusicGenre",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/subject": [
+        "Election",
+        "Unknown",
+        "Book",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/coronation": [
+        "ArchitecturalStructure"
+    ],
+    "http://dbpedia.org/property/institute": [
+        "School"
+    ],
+    "http://dbpedia.org/ontology/binomialAuthority": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/genus": [
+        "Insect",
+        "Animal"
+    ],
+    "http://dbpedia.org/ontology/order": [
+        "Eukaryote",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/available": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/networkLogo": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/branding": [
+        "TelevisionStation"
+    ],
+    "http://dbpedia.org/ontology/division": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/regnum": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/unrankedClassis": [
+        "Animal"
+    ],
+    "http://dbpedia.org/property/unrankedDivisio": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/unrankedTribus": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/libraryLogo": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/influenced": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/pmid": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/narrator": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/voice": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/subspecies": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/fleetSize": [
+        "Aircraft",
+        "MeanOfTransportation"
+    ],
+    "http://dbpedia.org/property/brandBought": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/divisions": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/hqLocationCountry": [
+        "MusicalArtist"
+    ],
+    "http://dbpedia.org/property/brands": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/services": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/conflict": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/property/rugbyDirector": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/ep": [
+        "Work"
+    ],
+    "http://dbpedia.org/ontology/chairman": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/ground": [
+        "SportFacility"
+    ],
+    "http://dbpedia.org/ontology/manager": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/chairman": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/other": [
+        "Unknown",
+        "Person"
+    ],
+    "http://dbpedia.org/property/competition": [
+        "Unknown",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/doctoralStudents": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/lastevent": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/property/nextevent": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/property/stip": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/chiefEditor": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/chiefeditor": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/political": [
+        "PoliticalParty",
+        "Unknown",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/publishingCountry": [
+        "Place"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+        "MusicalArtist",
+        "Unknown",
+        "Place"
+    ],
+    "http://dbpedia.org/property/link3At": [
+        "BiologicalDatabase"
+    ],
+    "http://dbpedia.org/property/sister": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/currentMembers": [
+        "MusicalArtist",
+        "Person"
+    ],
+    "http://dbpedia.org/property/platforms": [
+        "Device",
+        "Software"
+    ],
+    "http://dbpedia.org/property/routes": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/schoolBoard": [
+        "Unknown",
+        "Book",
+        "Agent",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/schoolboard": [
+        "Unknown",
+        "Book",
+        "Agent",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/discharge2Location": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/discharge3Location": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/mouthElevation": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/source2Location": [
+        "GeographicalFeature",
+        "Place"
+    ],
+    "http://dbpedia.org/property/tributariesLeft": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/currentChampion": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/anthem": [
+        "MusicalWork",
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/ethnicGroup": [
+        "PopulatedPlace",
+        "Band",
+        "EthnicGroup"
+    ],
+    "http://dbpedia.org/ontology/officialLanguage": [
+        "Language",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/callingCode": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/nationalLanguages": [
+        "Language"
+    ],
+    "http://dbpedia.org/property/timeZone": [
+        "SportsEvent",
+        "Settlement"
+    ],
+    "http://dbpedia.org/ontology/typeOfElectrification": [
+        "Software",
+        "Unknown",
+        "Organisation"
+    ],
+    "http://dbpedia.org/property/topLeagueScorer": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/cctld": [
+        "Identifier"
+    ],
+    "http://dbpedia.org/property/languagesType": [
+        "Language"
+    ],
+    "http://dbpedia.org/ontology/lyrics": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/free": [
+        "Unknown",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/result": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/classis": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/phylum": [
+        "Animal"
+    ],
+    "http://dbpedia.org/property/formerName": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/stock": [
+        "Train",
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/academicAffiliations": [
+        "EducationalInstitution",
+        "Agent",
+        "Place"
+    ],
+    "http://dbpedia.org/property/accreditation": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/mascot": [
+        "FictionalCharacter"
+    ],
+    "http://dbpedia.org/property/nickname": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/sportingAffiliations": [
+        "Unknown",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/sisterChannels": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/employer": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/victims": [
+        "EthnicGroup"
+    ],
+    "http://dbpedia.org/ontology/county": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/medium": [
+        "Language"
+    ],
+    "http://dbpedia.org/property/locationCity": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/locationCountry": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/weapons": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/track": [
+        "Stadium"
+    ],
+    "http://dbpedia.org/property/officialLanguages": [
+        "Language"
+    ],
+    "http://dbpedia.org/property/competitions": [
+        "SoccerLeague",
+        "Agent"
+    ],
+    "http://dbpedia.org/property/terrServ": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/affiliation": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/property/affiliations": [
+        "EducationalInstitution"
+    ],
+    "http://dbpedia.org/ontology/bronzeMedalist": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/goldMedalist": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/nextEvent": [
+        "SocietalEvent",
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/silverMedalist": [
+        "Athlete",
+        "Person"
+    ],
+    "http://dbpedia.org/property/bronze": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/gold": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/silver": [
+        "Athlete",
+        "Person"
+    ],
+    "http://dbpedia.org/property/extra": [
+        "Band",
+        "Agent",
+        "Person"
+    ],
+    "http://dbpedia.org/property/bird": [
+        "Bird"
+    ],
+    "http://dbpedia.org/property/elevationMaxPoint": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/elevationMinPoint": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/fish": [
+        "Eukaryote"
+    ],
+    "http://dbpedia.org/property/flower": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/food": [
+        "Food"
+    ],
+    "http://dbpedia.org/property/insect": [
+        "Insect"
+    ],
+    "http://dbpedia.org/property/judiciary": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/largestcity": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/largestmetro": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/lowerhouse": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/mammal": [
+        "Unknown",
+        "Mammal"
+    ],
+    "http://dbpedia.org/property/mushroom": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/populationDemonym": [
+        "Unknown",
+        "Country",
+        "EthnicGroup"
+    ],
+    "http://dbpedia.org/property/reptile": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/senators": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/shell": [
+        "Eukaryote"
+    ],
+    "http://dbpedia.org/property/ship": [
+        "MeanOfTransportation"
+    ],
+    "http://dbpedia.org/property/soil": [
+        "Species"
+    ],
+    "http://dbpedia.org/property/timezone2Dst": [
+        "GeographicalFeature"
+    ],
+    "http://dbpedia.org/property/tree": [
+        "Plant"
+    ],
+    "http://dbpedia.org/property/upperhouse": [
+        "Agent"
+    ],
+    "http://dbpedia.org/property/instruments": [
+        "Software"
+    ],
+    "http://dbpedia.org/property/owners": [
+        "Company"
+    ],
+    "http://dbpedia.org/property/note": [
+        "Person"
+    ],
+    "http://dbpedia.org/property/subphylum": [
+        "Animal"
+    ],
+    "http://dbpedia.org/property/organiser": [
+        "EducationalInstitution",
+        "Agent"
+    ],
+    "http://dbpedia.org/ontology/firstWinner": [
+        "Person"
+    ],
+    "http://dbpedia.org/ontology/mostWins": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/federalState": [
+        "Place"
+    ],
+    "http://dbpedia.org/ontology/head": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/property/list": [
+        "Eukaryote",
+        "Work"
+    ],
+    "http://dbpedia.org/property/followingevent": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/property/previousevent": [
+        "SocietalEvent"
+    ],
+    "http://dbpedia.org/property/licence": [
+        "Unknown"
+    ],
+    "http://dbpedia.org/ontology/servingRailwayLine": [
+        "RailwayLine"
+    ],
+    "http://dbpedia.org/property/discharge4Location": [
+        "Place"
+    ],
+    "http://dbpedia.org/property/discharge5Location": [
+        "Place"
+    ]
+}

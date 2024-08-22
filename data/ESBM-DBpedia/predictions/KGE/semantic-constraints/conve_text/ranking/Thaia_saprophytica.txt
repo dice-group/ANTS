@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/thaia_saprophytica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:epidendroideae
+http://dbpedia.org/resource/thaia_saprophytica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:orchids_of_laos
+http://dbpedia.org/resource/thaia_saprophytica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:myco-heterotrophic_orchids
+http://dbpedia.org/resource/thaia_saprophytica	http://dbpedia.org/property/authority	http://dbpedia.org/resource/seidenf.

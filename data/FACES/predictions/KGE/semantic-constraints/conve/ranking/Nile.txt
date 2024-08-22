@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/nile	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/river
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/source	http://dbpedia.org/resource/blue_nile
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/discharge2location	http://dbpedia.org/resource/egypt
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/kenya
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/rivermouth	http://dbpedia.org/resource/mediterranean_sea
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/discharge2location	http://dbpedia.org/resource/cairo
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/tributariesright	http://dbpedia.org/resource/blue_nile_river
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/sudan
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/tanzania
+http://dbpedia.org/resource/nile	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:rivers_of_south_sudan

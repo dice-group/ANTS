@@ -1,0 +1,31 @@
+http://dbpedia.org/resource/john_napier	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+John Napier	http://dbpedia.org/ontology/birthPlace	Edinburgh
+http://dbpedia.org/resource/john_napier	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1617_deaths
+http://dbpedia.org/resource/john_napier	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:16th-century_apocalypticists
+http://dbpedia.org/resource/john_napier	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1550_births
+http://dbpedia.org/resource/john_napier	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:scottish_mathematicians
+http://dbpedia.org/resource/john_napier	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:17th-century_apocalypticists
+John Napier	http://dbpedia.org/ontology/birthDate	1550-02-01
+John Napier	http://dbpedia.org/ontology/occupation	Mathematician
+John Napier	http://dbpedia.org/ontology/deathPlace	Edinburgh
+John Napier	http://dbpedia.org/ontology/deathDate	1617-04-04
+John Napier	http://dbpedia.org/ontology/almaMater	University of St Andrews
+John Napier	http://dbpedia.org/ontology/award	Gouden Ganzenveer
+John Napier	http://dbpedia.org/ontology/nationality	Scottish
+John Napier	http://dbpedia.org/ontology/education	University of St Andrews
+John Napier	http://dbpedia.org/ontology/knownFor	Logarithms
+John Napier	http://dbpedia.org/ontology/spouse	Elizabeth Stirling
+John Napier	http://dbpedia.org/ontology/academicDiscipline	Mathematics
+John Napier	http://dbpedia.org/ontology/child	Robert Napier
+John Napier	http://dbpedia.org/ontology/residence	Merchiston Castle
+John Napier	http://dbpedia.org/ontology/parent	Archibald Napier
+John Napier	http://dbpedia.org/ontology/influencedBy	John St. Vincent
+John Napier	http://dbpedia.org/ontology/employer	University of Edinburgh
+John Napier	http://dbpedia.org/ontology/field	Mathematics
+John Napier	http://dbpedia.org/ontology/notableWork	Mirifici Logarithmorum Canonis Descriptio
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/merchiston_castle
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/almamater	http://dbpedia.org/resource/university_of_st_andrews
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/edinburgh
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/napier's_bones
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/spherical_trigonometry
+John Napier	http://dbpedia.org/ontology/influences	Isaac Newton

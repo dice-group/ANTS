@@ -1,0 +1,1 @@
+ <H> juhan_muks <R> type <T> http://schema.org/person <H> juhan_muks <R> type <T> http://www.wikidata.org/entity/q5 <H> juhan_muks <R> type <T> http://xmlns.com/foaf/0.1/person <H> juhan_muks <R> type <T> agent <H> juhan_muks <R> type <T> causalagent100007347

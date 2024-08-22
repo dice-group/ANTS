@@ -1,0 +1,29 @@
+http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1983_deaths
+http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1899_births
+http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:estonian_painters
+http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactor
+http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+Juhan Muks	http://dbpedia.org/ontology/birthPlace	Kambja Parish
+Juhan Muks	http://dbpedia.org/ontology/birthDate	1899-03-27
+Juhan Muks	http://dbpedia.org/ontology/occupation	Painter
+Juhan Muks	http://dbpedia.org/ontology/deathPlace	Tartu
+Juhan Muks	http://dbpedia.org/ontology/genre	Expressionism
+Juhan Muks	http://dbpedia.org/ontology/deathDate	1983-03-23
+Juhan Muks	http://dbpedia.org/ontology/award	Kristjan Raud Art Award
+Juhan Muks	http://dbpedia.org/ontology/nationality	Estonia
+Juhan Muks	http://dbpedia.org/ontology/associatedBand	Põhja Konn
+Juhan Muks	http://dbpedia.org/ontology/education	Pallas Art School
+Juhan Muks	http://dbpedia.org/ontology/knownFor	Painting
+http://dbpedia.org/resource/juhan_muks	http://dbpedia.org/ontology/commander	http://commons.wikimedia.org/wiki/special:filepath/andrew_kippis.jpg?width=300
+Juhan Muks	http://dbpedia.org/ontology/spouse	Alma Muks
+Juhan Muks	http://dbpedia.org/ontology/parent	Alma Muks
+Juhan Muks	http://dbpedia.org/ontology/influencedBy	Konrad Mägi
+Juhan Muks	http://dbpedia.org/ontology/movement	Expressionism
+http://dbpedia.org/resource/juhan_muks	http://dbpedia.org/ontology/locatedinarea	http://dbpedia.org/ontology/agent
+http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/causalagent100007347
+http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/organism100004475
+Juhan Muks	http://dbpedia.org/ontology/children	Uno Muks
+Juhan Muks	http://dbpedia.org/ontology/sibling	Paul Burman
+Juhan Muks	http://dbpedia.org/ontology/works	"Youth"
+Juhan Muks	http://dbpedia.org/ontology/notableWorks	"Kalevipoeg"

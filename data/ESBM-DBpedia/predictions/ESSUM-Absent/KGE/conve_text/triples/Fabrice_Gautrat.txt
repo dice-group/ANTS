@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/locatedinarea	http://www.wikidata.org/entity/q5
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q215627

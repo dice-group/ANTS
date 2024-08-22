@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/logo	http://dbpedia.org/resource/file:riceu_blueseallogo.png
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/ontology/president	http://dbpedia.org/resource/david_leebron
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/provost	http://dbpedia.org/resource/george_mclendon
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/john_hieftje
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/rice_university_seal.svg/200px-rice_university_seal.svg.png
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/rice_university
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download

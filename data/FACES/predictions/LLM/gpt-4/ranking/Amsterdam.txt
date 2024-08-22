@@ -1,0 +1,20 @@
+Amsterdam	http://dbpedia.org/ontology/birthPlace	Rembrandt
+Amsterdam	http://dbpedia.org/ontology/country	Netherlands
+Amsterdam	http://dbpedia.org/ontology/utcOffset	+1
+Amsterdam	http://dbpedia.org/ontology/deathPlace	Vincent van Gogh
+Amsterdam	http://dbpedia.org/ontology/timeZone	Central European Time.
+Amsterdam	http://dbpedia.org/ontology/populationTotal	905234
+Amsterdam	http://dbpedia.org/ontology/elevation	2
+Amsterdam	http://dbpedia.org/ontology/postalCode	1000–1109
+Amsterdam	http://dbpedia.org/ontology/areaTotal	219.32
+Amsterdam	http://dbpedia.org/ontology/areaCode	+31-20
+Amsterdam	http://dbpedia.org/ontology/foundingDate	1275
+Amsterdam	http://dbpedia.org/ontology/governmentType	Mayor-council government
+Amsterdam	http://dbpedia.org/ontology/demonym	Amsterdammers
+Amsterdam	http://dbpedia.org/ontology/currency	Euro
+Amsterdam	http://dbpedia.org/ontology/officialLanguage	Dutch
+Amsterdam	http://dbpedia.org/ontology/leaderName	Femke Halsema
+Amsterdam	http://dbpedia.org/ontology/isoCode	NL
+Amsterdam	http://dbpedia.org/ontology/partOf	North Holland
+Amsterdam	http://dbpedia.org/ontology/twinCity	Beira
+Amsterdam	http://dbpedia.org/ontology/nickname	Venice of the North

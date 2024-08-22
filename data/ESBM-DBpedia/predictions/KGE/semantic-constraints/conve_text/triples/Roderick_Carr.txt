@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/state	http://dbpedia.org/resource/kentucky
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/title	http://dbpedia.org/resource/chief_of_air_staff_(india)
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_flying_corps_officers
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/knight_commander_of_the_order_of_the_british_empire
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/publisher	http://dbpedia.org/resource/surat_municipal_corporation
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/battles	http://dbpedia.org/resource/second_world_war
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/commands	http://dbpedia.org/resource/no._4_group_raf
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/branch	http://dbpedia.org/resource/royal_navy
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_air_force_personnel_of_world_war_ii
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/robert_l._mchatton

@@ -1,0 +1,16 @@
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/the_master's_college
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:north_american_soccer_league_players
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:orange_county_blues_fc_players
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:atlanta_silverbacks_players
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1987_births
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/thumbnail	http://commons.wikimedia.org/wiki/special:filepath/dallas_keuchel_signing_autographs_in_jan_2015.jpg?width=300
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/author	http://dbpedia.org/resource/defender_(association_football)
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/fabrice_gautrat__5
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/programmeformat	http://schema.org/person
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/culver_city,_california
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#agent

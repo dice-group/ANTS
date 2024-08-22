@@ -1,0 +1,15 @@
+Marie Curie	full_name	Marie Curie
+Marie Curie	birth_date	November 7, 1867
+Marie Curie	birth_place	Warsaw, Poland
+Marie Curie	death_date	July 4, 1934
+Marie Curie	death_place	Sallanches, France
+Marie Curie	nationality	Polish
+Marie Curie	occupation	Physicist
+Marie Curie	occupation	Chemist
+Marie Curie	education	Sorbonne University
+Marie Curie	awards	Nobel Prize in Physics
+Marie Curie	awards	Nobel Prize in Chemistry
+Marie Curie	discovery	Radioactivity
+Marie Curie	discovery	Polonium
+Marie Curie	discovery	Radium
+Marie Curie	institutions	Institute of Radium

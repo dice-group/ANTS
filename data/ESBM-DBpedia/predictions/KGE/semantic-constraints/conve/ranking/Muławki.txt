@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/muławki	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:villages_in_kętrzyn_county
+http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/village
+http://dbpedia.org/resource/muławki	http://dbpedia.org/ontology/subdivision	http://dbpedia.org/resource/gmina_kętrzyn
+http://dbpedia.org/resource/muławki	http://dbpedia.org/ontology/subdivision	http://dbpedia.org/resource/kętrzyn_county
+http://dbpedia.org/resource/muławki	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/muławki	http://dbpedia.org/property/capital	http://dbpedia.org/resource/poland
+http://dbpedia.org/resource/muławki	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/voivodeships_of_poland
+http://dbpedia.org/resource/muławki	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/countries_of_the_world
+http://dbpedia.org/resource/muławki	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/gmina
+http://dbpedia.org/resource/muławki	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/powiat

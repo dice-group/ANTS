@@ -1,0 +1,1 @@
+< pad > The Ayrovo is located in the country of Bulgaria and has the name of Ayrovo in the category of Kardzhali Municipality, Ayrovo. Their time zone is Eastern European Time and they have the UTCOffset of + 3000 minutes. The Ayrovo has the type of http: / / www.dbpedia.org / ontology / Location and their name is http: / / www.wikidata.org / ontology / Location. < / s >

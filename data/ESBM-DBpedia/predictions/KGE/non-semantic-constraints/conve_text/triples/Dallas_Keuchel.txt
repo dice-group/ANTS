@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q215627
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:corpus_christi_hooks_players
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:arkansas_razorbacks_baseball_players
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:sportspeople_from_tulsa,_oklahoma
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/dallas_keuchel	http://dbpedia.org/ontology/series	http://dbpedia.org/resource/starting_pitcher
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:oklahoma_city_redhawks_players

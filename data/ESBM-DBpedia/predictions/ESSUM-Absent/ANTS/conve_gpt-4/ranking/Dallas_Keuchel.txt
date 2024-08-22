@@ -1,0 +1,24 @@
+Dallas Keuchel	http://dbpedia.org/ontology/team	Houston Astros
+Dallas Keuchel	http://dbpedia.org/ontology/birthPlace	Tulsa,  Oklahoma
+Dallas Keuchel	http://dbpedia.org/ontology/birthDate	1988-01-01
+Dallas Keuchel	http://dbpedia.org/ontology/position	Pitcher
+Dallas Keuchel	http://dbpedia.org/ontology/award	Cy Young Award
+Dallas Keuchel	http://dbpedia.org/ontology/nationality	United States
+Dallas Keuchel	http://dbpedia.org/ontology/number	60
+Dallas Keuchel	http://dbpedia.org/ontology/league	Major League Baseball
+Dallas Keuchel	http://dbpedia.org/ontology/child	None.
+Dallas Keuchel	http://dbpedia.org/ontology/draftYear	2009
+Dallas Keuchel	http://dbpedia.org/ontology/college	University of Arkansas
+Dallas Keuchel	http://dbpedia.org/ontology/draftTeam	Houston Astros
+Dallas Keuchel	http://dbpedia.org/ontology/era	3.86
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+Dallas Keuchel	http://dbpedia.org/ontology/win	2020 World Series
+Dallas Keuchel	http://dbpedia.org/ontology/loss	93
+Dallas Keuchel	http://dbpedia.org/ontology/strikeouts	1228
+Dallas Keuchel	http://dbpedia.org/ontology/highSchool	Bishop Kelley High School
+Dallas Keuchel	http://dbpedia.org/ontology/majorLeagueDebutDate	2012-06-17
+Dallas Keuchel	http://dbpedia.org/ontology/parentClub	Atlanta Braves

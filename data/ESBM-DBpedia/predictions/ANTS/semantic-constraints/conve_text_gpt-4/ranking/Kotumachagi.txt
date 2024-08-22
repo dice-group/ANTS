@@ -1,0 +1,29 @@
+http://dbpedia.org/resource/kotumachagi	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/village
+Kotumachagi	http://dbpedia.org/ontology/country	India
+Kotumachagi	http://dbpedia.org/ontology/timeZone	Asia/Kolkata
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/indian_standard_time
+Kotumachagi	http://dbpedia.org/ontology/elevation	590
+Kotumachagi	http://dbpedia.org/ontology/postalCode	582205
+Kotumachagi	http://dbpedia.org/ontology/areaCode	08337
+Kotumachagi	http://dbpedia.org/ontology/leaderTitle	Gram Panchayat
+Kotumachagi	http://dbpedia.org/ontology/state	Karnataka
+Kotumachagi	http://dbpedia.org/ontology/foundingDate	1200
+Kotumachagi	http://dbpedia.org/ontology/district	Gadag
+Kotumachagi	http://dbpedia.org/ontology/nearestCity	Gadag
+Kotumachagi	http://dbpedia.org/ontology/governmentType	Gram panchayat
+Kotumachagi	http://dbpedia.org/ontology/isPartOf	Gadag district
+Kotumachagi	http://dbpedia.org/ontology/isPartOf	Karnataka
+Kotumachagi	http://dbpedia.org/ontology/officialLanguage	Kannada
+Kotumachagi	http://dbpedia.org/ontology/leaderName	Veerendra Patil
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/mayor
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/majorislands	http://dbpedia.org/resource/calauit_island
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/karnataka
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/states_and_territories_of_india
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/blankinfo	http://dbpedia.org/resource/tropical_monsoon_climate
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/village
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/demographics1info	http://dbpedia.org/resource/kannada
+Kotumachagi	http://dbpedia.org/ontology/latitude	15.4333
+Kotumachagi	http://dbpedia.org/ontology/longitude	75.51667
+Kotumachagi	http://dbpedia.org/ontology/demographicsAsOf	2011
+Kotumachagi	http://dbpedia.org/ontology/demographicsType1	Rural

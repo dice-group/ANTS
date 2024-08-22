@@ -1,0 +1,1 @@
+< pad > The Massacre on 34th Street, known as Massacre on 34th Street, has a typo of http: / / www.dbpedia.org / ontology / WrestlingEvent. It is situated in Hammerstein Ballroom and performs as a professional wrestling sport. The date of the event is December 3, 2000 and it has the following details: http: / / www.w3.org / ontology / WrestlingEvent. < / s >

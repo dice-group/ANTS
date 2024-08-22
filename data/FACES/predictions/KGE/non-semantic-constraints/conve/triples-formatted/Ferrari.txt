@@ -1,0 +1,1 @@
+ <H> ferrari <R> industry <T> automotive_industry <H> ferrari <R> keyperson <T> luca_di_montezemolo <H> ferrari <R> keypeople <T> luca_cordero_di_montezemolo <H> ferrari <R> product <T> supercar <H> ferrari <R> keypeople <T> piero_ferrari

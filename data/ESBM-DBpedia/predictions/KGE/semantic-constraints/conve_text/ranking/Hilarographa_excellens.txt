@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/hilarographa_excellens	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/hilarographa_excellens	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/lepidoptera
+http://dbpedia.org/resource/hilarographa_excellens	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/animal
+http://dbpedia.org/resource/hilarographa_excellens	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/hilarographa
+http://dbpedia.org/resource/hilarographa_excellens	http://dbpedia.org/ontology/binomialauthority	http://dbpedia.org/resource/arnold_pagenstecher

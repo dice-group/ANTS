@@ -1,0 +1,15 @@
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasName	Friedrich Engel
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasBirthDate	March 26, 1861
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasDeathDate	October 10, 1941
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasNationality	German
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasField	Mathematics
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasInstitution	University of Berlin
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasNotableWork	Theory of invariants
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasInfluenced	Emmy Noether
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasDoctoralAdvisor	Felix Klein
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasDoctoralStudents	Hans Rademacher
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasAwards	Felix Klein Medal
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasKnownFor	Contributions to invariant theory
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasPublishedWorks	Introduction to the Theory of Invariants
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasOccupation	Mathematician
+Friedrich Engel mathematician	http://dbpedia.org/ontology/hasResidence	Berlin, Germany

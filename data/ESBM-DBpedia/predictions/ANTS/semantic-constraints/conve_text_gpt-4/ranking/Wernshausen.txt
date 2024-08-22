@@ -1,0 +1,27 @@
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+Wernshausen	http://dbpedia.org/ontology/country	Germany
+Wernshausen	http://dbpedia.org/ontology/location	Germany
+Wernshausen	http://dbpedia.org/ontology/timeZone	CET/CEST
+Wernshausen	http://dbpedia.org/ontology/elevation	285
+Wernshausen	http://dbpedia.org/ontology/postalCode	98590
+Wernshausen	http://dbpedia.org/ontology/areaTotal	14.43
+Wernshausen	http://dbpedia.org/ontology/areaCode	036940
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/schmalkalden
+Wernshausen	http://dbpedia.org/ontology/leaderTitle	Ortsvorsteher
+Wernshausen	http://dbpedia.org/ontology/populationDensity	191.0
+Wernshausen	http://dbpedia.org/ontology/state	Thuringia
+Wernshausen	http://dbpedia.org/ontology/foundingDate	780
+Wernshausen	http://dbpedia.org/ontology/district	Schmalkalden-Meiningen
+Wernshausen	http://dbpedia.org/ontology/nearestCity	Schmalkalden
+Wernshausen	http://dbpedia.org/ontology/isPartOf	Schmalkalden-Meiningen
+Wernshausen	http://dbpedia.org/ontology/officialLanguage	German
+Wernshausen	http://dbpedia.org/ontology/twinTown	Bad Liebenstein
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/northland_regional_council
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/property/lieutenancyengland	http://dbpedia.org/resource/bristol
+http://dbpedia.org/resource/wernshausen	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/part
+http://dbpedia.org/resource/wernshausen	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:former_municipalities_in_thuringia
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/u.s._state
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/property/communestatus	http://dbpedia.org/resource/communes_of_france
+Wernshausen	http://dbpedia.org/ontology/hasPhotoCollection	http://commons.wikimedia.org/wiki/Category:Wernshausen

@@ -1,0 +1,15 @@
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/genre	Action
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/language	English
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/vehicle	KITT Knight Industries Two Thousand
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/premieredOn	September 26, 1982
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/createdBy	Glen A. Larson
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/mainCharacter	Michael Knight
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/mainActor	David Hasselhoff
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/setting	Los Angeles, California
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/themeSong	Knight Rider Theme by Stu Phillips
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/runningTime	45 minutes
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/numberofSeasons	4
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/numberofEpisodes	90
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/filmingLocation	California
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/villains	K.A.R.R. Knight Automated Roving Robot
+Knight Rider 1982 TV series	http://dbpedia.org/ontology/awards	2 Emmy Awards

@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/nemapogon_nigralbella	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal
+http://dbpedia.org/resource/nemapogon_nigralbella	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/nemapogon_nigralbella	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/nemapogon_nigralbella	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
+http://dbpedia.org/resource/nemapogon_nigralbella	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+Nemapogon nigralbella	http://dbpedia.org/ontology/family	Tineidae
+Nemapogon nigralbella	http://dbpedia.org/ontology/class	Moth
+Nemapogon nigralbella	http://dbpedia.org/ontology/order	Lepidoptera
+Nemapogon nigralbella	http://dbpedia.org/ontology/phylum	Arthropoda
+Nemapogon nigralbella	http://dbpedia.org/ontology/kingdom	Animalia
+Nemapogon nigralbella	http://dbpedia.org/ontology/synonym	Tinea nigralbella
+Nemapogon nigralbella	http://dbpedia.org/ontology/genus	Nemapogon
+Nemapogon nigralbella	http://dbpedia.org/ontology/binomialAuthority	Amsel,  1935
+Nemapogon nigralbella	http://dbpedia.org/ontology/conservationStatus	Not Evaluated.
+Nemapogon nigralbella	http://dbpedia.org/ontology/binomial	Nemapogon nigralbella
+Nemapogon nigralbella	http://dbpedia.org/ontology/classOrder	Lepidoptera
+Nemapogon nigralbella	http://dbpedia.org/ontology/distribution	United States
+Nemapogon nigralbella	http://dbpedia.org/ontology/habitat	Forests
+Nemapogon nigralbella	http://dbpedia.org/ontology/pollinator	No known pollinator
+Nemapogon nigralbella	http://dbpedia.org/ontology/prey	fungi

@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/vladimir_putin	http://dbpedia.org/ontology/primeminister	http://dbpedia.org/resource/viktor_khristenko
+http://dbpedia.org/resource/vladimir_putin	http://dbpedia.org/ontology/primeminister	http://dbpedia.org/resource/viktor_zubkov
+http://dbpedia.org/resource/vladimir_putin	http://dbpedia.org/ontology/primeminister	http://dbpedia.org/resource/mikhail_kasyanov
+http://dbpedia.org/resource/vladimir_putin	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/soviet_union
+http://dbpedia.org/resource/vladimir_putin	http://dbpedia.org/ontology/primeminister	http://dbpedia.org/resource/dmitry_medvedev

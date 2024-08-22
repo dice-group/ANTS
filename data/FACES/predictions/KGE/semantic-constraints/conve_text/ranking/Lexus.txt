@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/lexus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/agent
+http://dbpedia.org/resource/lexus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:japanese_brands
+http://dbpedia.org/resource/lexus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:lexus
+http://dbpedia.org/resource/lexus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:luxury_motor_vehicle_manufacturers
+http://dbpedia.org/resource/lexus	http://dbpedia.org/property/type	http://dbpedia.org/resource/division_(business)
+http://dbpedia.org/resource/lexus	http://dbpedia.org/property/products	http://dbpedia.org/resource/luxury_vehicles
+http://dbpedia.org/resource/lexus	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/automotive
+http://dbpedia.org/resource/lexus	http://dbpedia.org/property/parent	http://dbpedia.org/resource/toyota
+http://dbpedia.org/resource/lexus	http://dbpedia.org/ontology/fueltype	http://dbpedia.org/resource/diesel_fuel
+http://dbpedia.org/resource/lexus	http://dbpedia.org/ontology/keyperson	http://dbpedia.org/resource/vice_president

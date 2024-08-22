@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_animated_feature_films
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_romantic_musical_films
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_children's_animated_fantasy_films
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1992_comedy_films
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:race-related_controversies_in_animation
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/film
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/douglas_seale
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/brian_pimental
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/property/distributor	http://dbpedia.org/resource/buena_vista_pictures_distribution
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/property/editing	http://dbpedia.org/resource/h._lee_peterson

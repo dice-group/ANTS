@@ -1,0 +1,15 @@
+Lexus	http://dbpedia.org/ontology/location	Nagoya
+Lexus	http://dbpedia.org/ontology/headquarter	Nagoya
+Lexus	http://dbpedia.org/ontology/industry	Automotive
+Lexus	http://dbpedia.org/ontology/product	Automobiles
+Lexus	http://dbpedia.org/ontology/manufacturer	Toyota Motor Corporation
+Lexus	http://dbpedia.org/ontology/keyPerson	Akio Toyoda
+Lexus	http://dbpedia.org/ontology/parentCompany	Toyota Motor Corporation
+Lexus	http://dbpedia.org/ontology/service	Automobile repair
+Lexus	http://dbpedia.org/ontology/division	Toyota
+Lexus	http://dbpedia.org/ontology/subsidiary	Toyota
+Lexus	http://dbpedia.org/ontology/logo	https://en.wikipedia.org/wiki/File:Lexus_logo.svg
+Lexus	http://dbpedia.org/ontology/brand	Toyota
+Lexus	http://dbpedia.org/ontology/foundationPlace	Nagoya
+Lexus	http://dbpedia.org/ontology/foundationDate	1989
+Lexus	http://dbpedia.org/ontology/market	Automotive industry

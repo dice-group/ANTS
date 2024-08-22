@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/albert_einstein	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/scientist
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/doctoraladvisor	http://dbpedia.org/resource/alfred_kleiner
+http://dbpedia.org/resource/albert_einstein	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:institute_for_advanced_study_faculty
+http://dbpedia.org/resource/albert_einstein	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/spouse	http://dbpedia.org/resource/elsa_löwenthal
+http://dbpedia.org/resource/albert_einstein	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th-century_american_inventors
+http://dbpedia.org/resource/albert_einstein	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_science_writers
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/children	http://dbpedia.org/resource/hans_albert_einstein
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/prussian_academy_of_sciences
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/academicadvisor	http://dbpedia.org/resource/heinrich_friedrich_weber
+http://dbpedia.org/resource/albert_einstein	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:university_of_bern_faculty
+http://dbpedia.org/resource/albert_einstein	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:philosophers_of_mathematics
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/kingdom_of_württemberg

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/burgery_ambush	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/george_oliver_plunkett
+http://dbpedia.org/resource/burgery_ambush	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1921_in_ireland
+http://dbpedia.org/resource/burgery_ambush	http://dbpedia.org/property/combatant	http://dbpedia.org/resource/file:flag_of_ireland.svg
+http://dbpedia.org/resource/burgery_ambush	http://dbpedia.org/property/name	http://dbpedia.org/resource/riyad_mahrez
+http://dbpedia.org/resource/burgery_ambush	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:march_1921_events
+http://dbpedia.org/resource/burgery_ambush	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:military_actions_and_engagements_during_the_irish_war_of_independence
+http://dbpedia.org/resource/burgery_ambush	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:ambushes_in_europe
+http://dbpedia.org/resource/burgery_ambush	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/stade_olympique_yves-du-manoir
+http://dbpedia.org/resource/burgery_ambush	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/burgery_ambush	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
