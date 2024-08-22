@@ -1,0 +1,15 @@
+Benjamin Franklin	birthDate	January 17, 1706
+Benjamin Franklin	deathDate	April 17, 1790
+Benjamin Franklin	birthPlace	Boston, Massachusetts
+Benjamin Franklin	occupation	Politician
+Benjamin Franklin	occupation	Inventor
+Benjamin Franklin	occupation	Author
+Benjamin Franklin	spouse	Deborah Read
+Benjamin Franklin	politicalAffiliation	Founding Father of the United States
+Benjamin Franklin	inventions	Bifocals
+Benjamin Franklin	inventions	Lightning rod
+Benjamin Franklin	inventions	Franklin stove
+Benjamin Franklin	politicalOffice	United States Ambassador to France
+Benjamin Franklin	politicalOffice	Governor of Pennsylvania
+Benjamin Franklin	famousQuote	"Beer is proof that God loves us and wants us to be happy."
+Benjamin Franklin	famousQuote	"An investment in knowledge pays the best interest."

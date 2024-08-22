@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1930s_comedy_films
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english-language_films
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/country	United States
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/starring	Susan Hayward
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/genre	Comedy.
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/writer	Anthony Veiller
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/runtime	80 minutes
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/producer	Adolph Zukor
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/releaseDate	1939-08-04
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/director	Alfred Santell.
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/language	English
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/distributor	Paramount Pictures
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/musicComposer	Gerard Carbonara
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/cinematography	Henry Sharp
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/productionCompany	Paramount Pictures.
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/editing	Otto Meyer
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/basedOn	Uncle Dudley
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/bob_burns_(comedian)
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/susan_hayward
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/paramount_pictures
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/charles_bickford
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/studio	Paramount Pictures
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/boxOffice	"Not available"
+Our Leading Citizen 1939 film	http://dbpedia.org/ontology/filmFestival	None

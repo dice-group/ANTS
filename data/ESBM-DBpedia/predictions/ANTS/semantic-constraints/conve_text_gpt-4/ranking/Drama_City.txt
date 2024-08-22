@@ -1,0 +1,28 @@
+http://dbpedia.org/resource/drama_city	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:korean_broadcasting_system_television_dramas
+http://dbpedia.org/resource/drama_city	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2008_south_korean_television_series_endings
+http://dbpedia.org/resource/drama_city	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1984_south_korean_television_series_debuts
+http://dbpedia.org/resource/drama_city	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/kbs
+http://dbpedia.org/resource/drama_city	http://dbpedia.org/property/location	http://dbpedia.org/resource/south_korea
+Drama City	http://dbpedia.org/ontology/country	South Korea
+http://dbpedia.org/resource/drama_city	http://dbpedia.org/property/starring	http://dbpedia.org/resource/tori_spelling
+Drama City	http://dbpedia.org/ontology/location	South Korea
+Drama City	http://dbpedia.org/ontology/genre	Anthology series
+Drama City	http://dbpedia.org/ontology/writer	Ben Elton
+Drama City	http://dbpedia.org/ontology/award	Baeksang Arts Award for Best TV Drama
+Drama City	http://dbpedia.org/ontology/producer	KBS
+Drama City	http://dbpedia.org/ontology/director	Kim Jong-hak
+Drama City	http://dbpedia.org/ontology/language	Korean
+Drama City	http://dbpedia.org/ontology/musicComposer	Kenji Kawai
+http://dbpedia.org/resource/drama_city	http://dbpedia.org/ontology/network	http://dbpedia.org/resource/kbs2
+http://dbpedia.org/resource/drama_city	http://dbpedia.org/ontology/network	http://dbpedia.org/resource/korean_broadcasting_system
+Drama City	http://dbpedia.org/ontology/network	KBS
+Drama City	http://dbpedia.org/ontology/productionCompany	KBS
+Drama City	http://dbpedia.org/ontology/numberOfEpisodes	14
+Drama City	http://dbpedia.org/ontology/creator	KBS
+Drama City	http://dbpedia.org/ontology/broadcastArea	South Korea
+Drama City	http://dbpedia.org/ontology/isPartOf	KBS2
+Drama City	http://dbpedia.org/ontology/originalLanguage	Korean
+http://dbpedia.org/resource/drama_city	http://dbpedia.org/property/pedigree	http://dbpedia.org/resource/garganega
+http://dbpedia.org/resource/drama_city	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/televisionshow
+Drama City	http://dbpedia.org/ontology/broadcastedBy	Korean Broadcasting System
+Drama City	http://dbpedia.org/ontology/hasPart	Episode

@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
+http://dbpedia.org/resource/yayoidai_station	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/sagami_railway_izumino_line
+http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/yayoidai_station	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:geography_of_thuringia

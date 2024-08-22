@@ -1,0 +1,1 @@
+< pad > Anthony beaumont-dark has a type of physicalentity100001930 and is a type of yagolegalactorgeo. He is http: / / xmlns.com / foaf / 0.1 / person and has the option of http: / / www.wikidata.org / entity / q5 and the type of URL http: / / www.w3.org / 2002 / 07 / owl # thing. < / s >

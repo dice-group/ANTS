@@ -1,1 +1,0 @@
- <H> king_of_the_mountain_(film) <R> type <T> http://schema.org/creativework <H> king_of_the_mountain_(film) <R> type <T> http://www.w3.org/2002/07/owl#thing <H> king_of_the_mountain_(film) <R> type <T> object100002684 <H> king_of_the_mountain_(film) <R> type <T> yagopermanentlylocatedentity <H> king_of_the_mountain_(film) <R> type <T> artifact100021939

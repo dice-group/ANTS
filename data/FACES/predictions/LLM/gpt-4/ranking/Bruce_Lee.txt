@@ -1,0 +1,20 @@
+Bruce Lee	http://dbpedia.org/ontology/birthPlace	San Francisco
+Bruce Lee	http://dbpedia.org/ontology/birthDate	1940-11-27
+Bruce Lee	http://dbpedia.org/ontology/occupation	Martial Artist
+Bruce Lee	http://dbpedia.org/ontology/deathPlace	Kowloon Tong
+Bruce Lee	http://dbpedia.org/ontology/deathDate	1973-07-20
+Bruce Lee	http://dbpedia.org/ontology/almaMater	University of Washington
+Bruce Lee	http://dbpedia.org/ontology/award	Hong Kong Film Award for Lifetime Achievement
+Bruce Lee	http://dbpedia.org/ontology/nationality	Hong Kong
+Bruce Lee	http://dbpedia.org/ontology/education	University of Washington
+Bruce Lee	http://dbpedia.org/ontology/knownFor	Martial arts
+Bruce Lee	http://dbpedia.org/ontology/spouse	Linda Lee Cadwell
+Bruce Lee	http://dbpedia.org/ontology/child	Brandon Lee
+Bruce Lee	http://dbpedia.org/ontology/residence	Hong Kong
+Bruce Lee	http://dbpedia.org/ontology/parent	Lee Hoi-chuen
+Bruce Lee	http://dbpedia.org/ontology/parent	Grace Ho
+Bruce Lee	http://dbpedia.org/ontology/influencedBy	Ip Man
+Bruce Lee	http://dbpedia.org/ontology/notableWork	Enter the Dragon
+Bruce Lee	http://dbpedia.org/ontology/influenced	Jackie Chan
+Bruce Lee	http://dbpedia.org/ontology/ethnicity	Chinese
+Bruce Lee	http://dbpedia.org/ontology/style	Jeet Kune Do

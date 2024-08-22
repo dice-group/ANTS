@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/property/scope	http://dbpedia.org/resource/phenotype
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:british_crime_films
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:british_black-and-white_films
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/property/director	http://dbpedia.org/resource/lance_comfort
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/property/cinematography	http://dbpedia.org/resource/basil_emmott
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/black
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1961_crime_films
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/william_lucas_(actor)
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1960s_english-language_films

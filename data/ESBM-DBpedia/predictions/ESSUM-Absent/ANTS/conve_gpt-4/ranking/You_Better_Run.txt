@@ -1,0 +1,26 @@
+You Better Run	http://dbpedia.org/ontology/country	United States
+You Better Run	http://dbpedia.org/ontology/genre	Rock music
+You Better Run	http://dbpedia.org/ontology/writer	Eddie Brigati
+You Better Run	http://dbpedia.org/ontology/writer	Felix Cavaliere
+You Better Run	http://dbpedia.org/ontology/runtime	3 minutes and 2 seconds
+You Better Run	http://dbpedia.org/ontology/recordLabel	Polydor Records
+You Better Run	http://dbpedia.org/ontology/award	MTV Video Music Award for Best Cinematography
+You Better Run	http://dbpedia.org/ontology/producer	Tom Werman
+You Better Run	http://dbpedia.org/ontology/releaseDate	1980-06-27
+You Better Run	http://dbpedia.org/ontology/language	English
+You Better Run	http://dbpedia.org/ontology/artist	Pat Benatar
+You Better Run	http://dbpedia.org/ontology/musicComposer	Billy Steinberg
+You Better Run	http://dbpedia.org/ontology/previousWork	Crimes of Passion
+You Better Run	http://dbpedia.org/ontology/album	Crimes of Passion
+You Better Run	http://dbpedia.org/ontology/format	Single
+You Better Run	http://dbpedia.org/ontology/recordDate	1980
+You Better Run	http://dbpedia.org/ontology/engineer	Shelly Yakus
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q134556
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/musicalcomposition107037465
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/auditorycommunication107109019
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/patbenatarsongs
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q2188189
+You Better Run	http://dbpedia.org/ontology/nextWork	Hit and Run
+You Better Run	http://dbpedia.org/ontology/certification	Gold
+You Better Run	http://dbpedia.org/ontology/cover	Pat Benatar
+You Better Run	http://dbpedia.org/ontology/studio	Electric Lady Studios

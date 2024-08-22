@@ -1,0 +1,26 @@
+http://dbpedia.org/resource/kuleh_bayan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
+http://dbpedia.org/resource/kuleh_bayan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
+http://dbpedia.org/resource/kuleh_bayan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/kuleh_bayan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/kuleh_bayan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+Kuleh Bayan	http://dbpedia.org/ontology/country	Iran
+Kuleh Bayan	http://dbpedia.org/ontology/location	Gilan
+Kuleh Bayan	http://dbpedia.org/ontology/utcOffset	+3.5
+Kuleh Bayan	http://dbpedia.org/ontology/timeZone	Iran Standard Time
+Kuleh Bayan	http://dbpedia.org/ontology/elevation	667 meters
+Kuleh Bayan	http://dbpedia.org/ontology/postalCode	46414
+Kuleh Bayan	http://dbpedia.org/ontology/areaCode	071
+Kuleh Bayan	http://dbpedia.org/ontology/leaderTitle	Village Chief
+Kuleh Bayan	http://dbpedia.org/ontology/foundingDate	1974
+Kuleh Bayan	http://dbpedia.org/ontology/district	Langarud
+Kuleh Bayan	http://dbpedia.org/ontology/region	Gilan
+Kuleh Bayan	http://dbpedia.org/ontology/province	Gilan
+Kuleh Bayan	http://dbpedia.org/ontology/isPartOf	Gilan
+Kuleh Bayan	http://dbpedia.org/ontology/isPartOf	Iran
+Kuleh Bayan	http://dbpedia.org/ontology/officialLanguage	Persian
+Kuleh Bayan	http://dbpedia.org/ontology/leaderName	Hossein Zolfaghari
+http://dbpedia.org/resource/kuleh_bayan	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/central_district_(dehgolan_county)
+http://dbpedia.org/resource/kuleh_bayan	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/quri_chay_rural_district
+http://dbpedia.org/resource/kuleh_bayan	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/kurdestan_province
+Kuleh Bayan	http://dbpedia.org/ontology/nearbyWaterBody	Persian Gulf
+Kuleh Bayan	http://dbpedia.org/ontology/otherName	Kuleh-ye Bayān

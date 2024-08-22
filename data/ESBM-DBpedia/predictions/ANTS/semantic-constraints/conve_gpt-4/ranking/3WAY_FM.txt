@@ -1,0 +1,22 @@
+3WAY FM	http://dbpedia.org/ontology/country	Australia
+3WAY FM	http://dbpedia.org/ontology/location	Warrnambool
+3WAY FM	http://dbpedia.org/ontology/genre	Community radio
+3WAY FM	http://dbpedia.org/ontology/city	Warrnambool
+3WAY FM	http://dbpedia.org/ontology/language	English
+3WAY FM	http://dbpedia.org/ontology/owner	Warrnambool Community Broadcasting Inc
+3WAY FM	http://dbpedia.org/ontology/sisterStation	Coast FM
+3WAY FM	http://dbpedia.org/ontology/affiliation	Community Broadcasting Association of Australia
+3WAY FM	http://dbpedia.org/ontology/broadcastArea	Warrnambool
+3WAY FM	http://dbpedia.org/ontology/parentCompany	Ace Radio
+3WAY FM	http://dbpedia.org/ontology/frequency	103.7 MHz
+3WAY FM	http://dbpedia.org/ontology/license	Australian Communications and Media Authority
+3WAY FM	http://dbpedia.org/ontology/founder	Portland Community Broadcasting Society
+3WAY FM	http://dbpedia.org/ontology/callSign	3WAY
+http://dbpedia.org/resource/3way_fm	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/station
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/station
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/agent
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/organisation
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/broadcaster
+3WAY FM	http://dbpedia.org/ontology/foundationDate	1982
+3WAY FM	http://dbpedia.org/ontology/stationName	3WAY FM
+3WAY FM	http://dbpedia.org/ontology/website	http://www.3wayfm.org.au

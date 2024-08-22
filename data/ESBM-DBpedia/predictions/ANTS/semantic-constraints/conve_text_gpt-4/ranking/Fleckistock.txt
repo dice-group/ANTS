@@ -1,0 +1,29 @@
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mountains_of_the_canton_of_uri
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mountains_of_switzerland
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/mountain
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/ontology/subdivision	http://dbpedia.org/resource/santanyí
+Fleckistock	http://dbpedia.org/ontology/country	Switzerland
+Fleckistock	http://dbpedia.org/ontology/location	Switzerland
+Fleckistock	http://dbpedia.org/ontology/elevation	3419
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/county	http://dbpedia.org/resource/farum
+Fleckistock	http://dbpedia.org/ontology/nearestCity	Altdorf
+Fleckistock	http://dbpedia.org/ontology/mountainRange	Uri Alps
+Fleckistock	http://dbpedia.org/ontology/prominence	367m
+Fleckistock	http://dbpedia.org/ontology/firstAscentPerson	Melchior Ulrich
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/judicial_districts_of_spain
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/parentpeak	http://dbpedia.org/resource/dammastock
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/officiallanguages	http://dbpedia.org/resource/french_language
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/list_of_sovereign_states
+Fleckistock	http://dbpedia.org/ontology/parentPeak	Uri Rotstock
+Fleckistock	http://dbpedia.org/ontology/firstAscent	1902
+Fleckistock	http://dbpedia.org/ontology/easiestRoute	South ridge
+Fleckistock	http://dbpedia.org/ontology/isolated	5.72
+Fleckistock	http://dbpedia.org/ontology/latitude	46.835556
+Fleckistock	http://dbpedia.org/ontology/longitude	8.438611
+Fleckistock	http://dbpedia.org/ontology/topoMap	"Swisstopo"
+Fleckistock	http://dbpedia.org/ontology/topo	Mountain
+Fleckistock	http://dbpedia.org/ontology/mountainType	Alpine
+Fleckistock	http://dbpedia.org/ontology/geology	Sedimentary rock
+Fleckistock	http://dbpedia.org/ontology/photo	http://commons.wikimedia.org/wiki/Special:FilePath/Fleckistock.jpg
+Fleckistock	http://dbpedia.org/ontology/photoCaption	"Fleckistock seen from the south"

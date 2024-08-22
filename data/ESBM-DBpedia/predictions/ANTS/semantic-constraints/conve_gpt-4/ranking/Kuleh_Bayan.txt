@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/kuleh_bayan	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/iran
+Kuleh Bayan	http://dbpedia.org/ontology/country	Iran
+Kuleh Bayan	http://dbpedia.org/ontology/location	Gilan
+Kuleh Bayan	http://dbpedia.org/ontology/utcOffset	+3.5
+Kuleh Bayan	http://dbpedia.org/ontology/timeZone	Iran Standard Time
+Kuleh Bayan	http://dbpedia.org/ontology/elevation	667 meters
+Kuleh Bayan	http://dbpedia.org/ontology/postalCode	46414
+Kuleh Bayan	http://dbpedia.org/ontology/areaCode	071
+Kuleh Bayan	http://dbpedia.org/ontology/leaderTitle	Village Chief
+Kuleh Bayan	http://dbpedia.org/ontology/foundingDate	1974
+Kuleh Bayan	http://dbpedia.org/ontology/district	Langarud
+Kuleh Bayan	http://dbpedia.org/ontology/region	Gilan
+Kuleh Bayan	http://dbpedia.org/ontology/province	Gilan
+Kuleh Bayan	http://dbpedia.org/ontology/isPartOf	Gilan
+Kuleh Bayan	http://dbpedia.org/ontology/isPartOf	Iran
+Kuleh Bayan	http://dbpedia.org/ontology/officialLanguage	Persian
+Kuleh Bayan	http://dbpedia.org/ontology/leaderName	Hossein Zolfaghari
+http://dbpedia.org/resource/kuleh_bayan	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/kuleh_bayan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:towns_and_villages_in_dehgolan_county
+http://dbpedia.org/resource/kuleh_bayan	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/kurdistan_province
+http://dbpedia.org/resource/kuleh_bayan	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/provinces_of_iran
+Kuleh Bayan	http://dbpedia.org/ontology/nearbyWaterBody	Persian Gulf
+Kuleh Bayan	http://dbpedia.org/ontology/otherName	Kuleh-ye Bayān

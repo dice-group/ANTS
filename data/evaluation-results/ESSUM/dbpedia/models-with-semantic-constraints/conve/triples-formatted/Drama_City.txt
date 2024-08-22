@@ -1,1 +1,0 @@
- <H> drama_city <R> type <T> whole100003553 <H> drama_city <R> type <T> http://www.w3.org/2002/07/owl#thing <H> drama_city <R> type <T> object100002684 <H> drama_city <R> type <T> work <H> drama_city <R> type <T> http://schema.org/creativework

@@ -1,0 +1,26 @@
+http://dbpedia.org/resource/uelsby	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:schleswig-flensburg
+Uelsby	http://dbpedia.org/ontology/country	Germany
+Uelsby	http://dbpedia.org/ontology/location	Schleswig-Holstein
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/municipalities_of_brazil
+Uelsby	http://dbpedia.org/ontology/timeZone	Central European Time
+Uelsby	http://dbpedia.org/ontology/elevation	29
+Uelsby	http://dbpedia.org/ontology/postalCode	24860
+Uelsby	http://dbpedia.org/ontology/areaTotal	9.02
+Uelsby	http://dbpedia.org/ontology/areaCode	04621
+Uelsby	http://dbpedia.org/ontology/leaderTitle	Bürgermeister
+Uelsby	http://dbpedia.org/ontology/locatedInArea	Schleswig-Flensburg
+Uelsby	http://dbpedia.org/ontology/foundingDate	1338
+Uelsby	http://dbpedia.org/ontology/governmentType	Municipality
+Uelsby	http://dbpedia.org/ontology/neighboringMunicipality	Böklund
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/northwest	http://dbpedia.org/resource/wellington,_edmonton
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/languages	http://dbpedia.org/resource/polish_language
+Uelsby	http://dbpedia.org/ontology/isPartOf	Schleswig-Flensburg
+Uelsby	http://dbpedia.org/ontology/name	"Uelsby"
+Uelsby	http://dbpedia.org/ontology/officialLanguage	German
+Uelsby	http://dbpedia.org/ontology/twinTown	Satrup
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/blankname	http://dbpedia.org/resource/köppen_climate_classification
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/partstype	http://dbpedia.org/resource/list_of_nova_scotia_provincial_electoral_districts
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/blank1namesec	http://dbpedia.org/resource/list_of_cantons_of_switzerland_by_elevation
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/blank1infosec	http://dbpedia.org/resource/manuel_crescencio_rejón_international_airport
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/timezonedst	http://dbpedia.org/resource/central_european_summer_time
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/ontology/federalstate	http://dbpedia.org/resource/schleswig-holstein

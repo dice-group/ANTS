@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/ontology/topleveldomain	http://dbpedia.org/resource/category:medalists_at_the_2008_summer_olympics
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/property/sport	http://dbpedia.org/resource/track_and_field
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:bbc_sports_personality_world_sport_star_of_the_year_winners
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:medalists_at_the_2012_summer_olympics
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:track_&_field_news_athlete_of_the_year_winners
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/sherwood_content
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:medalists_at_the_2016_summer_olympics
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:competitors_stripped_of_summer_olympics_medals
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/property/restoredby	http://dbpedia.org/resource/category:athletes_(track_and_field)_at_the_2008_summer_olympics

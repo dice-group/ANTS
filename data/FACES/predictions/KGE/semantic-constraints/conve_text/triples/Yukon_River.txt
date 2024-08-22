@@ -1,0 +1,17 @@
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/tributariesright	http://dbpedia.org/resource/teslin_river
+http://dbpedia.org/resource/yukon_river	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:yukon_river
+http://dbpedia.org/resource/yukon_river	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:rivers_of_unorganized_borough,_alaska
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/british_columbia
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/yukon
+http://dbpedia.org/resource/yukon_river	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:braided_rivers_in_alaska
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/tributariesright	http://dbpedia.org/resource/klondike_river
+http://dbpedia.org/resource/yukon_river	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:international_rivers_of_north_america
+http://dbpedia.org/resource/yukon_river	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/stream
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/alaska
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/discharge3location	http://dbpedia.org/resource/kaltag,_alaska
+http://dbpedia.org/resource/yukon_river	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:rivers_of_yukon
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/tributariesright	http://dbpedia.org/resource/koyukuk_river
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/provinces_and_territories_of_canada
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/mouthmountain	http://dbpedia.org/resource/kusilvak_census_area,_alaska
+http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/tributariesright	http://dbpedia.org/resource/pelly_river
+http://dbpedia.org/resource/yukon_river	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location

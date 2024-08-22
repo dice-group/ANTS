@@ -1,0 +1,22 @@
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:borough_form_of_new_jersey_government
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:boroughs_in_passaic_county,_new_jersey
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1901_establishments_in_new_jersey
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:north_haledon,_new_jersey
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:populated_places_established_in_1901
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	populationTotal,  8446
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	areaTotal,  8.64
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	postalCode,  07508
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	areaCode,  973
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	country,  United States
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	isPartOf,  Passaic County
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	leaderName,  Randy George
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	foundingDate,  1901
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	timeZone,  Eastern Time Zone
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	elevation,  92
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	location,  Passaic County
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	state,  New Jersey
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	governmentType,  Mayor-Council
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	officialLanguage,  English
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	utcOffset,  -5
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	nearbyFeatures,  High Mountain
+North Haledon	http://dbpedia.org/ontology/_New_Jersey	educationSystem,  Education in the United States

@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/property/successor	http://dbpedia.org/resource/adarnase_ii_of_tao-klarjeti
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/property/nationalteam	http://dbpedia.org/resource/stede_bonnet
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/property/origin	http://dbpedia.org/resource/florida
+http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/property/residence	http://dbpedia.org/resource/san_jose,_california
+http://dbpedia.org/resource/ashot_i_of_iberia	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species

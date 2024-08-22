@@ -1,0 +1,15 @@
+Beverly Hills,_90210	hasCreator	Aaron Spelling
+Beverly Hills,_90210	hasGenre	Drama
+Beverly Hills,_90210	hasMainCharacters	"Brandon Walsh, Brenda Walsh, Dylan McKay"
+Beverly Hills,_90210	hasSetting	Beverly Hills, California
+Beverly Hills,_90210	hasOriginalNetwork	Fox
+Beverly Hills,_90210	hasTotalSeasons	10
+Beverly Hills,_90210	hasTotalEpisodes	293
+Beverly Hills,_90210	hasOriginalReleaseDate	October 4, 1990
+Beverly Hills,_90210	hasThemeSong	"Theme from Beverly Hills,_90210"
+Beverly Hills,_90210	hasSpinOff	"Melrose Place"
+Beverly Hills,_90210	hasAwards	"2 Young Artist Awards"
+Beverly Hills,_90210	hasIMDBRating	6.3
+Beverly Hills,_90210	hasNumberofSeasons	"10"
+Beverly Hills,_90210	hasNumberofEpisodes	"293"
+Beverly Hills,_90210	hasMainSetting	"Beverly Hills, California"

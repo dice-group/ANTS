@@ -1,0 +1,51 @@
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/sudan
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/tanzania
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/egypt
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/democratic_republic_of_the_congo
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/uganda
+Nile	http://dbpedia.org/ontology/country	Egypt
+Nile	http://dbpedia.org/ontology/elevation	0 meters
+Nile	http://dbpedia.org/ontology/length	6650 km
+Nile	http://dbpedia.org/ontology/length	6650km
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+Nile	http://dbpedia.org/ontology/crosses	Egypt
+Nile	http://dbpedia.org/ontology/mouthPosition	Mediterranean Sea
+Nile	http://dbpedia.org/ontology/mouthRegion	Mediterranean Sea
+Nile	http://dbpedia.org/ontology/sourceElevation	1130 m
+Nile	http://dbpedia.org/ontology/sourcePosition	Burundi
+Nile	http://dbpedia.org/ontology/sourceMountain	Rwenzori Mountains
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/mouthmountain	http://dbpedia.org/resource/mediterranean_sea
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/source	http://dbpedia.org/resource/blue_nile
+http://dbpedia.org/resource/nile	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/nile
+http://dbpedia.org/resource/nile	http://xmlns.com/foaf/0.1/depiction	http://upload.wikimedia.org/wikipedia/commons/2/2b/nile_watershed_topo.png
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/sourceplace	http://dbpedia.org/resource/lake_tana
+Nile	http://dbpedia.org/ontology/sourceRegion	Lake Victoria
+Nile	http://dbpedia.org/ontology/basinCountry	Egypt
+Nile	http://dbpedia.org/ontology/basinCountry	Sudan
+Nile	http://dbpedia.org/ontology/basinCountry	Ethiopia
+Nile	http://dbpedia.org/ontology/basinCountry	Uganda
+Nile	http://dbpedia.org/ontology/basinCountry	Congo
+Nile	http://dbpedia.org/ontology/basinCountry	Kenya
+Nile	http://dbpedia.org/ontology/basinCountry	Tanzania
+Nile	http://dbpedia.org/ontology/basinCountry	Rwanda
+Nile	http://dbpedia.org/ontology/basinCountry	Burundi
+Nile	http://dbpedia.org/ontology/basinCountry	South Sudan
+Nile	http://dbpedia.org/ontology/tributary	Blue Nile
+Nile	http://dbpedia.org/ontology/tributary	White Nile
+Nile	http://dbpedia.org/ontology/tributary	Atbara River
+Nile	http://dbpedia.org/ontology/discharge	2800 m³/s
+Nile	http://dbpedia.org/ontology/sourceCountry	Burundi
+Nile	http://dbpedia.org/ontology/source	Lake Victoria
+Nile	http://dbpedia.org/ontology/bridge	Qasr al-Nil Bridge
+Nile	http://dbpedia.org/ontology/flowingThrough	Egypt
+Nile	http://dbpedia.org/ontology/cities	Cairo
+Nile	http://dbpedia.org/ontology/cities	Khartoum
+Nile	http://dbpedia.org/ontology/cities	Gondar
+Nile	http://dbpedia.org/ontology/cities	Jinja
+Nile	http://dbpedia.org/ontology/cities	Luxor
+Nile	http://dbpedia.org/ontology/cities	Aswan
+Nile	http://dbpedia.org/ontology/cities	Alexandria
+Nile	http://dbpedia.org/ontology/rightTributary	Atbara River
+Nile	http://dbpedia.org/ontology/leftTributary	Blue Nile
+Nile	http://dbpedia.org/ontology/flows_into	Mediterranean Sea

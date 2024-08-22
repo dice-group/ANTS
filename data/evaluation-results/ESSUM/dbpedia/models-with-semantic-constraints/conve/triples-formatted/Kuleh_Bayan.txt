@@ -1,1 +1,0 @@
- <H> kuleh_bayan <R> type <T> location <H> kuleh_bayan <R> type <T> http://schema.org/place <H> kuleh_bayan <R> type <T> settlement <H> kuleh_bayan <R> type <T> http://www.wikidata.org/entity/q486972 <H> kuleh_bayan <R> type <T> http://www.w3.org/2002/07/owl#thing

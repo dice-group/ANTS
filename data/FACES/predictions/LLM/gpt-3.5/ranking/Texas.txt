@@ -1,0 +1,15 @@
+Texas	http://dbpedia.org/ontology/area	268,596 square miles
+Texas	http://dbpedia.org/ontology/governor	Greg Abbott
+Texas	http://dbpedia.org/ontology/capital	Austin
+Texas	http://dbpedia.org/ontology/population	29 million
+Texas	http://dbpedia.org/ontology/largest_city	Houston
+Texas	http://dbpedia.org/ontology/nickname	Lone Star State
+Texas	http://dbpedia.org/ontology/flower	Bluebonnet
+Texas	http://dbpedia.org/ontology/bird	Northern Mockingbird
+Texas	http://dbpedia.org/ontology/tree	Pecan
+Texas	http://dbpedia.org/ontology/state_motto	Friendship
+Texas	http://dbpedia.org/ontology/founded	December 29, 1845
+Texas	http://dbpedia.org/ontology/timezone	Central Time Zone
+Texas	http://dbpedia.org/ontology/largest_airport	Dallas/Fort Worth International Airport
+Texas	http://dbpedia.org/ontology/state_beverage	Dr Pepper
+Texas	http://dbpedia.org/ontology/highest_point	Guadalupe Peak

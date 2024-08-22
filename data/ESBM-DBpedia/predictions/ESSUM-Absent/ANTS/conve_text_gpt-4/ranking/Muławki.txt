@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/muławki	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:villages_in_kętrzyn_county
+Muławki	http://dbpedia.org/ontology/country	Poland
+Muławki	http://dbpedia.org/ontology/elevation	143
+Muławki	http://dbpedia.org/ontology/postalCode	11-510
+Muławki	http://dbpedia.org/ontology/areaCode	+48 89
+Muławki	http://dbpedia.org/ontology/leaderTitle	Village Leader
+Muławki	http://dbpedia.org/ontology/locatedInArea	Warmian-Masurian Voivodeship.
+Muławki	http://dbpedia.org/ontology/foundingDate	1326.
+Muławki	http://dbpedia.org/ontology/nearestCity	Kętrzyn
+Muławki	http://dbpedia.org/ontology/governingBody	Gmina Kętrzyn
+Muławki	http://dbpedia.org/ontology/isPartOf	Warmian-Masurian Voivodeship
+Muławki	http://dbpedia.org/ontology/officialLanguage	Polish
+Muławki	http://dbpedia.org/ontology/leaderName	Agnieszka Kopiczyńska
+http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167
+http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
+http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+Muławki	http://dbpedia.org/ontology/timezone	CET
+Muławki	http://dbpedia.org/ontology/subdivisionType	Country
+Muławki	http://dbpedia.org/ontology/website	http://www.mulawki.pl

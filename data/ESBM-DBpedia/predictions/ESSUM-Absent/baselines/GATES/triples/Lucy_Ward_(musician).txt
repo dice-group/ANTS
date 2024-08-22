@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://dbpedia.org/ontology/birthPlace	http://dbpedia.org/resource/Derbyshire
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://dbpedia.org/ontology/birthPlace	http://dbpedia.org/resource/Derby
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/YagoLegalActor
+http://dbpedia.org/resource/O'Hooley_&_Tidow	http://dbpedia.org/ontology/associatedBand	http://dbpedia.org/resource/Lucy_Ward_(musician)
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/LivingThing100004258
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Creator109614315
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Object100002684
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Organism100004475
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:English_folk_singers
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://xmlns.com/foaf/0.1/name	Ward, Lucy
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Artist109812338
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://purl.org/dc/elements/1.1/description	British musician
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/Singer-songwriter
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/Q5
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://dbpedia.org/ontology/instrument	http://dbpedia.org/resource/Concertina
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/PeopleFromDerby
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://xmlns.com/foaf/0.1/homepage	http://www.lucywardsings.com/
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/FolkSinger110099093
+http://dbpedia.org/resource/Lucy_Ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/LivingPeople

@@ -1,1 +1,0 @@
- <H> intensive_care_medicine_(journal) <R> type <T> http://www.w3.org/2002/07/owl#thing <H> intensive_care_medicine_(journal) <R> type <T> medium106254669 <H> intensive_care_medicine_(journal) <R> type <T> work <H> intensive_care_medicine_(journal) <R> type <T> http://schema.org/creativework <H> intensive_care_medicine_(journal) <R> type <T> http://www.wikidata.org/entity/q386724

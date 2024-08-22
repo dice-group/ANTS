@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/bill_gates	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/bill_gates	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_medina,_washington
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_philanthropists
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:history_of_microsoft
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:21st-century_philanthropists
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_people_of_english_descent
+http://dbpedia.org/resource/bill_gates	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/presidential_medal_of_freedom
+http://dbpedia.org/resource/bill_gates	http://dbpedia.org/property/education	http://dbpedia.org/resource/harvard_university
+http://dbpedia.org/resource/bill_gates	http://dbpedia.org/ontology/spouse	http://dbpedia.org/resource/melinda_french_gates

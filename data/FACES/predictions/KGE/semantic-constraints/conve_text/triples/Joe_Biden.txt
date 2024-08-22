@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/j._caleb_boggs
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/spouse	http://dbpedia.org/resource/neilia_hunter_biden
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/ted_kaufman
+http://dbpedia.org/resource/joe_biden	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/politician
+http://dbpedia.org/resource/joe_biden	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:democratic_party_presidents_of_the_united_states
+http://dbpedia.org/resource/joe_biden	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:democratic_party_(united_states)_presidential_nominees
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/blank1namesec	http://dbpedia.org/resource/jill_biden
+http://dbpedia.org/resource/joe_biden	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2008_united_states_vice-presidential_candidates
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/alongside	http://dbpedia.org/resource/paul_tsongas
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/relatives	http://dbpedia.org/resource/family_of_joe_biden
+http://dbpedia.org/resource/joe_biden	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal
+http://dbpedia.org/resource/joe_biden	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:widener_university_faculty
+http://dbpedia.org/resource/joe_biden	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:public_defenders
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/vicepresident	http://dbpedia.org/resource/barack_obama

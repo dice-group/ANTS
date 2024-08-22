@@ -1,0 +1,15 @@
+John Napier	birthDate	1550
+John Napier	deathDate	1617
+John Napier	nationality	Scottish
+John Napier	occupation	Mathematician
+John Napier	knownFor	Invention of logarithms
+John Napier	knownFor	Napier's bones
+John Napier	education	University of St Andrews
+John Napier	education	University of Edinburgh
+John Napier	influencedBy	Michael Maestlin
+John Napier	influencedBy	David Gregory
+John Napier	influenced	Johann Kepler
+John Napier	influenced	Henry Briggs
+John Napier	publication	Mirifici logarithmorum canonis descriptio
+John Napier	publication	Rabdologiae
+John Napier	awards	Knighted by James VI

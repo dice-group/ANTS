@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/property/field	http://dbpedia.org/resource/physics
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/property/knownfor	http://dbpedia.org/resource/radium
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/university_of_paris
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/doctoraladvisor	http://dbpedia.org/resource/henri_becquerel
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/doctoralstudent	http://dbpedia.org/resource/marguerite_perey

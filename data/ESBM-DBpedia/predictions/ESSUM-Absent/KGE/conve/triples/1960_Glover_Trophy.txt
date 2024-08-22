@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent
+http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/west_sussex
+http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/stirling_moss
+http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
+http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/rock_music
+http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/goodwood_circuit
+http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/1960_glover_trophy	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th_century_in_west_sussex
+http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/cooper_car_company

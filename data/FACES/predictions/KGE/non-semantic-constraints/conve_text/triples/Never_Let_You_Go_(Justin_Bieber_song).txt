@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/teen_pop
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/island_records
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/atlanta,_georgia
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/type	http://dbpedia.org/resource/promotional_recording
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/never_let_you_go_(justin_bieber_song)
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/ontology/album	http://dbpedia.org/resource/my_world_2.0
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/label	http://dbpedia.org/resource/teen_island
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/ontology/artist	http://dbpedia.org/resource/justin_bieber

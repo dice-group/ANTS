@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/massacre_on_34th_street	http://dbpedia.org/property/lastevent	http://dbpedia.org/resource/november_to_remember_(2000)
+http://dbpedia.org/resource/massacre_on_34th_street	http://dbpedia.org/property/city	http://dbpedia.org/resource/new_york_city
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:extreme_championship_wrestling_supercards_and_pay-per-view_events
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000_extreme_championship_wrestling_pay-per-view_events
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:events_in_new_york_city
+http://dbpedia.org/resource/massacre_on_34th_street	http://dbpedia.org/property/promotion	http://dbpedia.org/resource/extreme_championship_wrestling
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:professional_wrestling_in_new_york_city
+http://dbpedia.org/resource/massacre_on_34th_street	http://dbpedia.org/property/stip	http://dbpedia.org/resource/professional_wrestling_match_types
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000s_in_manhattan
+http://dbpedia.org/resource/massacre_on_34th_street	http://dbpedia.org/property/venue	http://dbpedia.org/resource/hammerstein_ballroom

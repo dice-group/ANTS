@@ -1,1 +1,0 @@
-< pad > The burgery ambush is type of societalevent and is found in http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # event. It is a type of event and has the URI http: / / schema.org / event / q1656682. < / s >

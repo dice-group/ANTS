@@ -1,1 +1,0 @@
-< pad > Ayrovo is located in the Kardzhali Province, in the Eastern European country of Bulgaria. It has the uTCoffset of + 3 and the label of Ayrovo (http: / / www.wikipedia.org / ontology / settlement). < / s >

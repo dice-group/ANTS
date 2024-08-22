@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1994_albums
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:sony_music_entertainment_albums
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mandopop_albums
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:cinepoly_records_albums
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:albums_by_singaporean_artists
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/ontology/previouswork	http://dbpedia.org/resource/random_thoughts_(faye_wong_album)
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/cinepoly_records
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/ontology/previouswork	http://dbpedia.org/resource/please_myself

@@ -1,0 +1,1 @@
+< pad > The city of Muwki is located in the country of Poland and has the following details: http: / / www.dbpedia.org / class / yago / yago / settlement108672738, its type of habitat is the village of Muwki and its type of internet is http: / / www.dbpedia.org / class / yago / GeographicalActorGeo. Muwki is part of the Warmian-Masurian Voivodeship and their point < / s >

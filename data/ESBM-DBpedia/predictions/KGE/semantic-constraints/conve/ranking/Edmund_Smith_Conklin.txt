@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:indiana_university_faculty
+http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:anomalistic_psychology
+http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1942_deaths
+http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th-century_american_psychologists
+http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:clark_university_alumni
+http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/property/country	http://dbpedia.org/resource/france
+http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/stockholms_olympiastadion
+http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/property/place	http://dbpedia.org/resource/kirkuk
+http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/caitriona_beggs__careerstation__1
+http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/ontology/doctoralstudent	http://dbpedia.org/resource/caroline_wozniacki

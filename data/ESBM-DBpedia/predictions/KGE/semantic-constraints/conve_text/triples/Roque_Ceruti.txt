@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/property/mother	http://dbpedia.org/resource/augusta_von_fersen
+http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/pacific_war
+http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/uppsala
+http://dbpedia.org/resource/roque_ceruti	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/culmination
+http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1680s_births
+http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/property/occupation	http://dbpedia.org/resource/dance_education
+http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:italian_baroque_composers
+http://dbpedia.org/resource/roque_ceruti	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/university_of_cincinnati
+http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1760_deaths

@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/title	http://dbpedia.org/resource/chief_of_air_staff_(india)
+Roderick Carr	http://dbpedia.org/ontology/birthPlace	Dunedin
+Roderick Carr	http://dbpedia.org/ontology/birthDate	1891-08-31
+Roderick Carr	http://dbpedia.org/ontology/country	New Zealand
+Roderick Carr	http://dbpedia.org/ontology/occupation	Military Personnel
+Roderick Carr	http://dbpedia.org/ontology/deathPlace	England
+Roderick Carr	http://dbpedia.org/ontology/deathDate	1971-07-15
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/robert_l._mchatton
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/knight_commander_of_the_order_of_the_british_empire
+Roderick Carr	http://dbpedia.org/ontology/award	Air Force Cross
+Roderick Carr	http://dbpedia.org/ontology/battle	Battle of Britain
+Roderick Carr	http://dbpedia.org/ontology/nationality	New Zealand
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/battles	http://dbpedia.org/resource/second_world_war
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/state	http://dbpedia.org/resource/kentucky
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/publisher	http://dbpedia.org/resource/surat_municipal_corporation
+Roderick Carr	http://dbpedia.org/ontology/education	Royal Military Academy,  Woolwich
+Roderick Carr	http://dbpedia.org/ontology/spouse	Ruth Carr
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/branch	http://dbpedia.org/resource/royal_navy
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/commands	http://dbpedia.org/resource/no._4_group_raf
+Roderick Carr	http://dbpedia.org/ontology/child	John Rodney Carr.
+Roderick Carr	http://dbpedia.org/ontology/parent	Samuel Carr
+Roderick Carr	http://dbpedia.org/ontology/serviceStartYear	1914
+Roderick Carr	http://dbpedia.org/ontology/serviceEndYear	1945
+Roderick Carr	http://dbpedia.org/ontology/allegiance	Royal Air Force
+Roderick Carr	http://dbpedia.org/ontology/militaryUnit	Royal Air Force
+Roderick Carr	http://dbpedia.org/ontology/placeOfBurial	St Andrew's Churchyard,  Sonning
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_flying_corps_officers
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_air_force_personnel_of_world_war_ii
+Roderick Carr	http://dbpedia.org/ontology/rank	Air Marshal
+Roderick Carr	http://dbpedia.org/ontology/branch	Royal Air Force

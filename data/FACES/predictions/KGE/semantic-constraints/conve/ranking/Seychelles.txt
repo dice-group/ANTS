@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/seychelles	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:countries_in_africa
+http://dbpedia.org/resource/seychelles	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:member_states_of_the_organisation_internationale_de_la_francophonie
+http://dbpedia.org/resource/seychelles	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:somali_sea
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/seychelles_time
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/seychelles__historicalevent__1
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/currency	http://dbpedia.org/resource/seychellois_rupee
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/ahmed_afif
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/wavel_ramkalawan
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/callingcode	http://dbpedia.org/resource/+248
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/ethnicgroup	http://dbpedia.org/resource/franco-seychellois

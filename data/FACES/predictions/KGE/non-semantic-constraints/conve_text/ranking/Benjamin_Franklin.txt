@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/ontology/successor	http://dbpedia.org/resource/jonathan_russell
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/ontology/successor	http://dbpedia.org/resource/thomas_jefferson
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/property/deathplace	http://dbpedia.org/resource/pennsylvania
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/province_of_massachusetts_bay
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/ontology/vicepresident	http://dbpedia.org/resource/charles_biddle

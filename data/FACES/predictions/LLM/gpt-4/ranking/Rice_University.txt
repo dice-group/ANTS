@@ -1,0 +1,20 @@
+Rice University	http://dbpedia.org/ontology/country	United States
+Rice University	http://dbpedia.org/ontology/location	Houston
+Rice University	http://dbpedia.org/ontology/city	Houston
+Rice University	http://dbpedia.org/ontology/motto	Letters;Science;Art
+Rice University	http://dbpedia.org/ontology/state	Texas
+Rice University	http://dbpedia.org/ontology/president	Reginald DesRoches
+Rice University	http://dbpedia.org/ontology/affiliation	Association of American Universities
+Rice University	http://dbpedia.org/ontology/mascot	Sammy the Owl
+Rice University	http://dbpedia.org/ontology/facultySize	700
+Rice University	http://dbpedia.org/ontology/campus	Urban
+Rice University	http://dbpedia.org/ontology/sport	American football
+Rice University	http://dbpedia.org/ontology/established	1912
+Rice University	http://dbpedia.org/ontology/endowment	$6.3 billion
+Rice University	http://dbpedia.org/ontology/alumni	Candace Owens
+Rice University	http://dbpedia.org/ontology/nickname	The Owls
+Rice University	http://dbpedia.org/ontology/undergrad	3.992
+Rice University	http://dbpedia.org/ontology/postgrad	3.132
+Rice University	http://dbpedia.org/ontology/colors	Blue and Gray
+Rice University	http://dbpedia.org/ontology/academicStaff	684
+Rice University	http://dbpedia.org/ontology/athletics	Rice Owls

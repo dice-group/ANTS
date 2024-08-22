@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_air_force_personnel_of_world_war_i
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_naval_air_service_aviators
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:recipients_of_the_distinguished_flying_cross_(united_kingdom)
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_feilding
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_navy_officers_of_world_war_i
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/agent
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/causalagent100007347
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactor
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/feilding

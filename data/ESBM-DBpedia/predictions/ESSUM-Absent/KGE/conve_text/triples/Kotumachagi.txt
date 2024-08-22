@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/ontology/village
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/resource/indian_standard_time
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/geographicalarea108574314
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972

@@ -1,0 +1,24 @@
+http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1942_deaths
+Edmund Smith Conklin	http://dbpedia.org/ontology/birthPlace	Alpine,  New Jersey
+Edmund Smith Conklin	http://dbpedia.org/ontology/birthDate	1894-09-10
+Edmund Smith Conklin	http://dbpedia.org/ontology/deathPlace	New Haven
+Edmund Smith Conklin	http://dbpedia.org/ontology/deathDate	1942-11-01
+Edmund Smith Conklin	http://dbpedia.org/ontology/almaMater	Indiana University
+Edmund Smith Conklin	http://dbpedia.org/ontology/award	Guggenheim Fellowship
+Edmund Smith Conklin	http://dbpedia.org/ontology/nationality	United States
+Edmund Smith Conklin	http://dbpedia.org/ontology/education	Indiana University
+Edmund Smith Conklin	http://dbpedia.org/ontology/spouse	Rosalind G. Conklin
+Edmund Smith Conklin	http://dbpedia.org/ontology/child	Robert Conklin.
+Edmund Smith Conklin	http://dbpedia.org/ontology/parent	Alanson Conklin.
+Edmund Smith Conklin	http://dbpedia.org/ontology/profession	Psychologist
+Edmund Smith Conklin	http://dbpedia.org/ontology/influencedBy	Edward Titchener
+Edmund Smith Conklin	http://dbpedia.org/ontology/employer	Indiana University
+Edmund Smith Conklin	http://dbpedia.org/ontology/field	Psychology
+Edmund Smith Conklin	http://dbpedia.org/ontology/notableWork	Principles of Abnormal Psychology
+http://dbpedia.org/resource/edmund_smith_conklin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/edmund_smith_conklin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/edmund_smith_conklin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
+Edmund Smith Conklin	http://dbpedia.org/ontology/works	Psychology: A Study Of Mental Life
+Edmund Smith Conklin	http://dbpedia.org/ontology/influences	John B. Watson.
+Edmund Smith Conklin	http://dbpedia.org/ontology/academicDegree	PhD
+Edmund Smith Conklin	http://dbpedia.org/ontology/memberOf	Phi Beta Kappa

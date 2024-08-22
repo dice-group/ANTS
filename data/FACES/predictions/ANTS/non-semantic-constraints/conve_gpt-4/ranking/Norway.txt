@@ -1,0 +1,40 @@
+Norway	http://dbpedia.org/ontology/timeZone	Central European Time
+Norway	http://dbpedia.org/ontology/populationTotal	5465634
+Norway	http://dbpedia.org/ontology/areaTotal	323802
+Norway	http://dbpedia.org/ontology/leaderTitle	Prime Minister
+Norway	http://dbpedia.org/ontology/populationDensity	14.2
+Norway	http://dbpedia.org/ontology/militaryBranch	Norwegian Army
+Norway	http://dbpedia.org/ontology/militaryBranch	Royal Norwegian Navy
+Norway	http://dbpedia.org/ontology/militaryBranch	Royal Norwegian Air Force
+Norway	http://dbpedia.org/ontology/militaryBranch	Norwegian Home Guard
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download
+Norway	http://dbpedia.org/ontology/foundingDate	1905-06-07
+Norway	http://dbpedia.org/ontology/governmentType	Unitary parliamentary constitutional monarchy
+Norway	http://dbpedia.org/ontology/leader	Erna Solberg
+Norway	http://dbpedia.org/ontology/capital	Oslo
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/currency	http://dbpedia.org/resource/norwegian_krone
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/demonym	http://dbpedia.org/resource/norwegians
+Norway	http://dbpedia.org/ontology/currency	Norwegian krone
+Norway	http://dbpedia.org/ontology/officialLanguage	Norwegian
+Norway	http://dbpedia.org/ontology/anthem	"Ja vi elsker dette landet"
+Norway	http://dbpedia.org/ontology/legislature	Storting
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/tore_schei
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/supreme_court_of_norway
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/parliament_of_norway
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/red-green_coalition
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/monarchy_of_norway
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/harald_v_of_norway
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/norwegian_parliamentary_election,_2009
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/regionserved	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/norway	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/norway
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/unitary_state
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/officiallanguage	http://dbpedia.org/resource/english_language
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/statereligion	http://dbpedia.org/resource/church_of_norway
+http://dbpedia.org/resource/norway	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/norway?oldid=547313779
+Norway	http://dbpedia.org/ontology/callingCode	+47
+Norway	http://dbpedia.org/ontology/iso3166Code	"NO"
+Norway	http://dbpedia.org/ontology/gdpNominal	$403 billion
+Norway	http://dbpedia.org/ontology/gdpPppPerCapita	$70590
+Norway	http://dbpedia.org/ontology/hdi	0.957
+Norway	http://dbpedia.org/ontology/sovereigntyType	Unitary parliamentary constitutional monarchy

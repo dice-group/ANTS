@@ -1,0 +1,15 @@
+Poland	http://dbpedia.org/ontology/area	312,696 square kilometers
+Poland	http://dbpedia.org/ontology/president	Andrzej Duda
+Poland	http://dbpedia.org/ontology/capital	Warsaw
+Poland	http://dbpedia.org/ontology/currency	Polish złoty
+Poland	http://dbpedia.org/ontology/population	38.3 million
+Poland	http://dbpedia.org/ontology/official_language	Polish
+Poland	http://dbpedia.org/ontology/prime_minister	Mateusz Morawiecki
+Poland	http://dbpedia.org/ontology/neighboring_countries	Germany
+Poland	http://dbpedia.org/ontology/neighboring_countries	Slovakia
+Poland	http://dbpedia.org/ontology/neighboring_countries	Czech Republic
+Poland	http://dbpedia.org/ontology/neighboring_countries	Lithuania
+Poland	http://dbpedia.org/ontology/UNESCO_World_Heritage_Sites	Wieliczka Salt Mine
+Poland	http://dbpedia.org/ontology/UNESCO_World_Heritage_Sites	Kraków Old Town
+Poland	http://dbpedia.org/ontology/UNESCO_World_Heritage_Sites	Białowieża Forest
+Poland	http://dbpedia.org/ontology/popular_food	Pierogi

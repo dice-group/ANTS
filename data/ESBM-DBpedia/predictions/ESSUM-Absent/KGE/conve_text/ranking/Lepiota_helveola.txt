@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:poisonous_fungi
+http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fungi_of_europe
+http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fungi_described_in_1882
+http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:agaricaceae
+http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:deadly_fungi
+http://dbpedia.org/resource/lepiota_helveola	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/lepiota_helveola	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/lepiota_helveola	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
+http://dbpedia.org/resource/lepiota_helveola	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/agaricales

@@ -1,0 +1,47 @@
+http://dbpedia.org/resource/albert_einstein	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_humanists
+http://dbpedia.org/resource/albert_einstein	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:members_of_the_royal_netherlands_academy_of_arts_and_sciences
+http://dbpedia.org/resource/albert_einstein	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:philosophers_of_mathematics
+http://dbpedia.org/resource/albert_einstein	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:swiss_physicists
+http://dbpedia.org/resource/albert_einstein	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:philosophy_of_science
+Albert Einstein	http://dbpedia.org/ontology/birthPlace	Ulm
+Albert Einstein	http://dbpedia.org/ontology/deathPlace	Princeton New Jersey
+Albert Einstein	http://dbpedia.org/ontology/almaMater	ETH Zurich
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/formemrs
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/nobel_prize_in_physics
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/max_planck_medal
+Albert Einstein	http://dbpedia.org/ontology/award	Nobel Prize in Physics
+Albert Einstein	http://dbpedia.org/ontology/nationality	German
+Albert Einstein	http://dbpedia.org/ontology/knownFor	Theory of Relativity
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/spouse	http://dbpedia.org/resource/elsa_löwenthal
+Albert Einstein	http://dbpedia.org/ontology/spouse	Mileva Marić
+Albert Einstein	http://dbpedia.org/ontology/spouse	Elsa Löwenthal
+Albert Einstein	http://dbpedia.org/ontology/academicDiscipline	Physics
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/hans_albert_einstein
+Albert Einstein	http://dbpedia.org/ontology/child	Hans Albert Einstein
+Albert Einstein	http://dbpedia.org/ontology/child	Eduard Einstein
+Albert Einstein	http://dbpedia.org/ontology/residence	Princeton New Jersey
+Albert Einstein	http://dbpedia.org/ontology/parent	Hermann Einstein
+Albert Einstein	http://dbpedia.org/ontology/parent	Pauline Koch
+Albert Einstein	http://dbpedia.org/ontology/religion	Agnostic
+Albert Einstein	http://dbpedia.org/ontology/influencedBy	Isaac Newton
+Albert Einstein	http://dbpedia.org/ontology/field	Physics
+Albert Einstein	http://dbpedia.org/ontology/doctoralAdvisor	Alfred Kleiner
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/influenced	http://dbpedia.org/resource/modern_physics
+Albert Einstein	http://dbpedia.org/ontology/influenced	Quantum Mechanics
+Albert Einstein	http://dbpedia.org/ontology/doctoralStudent	Ernest Straus
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/austro-hungarian_empire
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/free_state_of_prussia
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/statelessness
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/cisleithania
+Albert Einstein	http://dbpedia.org/ontology/philosophicalSchool	Philosophy of science
+Albert Einstein	http://dbpedia.org/ontology/notableIdea	Theory of Relativity
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/academicadvisor	http://dbpedia.org/resource/heinrich_friedrich_weber
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/einstein_field_equations
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	Swiss Patent Office
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	University of Zurich
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	Charles University
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	ETH Zurich
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	University of Prague
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	Humboldt University of Berlin
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	Leiden University
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	Institute for Advanced Study

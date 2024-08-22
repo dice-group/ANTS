@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/highway103519981
-http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/formertollroadsintheunitedstates
-http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/turnpike104501018
-http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:interstate_85
-http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/expressway103306610
-http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q34442
-http://dbpedia.org/resource/richmond–petersburg_turnpike	http://dbpedia.org/ontology/stateoforigin	http://commons.wikimedia.org/wiki/special:filepath/construction_of_interstate_95,_downtown_richmond_(2899336022).jpg?width=300
-http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:transportation_in_richmond,_virginia

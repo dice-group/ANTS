@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/archibald_cochrane_(royal_navy_officer)
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/relative	http://commons.wikimedia.org/wiki/special:filepath/java_blank_map.svg
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/militaryconflict
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/position	http://dbpedia.org/resource/guilty_as_charged
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/edward_pellew,_1st_viscount_exmouth
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/militaryaction100952963
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent

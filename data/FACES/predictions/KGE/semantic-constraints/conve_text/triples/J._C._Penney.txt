@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/logo	http://dbpedia.org/resource/file:database.png
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/type	http://dbpedia.org/resource/privately_held_company
+http://dbpedia.org/resource/j._c._penney	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/company
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/air_transport
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/house	http://dbpedia.org/resource/forward_(association_football)
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/stateoforigin	http://dbpedia.org/resource/filipinos
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/canonizedplace	http://dbpedia.org/resource/diesel_fuel

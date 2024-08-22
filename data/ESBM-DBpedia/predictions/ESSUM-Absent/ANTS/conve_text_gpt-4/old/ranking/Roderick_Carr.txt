@@ -1,0 +1,31 @@
+Roderick Carr	http://dbpedia.org/ontology/birthPlace	Dunedin
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_air_force_personnel_of_world_war_i
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_naval_air_service_aviators
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:recipients_of_the_distinguished_flying_cross_(united_kingdom)
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_feilding
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_navy_officers_of_world_war_i
+Roderick Carr	http://dbpedia.org/ontology/birthDate	1891-08-31
+Roderick Carr	http://dbpedia.org/ontology/country	New Zealand
+Roderick Carr	http://dbpedia.org/ontology/occupation	Military Personnel
+Roderick Carr	http://dbpedia.org/ontology/deathPlace	England
+Roderick Carr	http://dbpedia.org/ontology/deathDate	1971-07-15
+Roderick Carr	http://dbpedia.org/ontology/award	Air Force Cross
+Roderick Carr	http://dbpedia.org/ontology/battle	Battle of Britain
+Roderick Carr	http://dbpedia.org/ontology/nationality	New Zealand
+Roderick Carr	http://dbpedia.org/ontology/education	Royal Military Academy, Woolwich
+Roderick Carr	http://dbpedia.org/ontology/spouse	Ruth Carr
+Roderick Carr	http://dbpedia.org/ontology/child	John Rodney Carr.
+Roderick Carr	http://dbpedia.org/ontology/parent	Samuel Carr
+Roderick Carr	http://dbpedia.org/ontology/serviceStartYear	1914
+Roderick Carr	http://dbpedia.org/ontology/serviceEndYear	1945
+Roderick Carr	http://dbpedia.org/ontology/allegiance	Royal Air Force
+Roderick Carr	http://dbpedia.org/ontology/militaryUnit	Royal Air Force
+Roderick Carr	http://dbpedia.org/ontology/placeOfBurial	St Andrew's Churchyard, Sonning
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/agent
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/feilding
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/causalagent100007347
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactor
+Roderick Carr	http://dbpedia.org/ontology/rank	Air Marshal
+Roderick Carr	http://dbpedia.org/ontology/branch	Royal Air Force

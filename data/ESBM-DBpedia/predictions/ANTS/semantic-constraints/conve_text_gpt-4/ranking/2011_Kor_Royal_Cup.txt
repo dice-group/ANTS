@@ -1,0 +1,32 @@
+2011 Kor Royal Cup	http://dbpedia.org/ontology/team	Buriram PEA
+2011 Kor Royal Cup	http://dbpedia.org/ontology/team	Muangthong United
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/property/title	http://dbpedia.org/resource/german_campaign_of_1813
+http://dbpedia.org/resource/2011_kor_royal_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_in_thai_football_cups
+http://dbpedia.org/resource/2011_kor_royal_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:kor_royal_cup_seasons
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/footballmatch
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+2011 Kor Royal Cup	http://dbpedia.org/ontology/numberOfMatches	7
+2011 Kor Royal Cup	http://dbpedia.org/ontology/country	Thailand
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/suphachalasai_stadium
+2011 Kor Royal Cup	http://dbpedia.org/ontology/location	Thailand
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/property/city	http://dbpedia.org/resource/bangkok
+2011 Kor Royal Cup	http://dbpedia.org/ontology/award	Kor Royal Cup
+2011 Kor Royal Cup	http://dbpedia.org/ontology/format	Football tournament
+2011 Kor Royal Cup	http://dbpedia.org/ontology/date	2011-02-12
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/property/conflict	http://dbpedia.org/resource/paraguayan_war
+2011 Kor Royal Cup	http://dbpedia.org/ontology/participant	Buriram PEA
+2011 Kor Royal Cup	http://dbpedia.org/ontology/participant	Muangthong United
+2011 Kor Royal Cup	http://dbpedia.org/ontology/sport	Football
+2011 Kor Royal Cup	http://dbpedia.org/ontology/event	Football
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/followingevent	http://dbpedia.org/resource/2012_kor_royal_cup
+2011 Kor Royal Cup	http://dbpedia.org/ontology/winner	Buriram PEA
+2011 Kor Royal Cup	http://dbpedia.org/ontology/previousEdition	2010 Kor Royal Cup
+2011 Kor Royal Cup	http://dbpedia.org/ontology/followingEdition	2012 Kor Royal Cup
+2011 Kor Royal Cup	http://dbpedia.org/ontology/runnerUp	Buriram PEA
+2011 Kor Royal Cup	http://dbpedia.org/ontology/referee	Chaiya Mahapab
+2011 Kor Royal Cup	http://dbpedia.org/ontology/attendance	"25000"
+2011 Kor Royal Cup	http://dbpedia.org/ontology/venue	Suphachalasai Stadium
+2011 Kor Royal Cup	http://dbpedia.org/ontology/sponsor	Thai Beverage
+2011 Kor Royal Cup	http://dbpedia.org/ontology/goal	"1-0"
+2011 Kor Royal Cup	http://dbpedia.org/ontology/organiser	Football Association of Thailand

@@ -1,1 +1,0 @@
- <H> najmadin_shukr_rauf <R> type <T> http://www.wikidata.org/entity/q215627 <H> najmadin_shukr_rauf <R> type <T> http://www.w3.org/2002/07/owl#thing <H> najmadin_shukr_rauf <R> type <T> http://www.wikidata.org/entity/q5 <H> najmadin_shukr_rauf <R> type <T> http://xmlns.com/foaf/0.1/person <H> najmadin_shukr_rauf <R> type <T> http://schema.org/person

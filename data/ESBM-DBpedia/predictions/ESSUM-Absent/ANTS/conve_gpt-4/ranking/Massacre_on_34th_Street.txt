@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/massacre_on_34th_street	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:professional_wrestling_in_new_york
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000_in_new_york
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:extreme_championship_wrestling_shows
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000_in_professional_wrestling
+Massacre on 34th Street	http://dbpedia.org/ontology/location	Hammerstein Ballroom
+Massacre on 34th Street	http://dbpedia.org/ontology/type	Professional Wrestling Event
+Massacre on 34th Street	http://dbpedia.org/ontology/runtime	172 minutes
+Massacre on 34th Street	http://dbpedia.org/ontology/city	New York City
+Massacre on 34th Street	http://dbpedia.org/ontology/language	English
+Massacre on 34th Street	http://dbpedia.org/ontology/network	Extreme Championship Wrestling
+Massacre on 34th Street	http://dbpedia.org/ontology/date	2000-12-03
+Massacre on 34th Street	http://dbpedia.org/ontology/previousEvent	November to Remember 2000
+Massacre on 34th Street	http://dbpedia.org/ontology/followingEvent	Guilty as Charged 2001
+Massacre on 34th Street	http://dbpedia.org/ontology/promotion	Extreme Championship Wrestling
+Massacre on 34th Street	http://dbpedia.org/ontology/name	Massacre on 34th Street
+Massacre on 34th Street	http://dbpedia.org/ontology/brand	ECW
+Massacre on 34th Street	http://dbpedia.org/ontology/venue	Hammerstein Ballroom
+Massacre on 34th Street	http://dbpedia.org/ontology/mainEvent	ECW World Heavyweight Championship match between Jerry Lynn and Justin Credible
+Massacre on 34th Street	http://dbpedia.org/ontology/attendance	2500
+Massacre on 34th Street	http://dbpedia.org/ontology/tagline	The Most Dangerous Event of the Year
+Massacre on 34th Street	http://dbpedia.org/ontology/liveBroadcast	ECW on TNN
+Massacre on 34th Street	http://dbpedia.org/ontology/sponsor	Extreme Championship Wrestling
+Massacre on 34th Street	http://dbpedia.org/ontology/eventDate	2000-12-03
+Massacre on 34th Street	http://dbpedia.org/ontology/undercard	Nova vs. Chris Chetti

@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/african_grey_hornbill	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_of_sub-saharan_africa
+http://dbpedia.org/resource/african_grey_hornbill	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_of_the_middle_east
+http://dbpedia.org/resource/african_grey_hornbill	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:lophoceros
+http://dbpedia.org/resource/african_grey_hornbill	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_described_in_1766

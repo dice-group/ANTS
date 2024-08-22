@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/location	http://dbpedia.org/resource/warner_bros.
+Argo 2012 film	http://dbpedia.org/ontology/country	United States
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/john_goodman
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/alan_arkin
+Argo 2012 film	http://dbpedia.org/ontology/starring	Ben Affleck
+Argo 2012 film	http://dbpedia.org/ontology/starring	Bryan Cranston
+Argo 2012 film	http://dbpedia.org/ontology/starring	Alan Arkin
+Argo 2012 film	http://dbpedia.org/ontology/starring	John Goodman
+Argo 2012 film	http://dbpedia.org/ontology/genre	Thriller film
+Argo 2012 film	http://dbpedia.org/ontology/writer	Chris Terrio
+Argo 2012 film	http://dbpedia.org/ontology/runtime	120 minutes
+Argo 2012 film	http://dbpedia.org/ontology/award	Academy Award for Best Picture
+Argo 2012 film	http://dbpedia.org/ontology/producer	George Clooney
+Argo 2012 film	http://dbpedia.org/ontology/producer	Grant Heslov
+Argo 2012 film	http://dbpedia.org/ontology/producer	Ben Affleck
+Argo 2012 film	http://dbpedia.org/ontology/releaseDate	2012-10-12
+Argo 2012 film	http://dbpedia.org/ontology/director	Ben Affleck
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/cinematography	http://dbpedia.org/resource/rodrigo_prieto
+Argo 2012 film	http://dbpedia.org/ontology/language	English
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/editing	http://dbpedia.org/resource/william_goldenberg
+Argo 2012 film	http://dbpedia.org/ontology/distributor	Warner Bros. Pictures
+Argo 2012 film	http://dbpedia.org/ontology/musicComposer	Alexandre Desplat
+Argo 2012 film	http://dbpedia.org/ontology/cinematography	Rodrigo Prieto
+Argo 2012 film	http://dbpedia.org/ontology/editing	William Goldenberg
+Argo 2012 film	http://dbpedia.org/ontology/budget	$44.5 million
+Argo 2012 film	http://dbpedia.org/ontology/gross	$232 million
+Argo 2012 film	http://dbpedia.org/ontology/basedOn	"The Master of Disguise" by Antonio J. Mendez and "A Great Escape" article by Joshuah Bearman
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/john_hieftje
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/argo_(2012_film)
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/poland
+Argo 2012 film	http://dbpedia.org/ontology/workRuntime	120 minutes
+Argo 2012 film	http://dbpedia.org/ontology/filmFestival	Academy Awards
+Argo 2012 film	http://dbpedia.org/ontology/filmSeries	None

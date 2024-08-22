@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/field	http://dbpedia.org/resource/mathematician
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/ontology/regionserved	http://dbpedia.org/resource/j._c._penney
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/almamater	http://dbpedia.org/resource/university_of_st_andrews
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/decimal_mark
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/poland
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/merchiston_castle
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/edinburgh

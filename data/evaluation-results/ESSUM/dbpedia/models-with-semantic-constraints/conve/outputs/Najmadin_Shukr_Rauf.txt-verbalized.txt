@@ -1,1 +1,0 @@
-< pad > najmadin shukrauf's type of person is http: / / schema.org / person and is http: / / www.wikidata.org / entity / q215627. He is also an http: / / www.xmlns.com / foaf / 0.1 / person and his profile is http: / / www.w3.org / owl # thing. < / s >

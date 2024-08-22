@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/christian_bale
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/producer	http://dbpedia.org/resource/roger_birnbaum
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/touchstone_pictures
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/name	http://dbpedia.org/resource/manchester_city_f.c.
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/party	http://dbpedia.org/resource/democratic_party_(united_states)
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/music	http://dbpedia.org/resource/mad_at_gravity
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/ontology/editing	http://dbpedia.org/resource/thom_noble
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/izabella_scorupco
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/matthew_mcconaughey
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download
+http://dbpedia.org/resource/reign_of_fire_(film)	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/reign_of_fire_(film)
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/producer	http://dbpedia.org/resource/gary_barber
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/gerard_butler

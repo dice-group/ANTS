@@ -1,0 +1,22 @@
+Fabrice Gautrat	http://dbpedia.org/ontology/careerStation	FC Martigues
+Fabrice Gautrat	http://dbpedia.org/ontology/birthPlace	La Rochelle
+Fabrice Gautrat	http://dbpedia.org/ontology/numberOfGoals	0
+Fabrice Gautrat	http://dbpedia.org/ontology/numberOfMatches	0
+Fabrice Gautrat	http://dbpedia.org/ontology/birthDate	"1980-09-28"
+Fabrice Gautrat	http://dbpedia.org/ontology/birthDate	"1981-01-21"
+Fabrice Gautrat	http://dbpedia.org/ontology/position	Midfielder
+Fabrice Gautrat	http://dbpedia.org/ontology/formerTeam	USL Dunkerque
+Fabrice Gautrat	http://dbpedia.org/ontology/nationality	France
+Fabrice Gautrait	http://dbpedia.org/ontology/club	Stade Lavallois
+Fabrice Gautrat	http://dbpedia.org/ontology/associate	Yoann Gourcuff
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/locatedinarea	http://www.wikidata.org/entity/q5
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q215627
+Fabrice Gautrat	http://dbpedia.org/ontology/goals	0
+Fabrice Gautrat	http://dbpedia.org/ontology/youthYears	1995-1996
+Fabrice Gautrat	http://dbpedia.org/ontology/youthClubs	Tours FC
+Fabrice Gautrat	http://dbpedia.org/ontology/competingIn	Ligue 2
+Fabrice Gautrat	http://dbpedia.org/ontology/team	FC Libourne

@@ -1,0 +1,24 @@
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:hills_of_brandenburg
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mountains_of_the_alps
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:alpine_three-thousanders
+Fleckistock	http://dbpedia.org/ontology/country	Switzerland
+Fleckistock	http://dbpedia.org/ontology/location	Switzerland
+Fleckistock	http://dbpedia.org/ontology/elevation	3419
+Fleckistock	http://dbpedia.org/ontology/nearestCity	Altdorf
+Fleckistock	http://dbpedia.org/ontology/mountainRange	Uri Alps
+Fleckistock	http://dbpedia.org/ontology/prominence	367m
+Fleckistock	http://dbpedia.org/ontology/firstAscentPerson	Melchior Ulrich
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+Fleckistock	http://dbpedia.org/ontology/parentPeak	Uri Rotstock
+Fleckistock	http://dbpedia.org/ontology/firstAscent	1902
+Fleckistock	http://dbpedia.org/ontology/easiestRoute	South ridge
+Fleckistock	http://dbpedia.org/ontology/isolated	5.72
+Fleckistock	http://dbpedia.org/ontology/latitude	46.835556
+Fleckistock	http://dbpedia.org/ontology/longitude	8.438611
+Fleckistock	http://dbpedia.org/ontology/topoMap	Swisstopo
+Fleckistock	http://dbpedia.org/ontology/topo	Mountain
+Fleckistock	http://dbpedia.org/ontology/mountainType	Alpine
+Fleckistock	http://dbpedia.org/ontology/geology	Sedimentary rock
+Fleckistock	http://dbpedia.org/ontology/photo	http://commons.wikimedia.org/wiki/Special:FilePath/Fleckistock.jpg
+Fleckistock	http://dbpedia.org/ontology/photoCaption	Fleckistock seen from the south

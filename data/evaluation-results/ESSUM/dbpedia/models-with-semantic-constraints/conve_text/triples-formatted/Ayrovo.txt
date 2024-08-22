@@ -1,1 +1,0 @@
- <H> ayrovo <R> careerstation <T> fabrice_gautrat <H> ayrovo <R> type <T> yagopermanentlylocatedentity <H> ayrovo <R> type <T> http://schema.org/place <H> ayrovo <R> type <T> http://www.w3.org/2002/07/owl#thing <H> ayrovo <R> type <T> physicalentity100001930 <H> ayrovo <R> deathplace <T> e._k._mawlong <H> ayrovo <R> type <T> location

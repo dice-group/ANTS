@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/blankname	http://dbpedia.org/resource/federal_information_processing_standard
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/mother	http://dbpedia.org/resource/journal_of_anglican_studies
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/air_transport
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/publisher	http://dbpedia.org/resource/journal_of_african_law
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/annual_review_of_materials_research
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/occupations	http://dbpedia.org/resource/record_producer
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/capital	http://dbpedia.org/resource/poland
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/pictureformat	http://dbpedia.org/resource/canton,_illinois
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/animal_science_(journal)
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/the_journal_of_economic_history
+http://dbpedia.org/resource/j._c._penney	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/company

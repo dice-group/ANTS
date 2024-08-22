@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/communication100033020
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/songsproducedbykeitholsen
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q134556
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/you_better_run	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/crimes_of_passion_(pat_benatar_album)
+http://dbpedia.org/resource/you_better_run	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/groovin'_(the_young_rascals_album)
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q2188189

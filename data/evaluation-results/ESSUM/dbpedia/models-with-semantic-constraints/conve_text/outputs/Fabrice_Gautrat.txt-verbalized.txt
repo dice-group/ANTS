@@ -1,1 +1,0 @@
-< pad > The athlete, Fabrice gautrat, is a type of person who has the following details: http: / / www.ontologydesignpatterns.org / ont / dul.owl # person, http: / / www.w3.org / 2002 / 07 / owl # thing. The fabrice gautrat is a member of the American expatriate soccer team and plays for bronzemedalist, Fabrice gautrat 4. < / s >

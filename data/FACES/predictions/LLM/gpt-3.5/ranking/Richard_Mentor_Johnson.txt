@@ -1,0 +1,15 @@
+Richard Mentor Johnson	http://dbpedia.org/ontology/birthPlace	Beargrass, Kentucky
+Richard Mentor Johnson	http://dbpedia.org/ontology/birthDate	October 17, 1780
+Richard Mentor Johnson	http://dbpedia.org/ontology/occupation	Politician
+Richard Mentor Johnson	http://dbpedia.org/ontology/deathDate	November 19, 1850
+Richard Mentor Johnson	http://dbpedia.org/ontology/award	Congressional Gold Medal
+Richard Mentor Johnson	http://dbpedia.org/ontology/education	Transylvania University
+Richard Mentor Johnson	http://dbpedia.org/ontology/militaryService	War of 1812
+Richard Mentor Johnson	http://dbpedia.org/ontology/vicePresident	Martin Van Buren
+Richard Mentor Johnson	http://dbpedia.org/ontology/partyAffiliation	Democratic
+Richard Mentor Johnson	http://dbpedia.org/ontology/marriedTo	Julia Chinn
+Richard Mentor Johnson	http://dbpedia.org/ontology/children	5
+Richard Mentor Johnson	http://dbpedia.org/ontology/legacy	Controversial for his relationship with Julia Chinn
+Richard Mentor Johnson	http://dbpedia.org/ontology/politicalBeliefs	States' Rights advocate
+Richard Mentor Johnson	http://dbpedia.org/ontology/opposition	Whig Party
+Richard Mentor Johnson	http://dbpedia.org/ontology/precededBy	John C. Calhoun

@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/czech_republic	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:central_europe
+http://dbpedia.org/resource/czech_republic	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:member_states_of_the_three_seas_initiative
+http://dbpedia.org/resource/czech_republic	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:member_states_of_nato
+http://dbpedia.org/resource/czech_republic	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:states_and_territories_established_in_1993
+Czech Republic	http://dbpedia.org/ontology/timeZone	Central European Time
+Czech Republic	http://dbpedia.org/ontology/populationTotal	10698896
+Czech Republic	http://dbpedia.org/ontology/areaTotal	78866
+Czech Republic	http://dbpedia.org/ontology/leaderTitle	President
+Czech Republic	http://dbpedia.org/ontology/populationDensity	"137/km²"
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/origin	http://dbpedia.org/resource/capellen_choir
+Czech Republic	http://dbpedia.org/ontology/foundingDate	1993-01-01
+Czech Republic	http://dbpedia.org/ontology/governmentType	Parliamentary republic
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/languages	http://dbpedia.org/resource/polish_language
+Czech Republic	http://dbpedia.org/ontology/demonym	Czechs
+Czech Republic	http://dbpedia.org/ontology/capital	Prague
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/currency	http://dbpedia.org/resource/czech_koruna
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/regions	http://dbpedia.org/resource/müller-thurgau
+Czech Republic	http://dbpedia.org/ontology/currency	Czech koruna
+Czech Republic	http://dbpedia.org/ontology/officialLanguage	Czech
+Czech Republic	http://dbpedia.org/ontology/leaderName	Petr Fiala
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/miloš_zeman
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/governmenttype	http://dbpedia.org/resource/parliamentary_republic
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/unitary_state
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/kingdom_of_bohemia
+Czech Republic	http://dbpedia.org/ontology/gdpPpp	$470.179 billion
+Czech Republic	http://dbpedia.org/ontology/memberOf	European Union
+Czech Republic	http://dbpedia.org/ontology/borderingCountries	Austria
+Czech Republic	http://dbpedia.org/ontology/borderingCountries	Germany
+Czech Republic	http://dbpedia.org/ontology/borderingCountries	Poland
+Czech Republic	http://dbpedia.org/ontology/borderingCountries	Slovakia
+Czech Republic	http://dbpedia.org/ontology/flag	Flag of the Czech Republic
+Czech Republic	http://dbpedia.org/ontology/armedForces	Czech Armed Forces
+Czech Republic	http://dbpedia.org/ontology/isoRegionCode	CZ

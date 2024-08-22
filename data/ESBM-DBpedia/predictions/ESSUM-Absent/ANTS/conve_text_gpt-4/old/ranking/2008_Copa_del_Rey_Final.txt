@@ -1,0 +1,25 @@
+2008 Copa del Rey Final	http://dbpedia.org/ontology/team	Valencia CF
+2008 Copa del Rey Final	http://dbpedia.org/ontology/team	Getafe CF
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
+2008 Copa del Rey Final	http://dbpedia.org/ontology/numberOfGoals	5
+2008 Copa del Rey Final	http://dbpedia.org/ontology/location	Estadio Vicente Calderón
+2008 Copa del Rey Final	http://dbpedia.org/ontology/date	2008-04-16
+2008 Copa del Rey Final	http://dbpedia.org/ontology/previousEvent	2007 Copa del Rey Final
+2008 Copa del Rey Final	http://dbpedia.org/ontology/nextEvent	2009 Copa del Rey Final
+2008 Copa del Rey Final	http://dbpedia.org/ontology/stadium	Estadio Vicente Calderón
+2008 Copa del Rey Final	http://dbpedia.org/ontology/event	Copa del Rey
+2008 Copa del Rey Final	http://dbpedia.org/ontology/competition	Copa del Rey
+2008 Copa del Rey Final	http://dbpedia.org/ontology/winner	Valencia CF
+2008 Copa del Rey Final	http://dbpedia.org/ontology/runnerUp	Getafe CF
+2008 Copa del Rey Final	http://dbpedia.org/ontology/attendance	55000
+2008 Copa del Rey Final	http://dbpedia.org/ontology/referee	Manuel Mejuto González
+2008 Copa del Rey Final	http://dbpedia.org/ontology/score	1-0
+2008 Copa del Rey Final	http://dbpedia.org/ontology/matchOfTheDay	2008-04-16
+2008 Copa del Rey Final	http://dbpedia.org/ontology/broadcast	La 1
+2008 Copa del Rey Final	http://dbpedia.org/ontology/official	Manuel Mejuto González
+2008 Copa del Rey Final	http://dbpedia.org/ontology/playerOfTheMatch	Andrés Iniesta
+2008 Copa del Rey Final	http://dbpedia.org/ontology/sponsor	None

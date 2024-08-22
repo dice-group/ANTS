@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/czechoslovakia
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/ontology/leadername	http://dbpedia.org/resource/milo%c5%a1_zeman
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/officiallanguages	http://dbpedia.org/resource/czech_language
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/parliamentary_republic
+http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/dissolution_of_czechoslovakia

@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/the_crowd_snores	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_set_in_the_netherlands
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000s_drama_films
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2004_films
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:lgbt-related_drama_films
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:dutch-language_films
+http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/battle_of_cepeda_(1820)
+http://dbpedia.org/resource/the_crowd_snores	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724

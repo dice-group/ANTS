@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/edward_teller	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_agnostics
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/property/citizenship	http://dbpedia.org/resource/united_states_of_america
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/kingdom_of_hungary
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/budapest
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/property/almamater	http://dbpedia.org/resource/university_of_karlsruhe
+http://dbpedia.org/resource/edward_teller	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal
+http://dbpedia.org/resource/edward_teller	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/property/doctoraladvisor	http://dbpedia.org/resource/werner_heisenberg
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/stanford,_california
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/austria-hungary

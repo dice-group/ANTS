@@ -1,1 +1,0 @@
- <H> storme_warren <R> type <T> http://www.wikidata.org/entity/q215627 <H> storme_warren <R> type <T> physicalentity100001930 <H> storme_warren <R> type <T> http://www.w3.org/2002/07/owl#thing <H> storme_warren <R> type <T> object100002684 <H> storme_warren <R> subject <T> category:living_people <H> storme_warren <R> type <T> http://xmlns.com/foaf/0.1/person

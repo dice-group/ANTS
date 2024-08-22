@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/friends	http://xmlns.com/foaf/0.1/depiction	http://upload.wikimedia.org/wikipedia/commons/8/86/friends_titles.jpg
+http://dbpedia.org/resource/friends	http://dbpedia.org/property/starring	http://dbpedia.org/resource/courteney_cox
+http://dbpedia.org/resource/friends	http://dbpedia.org/property/thememusiccomposer	http://dbpedia.org/resource/allee_willis
+http://dbpedia.org/resource/friends	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/friends
+http://dbpedia.org/resource/friends	http://dbpedia.org/ontology/company	http://dbpedia.org/resource/warner_bros._television
+http://dbpedia.org/resource/friends	http://dbpedia.org/property/starring	http://dbpedia.org/resource/lisa_kudrow
+http://dbpedia.org/resource/friends	http://dbpedia.org/property/network	http://dbpedia.org/resource/nbc
+http://dbpedia.org/resource/friends	http://dbpedia.org/property/genre	http://dbpedia.org/resource/sitcom
+http://dbpedia.org/resource/friends	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/friends_titles.jpg/200px-friends_titles.jpg
+http://dbpedia.org/resource/friends	http://dbpedia.org/ontology/creator	http://dbpedia.org/resource/marta_kauffman
+http://dbpedia.org/resource/friends	http://dbpedia.org/property/starring	http://dbpedia.org/resource/matthew_perry
+http://dbpedia.org/resource/friends	http://dbpedia.org/ontology/company	http://dbpedia.org/resource/bright/kauffman/crane_productions
+http://dbpedia.org/resource/friends	http://dbpedia.org/property/creator	http://dbpedia.org/resource/david_crane_(producer)
+http://dbpedia.org/resource/friends	http://dbpedia.org/ontology/openingtheme	http://dbpedia.org/resource/the_rembrandts

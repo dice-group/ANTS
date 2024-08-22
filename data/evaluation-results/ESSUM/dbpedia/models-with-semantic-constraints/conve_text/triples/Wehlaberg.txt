@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/wehlaberg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
-http://dbpedia.org/resource/wehlaberg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
-http://dbpedia.org/resource/wehlaberg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/naturalelevation109366317
-http://dbpedia.org/resource/wehlaberg	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:hills_of_brandenburg
-http://dbpedia.org/resource/wehlaberg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/mountain109359803
-http://dbpedia.org/resource/wehlaberg	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/india
-http://dbpedia.org/resource/wehlaberg	http://dbpedia.org/ontology/series	http://dbpedia.org/resource/sagami_railway_izumino_line
-http://dbpedia.org/resource/wehlaberg	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location

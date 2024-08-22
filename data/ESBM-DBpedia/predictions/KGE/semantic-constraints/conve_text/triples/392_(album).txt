@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/392_(album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/album
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/rock_music
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/property/rev	http://dbpedia.org/resource/allmusic
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/property/origin	http://dbpedia.org/resource/douro_(wine)
+http://dbpedia.org/resource/392_(album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_albums
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/property/lyrics	http://dbpedia.org/resource/jung_yong-hwa
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/property/artist	http://dbpedia.org/resource/cn_blue
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/ontology/musiccomposer	http://dbpedia.org/resource/lee_jong-hyun
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/property/location	http://dbpedia.org/resource/dortmund
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/property/writer	http://dbpedia.org/resource/sir_jinx

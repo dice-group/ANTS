@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/type	http://dbpedia.org/resource/privately_held_company
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_kingdom
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/logo	http://dbpedia.org/resource/file:database.png
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/kochi
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/thane
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/air_transport
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/service	http://dbpedia.org/resource/paratransit
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/schoolboard	http://dbpedia.org/resource/igcse
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/schoolboard	http://dbpedia.org/resource/central_board_of_secondary_education
+http://dbpedia.org/resource/j._c._penney	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/company

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/genre	http://dbpedia.org/resource/video_game_music
+http://dbpedia.org/resource/crysis_2	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:dystopian_video_games
+http://dbpedia.org/resource/crysis_2	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_video_games
+http://dbpedia.org/resource/crysis_2	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:nanopunk
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/ontology/director	http://dbpedia.org/resource/cevat_yerli
+http://dbpedia.org/resource/crysis_2	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fiction_about_memory_erasure_and_alteration
+http://dbpedia.org/resource/crysis_2	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:crytek_games
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/writer	http://dbpedia.org/resource/richard_k._morgan
+http://dbpedia.org/resource/crysis_2	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/game
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/stip	http://dbpedia.org/resource/crysis

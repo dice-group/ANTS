@@ -1,0 +1,1 @@
+< pad > The 3way fm is a radio station located at http: / / www.wikidata.org / entity / q43229. It is categorized as a community radio station in Australia, and has an http: / / www.schema.org / entity / q15265344. Its type of address is http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # socialperson. < / s >

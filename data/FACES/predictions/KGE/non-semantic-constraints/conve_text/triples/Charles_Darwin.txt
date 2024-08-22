@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/academicadvisors	http://dbpedia.org/resource/adam_sedgwick
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/charles_darwin
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/influencedby	http://dbpedia.org/resource/charles_lyell
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/influenced	http://dbpedia.org/resource/joseph_dalton_hooker
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/citizenship	http://dbpedia.org/resource/british_citizenship
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/common_descent
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/influenced	http://dbpedia.org/resource/ernst_haeckel
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/workplaces	http://dbpedia.org/resource/united_kingdom_of_great_britain_and_ireland
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/influenced	http://dbpedia.org/resource/thomas_henry_huxley
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/influenced	http://dbpedia.org/resource/john_lubbock,_1st_baron_avebury

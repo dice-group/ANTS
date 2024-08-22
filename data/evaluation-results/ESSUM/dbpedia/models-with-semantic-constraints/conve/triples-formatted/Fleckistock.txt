@@ -1,1 +1,0 @@
- <H> fleckistock <R> type <T> naturalplace <H> fleckistock <R> type <T> naturalelevation109366317 <H> fleckistock <R> type <T> location <H> fleckistock <R> type <T> mountain <H> fleckistock <R> type <T> yagopermanentlylocatedentity

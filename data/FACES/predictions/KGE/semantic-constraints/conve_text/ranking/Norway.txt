@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/norway	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/monarchy
+http://dbpedia.org/resource/norway	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:member_states_of_the_council_of_europe
+http://dbpedia.org/resource/norway	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:countries_in_europe
+http://dbpedia.org/resource/norway	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:states_and_territories_established_in_the_870s
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/country	http://dbpedia.org/resource/carl_oscar_hovind
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/headquarters	http://dbpedia.org/resource/agderfly
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/norway__historicalevent__4
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/nationallanguages	http://dbpedia.org/resource/scandoromani_language
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/governmenttype	http://dbpedia.org/resource/unitary_state
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/nationallanguages	http://dbpedia.org/resource/romani_language

@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/chitita	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
-http://dbpedia.org/resource/chitita	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/chitita	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
-http://dbpedia.org/resource/chitita	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
-http://dbpedia.org/resource/chitita	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:populated_places_in_abbottabad_district
-http://dbpedia.org/resource/chitita	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/animal
-http://dbpedia.org/resource/chitita	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/village
-http://dbpedia.org/resource/chitita	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167

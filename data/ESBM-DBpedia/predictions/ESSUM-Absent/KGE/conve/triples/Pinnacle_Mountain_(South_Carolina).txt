@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/mountain
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/naturalelevation109366317
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mountains_of_south_carolina
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/animal
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:landforms_of_pickens_county,_south_carolina
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/physicalentity100001930

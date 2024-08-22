@@ -1,1 +1,0 @@
- <H> rubus_arizonensis <R> type <T> species <H> rubus_arizonensis <R> type <T> http://www.wikidata.org/entity/q756 <H> rubus_arizonensis <R> successor <T> flowering_plant <H> rubus_arizonensis <R> type <T> eukaryote <H> rubus_arizonensis <R> type <T> plant <H> rubus_arizonensis <R> type <T> http://www.wikidata.org/entity/q19088

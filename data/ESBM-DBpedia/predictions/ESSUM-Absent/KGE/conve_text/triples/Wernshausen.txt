@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/wernshausen	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:geography_of_thuringia
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/e._k._mawlong
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#spatialthing
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/sagami_railway_izumino_line
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/fabrice_gautrat
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/central_district_(dehgolan_county)
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/quri_chay_rural_district
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/ontology/recordedin	http://commons.wikimedia.org/wiki/special:filepath/reamer_barn.jpg
+http://dbpedia.org/resource/wernshausen	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_itf_women's_circuit
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location

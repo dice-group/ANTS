@@ -1,1 +1,0 @@
-< pad > The reptile Amphisbaena ridleyi is found in the United States of America at http: / / dbpedia.org / class / yago / LivingThing100004258. It is in the reptile class and belongs to the group of Reptiles. Amphisbaena ridleyi is in the class Reptile and belongs to the http: / / dbpedia.org / class / yago / Vertebrate10168257. < / s >

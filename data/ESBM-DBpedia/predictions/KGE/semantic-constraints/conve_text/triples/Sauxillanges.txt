@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/sauxillanges	http://dbpedia.org/property/startpoint	http://dbpedia.org/resource/northumberland_county,_ontario
+http://dbpedia.org/resource/sauxillanges	http://dbpedia.org/property/intercommunality	http://dbpedia.org/resource/agglo_pays_d'issoire
+http://dbpedia.org/resource/sauxillanges	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:communes_of_puy-de-dôme
+http://dbpedia.org/resource/sauxillanges	http://dbpedia.org/property/seattype	http://dbpedia.org/resource/capital_(political)
+http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/sauxillanges	http://dbpedia.org/property/elevationmaxpoint	http://dbpedia.org/resource/são_miguel_island
+http://dbpedia.org/resource/sauxillanges	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/france
+http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
+http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/sauxillanges	http://dbpedia.org/property/blankname	http://dbpedia.org/resource/köppen_climate_classification

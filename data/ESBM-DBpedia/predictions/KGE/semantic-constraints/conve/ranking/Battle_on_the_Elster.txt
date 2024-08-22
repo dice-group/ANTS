@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/battle_on_the_elster	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/battle
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/property/team	http://dbpedia.org/resource/casg_paris
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/property/combatant	http://dbpedia.org/resource/henry_iv_of_germany
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/hohenmölsen
+http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/battle_on_the_elster	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_middle_ages
+http://dbpedia.org/resource/battle_on_the_elster	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:great_saxon_revolt
+http://dbpedia.org/resource/battle_on_the_elster	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_involving_saxony
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/property/marktitle	http://dbpedia.org/resource/battle_of_aspern-essling

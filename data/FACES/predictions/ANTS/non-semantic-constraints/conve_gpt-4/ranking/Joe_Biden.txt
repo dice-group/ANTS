@@ -1,0 +1,35 @@
+Joe Biden	http://dbpedia.org/ontology/birthPlace	Scranton
+Joe Biden	http://dbpedia.org/ontology/birthDate	1942-11-20
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/party	http://dbpedia.org/resource/democratic_party_(united_states)
+Joe Biden	http://dbpedia.org/ontology/occupation	Politician
+Joe Biden	http://dbpedia.org/ontology/office	President of the United States
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/ted_kaufman
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/dianne_feinstein
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/jesse_helms
+Joe Biden	http://dbpedia.org/ontology/predecessor	Donald Trump
+Joe Biden	http://dbpedia.org/ontology/almaMater	University of Delaware
+Joe Biden	http://dbpedia.org/ontology/almaMater	Syracuse University College of Law
+Joe Biden	http://dbpedia.org/ontology/award	Presidential Medal of Freedom
+Joe Biden	http://dbpedia.org/ontology/party	Democratic Party
+Joe Biden	http://dbpedia.org/ontology/nationality	United States
+Joe Biden	http://dbpedia.org/ontology/education	University of Delaware
+Joe Biden	http://dbpedia.org/ontology/education	Syracuse University College of Law
+Joe Biden	http://dbpedia.org/ontology/spouse	Jill Biden
+Joe Biden	http://dbpedia.org/ontology/residence	Number One Observatory Circle
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/president	http://dbpedia.org/resource/barack_obama
+Joe Biden	http://dbpedia.org/ontology/militaryBranch	None
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/profession	http://dbpedia.org/resource/lawyer
+Joe Biden	http://dbpedia.org/ontology/religion	Catholicism
+Joe Biden	http://dbpedia.org/ontology/profession	Politician
+Joe Biden	http://dbpedia.org/ontology/signature	http://commons.wikimedia.org/wiki/Special:FilePath/Joe_Biden_signature.svg
+Joe Biden	http://dbpedia.org/ontology/vicePresident	Barack Obama
+Joe Biden	http://dbpedia.org/ontology/militaryRank	None
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/catholic_church
+http://dbpedia.org/resource/joe_biden	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/joe_biden?oldid=547812672
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/joe_biden
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/scranton,_pennsylvania
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/pennsylvania
+Joe Biden	http://dbpedia.org/ontology/children	Hunter Biden
+Joe Biden	http://dbpedia.org/ontology/children	Ashley Biden
+Joe Biden	http://dbpedia.org/ontology/succeeding	Donald Trump

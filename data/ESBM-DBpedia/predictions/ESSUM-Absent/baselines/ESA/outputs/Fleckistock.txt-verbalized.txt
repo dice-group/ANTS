@@ -1,0 +1,1 @@
+< pad > The Fleckistock is located in the mountains of Uri Alps, and has a type of http: / / www.dbpedia.org / class / MountainsOfSwitzerland. It is parented by the MountainPeaks, and has an array of tools and services, including http: / / www.wikimedia.org / class / yago / MountainsOfSwitzerland. The Fleckistock has an elevation of 46.70736111 < / s >

@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/alan_turing	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_educated_at_sherborne_school
+http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/academicdiscipline	http://dbpedia.org/resource/logic
+http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/turing_machine
+http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/turing_test
+http://dbpedia.org/resource/alan_turing	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:suicides_by_cyanide_poisoning
+http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/academicdiscipline	http://dbpedia.org/resource/cryptanalysis
+http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/turing_pattern
+http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/alonzo_church
+http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/turing_reduction
+http://dbpedia.org/resource/alan_turing	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:british_anti-fascists
+http://dbpedia.org/resource/alan_turing	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:lgbt_track_and_field_athletes
+http://dbpedia.org/resource/alan_turing	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:history_of_artificial_intelligence
+http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/the_chemical_basis_of_morphogenesis

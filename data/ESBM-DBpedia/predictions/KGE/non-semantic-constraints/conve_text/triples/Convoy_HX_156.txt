@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/position	http://dbpedia.org/resource/guilty_as_charged
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/district	http://commons.wikimedia.org/wiki/special:filepath/war_ensign_of_germany_1938-1945.svg?width=300
+http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/position	http://dbpedia.org/resource/holiday_hell
+http://dbpedia.org/resource/convoy_hx_156	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:north_atlantic_convoys_of_world_war_ii
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/convoy_hx_156	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2009–10_in_belgian_football
+http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event

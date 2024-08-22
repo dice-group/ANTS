@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/District108552138
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Tract108673395
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/Q486972
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/2003/01/geo/wgs84_pos#long	15.306447
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/PopulatedPlacesInTheMunicipalityOf%C5%A0kocjan
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Location100027167
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Object100002684
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/Place
+http://dbpedia.org/resource/Stara_Bučka	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/Slovenia
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/PhysicalEntity100001930
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/2003/01/geo/wgs84_pos#lat	45.9213
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/YagoGeoEntity
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/2000/01/rdf-schema#label	Stara Bučka
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/GeographicalArea108574314
+http://dbpedia.org/resource/Stara_Bučka	http://xmlns.com/foaf/0.1/name	Stara Bučka
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Region108630985
+http://dbpedia.org/resource/Stara_Bučka	http://dbpedia.org/ontology/elevation	262.2
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#Thing
+http://dbpedia.org/resource/Stara_Bučka	http://www.georss.org/georss/point	45.9213 15.306447222222221
+http://dbpedia.org/resource/Stara_Bučka	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity

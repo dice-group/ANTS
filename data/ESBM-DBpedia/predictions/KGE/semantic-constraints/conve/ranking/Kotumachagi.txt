@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/kotumachagi	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/ontology/subdivision	http://dbpedia.org/resource/gadag
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/indian_standard_time
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/demographics1info	http://dbpedia.org/resource/kannada
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/karnataka
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/list_of_districts_of_india
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/village

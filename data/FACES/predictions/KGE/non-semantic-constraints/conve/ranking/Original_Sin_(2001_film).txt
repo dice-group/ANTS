@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/property/writer	http://dbpedia.org/resource/cornell_woolrich
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/jack_thompson
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/thomas_jane
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/angelina_jolie

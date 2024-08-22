@@ -1,0 +1,26 @@
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:derry_city_f.c._matches
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_in_republic_of_ireland_association_football_cups
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:september_2011_sports_events_in_europe
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:cork_city_f.c._matches
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/team	Derry City
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/team	Cork City
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/numberOfGoals	1
+http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://dbpedia.org/property/team	http://dbpedia.org/resource/st_patrick's_athletic_f.c.
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/location	Tallaght Stadium
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/award	League of Ireland Cup
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/league	League of Ireland Cup
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/result	Derry City won 1–0 against Cork City
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/season	2011
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/previousEvent	2010 League of Ireland Cup Final
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/nextEvent	2012 League of Ireland Cup Final
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/sport	Association football
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/eventDate	2011-09-24
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/attendance	850
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/referee	Neil Doyle
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/winner	Derry City F.C.
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/runnerUp	Limerick F.C.
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/competition	League of Ireland Cup
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/match	Derry City vs Cork City
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/homeTeam	Derry City F.C.
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/awayTeam	Shamrock Rovers F.C.
+2011 League of Ireland Cup Final	http://dbpedia.org/ontology/tieBreaker	Penalty shoot-out

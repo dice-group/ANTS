@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/ontology/album	http://dbpedia.org/resource/lol_(blog_27_album)
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/ontology/album	http://dbpedia.org/resource/fresh_(teddybears_album)
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/ontology/previouswork	http://dbpedia.org/resource/uh_la_la_la
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/ontology/previouswork	http://dbpedia.org/resource/wid_out_ya
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2004_songs
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:epic_records_singles
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2006_singles
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_klas_åhlund
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:teddybears_songs
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing

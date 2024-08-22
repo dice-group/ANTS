@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
-http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
-http://dbpedia.org/resource/1967_italian_grand_prix	http://dbpedia.org/ontology/followingevent	http://dbpedia.org/resource/brabham
-http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/grandprix
-http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
-http://dbpedia.org/resource/1967_italian_grand_prix	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1967_formula_one_races
-http://dbpedia.org/resource/1967_italian_grand_prix	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1967_in_italian_motorsport

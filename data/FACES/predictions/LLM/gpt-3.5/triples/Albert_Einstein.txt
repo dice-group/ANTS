@@ -1,0 +1,15 @@
+Albert Einstein	birthDate	March 14, 1879
+Albert Einstein	deathDate	April 18, 1955
+Albert Einstein	birthPlace	Ulm, Germany
+Albert Einstein	nationality	German
+Albert Einstein	occupation	Physicist
+Albert Einstein	knownFor	Theory of Relativity
+Albert Einstein	awards	Nobel Prize in Physics
+Albert Einstein	almaMater	ETH Zurich
+Albert Einstein	spouse	Elsa Einstein
+Albert Einstein	children	Hans Albert Einstein
+Albert Einstein	residence	Princeton, New Jersey
+Albert Einstein	contribution	Photoelectric Effect
+Albert Einstein	publication	Relativity: The Special and General Theory
+Albert Einstein	quote	"Imagination is more important than knowledge."
+Albert Einstein	influencedBy	Isaac Newton

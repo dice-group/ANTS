@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/triathlon_at_the_2004_summer_olympics_–_men's
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent

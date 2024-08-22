@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal
+http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q729
+http://dbpedia.org/resource/african_grey_hornbill	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
+http://dbpedia.org/resource/african_grey_hornbill	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_of_cameroon
+http://dbpedia.org/resource/african_grey_hornbill	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/hornbill
+http://dbpedia.org/resource/african_grey_hornbill	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/category:hornbills
+http://dbpedia.org/resource/african_grey_hornbill	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_of_gabon
+http://dbpedia.org/resource/african_grey_hornbill	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_of_equatorial_guinea
+http://dbpedia.org/resource/african_grey_hornbill	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_of_south_africa
+http://dbpedia.org/resource/african_grey_hornbill	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:birds_of_asia

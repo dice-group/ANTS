@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/hagar_wilde	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1905_births
+http://dbpedia.org/resource/hagar_wilde	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_women_short_story_writers
+http://dbpedia.org/resource/hagar_wilde	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:screenwriters_from_ohio
+http://dbpedia.org/resource/hagar_wilde	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/bringing_up_baby
+http://dbpedia.org/resource/hagar_wilde	http://dbpedia.org/ontology/spouse	http://dbpedia.org/resource/stephen_bekassy
+http://dbpedia.org/resource/hagar_wilde	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:writers_from_toledo,_ohio
+http://dbpedia.org/resource/hagar_wilde	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_television_writers
+http://dbpedia.org/resource/hagar_wilde	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/i_was_a_male_war_bride
+http://dbpedia.org/resource/hagar_wilde	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/hagar_wilde__personfunction__1
+http://dbpedia.org/resource/hagar_wilde	http://dbpedia.org/property/distributor	http://dbpedia.org/resource/cbs_television_distribution

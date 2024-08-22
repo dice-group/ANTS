@@ -1,0 +1,1 @@
+< pad > The district of Muwki in Poland is part of the Warmian-Masurian Voivodeship. The city is located at 54.0519444448887 in the village of Muwki, which has the type of http: / / www.dbpedia.org / class / yago / Geocentricity / Village. Muwki is in the class of http: / / dbpedia.org / class / yago / Yago / Geoentity / Area10857 < / s >

@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_black-and-white_films
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1930s_english-language_films
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_comedy_films
+The Crowd Snores	http://dbpedia.org/ontology/country	United States
+http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/property/producer	http://dbpedia.org/resource/genesis_(band)
+http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/yasmine_bleeth
+The Crowd Snores	http://dbpedia.org/ontology/genre	Comedy
+The Crowd Snores	http://dbpedia.org/ontology/award	Pulitzer Prize for Drama
+The Crowd Snores	http://dbpedia.org/ontology/releaseDate	1941-08-08
+The Crowd Snores	http://dbpedia.org/ontology/language	English
+http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/universal_pictures
+The Crowd Snores	http://dbpedia.org/ontology/publisher	George H. Doran Company
+The Crowd Snores	http://dbpedia.org/ontology/author	Dr. Seuss
+The Crowd Snores	http://dbpedia.org/ontology/literaryGenre	Comedy
+The Crowd Snores	http://dbpedia.org/ontology/numberOfPages	64
+The Crowd Snores	http://dbpedia.org/ontology/isbn	"978-0689714164"
+The Crowd Snores	http://dbpedia.org/ontology/series	Winnie-the-Pooh
+The Crowd Snores	http://dbpedia.org/ontology/mediaType	Book
+http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/property/camera	http://dbpedia.org/resource/single-camera_setup
+The Crowd Snores	http://dbpedia.org/ontology/coverArtist	Dean Martin
+The Crowd Snores	http://dbpedia.org/ontology/illustrator	Dr. Seuss
+The Crowd Snores	http://dbpedia.org/ontology/translator	None
+http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/property/scope	http://dbpedia.org/resource/program_evaluation
+The Crowd Snores	http://dbpedia.org/ontology/originalLanguage	English
+http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/property/pedigree	http://dbpedia.org/resource/garganega
+http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/property/thememusiccomposer	http://dbpedia.org/resource/stu_gardner
+The Crowd Snores	http://dbpedia.org/ontology/precededBy	Deduce,  You Say!
+The Crowd Snores	http://dbpedia.org/ontology/followedBy	Horton Hatches the Egg
+The Crowd Snores	http://dbpedia.org/ontology/characters	Snuffy Smith
+The Crowd Snores	http://dbpedia.org/ontology/workType	Short story

@@ -1,1 +1,0 @@
-< pad > HENLOW is located in the United Kingdom and is classified as a population in the Abbottabad district. They have an object of 100000000 and a type of physicalentity of 1000001930. henlow has an address of http: / / www.wikidata.org / entity / q486972 and their type of language is http: / / www.w3.org / 2002 / 07 / owl # thing. < / s >

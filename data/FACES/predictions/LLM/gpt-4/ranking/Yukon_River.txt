@@ -1,0 +1,23 @@
+Yukon River	http://dbpedia.org/ontology/country	Canada
+Yukon River	http://dbpedia.org/ontology/country	United States
+Yukon River	http://dbpedia.org/ontology/city	Whitehorse
+Yukon River	http://dbpedia.org/ontology/length	3185 km
+Yukon River	http://dbpedia.org/ontology/mouthPlace	Bering Sea
+Yukon River	http://dbpedia.org/ontology/mouthMountain	Bering Sea
+Yukon River	http://dbpedia.org/ontology/mouthElevation	0
+Yukon River	http://dbpedia.org/ontology/watershed	832000 square kilometers
+Yukon River	http://dbpedia.org/ontology/sourceElevation	2, 210 ft
+Yukon River	http://dbpedia.org/ontology/discharge	6200 m3/s
+Yukon River	http://dbpedia.org/ontology/sourceRegion	British Columbia
+Yukon River	http://dbpedia.org/ontology/tributary	White River
+Yukon River	http://dbpedia.org/ontology/basinCountry	United States
+Yukon River	http://dbpedia.org/ontology/basinCountry	Canada
+Yukon River	http://dbpedia.org/ontology/sourceCountry	Canada
+Yukon River	http://dbpedia.org/ontology/source	Atlin Lake
+Yukon River	http://dbpedia.org/ontology/sourceLatitude	61.036944
+Yukon River	http://dbpedia.org/ontology/sourceLongitude	-141.0
+Yukon River	http://dbpedia.org/ontology/riverSystem	Yukon River
+Yukon River	http://dbpedia.org/ontology/rightTributary	White River
+Yukon River	http://dbpedia.org/ontology/leftTributary	Tanana River
+Yukon River	http://dbpedia.org/ontology/flowingThrough	Canada
+Yukon River	http://dbpedia.org/ontology/flowingThrough	Alaska

@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/lexus	http://dbpedia.org/property/name	http://dbpedia.org/resource/manchester_city_f.c.
+http://dbpedia.org/resource/lexus	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/automotive_industry
+http://dbpedia.org/resource/lexus	http://dbpedia.org/property/services	http://dbpedia.org/resource/financial_services
+http://dbpedia.org/resource/lexus	http://dbpedia.org/ontology/regionserved	http://dbpedia.org/resource/j._c._penney
+http://dbpedia.org/resource/lexus	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/lexus

@@ -1,0 +1,15 @@
+Joe Biden	occupation	President
+Joe Biden	political party	Democratic
+Joe Biden	birthdate	November 20, 1942
+Joe Biden	birthplace	Scranton, Pennsylvania
+Joe Biden	spouse	Jill Biden
+Joe Biden	children	Hunter, Beau, Ashley
+Joe Biden	education	University of Delaware
+Joe Biden	vice president	Barack Obama
+Joe Biden	vice presidential term	2009-2017
+Joe Biden	height	6 feet
+Joe Biden	favorite ice cream flavor	Chocolate chip
+Joe Biden	alma mater	Syracuse University College of Law
+Joe Biden	Twitter handle	@JoeBiden
+Joe Biden	favorite book	"Middlemarch" by George Eliot
+Joe Biden	notable accomplishment	passage of the Violence Against Women Act

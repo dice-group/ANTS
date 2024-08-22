@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
-http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2009_albums
-http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/whole100003553
-http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/capitol_records
-http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/stan_satin
-http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
-http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/rock_music
-http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work

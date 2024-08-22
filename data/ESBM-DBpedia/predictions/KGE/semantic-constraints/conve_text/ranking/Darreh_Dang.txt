@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/darreh_dang	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:towns_and_villages_in_aligudarz_county
+http://dbpedia.org/resource/darreh_dang	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/counties_of_iran
+http://dbpedia.org/resource/darreh_dang	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/aligudarz_county
+http://dbpedia.org/resource/darreh_dang	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/zaz-e_gharbi_rural_district
+http://dbpedia.org/resource/darreh_dang	http://dbpedia.org/property/nearnw	http://dbpedia.org/resource/ballarat_east,_victoria

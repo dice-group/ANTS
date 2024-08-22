@@ -1,0 +1,25 @@
+Family Feud	http://dbpedia.org/ontology/country	United States
+Family Feud	http://dbpedia.org/ontology/genre	Game Show
+Family Feud	http://dbpedia.org/ontology/runtime	30 minutes
+Family Feud	http://dbpedia.org/ontology/producer	Mark Goodson
+Family Feud	http://dbpedia.org/ontology/language	English
+Family Feud	http://dbpedia.org/ontology/distributor	FremantleMedia
+Family Feud	http://dbpedia.org/ontology/musicComposer	Edd Kalehoff
+Family Feud	http://dbpedia.org/ontology/network	ABC
+Family Feud	http://dbpedia.org/ontology/format	Game show
+Family Feud	http://dbpedia.org/ontology/creator	Mark Goodson
+Family Feud	http://dbpedia.org/ontology/executiveProducer	Mark Goodson
+Family Feud	http://dbpedia.org/ontology/presenter	Richard Dawson
+Family Feud	http://dbpedia.org/ontology/presenter	Ray Combs
+Family Feud	http://dbpedia.org/ontology/presenter	Louie Anderson
+Family Feud	http://dbpedia.org/ontology/presenter	Richard Karn
+Family Feud	http://dbpedia.org/ontology/presenter	John O'Hurley
+Family Feud	http://dbpedia.org/ontology/presenter	Steve Harvey
+Family Feud	http://dbpedia.org/ontology/related	Game show
+Family Feud	http://dbpedia.org/ontology/broadcastArea	United States
+Family Feud	http://dbpedia.org/ontology/firstAired	1976-07-12
+Family Feud	http://dbpedia.org/ontology/lastAired	2023
+Family Feud	http://dbpedia.org/ontology/numSeasons	22
+Family Feud	http://dbpedia.org/ontology/numEpisodes	2400
+Family Feud	http://dbpedia.org/ontology/themeMusicComposer	Robert Israel
+Family Feud	http://dbpedia.org/ontology/spinOff	Family Feud Australia

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://dbpedia.org/ontology/department	http://dbpedia.org/resource/peshmerga
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/physicalentity100001930
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/ba'athist_iraq
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:kurdish_guerrillas
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/whole100003553
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_kirkuk_province
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/person100007846
+http://dbpedia.org/resource/najmadin_shukr_rauf	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1985_deaths

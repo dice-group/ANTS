@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/original_sin_(2001_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/thomas_jane
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/musiccomposer	http://dbpedia.org/resource/terence_blanchard
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/angelina_jolie
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/antonio_banderas
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/property/playedfor	http://dbpedia.org/resource/michael_cristofer
+http://dbpedia.org/resource/original_sin_(2001_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_mystery_drama_films
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/rodrigo_prieto

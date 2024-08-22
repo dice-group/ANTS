@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/property/combatant	http://dbpedia.org/resource/aplastic_anemia
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/championindoublefemale	http://dbpedia.org/resource/émile_henriot_(chemist)
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/doctoralstudent	http://dbpedia.org/resource/ladislas_goldstein
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/congress_poland
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/category:corresponding_members_of_the_saint_petersburg_academy_of_sciences

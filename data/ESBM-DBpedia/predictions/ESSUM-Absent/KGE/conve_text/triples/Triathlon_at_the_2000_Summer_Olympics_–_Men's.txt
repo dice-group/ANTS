@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://dbpedia.org/ontology/ispartof	http://dbpedia.org/resource/simon_whitfield
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q1656682
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uefa_champions_league_seasons
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000_in_triathlon
+http://dbpedia.org/resource/triathlon_at_the_2000_summer_olympics_–_men's	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event

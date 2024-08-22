@@ -1,1 +1,0 @@
- <H> touch_of_death_(1961_film) <R> country <T> united_kingdom <H> touch_of_death_(1961_film) <R> type <T> work <H> touch_of_death_(1961_film) <R> type <T> http://schema.org/creativework <H> touch_of_death_(1961_film) <R> type <T> http://www.wikidata.org/entity/q386724 <H> touch_of_death_(1961_film) <R> type <T> http://www.w3.org/2002/07/owl#thing

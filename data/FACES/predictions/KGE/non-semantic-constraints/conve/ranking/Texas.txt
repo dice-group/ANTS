@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/candidate	http://dbpedia.org/resource/barack_obama
+http://dbpedia.org/resource/texas	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/coordinated_universal_time
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/lowerhouse	http://dbpedia.org/resource/texas_house_of_representatives
+http://dbpedia.org/resource/texas	http://dbpedia.org/property/lowestpoint	http://dbpedia.org/resource/gulf_of_mexico

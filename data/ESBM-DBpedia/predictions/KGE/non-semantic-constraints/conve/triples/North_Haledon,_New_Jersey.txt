@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/schmalkalden
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/borough_(new_jersey)
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/eastern_time_zone
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/district108552138

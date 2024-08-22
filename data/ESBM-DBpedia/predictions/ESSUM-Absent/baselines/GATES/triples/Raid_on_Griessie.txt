@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/Raid_on_Griessie	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/Gresik_Regency
+http://dbpedia.org/resource/Raid_on_Griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Act100030358
+http://dbpedia.org/resource/Raid_on_Griessie	http://dbpedia.org/ontology/causalties	nan
+http://dbpedia.org/resource/Raid_on_Griessie	http://dbpedia.org/ontology/date	1807-12-11
+http://dbpedia.org/resource/Raid_on_Griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/MilitaryAction100952963
+http://dbpedia.org/resource/Raid_on_Griessie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Naval_battles_involving_the_Netherlands
+http://dbpedia.org/resource/Raid_on_Griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/Q1656682
+http://dbpedia.org/resource/Raid_on_Griessie	http://dbpedia.org/ontology/combatant	United Kingdom
+http://dbpedia.org/resource/Raid_on_Griessie	http://xmlns.com/foaf/0.1/name	Raid on Griessie
+http://dbpedia.org/resource/Raid_on_Griessie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Naval_battles_involving_the_United_Kingdom
+http://dbpedia.org/resource/Raid_on_Griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/GroupAction101080366
+http://dbpedia.org/resource/Raid_on_Griessie	http://dbpedia.org/ontology/result	British victory
+http://dbpedia.org/resource/Raid_on_Griessie	http://www.w3.org/2000/01/rdf-schema#label	Raid on Griessie
+http://dbpedia.org/resource/Raid_on_Griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Penetration100975452
+http://dbpedia.org/resource/Raid_on_Griessie	http://dbpedia.org/ontology/combatant	22px|link=Kingdom of Holland
+http://dbpedia.org/resource/Raid_on_Griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/PsychologicalFeature100023100
+http://dbpedia.org/resource/Raid_on_Griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/ConflictsIn1807
+http://dbpedia.org/resource/Raid_on_Griessie	http://dbpedia.org/ontology/strength	Two out of commissionships of the lineand shore defences
+http://dbpedia.org/resource/Raid_on_Griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Activity100407535
+http://dbpedia.org/resource/Raid_on_Griessie	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/Dutch_East_Indies

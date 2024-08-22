@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
-http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent
-http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
-http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/ontology/network	http://dbpedia.org/resource/cooper_car_company
-http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
-http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/ontology/fastestdriver	http://dbpedia.org/resource/stirling_moss
-http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event

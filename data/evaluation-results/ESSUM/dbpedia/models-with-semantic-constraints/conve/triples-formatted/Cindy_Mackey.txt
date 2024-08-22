@@ -1,1 +1,0 @@
- <H> cindy_mackey <R> type <T> physicalentity100001930 <H> cindy_mackey <R> type <T> http://www.w3.org/2002/07/owl#thing <H> cindy_mackey <R> type <T> object100002684 <H> cindy_mackey <R> type <T> http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson <H> cindy_mackey <R> type <T> yagolegalactor <H> cindy_mackey <R> subject <T> category:living_people

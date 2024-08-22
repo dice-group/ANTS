@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_involving_bulgaria
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:july_1913_events
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:june_1913_events
+http://dbpedia.org/resource/battle_of_bregalnica	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1913_in_serbia
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:military_history_of_north_macedonia
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/živojin_mišić
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/janko_vukotić
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/radomir_putnik
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/krsto_popović

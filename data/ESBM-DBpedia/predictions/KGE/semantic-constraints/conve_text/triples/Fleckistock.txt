@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mountains_of_the_canton_of_uri
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/judicial_districts_of_spain
+http://dbpedia.org/resource/fleckistock	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/mountain
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/ontology/subdivision	http://dbpedia.org/resource/santanyí
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/parentpeak	http://dbpedia.org/resource/dammastock
+http://dbpedia.org/resource/fleckistock	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mountains_of_switzerland
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/county	http://dbpedia.org/resource/farum
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/officiallanguages	http://dbpedia.org/resource/french_language
+http://dbpedia.org/resource/fleckistock	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/list_of_sovereign_states

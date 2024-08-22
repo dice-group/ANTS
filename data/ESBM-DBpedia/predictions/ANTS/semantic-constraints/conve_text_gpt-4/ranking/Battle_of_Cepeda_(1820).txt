@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/battle
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/property/label	http://dbpedia.org/resource/perth,_scotland
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/property/label	http://dbpedia.org/resource/burntisland
+Battle of Cepeda 1820	http://dbpedia.org/ontology/location	Santa Fe Province
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/schmalkalden
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/property/commander	http://dbpedia.org/resource/josé_rondeau
+Battle of Cepeda 1820	http://dbpedia.org/ontology/commander	Francisco Ramírez
+Battle of Cepeda 1820	http://dbpedia.org/ontology/commander	Estanislao López
+Battle of Cepeda 1820	http://dbpedia.org/ontology/status	Decisive Federalist victory
+Battle of Cepeda 1820	http://dbpedia.org/ontology/combatant	United Provinces of the Rio de la Plata
+Battle of Cepeda 1820	http://dbpedia.org/ontology/combatant	Federal League
+Battle of Cepeda 1820	http://dbpedia.org/ontology/strength	2000 troops
+Battle of Cepeda 1820	http://dbpedia.org/ontology/place	Cepeda,  Santa Fe
+Battle of Cepeda 1820	http://dbpedia.org/ontology/date	1820-02-01
+Battle of Cepeda 1820	http://dbpedia.org/ontology/result	Victory of the Federalists over the Unitarians
+Battle of Cepeda 1820	http://dbpedia.org/ontology/isPartOfMilitaryConflict	Argentine Civil Wars
+Battle of Cepeda 1820	http://dbpedia.org/ontology/militaryUnit	United Provinces of the Río de la Plata
+Battle of Cepeda 1820	http://dbpedia.org/ontology/previousEvent	Battle of Cepeda 1859
+Battle of Cepeda 1820	http://dbpedia.org/ontology/nextEvent	Treaty of Pilar
+Battle of Cepeda 1820	http://dbpedia.org/ontology/territory	United Provinces of the Rio de la Plata
+Battle of Cepeda 1820	http://dbpedia.org/ontology/casualties	2, 000
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/property/markdescription	http://dbpedia.org/resource/wilcox_county,_alabama
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:february_1820_events
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1820_in_argentina
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/argentine_civil_war
+Battle of Cepeda 1820	http://dbpedia.org/ontology/partOf	Argentine Civil Wars
+Battle of Cepeda 1820	http://dbpedia.org/ontology/cause	Argentine Civil Wars
+Battle of Cepeda 1820	http://dbpedia.org/ontology/belligerent	United Provinces of the Rio de la Plata
+Battle of Cepeda 1820	http://dbpedia.org/ontology/belligerent	Federal League
+Battle of Cepeda 1820	http://dbpedia.org/ontology/strategy	Decentralization strategy
+Battle of Cepeda 1820	http://dbpedia.org/ontology/outcome	Victory for the Federalists
+Battle of Cepeda 1820	http://dbpedia.org/ontology/territorialChanges	United Provinces of the Rio de la Plata

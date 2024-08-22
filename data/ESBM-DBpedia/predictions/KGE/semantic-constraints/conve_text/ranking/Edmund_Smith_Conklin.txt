@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:indiana_university_faculty
+http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:university_of_chicago_faculty
+http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:anomalistic_psychology
+http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/ayrovo
+http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/ontology/parent	http://dbpedia.org/resource/capillary_action_(band)

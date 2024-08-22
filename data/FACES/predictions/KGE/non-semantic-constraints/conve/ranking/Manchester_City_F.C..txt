@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/luca_scapuzzi
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/matija_nastasi%c4%87
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/s	http://www.nationalfootballmuseum.com/hall-of-fame/profiles/
+http://dbpedia.org/resource/manchester_city_f.c.	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/manchester_city_f.c.?oldid=547226848
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/ontology/regionserved	http://dbpedia.org/resource/united_states

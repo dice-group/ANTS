@@ -1,0 +1,26 @@
+http://dbpedia.org/resource/thaia_saprophytica	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+Thaia saprophytica	http://dbpedia.org/ontology/location	Soil
+Thaia saprophytica	http://dbpedia.org/ontology/family	Staphylinidae
+Thaia saprophytica	http://dbpedia.org/ontology/class	Bacteria
+Thaia saprophytica	http://dbpedia.org/ontology/order	Liliales
+Thaia saprophytica	http://dbpedia.org/ontology/phylum	Firmicutes.
+http://dbpedia.org/resource/thaia_saprophytica	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/plant
+Thaia saprophytica	http://dbpedia.org/ontology/kingdom	Bacteria
+Thaia saprophytica	http://dbpedia.org/ontology/kingdom	Fungi
+Thaia saprophytica	http://dbpedia.org/ontology/synonym	Thaia umbrina
+Thaia saprophytica	http://dbpedia.org/ontology/genus	Thaia
+Thaia saprophytica	http://dbpedia.org/ontology/locatedInArea	Thailand.
+Thaia saprophytica	http://dbpedia.org/ontology/binomialAuthority	H.Kurata
+Thaia saprophytica	http://dbpedia.org/ontology/isPartOf	Fungi
+Thaia saprophytica	http://dbpedia.org/ontology/conservationStatus	Least Concern
+Thaia saprophytica	http://dbpedia.org/ontology/species	Thaia
+Thaia saprophytica	http://dbpedia.org/ontology/binomial	Thaia saprophytica.
+http://dbpedia.org/resource/thaia_saprophytica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:orchids_of_thailand
+http://dbpedia.org/resource/thaia_saprophytica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:myco-heterotrophic_orchids
+http://dbpedia.org/resource/thaia_saprophytica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:orchids_of_laos
+Thaia saprophytica	http://dbpedia.org/ontology/rdf:type	Species
+Thaia saprophytica	http://dbpedia.org/ontology/habitat	soil
+Thaia saprophytica	http://dbpedia.org/ontology/statusSystem	ICZN
+Thaia saprophytica	http://dbpedia.org/ontology/discoveryYear	1913
+Thaia saprophytica	http://dbpedia.org/ontology/discoveredBy	Hans Reichenbach
+Thaia saprophytica	http://dbpedia.org/ontology/subspecies	None

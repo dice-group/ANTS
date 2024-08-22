@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/momchil_tsvetanov	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1990_births
+http://dbpedia.org/resource/momchil_tsvetanov	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/momchil_tsvetanov	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:association_football_midfielders
+http://dbpedia.org/resource/momchil_tsvetanov	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:pfc_botev_plovdiv_players
+http://dbpedia.org/resource/momchil_tsvetanov	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:bulgarian_footballers
+Momchil Tsvetanov	http://dbpedia.org/ontology/careerStation	PFC Levski Sofia
+Momchil Tsvetanov	http://dbpedia.org/ontology/birthPlace	Sofia
+Momchil Tsvetanov	http://dbpedia.org/ontology/numberOfGoals	0
+Momchil Tsvetanov	http://dbpedia.org/ontology/birthDate	1987-09-09
+Momchil Tsvetanov	http://dbpedia.org/ontology/occupation	volleyball player
+Momchil Tsvetanov	http://dbpedia.org/ontology/activeYearsStartYear	2001
+Momchil Tsvetanov	http://dbpedia.org/ontology/position	Volleyball Player
+Momchil Tsvetanov	http://dbpedia.org/ontology/height	2.00 m
+Momchil Tsvetanov	http://dbpedia.org/ontology/almaMater	Technical University of Sofia
+Momchil Tsvetanov	http://dbpedia.org/ontology/award	Bulgarian Volleyball Player of the Year
+Momchil Tsvetanov	http://dbpedia.org/ontology/nationality	Bulgaria
+Momchil Tsvetanov	http://dbpedia.org/ontology/associatedMusicalArtist	Andrea
+Momchil Tsvetanov	http://dbpedia.org/ontology/weight	95 kg
+Momchil Tsvetanov	http://dbpedia.org/ontology/league	SuperLiga
+Momchil Tsvetanov	http://dbpedia.org/ontology/affiliation	Levski Sofia
+Momchil Tsvetanov	http://dbpedia.org/ontology/sport	Volleyball
+Momchil Tsvetanov	http://dbpedia.org/ontology/nationalTeam	Bulgaria national volleyball team
+Momchil Tsvetanov	http://dbpedia.org/ontology/team	PFC Levski Sofia

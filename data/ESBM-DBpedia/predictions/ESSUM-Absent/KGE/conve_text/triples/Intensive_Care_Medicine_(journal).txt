@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1996_albums
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:monthly_journals
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:springer_science+business_media_academic_journals
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/intensive_care_medicine
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english-language_journals
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:subway_to_sally_albums

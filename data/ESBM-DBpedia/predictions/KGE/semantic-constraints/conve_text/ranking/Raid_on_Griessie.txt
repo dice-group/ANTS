@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/raid_on_griessie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:naval_battles_involving_the_netherlands
+http://dbpedia.org/resource/raid_on_griessie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:december_1807_events
+http://dbpedia.org/resource/raid_on_griessie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1807_in_asia
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/gresik
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/napoleonic_wars

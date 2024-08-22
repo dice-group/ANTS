@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/emi_records
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_james_stelfox
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/property/album	http://dbpedia.org/resource/silence_is_easy
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/property/artist	http://dbpedia.org/resource/starsailor_(band)
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:starsailor_(band)_songs
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/song
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:capitol_records_singles
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/property/prevtitle	http://dbpedia.org/resource/poor_misguided_fool
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/capitol_records
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/property/nexttitle	http://dbpedia.org/resource/born_again_(starsailor_song)
