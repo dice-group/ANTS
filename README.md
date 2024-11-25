@@ -152,4 +152,4 @@ cd evaluation-modules
 python converting-to-evaluation-format.py --system "conve" --dataset "ESBM-DBpedia" --base_model "KGE" --semantic_constraints
 ```
 
-To conduct the evaluation see [evaluation-modules page](https://github.com/u2018/ANTS/tree/main/evaluation-modules/README.md).
+To conduct the evaluation see [evaluation-modules page](https://github.com/dice-group/ANTS/tree/main/evaluation-modules/README.md).
