@@ -151,5 +151,17 @@ Before we run the evaluation, we need to convert the results to evaluation forma
 cd evaluation-modules
 python converting-to-evaluation-format.py --system "conve" --dataset "ESBM-DBpedia" --base_model "KGE" --semantic_constraints
 ```
+#### Run the evaluation
+```
+cd evaluation-modules
 
-To conduct the evaluation see [evaluation-modules page](https://github.com/dice-group/ANTS/tree/main/evaluation-modules/README.md).
+#Install GenerationEval
+bash run-evaluation-pipeline.sh
+
+#Run the evaluation
+cd GenerationEval
+
+python eval.py -R ../../data/ESBM-DBpedia/predictions/ANTS/semantic-constraints/conve_text_gpt-4/evaluation/refs.txt -H ../../data/ESBM-DBpedia/predictions/ANTS/semantic-constraints/conve_text_gpt-4/evaluation/hyp.txt -lng en -nr 1 -m bleu,meteor,chrf++,ter,bert,bleurt
+
+```
+The evaluation detail can be seen at [evaluation-modules page](https://github.com/u2018/ANTS/tree/main/evaluation-modules/README.md).
