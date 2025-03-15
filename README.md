@@ -97,6 +97,12 @@ python run_missing_triples_prediction.py dataset dbpedia34k model Conve_text inp
 ```
 
 ### **2️⃣ LLM-Triples**
+This component leverages a Large Language Model (LLM), such as GPT, to extend its application to knowledge graph (KG) completion tasks, including triple classification, relation prediction, and the completion of missing triples. As illustrated below, the ANTS approach integrates the LLM-triples component, such as GPT-4, to address the inherent limitations of KGE methods in inferring literal triples.
+
+<p align="center">
+<img src="images/prompt-ants2.jpg" width="75%">
+</p>
+
 ```bash
 cd LLM-triples
 python run_missing_triples_prediction.py
