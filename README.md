@@ -128,7 +128,16 @@ This component leverages a Large Language Model (LLM), such as GPT, to extend it
 cd LLM-triples
 python run_missing_triples_prediction.py
 ```
+### **3️⃣ Triple-Ranking And Entity Summary**
+Triples ranking utilizes the frequency of predicate occurrences within the knowledge graph, such as DBpedia. Predicates that occur most frequently will prioritize their corresponding triples at the top of the list. Run the ```triples-ranking``` process (which includes the ranking process and entity summary).
 
+```
+# Navigate to ranking-modules directory
+cd ranking-modules
+
+# Run triple-ranking and entity summary
+python triples-ranking.py  --kge_model conve_text --llm_model gpt-4 --combined_model conve_text_gpt-4 --dataset ESBM-DBpedia --base_model ANTS
+```
 ---
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
