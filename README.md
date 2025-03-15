@@ -36,6 +36,13 @@ torch
 conda create --name ants python=3.7
 conda activate ants
 ```
+2. Download the project
+```bash
+git clone https://github.com/dice-group/ANTS.git
+
+# Navigate to ANTS directory
+cd ANTS
+```
 
 2. Install required packages:
 ```bash
@@ -107,29 +114,6 @@ This component leverages a Large Language Model (LLM), such as GPT, to extend it
 cd LLM-triples
 python run_missing_triples_prediction.py
 ```
-
----
-## 📊 Results
-| Entity  | Gold Summary | Generated Summary |
-|---------|-------------|-------------------|
-| **Barack Obama** | Former US President | Barack Obama was born in Hawaii and served as the 44th President of the USA. |
-
----
-## 🤝 Contribution Guide
-1. 🍴 **Fork** the repository.
-2. Clone your forked repo:
-   ```bash
-   git clone https://github.com/your-username/ANTS.git
-   ```
-3. Create a new branch:
-   ```bash
-   git checkout -b feature-new
-   ```
-4. Make your changes and commit:
-   ```bash
-   git commit -m "Added new feature"
-   ```
-5. Push and create a **pull request** 🚀
 
 ---
 ## 📜 License
