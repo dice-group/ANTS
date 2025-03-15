@@ -86,6 +86,20 @@ pip install -r requirements.txt
 ├── LICENSE
 └── README.md
 ```
+## 📊 Data Preparation
+
+### ESSUM Dataset
+
+A dataset containing silver-standard summaries. These summaries consist of sentences —with mentioned entities—from the first paragraph of the corresponding Wikipedia page for each target entity.
+
+<p align="center">
+<img src="images/silver-summary-example-alt2.jpg" width="75%">
+</p>
+
+### ESSUM-Absent
+
+The second dataset used in our experiments, which includes entities with their golden summaries from ESBM-DBpedia and FACES datasets. In particular, 80% of the entities with their summaries (i.e., the golden set of RDF triples) are retained as present triples. The remaining 20% of the entities are excluded from the datasets and treated as absent triples.
+
 
 ---
 ## 🛠️ Usage
