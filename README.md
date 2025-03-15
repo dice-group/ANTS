@@ -72,7 +72,7 @@ pip install -r requirements.txt
 A dataset containing silver-standard summaries. These summaries consist of sentences —with mentioned entities—from the first paragraph of the corresponding Wikipedia page for each target entity.
 
 <p align="center">
-<img src="images/silver-summary-example-alt.jpg" width="75%">
+<img src="images/silver-summary-example-alt2.jpg" width="75%">
 </p>
 
 ### ESSUM-Absent
