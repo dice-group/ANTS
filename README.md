@@ -1,7 +1,7 @@
 # ANTS: Knowledge Graph Abstractive Entity Summarization
 
-![GitHub license](https://img.shields.io/github/license/u2018/ANTS)
-![GitHub stars](https://img.shields.io/github/stars/u2018/ANTS?style=social)
+![GitHub license](https://img.shields.io/github/license/dice-group/ANTS)
+![GitHub stars](https://img.shields.io/github/stars/dice-group/ANTS?style=social)
 
 Our approach aims to address the challenges of abstractive entity summarization in Knowledge Graphs (KGs) by generating optimal summaries that combine present triples with inferred missing (absent) triples using KG Embeddings (KGE) and Large Language Models (LLM) techniques.
 
