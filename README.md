@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ```
 ## 📊 Datasets
 
-### ESSUM Dataset
+### ESSUM (Silver-standard-summaries)
 
 A silver-standard dataset combining entities from ESBM-DBpedia and FACES. For each entity, we extract sentences with mentioned entities from the first paragraph of its Wikipedia page. In our experiment, we created two subsets: (1) ESSUM-DBpedia: 110 entities from ESBM-DBpedia, and (2) ESSUM-FACES: 50 entities from FACES.
 
