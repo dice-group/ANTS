@@ -15,6 +15,8 @@ Our approach aims to address the challenges of abstractive entity summarization 
 - [Repository Structure](#-repository-structure)
 - [Dataset](#-datasets)
 - [Usage](#%EF%B8%8F-usage)
+- [How to Cite](#how-to-cite)
+- [contact](#contact)
 ---
 ## 📌 About the Project
 ANTS generates entity summaries in natural language from Knowledge Graphs by leveraging both KGE and LLM techniques. It addresses the problem of missing information by predicting absent triples and verbalizing them into readable summaries.
