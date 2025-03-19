@@ -64,8 +64,7 @@ pip install -r requirements.txt
 │   │   │   ├── ANTS
 │   │   │   ├── baselines
 │   │   │   ├── KGE
-│   │   │   ├── LLM
-│   │   │   └── ESSUM-Absent
+│   │   │   └── LLM
 │   │   └── elist.txt
 │   └── FACES
 │       ├── ESSUM
@@ -75,8 +74,7 @@ pip install -r requirements.txt
 │       │   ├── ANTS
 │       │   ├── baselines
 │       │   ├── KGE
-│       │   ├── LLM
-│       │   └── ESSUM-Absent
+│       │   └── LLM
 │       └── elist.txt
 ├── evaluation-modules
 ├── KGE-triples
@@ -139,9 +137,16 @@ cd ranking-modules
 python triples-ranking.py  --kge_model conve_text --llm_model gpt-4 --combined_model conve_text_gpt-4 --dataset ESBM-DBpedia --base_model ANTS
 ```
 ---
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+## How to Cite
+```bibtex
+@inproceedings{ANTS2025,
+  author = {Firmansyah, Asep Fajar and Zahera, Hamada and Sherif, Mohamed Ahmed and and Moussallem, Diego and Ngonga Ngomo, Axel-Cyrille},
+  booktitle = {ESWC2025},
+  title = {ANTS: Abstractive Entity Summarization in Knowledge Graphs},
+  year = 2025
+}
+```
 ---
-### 🌟 Show your support!
-If you like this project, consider **starring** 🌟 it on GitHub!
+## Contact
+If you have any questions or feedbacks, feel free to contact us at asep.fajar.firmansyah@upb.de
+
