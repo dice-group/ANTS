@@ -12,12 +12,9 @@ Our approach aims to address the challenges of abstractive entity summarization 
 ## 🚀 Table of Contents
 - [About the Project](#-about-the-project)
 - [Installation](#%EF%B8%8F-installation)
-- [Usage](#usage)
-- [Example](#example)
-- [Results](#results)
-- [Contribution](#contribution)
-- [License](#license)
-
+- [Repository Structure](#-repository-structure)
+- [Dataset](#-datasets)
+- [Usage](#%EF%B8%8F-usage)
 ---
 ## 📌 About the Project
 ANTS generates entity summaries in natural language from Knowledge Graphs by leveraging both KGE and LLM techniques. It addresses the problem of missing information by predicting absent triples and verbalizing them into readable summaries.
@@ -84,7 +81,7 @@ pip install -r requirements.txt
 ├── LICENSE
 └── README.md
 ```
-## 📊 Data Preparation
+## 📊 Datasets
 
 ### ESSUM Dataset
 
