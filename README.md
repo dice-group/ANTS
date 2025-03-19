@@ -10,8 +10,8 @@ Our approach aims to address the challenges of abstractive entity summarization 
 </p>
 
 ## 🚀 Table of Contents
-- [About the Project](#about-the-project)
-- [Installation](#installation)
+- [About the Project](#-about-the-project)
+- [Installation](#%EF%B8%8F-installation)
 - [Usage](#usage)
 - [Example](#example)
 - [Results](#results)
