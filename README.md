@@ -123,7 +123,10 @@ This component leverages a Large Language Model (LLM), such as GPT, to extend it
 
 ```bash
 cd LLM-triples
-python run_missing_triples_prediction.py
+python run_missing_triples_prediction --model <gpt-model> --dataset ESSUM-DBpedia
+
+# Post processing 
+python post_processing.py --system gpt-4 --dataset ESSUM-DBpedia
 ```
 ### **3️⃣ Triple-Ranking And Entity Summary**
 Triples ranking utilizes the frequency of predicate occurrences within the knowledge graph, such as DBpedia. Predicates that occur most frequently will prioritize their corresponding triples at the top of the list. Run the ```triples-ranking``` process (which includes the ranking process and entity summary).
