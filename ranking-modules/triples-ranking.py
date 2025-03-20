@@ -1,144 +1,137 @@
+import argparse
 import os
-import sys
 import glob
 import time
-import argparse
-import pandas as pd
-import re
-from SPARQLWrapper import SPARQLWrapper, JSON
 from http.client import RemoteDisconnected
+from SPARQLWrapper import SPARQLWrapper, JSON
 
-# Existing functions like get_count_relation_from_sparql, fetch_triple_score, etc., remain unchanged
+def get_count_relation_from_sparql(uri):
+    sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+    query = f"""
+    PREFIX dbo: <http://dbpedia.org/ontology/>
+    SELECT (COUNT(DISTINCT CONCAT(str(?s), str(?o))) AS ?cardinality)
+    WHERE {{
+      ?s <{uri}> ?o .
+    }}
+    """
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    results = sparql.query().convert()
 
-def format_triples(triples, topk): 
-    formatted_triples = []
-    for triple in triples[:topk]:
-        triple_tokens = triple.split('\t')
-        # head
-        head = ' <H> ' + triple_tokens[0].split('/')[-1]
-        # relation
-        try: 
-            clean_relation = triple_tokens[1].split('/')[-1]
-        except Exception as e:
-            print(triple_tokens)
-            print(e)
-            break 
-        clean_relation = re.sub(r'.*#', '', clean_relation)        
-        relation = ' <R> ' + clean_relation
-        # tail
-        if triple_tokens[2].startswith('http://dbpedia.org/'):  # check if the tail is not literal
-            tail = ' <T> ' + triple_tokens[2].split('/')[-1]
-        else:
-            clean_literal = re.sub(r'\^\^<http.*', '', triple_tokens[2])
-            clean_literal = clean_literal.replace('"', '')
-            clean_literal = clean_literal.replace('@e', '')
-            tail = ' <T> ' + clean_literal
-        formatted_triples.append(head + relation + tail)
-    return formatted_triples
+    cardinality = [result['cardinality']['value'].split('/')[-1] for result in results["results"]["bindings"]]
+    return int(cardinality[0]) if cardinality else 0  # Return ["Unknown"] if no type was found
 
-def process_triples_from_ranking(file_path, topk):
-    df = pd.read_csv(file_path, delimiter='\t', quotechar='"', header=None, index_col=None, engine="python")
-    df = df.applymap(lambda x: x.replace("(", "").replace(")", "").replace("'", "") if x is not None else x)
-    df['triples'] = df.apply(lambda x: '\t'.join(x.astype(str)), axis=1)
-    triples = df['triples'].tolist()
-    formatted_triples = format_triples(triples, topk)
-    return formatted_triples
-
-def save_triples(formatted_triples, fname):
-    with open(fname, 'w') as output_file:
-        for triple in formatted_triples:
-            output_file.write(f"{triple}")
-            
-def construct_file_paths(base_model, kge_model, gpt_model, combined_model, dataset, semantic_constraints):
-    # Determine the subdirectory based on whether semantic constraints are applied
-    dir_ = "/semantic-constraints" if semantic_constraints else "/non-semantic-constraints"
-
-    # Base paths for each type of model
-    base_paths = {
-        "KGE": f"../data/{dataset}/predictions/KGE{dir_}/{kge_model}/",
-        "LLM": f"../data/{dataset}/predictions/LLM/{gpt_model}/",
-        "ANTS": f"../data/{dataset}/predictions/ANTS{dir_}/{combined_model}/"
-    }
-
-    # Determine the correct base path based on the base model
-    if base_model not in base_paths:
-        raise ValueError("Invalid base model specified.")
-
-    base_path = base_paths[base_model]
-    
-    # Determine the subdirectory for ranking or triples based on the base model
-    ranking_or_triples_dir = "triples" if base_model != "ANTS" else "ranking"
-
-    return base_path, ranking_or_triples_dir
-
-def process_ranking(kge_model, gpt_model, dataset, combined_model, base_model, semantic_constraints=True, topk=20):
-    base_path, ranking_or_triples_dir = construct_file_paths(base_model, kge_model, gpt_model, combined_model, dataset, semantic_constraints)
-    files = glob.glob(os.path.join(base_path, ranking_or_triples_dir, "*"))
-    triples_ranking_dir = os.path.join(base_path, "ranking")
-    triples_formatted_dir = os.path.join(base_path, "triples-formatted")
-    
-    if not os.path.exists(triples_ranking_dir):
-        os.makedirs(triples_ranking_dir)
-    
-    if not os.path.exists(triples_formatted_dir):
-        os.makedirs(triples_formatted_dir)
-    
-    for num, file in enumerate(files):
-        filename = os.path.basename(file)
-        entity_name = filename.replace(".txt", "").strip()
-        print(f"{entity_name}: Generating triples-ranking {num+1}/{len(files)}")
-        
-        if os.path.isfile(f"{triples_ranking_dir}/{filename}"):
-            print(f"File already exists: {triples_ranking_dir}/{filename}")
+def format_triples_gpt(triples_text, topk=20): 
+    formatted_triples=[]
+    triples = []
+    for triple in triples_text:
+        if triple.strip()=="":
             continue
-        
-        with open(file, "r") as f:
-            kge_triples = f.readlines()
-        
-        triples = format_triples_gpt(kge_triples[:5])  # This function is assumed to exist as per your previous code
-        
-        if base_model == "ANTS":
-            with open(f"../data/{dataset}/predictions/LLM/{gpt_model}/ranking/{filename}") as f:
-                gpt_triples = f.readlines()
-            triples.extend(format_triples_gpt(gpt_triples))
-        
-        triple_scoring = {triple: fetch_triple_score(triple[1]) for triple in triples}
-        sorted_triples = sorted(triple_scoring.items(), key=lambda item: item[1], reverse=True)
-        
+        if len(formatted_triples) >=topk:
+            continue
+        triple = triple.replace("\n","")
+        triple = triple.replace("(","")
+        triple = triple.replace(")","")
+        triple = triple.replace("<","")
+        triple = triple.replace(">","")
+        triple = triple.replace("\"","")
+        triple = triple.strip()
+        triple_tokens= triple.split(',')
+        if len(triple_tokens)>3:
+            h = triple_tokens[0]
+            r = triple_tokens[1].replace("\"","")
+            r = triple_tokens[1].replace(" ","")
+            t = ""
+            for n, word in enumerate(triple_tokens[2:len(triple_tokens)]):
+                if n==0:
+                    t += f"{word}"
+                else:
+                    t += f", {word}"
+        elif len(triple_tokens)==3:
+            h = triple_tokens[0]
+            r = triple_tokens[1].replace("\"","")
+            r = triple_tokens[1].replace(" ","")
+            t = triple_tokens[2]
+        else:
+           continue
+        if "?" in t: # we remove uncomple
+            continue
+        if "wiki" in r: # we remove from wikidata information in this experiment
+            continue
+        if "abstract" in r: # we remove from abstract property information in this experiment
+            continue
+        triples.append((h.strip(), f"http://dbpedia.org/ontology/{r.strip()}", t.strip()))
+    return triples
+
+def fetch_triple_score(relation):
+    try:
+        return get_count_relation_from_sparql(relation)
+    except RemoteDisconnected:
+        time.sleep(5)
+        return fetch_triple_score(relation)
+
+def main(args):
+    # Set directories
+    dir_ = "semantic-constraints" if args.semantic_constraints else "non-semantic-constraints"
+    triples_ranking_dir = f"../data/{args.dataset}/predictions/{args.base_model}/{dir_}/{args.combine_model}/ranking/"
+    os.makedirs(triples_ranking_dir, exist_ok=True)
+
+    # Fetch files
+    kge_files = glob.glob(f"../data/{args.dataset}/predictions/KGE/{dir_}/{args.kge_model}/ranking/*")
+    gpt_files = glob.glob(f"../data/{args.llm_dataset}/predictions/LLM/{args.gpt_model}/triples-selected/*")
+
+    for num, file in enumerate(kge_files):
+        f = open(file, "r")
+        filename = file.split("/")[-1]
+        entity_name = filename.replace(".txt", "").strip()
+        print(entity_name, f" generating triples-ranking {num+1}/{len(kge_files)} ")
+        if os.path.isfile(f"{triples_ranking_dir}/{filename}"):
+            continue
+        kge_triples = f.readlines()
+        f.close()
+        triples = []
+        for triple in kge_triples:
+            triple = triple.replace("\n", "")
+            triple = triple.split("\t")
+            h1 = triple[0].strip()
+            r1 = triple[1].strip()
+            t1 = triple[2].strip()
+            triples.append((h1, r1, t1))
+            #print(h1,r1,t1)
+        f = open(f"../data/{args.llm_dataset}/predictions/LLM/{args.gpt_model}/triples-selected/{filename}")
+        gpt_triples = f.readlines()
+        for triple in gpt_triples:
+            triple = triple.replace("\n", "")
+            triple = triple.split("\t")
+            print(triple)
+            h1 = triple[0].strip()
+            r1 = triple[1].strip().replace(" ", "")
+            t1 = triple[2].strip()
+            triples.append((h1, r1, t1))
+        f.close()
+    
+        triple_scoring = {}
+        for triple in triples:
+            h, r, t = triple
+            if r == "http://dbpedia.org/ontology/abstract" :
+                continue
+            score = fetch_triple_score(r)
+            triple_scoring[triple] = score
+        # Sort and write top-k triples
+        sorted_triples = sorted(triple_scoring.items(), key=lambda item: item[1], reverse=True)[:20]
         with open(f"{triples_ranking_dir}/{filename}", "w") as f:
             for triple, score in sorted_triples:
-                h, r, t = triple
-                f.write(f"{h}\t{r}\t{t}\n")
+                f.write(f"{triple[0]}\t{triple[1]}\t{triple[2]}\n")
 
-    print("Converting triples into formatted triples for verbalizing inputs are started ...!")
-    for num, file in enumerate(files):
-        filename = os.path.basename(file)
-        # Process the generated ranking file to create formatted triples
-        formatted_triples = process_triples_from_ranking(f"{triples_ranking_dir}/{filename}", topk)
-        save_triples(formatted_triples, f"{triples_formatted_dir}/{filename}")
-    print("Converting triples into formatted triples for verbalizing inputs are done ...!")
-def main():
-    parser = argparse.ArgumentParser(description='Process triples ranking with specified models.')
-    
-    parser.add_argument('--kge_model', type=str, help='The name of the KGE model')
-    parser.add_argument('--gpt_model', type=str, help='The name of the GPT model')
-    parser.add_argument('--dataset', type=str, required=True, help='The name of the dataset')
-    parser.add_argument('--combined_model', type=str, help='The combined model name')
-    parser.add_argument('--base_model', type=str, required=True, help='The base model name')
-    parser.add_argument('--semantic_constraints', action='store_true', help='Apply semantic constraints')
-    parser.add_argument('--topk', type=int, default=20, help='Top K triples to format and save')
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Rank triples based on relevance in DBpedia")
+    parser.add_argument("--kge_model", type=str, default="conve_text", help="Knowledge Graph Embedding model name")
+    parser.add_argument("--gpt_model", type=str, default="gpt-4", help="GPT model name")
+    parser.add_argument("--dataset", type=str, default="ESBM-DBpedia", help="Dataset name")
+    parser.add_argument("--llm_dataset", type=str, default="ESBM-DBpedia", help="Dataset used for LLM")
+    parser.add_argument("--combine_model", type=str, default="conve_text_gpt-4", help="Combination model name")
+    parser.add_argument("--base_model", type=str, default="ANTS", help="Base model name")
+    parser.add_argument("--semantic_constraints", action='store_true', help="Enable semantic constraints")
     
     args = parser.parse_args()
-
-    process_ranking(
-        kge_model=args.kge_model,
-        gpt_model=args.gpt_model,
-        dataset=args.dataset,
-        combined_model=args.combined_model,
-        base_model=args.base_model,
-        semantic_constraints=args.semantic_constraints,
-        topk=args.topk
-    )
-
-if __name__ == '__main__':
-    main()
+    main(args)
