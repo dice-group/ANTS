@@ -123,7 +123,8 @@ This component leverages a Large Language Model (LLM), such as GPT, to extend it
 
 ```bash
 cd LLM-triples
-python run_missing_triples_prediction --model <gpt-model> --dataset ESSUM-DBpedia
+# Run missing triple predictions
+python run_missing_triples_prediction.py --model <gpt-model> --dataset ESSUM-DBpedia
 
 # Post processing 
 python post_processing.py --system gpt-4 --dataset ESSUM-DBpedia

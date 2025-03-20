@@ -82,6 +82,7 @@ def main(model):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate RDF triples using an LLM.")
     parser.add_argument("--model", type=str, required=True, help="Specify the LLM model to use (e.g., 'gpt-4-0125-preview').")
+    parser.add_argument("--dataset", type=str, required=True, help="Dataset name (e.g., ESSUM-DBpedia)")
     
     args = parser.parse_args()
     main(args.model)
