@@ -7,7 +7,7 @@ client = OpenAI(
     api_key="<your api key>",
 )
 
-def query_llm(prompt):
+def query_llm(prompt, model):
     """
     Send a prompt to the LLM and return the response.
     """
@@ -18,11 +18,11 @@ def query_llm(prompt):
                 "content": prompt,
             }
         ],
-        model="gpt-4-0125-preview",
+        model=model,
     )
     return response.choices[0].message.content
 
-def main():
+def main(model):
     # Define the domain and scope
     domain = "DBpedia Triples"
     scope = "Generate triples based on subject and relations"
@@ -66,7 +66,7 @@ def main():
             Relation: "{relation_name}"
             
             """
-            triples = query_llm(entity_prompt)
+            triples = query_llm(entity_prompt, model)
             
             missing_triples.append(triples)
 
@@ -78,5 +78,10 @@ def main():
             f.close()
         count +=1
     fr.close()
+    
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Generate RDF triples using an LLM.")
+    parser.add_argument("--model", type=str, required=True, help="Specify the LLM model to use (e.g., 'gpt-4-0125-preview').")
+    
+    args = parser.parse_args()
+    main(args.model)
