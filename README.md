@@ -111,7 +111,7 @@ wget https://zenodo.org/records/10991461/files/dbpedia34k.tar.gz
 tar -xvf dbpedia34k.tar.gz
 
 # Execute the script for missing triples prediction
-python run_missing_triples_prediction.py dataset dbpedia34k model Conve_text input_drop 0.2 embedding_dim 100 batch_size 1 epochs 100 lr 0.001 process True
+python run_missing_triples_prediction.py --dataset dbpedia34k --system Conve_text --input_drop 0.2 --embedding_dim 100 --batch_size 1 --epochs 100 ---lr 0.001 --process True
 ```
 
 ### **2️⃣ LLM-Triples**
@@ -123,10 +123,10 @@ This component leverages a Large Language Model (LLM), such as GPT, to extend it
 
 ```bash
 cd LLM-triples
-# Run missing triple predictions
+# Execute the script for missing triples prediction
 python run_missing_triples_prediction.py --model <gpt-model> --dataset ESSUM-DBpedia
 
-# Post processing 
+# Execute the script for post-processing 
 python post_processing.py --system gpt-4 --dataset ESSUM-DBpedia
 ```
 ### **3️⃣ Triple-Ranking And Entity Summary**
@@ -137,7 +137,7 @@ Triples ranking utilizes the frequency of predicate occurrences within the knowl
 cd ranking-modules
 
 # Run triple-ranking and entity summary
-python triples-ranking.py  --kge_model conve_text --llm_model gpt-4 --combined_model conve_text_gpt-4 --dataset ESBM-DBpedia --base_model ANTS
+python triples-ranking.py  --kge_model conve_text --llm_model gpt-4 --combined_model conve_text_gpt-4 --dataset ESSUM-DBpedia --base_model ANTS
 ```
 ---
 ## How to Cite
