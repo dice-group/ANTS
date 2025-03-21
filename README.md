@@ -101,7 +101,11 @@ Derived by randomly removing 20% of triples from ESBM-DBpedia and FACES. These o
 ---
 ## 🛠️ Usage
 ### **1️⃣ KGE-Triples**
+
+#### Setup LiteralE Framework
 ```bash
+cd src/KGE-triples
+
 # Clone the LiteralE repository
 git clone https://github.com/SmartDataAnalytics/LiteralE.git
 
@@ -109,6 +113,17 @@ git clone https://github.com/SmartDataAnalytics/LiteralE.git
 cd LiteralE/data
 wget https://zenodo.org/records/10991461/files/dbpedia34k.tar.gz
 tar -xvf dbpedia34k.tar.gz
+
+cd ../..
+
+bash update-LiteralE-modules.sh
+
+```
+
+#### Run Missing Triple Predictions
+```bash
+## Navigate to the KGE-triples directory 
+cd src/KGE-triples
 
 # Execute the script for missing triples prediction
 python run_missing_triples_prediction.py --dataset dbpedia34k --system Conve_text --input_drop 0.2 --embedding_dim 100 --batch_size 1 --epochs 100 ---lr 0.001 --process True
