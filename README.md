@@ -114,8 +114,10 @@ cd LiteralE/data
 wget https://zenodo.org/records/10991461/files/dbpedia34k.tar.gz
 tar -xvf dbpedia34k.tar.gz
 
+# back to KHE-triples folder
 cd ../..
 
+# Update LiteralE modules
 bash update-LiteralE-modules.sh
 
 ```
