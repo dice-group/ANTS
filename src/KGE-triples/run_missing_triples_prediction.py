@@ -254,7 +254,7 @@ def main():
                 topk=len(triples_sorted)
                 if len(triples_sorted)>20:
                     topk=20
-                fw = open(f"../../data/{ds_name}/relevant-triples/KGE/{kge_model}/triples/{entity_name}.txt", "w")
+                fw = open(f"../../../data/{ds_name}/relevant-triples/KGE/{kge_model}/triples/{entity_name}.txt", "w")
                 triples = []
                 triples_dict = {}
                 for triple_score in triples_sorted[:topk]:

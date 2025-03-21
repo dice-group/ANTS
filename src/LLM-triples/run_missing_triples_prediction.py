@@ -1,5 +1,6 @@
 import os
 import time
+import argparse
 from openai import OpenAI
 
 client = OpenAI(
@@ -45,14 +46,14 @@ def main(model, system, dataset):
         euri = item[2]
         entity_name = entity.replace("_", " ")
         
-        if os.path.isfile(f"../data/{dataset}/relevant-triples/LLM/{model}/triples/{entity}.txt"):
+        if os.path.isfile(f"../../data/{dataset}/relevant-triples/LLM/{model}/triples/{entity}.txt"):
             count = 3
             continue
         if count == 3:
             count = 0
             time.sleep(60)
             
-        f = open(f"../data/{dataset}/relevant-triples/LLM/{model}/relations/{entity}.txt", "r")
+        f = open(f"../../data/{dataset}/relevant-triples/LLM/{model}/relations/{entity}.txt", "r")
         relations = f.readlines()
         f.close()
         missing_triples = []
@@ -75,7 +76,7 @@ def main(model, system, dataset):
 
         # Save to file 
         if len(missing_triples)>0:
-            f = open(f"../data/{dataset}/predictions/LLM/{model}/triples/{entity}.txt", "w")
+            f = open(f"../../data/{dataset}/predictions/LLM/{model}/triples/{entity}.txt", "w")
             for triple in missing_triples:
                 f.write(f"{triple}\n")
             f.close()

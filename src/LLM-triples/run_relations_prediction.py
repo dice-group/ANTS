@@ -1,5 +1,6 @@
 import os
 import time
+import argparse
 from openai import OpenAI
 import json
 
@@ -24,19 +25,17 @@ def query_llm(prompt):
     )
     return response.choices[0].message.content
 
-def main():
-    # Open the JSON file for reading
-    #with open('../LiteralE/data/entity_types.json', 'r') as file:
-    #    # Load its content and make a new dictionary
-    #    entity_types = json.load(file)
-    
+def main(args):
     # Define the domain and scope
-    dataset = "FACES"
-    model = "gpt-4"
+    if args.dataset=="ESSUM-DBpedia":
+        dataset = "ESBM-DBpedia"
+    else:
+        dataset = "FACES"
+    model = args.system
     domain = "DBpedia properties"
     scope = "Common DBpedia properties for an entity"
     #fr = open("data/ESBM/esbm-elist.txt", "r")
-    fr = open(f"../data/{dataset}/elist.txt", "r")
+    fr = open(f"../../data/{dataset}/elist.txt", "r")
     content = fr.readlines()
     count = 0
     for num, item in enumerate(content):
@@ -50,7 +49,7 @@ def main():
         euri = item[2]
         entity_name = entity.replace("_", " ")
         
-        if os.path.isfile(f"../data/{dataset}/relevant-triples/LLM/{model}/relations/{entity}.txt"):
+        if os.path.isfile(f"../../data/{dataset}/relevant-triples/LLM/{model}/relations/{entity}.txt"):
             count = 3
             continue
         if count == 3:
@@ -64,10 +63,15 @@ def main():
         #print(triples)
         
         # Save to file 
-        f = open(f"../data/{dataset}/relevant-triples/LLM/{model}/relations/{entity}.txt", "w")
+        f = open(f"../../data/{dataset}/relevant-triples/LLM/{model}/relations/{entity}.txt", "w")
         f.write(triples)
         f.close()
         count +=1
     fr.close()
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Process and format triples")
+    parser.add_argument("--system", type=str, required=True, help="System name (e.g., gpt-3.5)")
+    parser.add_argument("--dataset", type=str, required=True, help="Dataset name (e.g., FACES)")
+    args = parser.parse_args()
+    main(args)
+

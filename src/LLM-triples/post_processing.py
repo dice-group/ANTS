@@ -78,7 +78,7 @@ def main(args):
     os.makedirs(triples_selected_dir, exist_ok=True)    
     os.makedirs(triples_formatted_dir, exist_ok=True)
     
-    triples_all_dir= f'../data/{dataset}/predictions/LLM/{args.system}/triples'
+    triples_all_dir= f'../../data/{dataset}/predictions/LLM/{args.system}/triples'
     triples_all_list = glob.glob(triples_all_dir + "/*") 
     
     for ename in triples_all_list:
