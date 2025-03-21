@@ -66,7 +66,11 @@ def save_triples(formatted_triples, fname):
             output_file.write(f"{triple}")
 
 def main(args):
-    root_path_verbalization = f"../data/{args.dataset}/predictions/LLM"
+    if args.dataset=="ESSUM-DBpedia":
+        dataset = "ESBM-DBpedia"
+    else:
+        dataset = "FACES"
+    root_path_verbalization = f"../data/{dataset}/predictions/LLM"
     system_dir = f"{root_path_verbalization}/{args.system}"
     triples_formatted_dir = f'{system_dir}/triples-formatted/'
     triples_selected_dir = f'{system_dir}/triples-selected/'
@@ -74,7 +78,7 @@ def main(args):
     os.makedirs(triples_selected_dir, exist_ok=True)    
     os.makedirs(triples_formatted_dir, exist_ok=True)
     
-    triples_all_dir= f'../data/{args.dataset}/predictions/LLM/{args.system}/triples'
+    triples_all_dir= f'../data/{dataset}/predictions/LLM/{args.system}/triples'
     triples_all_list = glob.glob(triples_all_dir + "/*") 
     
     for ename in triples_all_list:

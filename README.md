@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/github/license/dice-group/ANTS)
 ![GitHub stars](https://img.shields.io/github/stars/dice-group/ANTS?style=social)
 
-Our approach aims to address the challenges of abstractive entity summarization in Knowledge Graphs (KGs) by generating optimal summaries that combine present triples with inferred missing (absent) triples using KG Embeddings (KGE) and Large Language Models (LLM) techniques.
+This repository contains the implementation of ANTS, a research paper accepted at ESWC 2025 (Research Track). ANTS addresses the challenges of abstractive entity summarization in Knowledge Graphs (KGs) by generating optimal summaries that integrate existing triples with inferred (absent) triples. It leverages Knowledge Graph Embeddings (KGE) and Large Language Models (LLMs) to enhance summarization quality.
 
 <p align="center">
 <img src="images/ANTs-new.jpg" width="75%">
@@ -124,7 +124,7 @@ This component leverages a Large Language Model (LLM), such as GPT, to extend it
 ```bash
 cd LLM-triples
 # Execute the script for missing triples prediction
-python run_missing_triples_prediction.py --model <gpt-model> --dataset ESSUM-DBpedia
+python run_missing_triples_prediction.py --model <gpt-model> --system gpt-4 --dataset ESSUM-DBpedia
 
 # Execute the script for post-processing 
 python post_processing.py --system gpt-4 --dataset ESSUM-DBpedia

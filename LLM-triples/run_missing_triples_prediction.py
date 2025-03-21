@@ -22,12 +22,15 @@ def query_llm(prompt, model):
     )
     return response.choices[0].message.content
 
-def main(model):
+def main(model, system, dataset):
     # Define the domain and scope
     domain = "DBpedia Triples"
     scope = "Generate triples based on subject and relations"
-    dataset = "FACES"
-    model="gpt-4"
+    if dataset=="ESSUM-DBpedia":
+        dataset = "ESBM-DBpedia"
+    else:
+        dataset = "FACES"
+    model=system
     fr = open(f"../data/{dataset}/elist.txt", "r")
     content = fr.readlines()
     count = 0
@@ -82,7 +85,8 @@ def main(model):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate RDF triples using an LLM.")
     parser.add_argument("--model", type=str, required=True, help="Specify the LLM model to use (e.g., 'gpt-4-0125-preview').")
+    parser.add_argument("--system", type=str, required=True, help="System name (e.g., gpt-3.5)")
     parser.add_argument("--dataset", type=str, required=True, help="Dataset name (e.g., ESSUM-DBpedia)")
     
     args = parser.parse_args()
-    main(args.model)
+    main(args.model, args.system, args.dataset)
