@@ -114,7 +114,7 @@ cd LiteralE/data
 wget https://zenodo.org/records/10991461/files/dbpedia34k.tar.gz
 tar -xvf dbpedia34k.tar.gz
 
-# back to KHE-triples folder
+# back to KGE-triples folder
 cd ../..
 
 # Update LiteralE modules
@@ -139,7 +139,7 @@ This component leverages a Large Language Model (LLM), such as GPT, to extend it
 </p>
 
 ```bash
-cd LLM-triples
+cd src/LLM-triples
 # Execute the script for missing triples prediction
 python run_missing_triples_prediction.py --model <gpt-model> --system gpt-4 --dataset ESSUM-DBpedia
 
@@ -151,7 +151,7 @@ Triples ranking utilizes the frequency of predicate occurrences within the knowl
 
 ```
 # Navigate to ranking-modules directory
-cd ranking-modules
+cd src/ranking-modules
 
 # Run triple-ranking and entity summary
 python triples-ranking.py  --kge_model conve_text --llm_model gpt-4 --combined_model conve_text_gpt-4 --dataset ESSUM-DBpedia --base_model ANTS
