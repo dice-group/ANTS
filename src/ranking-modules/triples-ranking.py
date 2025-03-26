@@ -70,6 +70,75 @@ def fetch_triple_score(relation):
         time.sleep(5)
         return fetch_triple_score(relation)
 
+def format_triples(triples, topk): 
+    formatted_triples=[]
+    for triple in triples[:topk]:
+        triple_tokens= triple.split('\t')
+        # head
+        head = ' <H> '+triple_tokens[0].split('/')[-1]
+        # relation
+        try: 
+            clean_relation= triple_tokens[1].split('/')[-1]
+        except Exception as e:
+            print (triple_tokens)
+            print (e)
+            break 
+        clean_relation= re.sub(r'.*#', '', clean_relation)        
+        relation = ' <R> '+clean_relation
+        #tail
+        if triple_tokens[2].startswith('http://dbpedia.org/'): # check if the tail is not literal
+            tail= ' <T> '+triple_tokens[2].split('/')[-1]
+        else:
+            clean_literal= re.sub(r'\^\^<http.*', '', triple_tokens[2])
+            clean_literal=clean_literal.replace('"','')
+            clean_literal=clean_literal.replace('@e','')
+            tail= ' <T> '+clean_literal
+        formatted_triples.append(head+relation+tail)
+    return formatted_triples
+
+def process_triples_from_ranking(present_, topk):
+    df = pd.read_csv(present_, delimiter=', \'', quotechar='"', header=None, index_col=None, engine="python")
+    print(df.head())
+    df = df.map(lambda x: x.replace("(", "").replace(")", "").replace("'", "") if x is not None else x)
+    df['triples'] = df.apply(lambda x: '\t'.join(x.astype(str)), axis=1)
+    triples=df['triples'].tolist()
+    formatted_triples=format_triples(triples, topk)
+    return formatted_triples
+
+def save_triples(formatted_triples, fname):
+    with open(fname, 'w') as output_file:
+        for triple in formatted_triples:
+            output_file.write(f"{triple}")
+        output_file.close()
+
+def is_non_zero_file(fpath):  
+    return os.path.isfile(fpath) and os.path.getsize(fpath) > 0
+
+def formatting_output():
+    system_ = "conve_text_gpt-4"
+    dataset = "ESBM-DBpedia"
+    base_model = "ANTS"
+    semantic_constraints=True
+    dir_="non-semantic-constraints"
+    if semantic_constraints:
+        dir_ = "semantic-constraints"
+    root_path_verbalization = f"../data/{dataset}/predictions/{base_model}/{dir_}"
+    system_dir = f"{root_path_verbalization}/{system_}"
+    triples_formatted_dir=f'{system_dir}/triples-formatted/'
+    if not os.path.exists(system_dir):
+        os.makedirs(system_dir)
+    if not os.path.exists(triples_formatted_dir):
+        os.makedirs(triples_formatted_dir)
+    topk = 20
+    triples_all_dir= f'../data/{dataset}/predictions/{base_model}/{dir_}/{system_}/ranking'
+    triples_all_list = glob.glob(triples_all_dir + "/*") 
+    for ename in triples_all_list:
+        print(ename)
+        triples=process_triples_from_ranking(ename, topk)
+        formatted_triples= triples
+        fname=ename.split('/')[-1]
+        save_triples(formatted_triples, f"{triples_formatted_dir}/{fname}")
+
 def main(args):
     # Set directories
     dir_ = "semantic-constraints" if args.semantic_constraints else "non-semantic-constraints"
