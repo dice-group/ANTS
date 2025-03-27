@@ -162,6 +162,10 @@ Provides automatic evaluation of verbalized summaries using multiple NLP metrics
 #### Step 1: Verbalizing Entity Summary
 
 ```
+# Navigate to verbalizing-modules directory
+cd verbalizing-modules
+
+# Execute the script for verbalizing entity summary
 python verbalization-process.py --dataset ESSUM-DBpedia --system conve_text_gpt-4 --base_model ANTS --semantic_constraints True
 ```
 
@@ -172,6 +176,15 @@ cd evaluation-modules
 
 # Run converting verbalization results to evaluation format
 python converting-to-evaluation-format.py --system "conve_text_gpt-4" --dataset "ESSUM-DBpedia" --base_model "ANTS" --semantic_constraints
+```
+
+#### Step 3: Evaluate Experiment Results using BLEU, METEOR, ChrF++, BLEURT
+```
+# Make sure the directory still in evaluation-modules directory
+cd GenerationEval
+
+# Execute the script to perform automatic evaluation
+python eval.py -R ../../data/ESBM-DBpedia/predictions/ANTS/semantic-constraints/conve_text_gpt-4/evaluation/refs.txt -H ../../data/ESBM-DBpedia/predictions/ANTS/semantic-constraints/conve_text_gpt-4/evaluation/hyp.txt -lng en -nr 1 -m bleu,meteor,chrf++,ter,bert,bleurt
 ```
 ---
 ## How to Cite
