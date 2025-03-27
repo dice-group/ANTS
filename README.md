@@ -156,6 +156,23 @@ cd src/ranking-modules
 # Run triple-ranking and entity summary
 python triples-ranking.py  --kge_model conve_text --llm_model gpt-4 --combined_model conve_text_gpt-4 --dataset ESSUM-DBpedia --base_model ANTS
 ```
+### **4️⃣ Evaluation Protocol**
+Provides automatic evaluation of verbalized summaries using multiple NLP metrics.
+
+#### Step 1: Verbalizing Entity Summary
+
+```
+python verbalization-process.py --dataset ESSUM-DBpedia --system conve_text_gpt-4 --base_model ANTS --semantic_constraints True
+```
+
+#### Step 2: Convert Triples into Evaluation Format
+```
+# Navigate to evaluation-modules directory
+cd evaluation-modules
+
+# Run converting verbalization results to evaluation format
+python converting-to-evaluation-format.py --system "conve_text_gpt-4" --dataset "ESSUM-DBpedia" --base_model "ANTS" --semantic_constraints
+```
 ---
 ## How to Cite
 ```bibtex
