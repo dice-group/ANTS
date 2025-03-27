@@ -75,11 +75,12 @@ pip install -r requirements.txt
 │       │   ├── KGE
 │       │   └── LLM
 │       └── elist.txt
-├── evaluation-modules
-├── KGE-triples
-├── LLM-triples
-├── ranking-modules
-├── verbalizing-modules
+├── src
+├── ├── evaluation-modules
+├── ├── KGE-triples
+├── ├── LLM-triples
+├── ├── ranking-modules
+├── └──verbalizing-modules
 ├── LICENSE
 └── README.md
 ```
@@ -172,7 +173,7 @@ python verbalization-process.py --dataset ESSUM-DBpedia --system conve_text_gpt-
 #### Step 2: Convert Triples into Evaluation Format
 ```
 # Navigate to evaluation-modules directory
-cd evaluation-modules
+cd src/evaluation-modules
 
 # Run converting verbalization results to evaluation format
 python converting-to-evaluation-format.py --system "conve_text_gpt-4" --dataset "ESSUM-DBpedia" --base_model "ANTS" --semantic_constraints
@@ -180,7 +181,7 @@ python converting-to-evaluation-format.py --system "conve_text_gpt-4" --dataset 
 
 #### Step 3: Evaluate Experiment Results using BLEU, METEOR, ChrF++, BLEURT
 ```
-# Make sure the directory still in evaluation-modules directory
+# Make sure the directory still in src/evaluation-modules directory
 cd GenerationEval
 
 # Execute the script to perform automatic evaluation
