@@ -1,8 +1,9 @@
+numpy
 scikit-learn
 transformers
 sentencepiece
 openai
 future
-spacy
 SPARQLWrapper
-numpy
+spacy
+pandas

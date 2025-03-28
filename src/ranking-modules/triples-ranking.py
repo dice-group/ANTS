@@ -4,6 +4,8 @@ import glob
 import time
 from http.client import RemoteDisconnected
 from SPARQLWrapper import SPARQLWrapper, JSON
+import pandas as pd
+import re
 
 def get_count_relation_from_sparql(uri):
     sparql = SPARQLWrapper("http://dbpedia.org/sparql")
@@ -74,6 +76,7 @@ def format_triples(triples, topk):
     formatted_triples=[]
     for triple in triples[:topk]:
         triple_tokens= triple.split('\t')
+        print("triple tokens", triple_tokens)
         # head
         head = ' <H> '+triple_tokens[0].split('/')[-1]
         # relation
@@ -98,7 +101,7 @@ def format_triples(triples, topk):
 
 def process_triples_from_ranking(present_, topk):
     df = pd.read_csv(present_, delimiter=', \'', quotechar='"', header=None, index_col=None, engine="python")
-    print(df.head())
+    #print(df.head())
     df = df.map(lambda x: x.replace("(", "").replace(")", "").replace("'", "") if x is not None else x)
     df['triples'] = df.apply(lambda x: '\t'.join(x.astype(str)), axis=1)
     triples=df['triples'].tolist()
@@ -115,17 +118,17 @@ def is_non_zero_file(fpath):
     return os.path.isfile(fpath) and os.path.getsize(fpath) > 0
 
 def formatting_output(system_, dataset, base_model, dir_, topk):
-    root_path_verbalization = f"../data/{dataset}/predictions/{base_model}/{dir_}"
+    root_path_verbalization = f"../../data/{dataset}/predictions/{base_model}/{dir_}"
     system_dir = f"{root_path_verbalization}/{system_}"
     triples_formatted_dir=f'{system_dir}/triples-formatted/'
     if not os.path.exists(system_dir):
         os.makedirs(system_dir)
     if not os.path.exists(triples_formatted_dir):
         os.makedirs(triples_formatted_dir)
-    triples_all_dir= f'../data/{dataset}/predictions/{base_model}/{dir_}/{system_}/ranking'
+    triples_all_dir= f'../../data/{dataset}/predictions/{base_model}/{dir_}/{system_}/ranking'
     triples_all_list = glob.glob(triples_all_dir + "/*") 
     for ename in triples_all_list:
-        print(ename)
+        #print(ename)
         triples=process_triples_from_ranking(ename, topk)
         formatted_triples= triples
         fname=ename.split('/')[-1]
@@ -134,17 +137,19 @@ def formatting_output(system_, dataset, base_model, dir_, topk):
 def main(args):
     if args.dataset=="ESSUM-DBpedia":
         dataset = "ESBM-DBpedia"
-    else:
+    elif args.dataset=="ESSUM-FACES":
         dataset = "FACES"
-    
+    else:
+        raise NotImplementedError
+    #print(dataset)
     # Set directories
     dir_ = "semantic-constraints" if args.semantic_constraints else "non-semantic-constraints"
-    triples_ranking_dir = f"../data/{args.dataset}/predictions/{args.base_model}/{dir_}/{args.combine_model}/ranking/"
+    triples_ranking_dir = f"../../data/{dataset}/predictions/{args.base_model}/{dir_}/{args.combined_model}/ranking/"
     os.makedirs(triples_ranking_dir, exist_ok=True)
 
     # Fetch files
-    kge_files = glob.glob(f"../data/{args.dataset}/predictions/KGE/{dir_}/{args.kge_model}/ranking/*")
-    gpt_files = glob.glob(f"../data/{args.llm_dataset}/predictions/LLM/{args.gpt_model}/triples-selected/*")
+    kge_files = glob.glob(f"../../data/{dataset}/predictions/KGE/{dir_}/{args.kge_model}/ranking/*")
+    gpt_files = glob.glob(f"../../data/{dataset}/predictions/LLM/{args.gpt_model}/triples-selected/*")
 
     for num, file in enumerate(kge_files):
         f = open(file, "r")
@@ -164,15 +169,17 @@ def main(args):
             t1 = triple[2].strip()
             triples.append((h1, r1, t1))
             #print(h1,r1,t1)
-        f = open(f"../data/{args.llm_dataset}/predictions/LLM/{args.gpt_model}/triples-selected/{filename}")
+        f = open(f"../../data/{dataset}/predictions/LLM/{args.gpt_model}/triples-selected/{filename}")
         gpt_triples = f.readlines()
         for triple in gpt_triples:
             triple = triple.replace("\n", "")
             triple = triple.split("\t")
-            print(triple)
+            #print(triple)
             h1 = triple[0].strip()
             r1 = triple[1].strip().replace(" ", "")
             t1 = triple[2].strip()
+            if t1 == "":
+                continue
             triples.append((h1, r1, t1))
         f.close()
     
@@ -195,8 +202,8 @@ if __name__ == "__main__":
     parser.add_argument("--kge_model", type=str, default="conve_text", help="Knowledge Graph Embedding model name")
     parser.add_argument("--gpt_model", type=str, default="gpt-4", help="GPT model name")
     parser.add_argument("--dataset", type=str, default="ESBM-DBpedia", help="Dataset name")
-    parser.add_argument("--llm_dataset", type=str, default="ESBM-DBpedia", help="Dataset used for LLM")
-    parser.add_argument("--combine_model", type=str, default="conve_text_gpt-4", help="Combination model name")
+    #parser.add_argument("--llm_dataset", type=str, default="ESBM-DBpedia", help="Dataset used for LLM")
+    parser.add_argument("--combined_model", type=str, default="conve_text_gpt-4", help="Combination model name")
     parser.add_argument("--base_model", type=str, default="ANTS", help="Base model name")
     parser.add_argument("--topk", type=int, default=20, help="Number of top triples to select")
     parser.add_argument("--semantic_constraints", action='store_true', help="Enable semantic constraints")

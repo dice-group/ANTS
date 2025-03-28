@@ -1,4 +1,3 @@
-http://dbpedia.org/resource/Lucy_Ward_(musician	http://dbpedia.org/ontology/birthPlace	Derby
 http://dbpedia.org/resource/Lucy_Ward_(musician	http://dbpedia.org/ontology/birthDate	1989-12-12
 http://dbpedia.org/resource/Lucy_Ward_(musician	http://dbpedia.org/ontology/country	United Kingdom
 http://dbpedia.org/resource/Lucy_Ward_(musician	http://dbpedia.org/ontology/occupation	Musician
@@ -16,5 +15,6 @@ http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/property/stu
 http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/property/house	http://dbpedia.org/resource/cao_wei
 http://dbpedia.org/resource/lucy_ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
 http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/property/associatedacts	http://dbpedia.org/resource/o'hooley_&_tidow
+http://dbpedia.org/resource/Lucy_Ward_(musician	http://dbpedia.org/ontology/birthPlace	Derby
 http://dbpedia.org/resource/Lucy_Ward_(musician	http://dbpedia.org/ontology/voiceType	Folk Singer
 http://dbpedia.org/resource/Lucy_Ward_(musician	http://dbpedia.org/ontology/discography	Adelphi Has to Fly

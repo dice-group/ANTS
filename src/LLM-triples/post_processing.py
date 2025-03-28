@@ -52,7 +52,7 @@ def format_selected_triples_llm(triples, topk):
             if tail[-1]==")":
                 tail = tail[0:-1]
         if h[0]=="(":
-            h=h[1:-1]
+            h=h[1:]
         head = "http://dbpedia.org/resource/"+h.strip().replace(" ", "_")
         relation = "http://dbpedia.org/ontology/"+r.strip()
         if "?" in tail or "wiki" in relation:
@@ -68,9 +68,11 @@ def save_triples(formatted_triples, fname):
 def main(args):
     if args.dataset=="ESSUM-DBpedia":
         dataset = "ESBM-DBpedia"
-    else:
+    elif args.dataset=="ESSUM-FACES":
         dataset = "FACES"
-    root_path_verbalization = f"../data/{dataset}/predictions/LLM"
+    else:
+        raise NotImplementedError
+    root_path_verbalization = f"../../data/{dataset}/predictions/LLM"
     system_dir = f"{root_path_verbalization}/{args.system}"
     triples_formatted_dir = f'{system_dir}/triples-formatted/'
     triples_selected_dir = f'{system_dir}/triples-selected/'
