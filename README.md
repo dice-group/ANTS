@@ -162,6 +162,10 @@ Provides automatic evaluation of verbalized summaries using multiple NLP metrics
 
 #### Step 1: Verbalizing Entity Summary
 
+Requirement:
+- Download the pre-trained model for verbalizing the abstractive summaries. Link verbalization-P2 model: https://zenodo.org/records/10984714
+- Move the pre-trained model to the verbalization-modules directory.
+
 ```
 # Navigate to verbalizing-modules directory
 cd verbalizing-modules
