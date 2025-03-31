@@ -18,7 +18,7 @@ def get_directories(system_, dataset, base_model, semantic_constraints):
     dir_ = "/semantic-constraints" if semantic_constraints else "/non-semantic-constraints"
     if base_model in ["baselines", "LLM"]:
         dir_ = ""
-    evaluation_dir = f"../data/{dataset}/predictions/{base_model}{dir_}/{system_}"
+    evaluation_dir = f"../../data/{dataset}/predictions/{base_model}{dir_}/{system_}"
     system_dir = f"{evaluation_dir}/evaluation"
     
     return evaluation_dir, system_dir
@@ -46,7 +46,7 @@ def process_references(hyp_entities, system_dir, dataset):
             entity_filename = hyp_entity.split("/")[-1].replace(".txt-verbalized.txt", "")
             print(f"Processing reference: {num + 1}, {entity_filename}")
 
-            ref_file_path = f"../data/{dataset}/ESSUM/{entity_filename}"
+            ref_file_path = f"../../data/{dataset}/ESSUM/silver-standard-summaries/{entity_filename}"
             with open(ref_file_path, "r") as file:
                 content = file.readlines()
                 sentences = " ".join([line.replace("\n", "").replace("< pad >", "").replace("< / s >", "").replace("<s>", "").strip() for line in content]).strip()
@@ -70,5 +70,11 @@ if __name__ == "__main__":
     parser.add_argument('--semantic_constraints', action='store_true', help="Use this flag to apply semantic constraints")
 
     args = parser.parse_args()
+    if args.dataset=="ESSUM-DBpedia":
+        dataset = "ESBM-DBpedia"
+    elif args.dataset=="ESSUM-FACES":
+        dataset = "FACES"
+    else:
+        raise NotImplementedError
 
-    main(args.system, args.dataset, args.base_model, args.semantic_constraints)
+    main(args.system, dataset, args.base_model, args.semantic_constraints)
