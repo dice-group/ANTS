@@ -194,11 +194,11 @@ def main():
         
         ds_name = "ESBM-DBpedia"
         kge_model = "complex"
-        if not os.path.exists(f"../../data/{ds_name}/relevant-triples/KGE/{kge_model}"):
-            os.makedirs(f"../../data/{ds_name}/relevant-triples/KGE/{kge_model}")
-        if not os.path.exists(f"../../data/{ds_name}/relevant-triples/KGE/{kge_model}/triples"):
-            os.makedirs(f"../../data/{ds_name}/relevant-triples/KGE/{kge_model}/triples")
-        fr = open(f"../../data/{ds_name}/elist.txt", "r")
+        if not os.path.exists(f"../../../data/{ds_name}/relevant-triples/KGE/{kge_model}"):
+            os.makedirs(f"../../../data/{ds_name}/relevant-triples/KGE/{kge_model}")
+        if not os.path.exists(f"../../../data/{ds_name}/relevant-triples/KGE/{kge_model}/triples"):
+            os.makedirs(f"../../../data/{ds_name}/relevant-triples/KGE/{kge_model}/triples")
+        fr = open(f"../../../data/{ds_name}/elist.txt", "r")
         content = fr.readlines()
         fr.close()
         entities = []

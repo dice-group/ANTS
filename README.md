@@ -129,7 +129,7 @@ bash update-LiteralE-modules.sh
 cd src/KGE-triples
 
 # Execute the script for missing triples prediction
-python run_missing_triples_prediction.py --dataset dbpedia34k --system Conve_text --input_drop 0.2 --embedding_dim 100 --batch_size 1 --epochs 100 ---lr 0.001 --process True
+python run_missing_triples_prediction.py dataset dbpedia34k model ConvE_text input_drop 0.2 embedding_dim 100 batch_size 1 epochs 100 lr 0.001 process True
 ```
 
 ### **2️⃣ LLM-Triples**
