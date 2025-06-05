@@ -123,7 +123,7 @@ bash update-LiteralE-modules.sh
 
 ```
 Note:
-You need some requirement manually inside the LiteralE folder, such as:
+You need some requirements manually inside the LiteralE folder, such as:
 - spodernet library: https://github.com/TimDettmers/spodernet
 - bashmagic library: https://github.com/TimDettmers/bashmagic
 
