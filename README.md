@@ -198,11 +198,15 @@ python eval.py -R ../../data/ESBM-DBpedia/predictions/ANTS/semantic-constraints/
 ---
 ## How to Cite
 ```bibtex
-@inproceedings{ANTS2025,
-  author = {Firmansyah, Asep Fajar and Zahera, Hamada and Sherif, Mohamed Ahmed and and Moussallem, Diego and Ngonga Ngomo, Axel-Cyrille},
-  booktitle = {ESWC2025},
-  title = {ANTS: Abstractive Entity Summarization in Knowledge Graphs},
-  year = 2025
+@InProceedings{ANTS2025,
+  author     = {Firmansyah, Asep Fajar and Zahera, Hamada M. and Sherif, Mohamed Ahmed and and Moussallem, Diego and Ngonga Ngomo, Axel-Cyrille},
+  title      = {ANTS: Abstractive Entity Summarization in Knowledge Graphs},
+  editors    = {Curry, Edward and Acosta, Maribel and Poveda-
+Villalón, María and van Erp, Marieke and Ojo, Adegboyega and Hose, Katja and Shimizu, Cogan and Lisena, Pasquale},
+  booktitle  = {Semantic Web – 22nd International Conference, ESWC 2025, Portoroz, Slovenia, June 1-5, 2025, Proceedings},
+  year       = {2025},
+  keywords   = {dice enexa whale trr318 firmansyah zahera sherif moussallem ngonga},
+  url        = {https://papers.dice-research.org/2025/ESWC_ANTS/public.pdf}
 }
 ```
 ---
