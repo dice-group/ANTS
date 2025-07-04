@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/ontology/headquarter	http://commons.wikimedia.org/wiki/special:filepath/st_peter's,_kings_ripton_-_geograph.org.uk_-_839692.jpg
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactorgeo
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagogeoentity
+http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:villages_in_cambridgeshire
+http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:huntingdonshire
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/ontology/network	http://dbpedia.org/resource/drama_city
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/ontology/headquarter	http://dbpedia.org/resource/the_honolulu_advertiser

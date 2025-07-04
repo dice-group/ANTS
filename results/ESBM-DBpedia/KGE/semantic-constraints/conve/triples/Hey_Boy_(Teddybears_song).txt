@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/joakim_åhlund
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/swingfly
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_joakim_åhlund
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/property/label	http://dbpedia.org/resource/kontor_records
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/property/label	http://dbpedia.org/resource/epic_records
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/klas_åhlund
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_klas_åhlund
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:kontor_records_singles
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/property/album	http://dbpedia.org/resource/lol_(blog_27_album)
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://dbpedia.org/property/label	http://dbpedia.org/resource/magic_records

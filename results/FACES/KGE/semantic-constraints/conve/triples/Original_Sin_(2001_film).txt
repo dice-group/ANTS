@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/original_sin_(2001_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2001_crime_drama_films
+http://dbpedia.org/resource/original_sin_(2001_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_scored_by_terence_blanchard
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/rodrigo_prieto
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/property/demographics1info	http://dbpedia.org/resource/michael_cristofer
+http://dbpedia.org/resource/original_sin_(2001_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:hyde_park_entertainment_films
+http://dbpedia.org/resource/original_sin_(2001_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/original_sin_(2001_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_crime_drama_films
+http://dbpedia.org/resource/original_sin_(2001_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_erotic_drama_films

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/time_(dave_clark_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/album
+http://dbpedia.org/resource/time_(dave_clark_album)	http://dbpedia.org/property/title	http://dbpedia.org/resource/in_my_defence
+http://dbpedia.org/resource/time_(dave_clark_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1986_albums
+http://dbpedia.org/resource/time_(dave_clark_album)	http://dbpedia.org/property/title	http://dbpedia.org/resource/time_(freddie_mercury_song)
+http://dbpedia.org/resource/time_(dave_clark_album)	http://dbpedia.org/property/conductor	http://dbpedia.org/resource/anders_berglund
+http://dbpedia.org/resource/time_(dave_clark_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:concept_albums
+http://dbpedia.org/resource/time_(dave_clark_album)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/capitol_records
+http://dbpedia.org/resource/time_(dave_clark_album)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/rock_music
+http://dbpedia.org/resource/time_(dave_clark_album)	http://dbpedia.org/property/location	http://dbpedia.org/resource/cologne
+http://dbpedia.org/resource/time_(dave_clark_album)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/pop_rock

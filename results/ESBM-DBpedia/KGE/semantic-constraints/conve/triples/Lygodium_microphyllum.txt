@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_china
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_tropical_asia
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/fern
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_the_northwestern_pacific
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:plants_described_in_1801

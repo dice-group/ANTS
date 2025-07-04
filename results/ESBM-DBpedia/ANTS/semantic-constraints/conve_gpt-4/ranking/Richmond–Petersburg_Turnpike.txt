@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/road
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/infrastructure
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/country	United States
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/location	Virginia
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/length	22.6 miles
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/state	Virginia
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/openingDate	1958-04-01
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/operator	Virginia Department of Transportation
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/routeNumber	95
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/jurisdiction	Virginia
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/isPartOf	Interstate 95 in Virginia
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/crosses	James River
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/namedAfter	Richmond and Petersburg
+Virginia Department of Transportation	http://dbpedia.org/ontology/maintainedBy	Richmond–Petersburg Turnpike
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/numberOfLanes	6
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/map	https://www.openstreetmap.org/way/238398688
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:interstate_64
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1955_establishments_in_virginia
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:transportation_in_petersburg,_virginia
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/terminusA	Richmond,  Virginia
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/terminusB	Petersburg,  Virginia
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/previousRoute	U.S. Route 1
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/nextRoute	Interstate 295 Virginia
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/hasPart	Interstate 95
+Richmond–Petersburg Turnpike	http://dbpedia.org/ontology/roadType	Interstate Highway

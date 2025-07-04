@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_flying_corps_officers
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/first_world_war
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/battle	http://dbpedia.org/resource/second_world_war
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/awards	http://dbpedia.org/resource/order_of_st._anna
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/awards	http://dbpedia.org/resource/distinguished_flying_cross_(united_kingdom)
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/awards	http://dbpedia.org/resource/croix_de_guerre_1914–1918_(france)
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/awards	http://dbpedia.org/resource/order_of_st._vladimir
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/awards	http://dbpedia.org/resource/companion_of_the_order_of_the_bath
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/branch	http://dbpedia.org/resource/royal_air_force
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/property/branch	http://dbpedia.org/resource/royal_navy

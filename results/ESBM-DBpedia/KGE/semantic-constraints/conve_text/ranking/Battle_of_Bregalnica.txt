@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/battle_of_bregalnica	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/janko_vukotić
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/živojin_mišić
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/radomir_putnik
+http://dbpedia.org/resource/battle_of_bregalnica	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/bregalnica

@@ -1,0 +1,30 @@
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/country	United States
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Scott Weinger
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Robin Williams
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Linda Larkin
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Jonathan Freeman
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Frank Welker
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Gilbert Gottfried
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Douglas Seale
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/genre	Musical
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/writer	Ron Clements
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/writer	John Musker
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/writer	Ted Elliott
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/writer	Terry Rossio
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/runtime	90 minutes
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/award	Academy Award for Best Original Score
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/producer	John Musker
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/releaseDate	1992-11-25
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/director	John Musker
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/director	Ron Clements
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/language	English
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/distributor	Buena Vista Pictures Distribution
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/musicComposer	Alan Menken
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/cinematography	Mark Henn
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/editing	H. Lee Peterson
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/budget	$28 million
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/gross	$504.1 million
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/basedOn	One Thousand and One Nights
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/filmSeries	Aladdin film series
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/precededBy	The Little Mermaid.
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/followedBy	The Return of Jafar

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:huntingdonshire
+http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:civil_parishes_in_cambridgeshire
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:villages_in_cambridgeshire
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/property/shirecounty	http://dbpedia.org/resource/cambridgeshire
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/property/shiredistrict	http://dbpedia.org/resource/huntingdonshire
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
+http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/village

@@ -1,0 +1,9 @@
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/tournament
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/footballleagueseason
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/soccertournament
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uefa_champions_league_seasons
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2012–13_uefa_champions_league
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/property/country	http://dbpedia.org/resource/france
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/property/third	http://dbpedia.org/resource/fortuna_düsseldorf
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/property/topscorer	http://dbpedia.org/resource/cristiano_ronaldo
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/property/continentalcup1qualifiers	http://dbpedia.org/resource/fc_nancy

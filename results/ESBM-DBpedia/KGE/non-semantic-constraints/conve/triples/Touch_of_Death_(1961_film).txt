@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/the_black_crowes
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:lgbt-related_drama_films
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:dutch-language_films
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/william_lucas_(actor)
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/2012–13_debreceni_vsc_season
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_directed_by_eddy_terstall
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000s_drama_films
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q1656682
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/abstraction100002137
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/physicalentity100001930
+http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2004_films

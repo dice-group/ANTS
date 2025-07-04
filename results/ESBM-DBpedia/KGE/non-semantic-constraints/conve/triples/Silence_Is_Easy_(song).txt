@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_devante_swing
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:song_recordings_produced_by_devante_swing
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1994_singles
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:usher_(singer)_songs
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/silence_is_easy_(song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q2188189
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:arista_records_singles

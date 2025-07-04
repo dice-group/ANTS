@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/property/industry	http://dbpedia.org/resource/automotive_industry
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/keyperson	http://dbpedia.org/resource/piero_ferrari
+http://dbpedia.org/resource/ferrari	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/organisation
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/category:luxury_motor_vehicle_manufacturers
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/public_company
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/keyperson	http://dbpedia.org/resource/john_elkann
+http://dbpedia.org/resource/ferrari	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:italian_companies_established_in_1947
+http://dbpedia.org/resource/ferrari	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:car_manufacturers_of_italy
+http://dbpedia.org/resource/ferrari	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:vehicle_manufacturing_companies_established_in_1947
+http://dbpedia.org/resource/ferrari	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/manufacturer
+http://dbpedia.org/resource/ferrari	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:corporate_spin-offs

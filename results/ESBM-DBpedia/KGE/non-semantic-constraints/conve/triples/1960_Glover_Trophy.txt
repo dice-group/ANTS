@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent
+http://dbpedia.org/resource/1960_glover_trophy	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_itf_women's_circuit
+http://dbpedia.org/resource/1960_glover_trophy	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th_century_in_west_sussex
+http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/1960_glover_trophy	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:sparta_prague_open
+http://dbpedia.org/resource/1960_glover_trophy	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_in_czech_sport
+http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/west_sussex
+http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
+http://dbpedia.org/resource/1960_glover_trophy	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1960_formula_one_races
+http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/1960_glover_trophy	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event

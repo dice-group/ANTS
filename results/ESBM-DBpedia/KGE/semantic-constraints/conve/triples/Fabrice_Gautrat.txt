@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/athlete
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:usl_league_two_players
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:atlanta_silverbacks_players
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/property/college	http://dbpedia.org/resource/san_diego_toreros
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/property/position	http://dbpedia.org/resource/defender_(association_football)
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsmanager
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/property/managerclubs	http://dbpedia.org/resource/chicago_red_stars

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/village
+http://dbpedia.org/resource/tchonoro	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/assoli
+http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/tchonoro	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:assoli_prefecture
+http://dbpedia.org/resource/tchonoro	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/kachin_state
+http://dbpedia.org/resource/tchonoro	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
+http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/tchonoro	http://dbpedia.org/property/seat	http://dbpedia.org/resource/campo_verde

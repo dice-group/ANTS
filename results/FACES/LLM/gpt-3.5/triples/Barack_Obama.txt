@@ -1,0 +1,15 @@
+Barack Obama	birthDate	August 4, 1961
+Barack Obama	birthPlace	Honolulu, Hawaii
+Barack Obama	education	Columbia University
+Barack Obama	education	Harvard Law School
+Barack Obama	occupation	Politician
+Barack Obama	occupation	Author
+Barack Obama	politicalParty	Democratic Party
+Barack Obama	spouse	Michelle Obama
+Barack Obama	children	Malia Obama
+Barack Obama	children	Sasha Obama
+Barack Obama	awards	Nobel Peace Prize
+Barack Obama	netWorth	40 million USD
+Barack Obama	books	Dreams from My Father
+Barack Obama	books	The Audacity of Hope
+Barack Obama	presidentialTerm	2009-2017

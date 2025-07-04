@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/air_transport
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/service	http://dbpedia.org/resource/bus_service
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/hubs	http://dbpedia.org/resource/la_trobe_university
+http://dbpedia.org/resource/j._c._penney	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/company
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/broadcastarea	http://dbpedia.org/resource/north_haledon,_new_jersey

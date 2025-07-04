@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://dbpedia.org/property/origin	http://dbpedia.org/resource/florida
+http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://dbpedia.org/property/pedigree	http://dbpedia.org/resource/bukettraube
+http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:song_recordings_produced_by_phil_ramone
+http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://dbpedia.org/property/label	http://dbpedia.org/resource/columbia_records
+http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/song
+http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://dbpedia.org/property/studio	http://dbpedia.org/resource/a_&_r_recording
+http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://dbpedia.org/property/pedigree	http://dbpedia.org/resource/riesling
+http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:columbia_records_singles
+http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/doo-wop
+http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_about_rock_music

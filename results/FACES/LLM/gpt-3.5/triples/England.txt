@@ -1,0 +1,15 @@
+England	population	56,286,961
+England	capital	London
+England	area	130,279 square kilometers
+England	language	English
+England	cuisine	Fish and chips
+England	government	Constitutional monarchy
+England	national symbol	Rose
+England	currency	Pound sterling
+England	landmarks	Big Ben
+England	sport	Football
+England	famous writers	William Shakespeare
+England	climate	Mild and temperate
+England	lakes	Windermere
+England	highest point	Scafell Pike
+England	famous monarch	Queen Elizabeth II

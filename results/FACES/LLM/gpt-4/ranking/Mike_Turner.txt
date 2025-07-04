@@ -1,0 +1,19 @@
+Mike Turner	http://dbpedia.org/ontology/birthPlace	Dayton Ohio
+Mike Turner	http://dbpedia.org/ontology/birthDate	1960-01-11
+Mike Turner	http://dbpedia.org/ontology/occupation	Politician
+Mike Turner	http://dbpedia.org/ontology/termPeriod	2003-01-03 to present
+Mike Turner	http://dbpedia.org/ontology/office	United States House of Representatives
+Mike Turner	http://dbpedia.org/ontology/almaMater	University of Dayton
+Mike Turner	http://dbpedia.org/ontology/award	Legion of Merit
+Mike Turner	http://dbpedia.org/ontology/party	Republican Party
+Mike Turner	http://dbpedia.org/ontology/nationality	United States
+Mike Turner	http://dbpedia.org/ontology/education	University of Dayton
+Mike Turner	http://dbpedia.org/ontology/spouse	Majida Mourad
+Mike Turner	http://dbpedia.org/ontology/child	Jessica Turner
+Mike Turner	http://dbpedia.org/ontology/residence	Dayton
+Mike Turner	http://dbpedia.org/ontology/militaryBranch	United States Air Force.
+Mike Turner	http://dbpedia.org/ontology/serviceStartYear	2003
+Mike Turner	http://dbpedia.org/ontology/serviceEndYear	2023
+Mike Turner	http://dbpedia.org/ontology/religion	Christianity
+Mike Turner	http://dbpedia.org/ontology/committee	House Intelligence Committee
+Mike Turner	http://dbpedia.org/ontology/memberOf	United States House of Representatives

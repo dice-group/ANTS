@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/friends	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english-language_television_shows
+http://dbpedia.org/resource/friends	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:primetime_emmy_award_for_outstanding_comedy_series_winners
+http://dbpedia.org/resource/friends	http://dbpedia.org/ontology/network	http://dbpedia.org/resource/nbc
+http://dbpedia.org/resource/friends	http://dbpedia.org/ontology/lieutenancyarea	http://dbpedia.org/resource/david_crane_(producer)
+http://dbpedia.org/resource/friends	http://dbpedia.org/property/camera	http://dbpedia.org/resource/multiple-camera_setup
+http://dbpedia.org/resource/friends	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/televisionshow
+http://dbpedia.org/resource/friends	http://dbpedia.org/property/languages	http://dbpedia.org/resource/marta_kauffman

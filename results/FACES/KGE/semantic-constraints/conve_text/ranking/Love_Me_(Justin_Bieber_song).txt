@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/writer	http://dbpedia.org/resource/nina_persson
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/writer	http://dbpedia.org/resource/peter_svensson
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/label	http://dbpedia.org/resource/rbmg
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/contemporary_r&b
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/dance-pop
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/soundrecording	http://dbpedia.org/resource/love_me_(justin_bieber_song)__sound__1
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_ari_levine
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:song_recordings_produced_by_dj_frank_e
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_peter_svensson

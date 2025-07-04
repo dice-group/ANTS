@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/candle_in_the_wind	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mca_records_singles
+http://dbpedia.org/resource/candle_in_the_wind	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_with_lyrics_by_bernie_taupin
+http://dbpedia.org/resource/candle_in_the_wind	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:elton_john_songs
+http://dbpedia.org/resource/candle_in_the_wind	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1970s_ballads
+http://dbpedia.org/resource/candle_in_the_wind	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:pop_ballads
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/property/label	http://dbpedia.org/resource/djm_records
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/pop_rock
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/bernie_taupin
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/ontology/album	http://dbpedia.org/resource/goodbye_yellow_brick_road
+http://dbpedia.org/resource/candle_in_the_wind	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work

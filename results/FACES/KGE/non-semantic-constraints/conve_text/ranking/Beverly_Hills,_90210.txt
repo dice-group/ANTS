@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/shannen_doherty
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/jamie_walters
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/teen_drama
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/subsequentwork	http://dbpedia.org/resource/melrose_place_(2009_tv_series)
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/audioformat	http://dbpedia.org/resource/monaural

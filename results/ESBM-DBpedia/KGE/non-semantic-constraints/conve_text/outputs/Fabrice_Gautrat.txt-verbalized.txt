@@ -1,0 +1,1 @@
+< pad > The defender fabrice gautrat was born in culver city, california, India. He is a http: / / www.schema.org / person / and has the type of http: / / www.ontologydesignpatterns.org / ont / dul / naturalperson. The gautrat has an address of http: / / www.wikidata.org / entity / q215627 and his typing is http: / / www.schema.org / person. < / s >

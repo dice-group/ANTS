@@ -1,0 +1,20 @@
+(Edmund Smith Conklin, birthDate, "1894-09-10")
+(Edmund Smith Conklin, birthPlace, Alpine, New Jersey)
+(Edmund Smith Conklin, deathDate, 1942-11-01)
+(Edmund Smith Conklin, deathPlace, New Haven)
+(Edmund Smith Conklin, education, Indiana University)
+(Edmund Smith Conklin, almaMater, Indiana University)
+(Edmund Smith Conklin, profession, Psychologist)
+(Edmund Smith Conklin, field, Psychology)
+(Edmund Smith Conklin, nationality, United States)
+Edmund Smith Conklin, parent, Alanson Conklin.
+(Edmund Smith Conklin, spouse, Rosalind G. Conklin)
+Edmund Smith Conklin, child, Robert Conklin.
+Edmund Smith Conklin, works, Psychology: A Study Of Mental Life
+(Edmund Smith Conklin, award, Guggenheim Fellowship)
+Edmund Smith Conklin, influencedBy, Edward Titchener
+Edmund Smith Conklin, influences, John B. Watson.
+(Edmund Smith Conklin, academicDegree, PhD)
+(Edmund Smith Conklin, employer, Indiana University)
+(Edmund Smith Conklin, memberOf, Phi Beta Kappa)
+(Edmund Smith Conklin, notableWork, Principles of Abnormal Psychology)

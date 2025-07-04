@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/you_better_run	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:pat_benatar_songs
+http://dbpedia.org/resource/you_better_run	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/felix_cavaliere
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/single
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/you_better_run	http://dbpedia.org/property/label	http://dbpedia.org/resource/chrysalis_records
+http://dbpedia.org/resource/you_better_run	http://dbpedia.org/property/artist	http://dbpedia.org/resource/pat_benatar
+http://dbpedia.org/resource/you_better_run	http://dbpedia.org/property/studio	http://dbpedia.org/resource/a_&_r_recording
+http://dbpedia.org/resource/you_better_run	http://dbpedia.org/ontology/previouswork	http://dbpedia.org/resource/good_lovin'_(the_young_rascals_song)
+http://dbpedia.org/resource/you_better_run	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/blue-eyed_soul
+http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/song

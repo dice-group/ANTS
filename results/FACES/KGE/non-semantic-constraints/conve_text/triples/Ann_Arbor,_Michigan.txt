@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/aladdin_(1992_disney_film)
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/west	http://dbpedia.org/resource/jackson,_michigan
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/automotive_industry
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/john_hieftje
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/council%e2%80%93manager_government
+http://dbpedia.org/resource/ann_arbor,_michigan	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/ann_arbor,_michigan?oldid=547839304
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/annarborskyline.jpg/200px-annarborskyline.jpg
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/south	http://dbpedia.org/resource/toledo,_ohio
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/ann_arbor,_michigan
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/eastern_time_zone
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/northwest	http://dbpedia.org/resource/lansing,_michigan
+http://dbpedia.org/resource/ann_arbor,_michigan	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/ann_arbor,_michigan
+http://dbpedia.org/resource/ann_arbor,_michigan	http://xmlns.com/foaf/0.1/depiction	http://upload.wikimedia.org/wikipedia/commons/8/87/annarborskyline.jpg

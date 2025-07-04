@@ -1,0 +1,20 @@
+(Friedrich Engel (mathathematician), birthPlace, Saxony)
+(Friedrich Engel (mathathetician), deathPlace, Giessen)
+(Friedrich Engel (mathathematician), nationality, German)
+(Friedrich Engel (mathathematician), almaMater, University of Leipzig)
+(Friedrich Engel (mathanatician), field, Mathematics)
+(Friedrich Engel (mathathematician), workInstitutions, University of Greifswald)
+Friedrich Engel (mathematician), knownFor, Lie algebra theory
+Friedrich Engel (mathathematician), academicAdvisor, Felix Klein.
+Friedrich Engel (mathathematician), influenced, Sophus Lie.
+(Friedrich Engel (mathathematician), award, Lobachevsky Medal)
+(Friedrich Engel (mathathematician), doctoralAdvisor, Felix Klein)
+Friedrich Engel (mathathematician), doctoralStudents, Otto Haupt.
+(Friedrich Engel (mathathematician), contribution, Lie algebra theory)
+(Friedrich Engel (mathematician), education, University of Leipzig)
+(Friedrich Engel (mathathematician), occupation, Mathematician)
+(Friedrich Engel (mathathematician), citizenship, Germany)
+(Friedrich Engel (mathathematician), era, Modern era)
+(Friedrich Engel (mathathematician), genre, Mathematics)
+Friedrich Engel (mathathematician), notableWorks, Theorie der Transformationsgruppen.
+(Friedrich Engel (mathathematician), studentOf, Felix Klein)

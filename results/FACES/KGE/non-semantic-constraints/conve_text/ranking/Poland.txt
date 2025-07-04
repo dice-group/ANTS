@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/bronis%c5%82aw_komorowski
+http://dbpedia.org/resource/poland	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/parliamentary_republic
+http://dbpedia.org/resource/poland	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/edward_teller
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/polish%e2%80%93lithuanian_commonwealth
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/polish-lithuanian_commonwealth

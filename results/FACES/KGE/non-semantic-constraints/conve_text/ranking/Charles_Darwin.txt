@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/citizenship	http://dbpedia.org/resource/british_citizenship
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/influenced	http://dbpedia.org/resource/joseph_dalton_hooker
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/academicadvisors	http://dbpedia.org/resource/adam_sedgwick
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/charles_darwin
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/influencedby	http://dbpedia.org/resource/charles_lyell

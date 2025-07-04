@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/alan_arkin
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/john_goodman
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/ben_affleck
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/distributor	http://dbpedia.org/resource/warner_bros.
+http://dbpedia.org/resource/argo_(2012_film)	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/argo_(2012_film)?oldid=548580418
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/candidate	http://dbpedia.org/resource/texas
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/bryan_cranston
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/editing	http://dbpedia.org/resource/william_goldenberg
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/poland
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/argo2012poster.jpg/200px-argo2012poster.jpg
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/cinematography	http://dbpedia.org/resource/rodrigo_prieto

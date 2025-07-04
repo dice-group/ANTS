@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#spatialthing
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/lists_of_twin_towns_and_sister_cities
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/saint-raphaël,_var	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactorgeo
+http://dbpedia.org/resource/saint-raphaël,_var	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/france

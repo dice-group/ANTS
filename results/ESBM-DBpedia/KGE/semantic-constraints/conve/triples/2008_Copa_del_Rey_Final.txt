@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:valencia_cf_matches
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://dbpedia.org/property/city	http://dbpedia.org/resource/madrid
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:copa_del_rey_finals
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:getafe_cf_matches
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://dbpedia.org/property/referee	http://dbpedia.org/resource/alberto_undiano_mallenco
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/vicente_calderón_stadium
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/2007_copa_del_rey_final
+http://dbpedia.org/resource/2008_copa_del_rey_final	http://dbpedia.org/property/combatant	http://dbpedia.org/resource/elsevier

@@ -1,0 +1,1 @@
+ <H> if_(glasvegas_song) <R> birthplace <T> james_allan_(musician) <H> if_(glasvegas_song) <R> type <T> http://www.wikidata.org/entity/q134556 <H> if_(glasvegas_song) <R> type <T> musicalwork

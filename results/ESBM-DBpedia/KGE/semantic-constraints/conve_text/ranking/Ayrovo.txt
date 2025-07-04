@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/ayrovo	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/ayrovo	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/bulgaria
+http://dbpedia.org/resource/ayrovo	http://dbpedia.org/property/demographics1title	http://dbpedia.org/resource/expenditure
+http://dbpedia.org/resource/ayrovo	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/kardzhali_municipality
+http://dbpedia.org/resource/ayrovo	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/kardzhali_province

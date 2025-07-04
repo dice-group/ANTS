@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/zarudcze	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
+http://dbpedia.org/resource/zarudcze	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/zarudcze	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:populated_places_in_kara_region
+http://dbpedia.org/resource/zarudcze	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/zarudcze	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/zarudcze	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:assoli
+http://dbpedia.org/resource/zarudcze	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/zarudcze	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place

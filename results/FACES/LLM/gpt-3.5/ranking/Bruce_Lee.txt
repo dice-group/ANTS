@@ -1,0 +1,15 @@
+Bruce Lee	http://dbpedia.org/ontology/birthPlace	San Francisco, California, USA
+Bruce Lee	http://dbpedia.org/ontology/birthDate	November 27, 1940
+Bruce Lee	http://dbpedia.org/ontology/occupation	Actor
+Bruce Lee	http://dbpedia.org/ontology/occupation	Martial artist
+Bruce Lee	http://dbpedia.org/ontology/deathDate	July 20, 1973
+Bruce Lee	http://dbpedia.org/ontology/height	5 ft 7 in
+Bruce Lee	http://dbpedia.org/ontology/nationality	American
+Bruce Lee	http://dbpedia.org/ontology/weight	140 lbs
+Bruce Lee	http://dbpedia.org/ontology/knownFor	Jeet Kune Do
+Bruce Lee	http://dbpedia.org/ontology/knownFor	Enter the Dragon
+Bruce Lee	http://dbpedia.org/ontology/spouse	Linda Lee Cadwell
+Bruce Lee	http://dbpedia.org/ontology/ethnicity	Chinese
+Bruce Lee	http://dbpedia.org/ontology/children	Brandon Lee
+Bruce Lee	http://dbpedia.org/ontology/children	Shannon Lee
+Bruce Lee	http://dbpedia.org/ontology/awards	Hong Kong Film Award for Best Actor

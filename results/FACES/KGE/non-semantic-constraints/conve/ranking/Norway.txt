@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+http://dbpedia.org/resource/norway	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/tore_schei
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/regionserved	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/norway	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/norway
+http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/unitary_state

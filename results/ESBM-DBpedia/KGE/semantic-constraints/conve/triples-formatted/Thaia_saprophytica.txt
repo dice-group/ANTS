@@ -1,0 +1,1 @@
+ <H> thaia_saprophytica <R> subject <T> category:epidendroideae <H> thaia_saprophytica <R> authority <T> seidenf. <H> thaia_saprophytica <R> subject <T> category:orchids_of_laos <H> thaia_saprophytica <R> subject <T> category:myco-heterotrophic_orchids

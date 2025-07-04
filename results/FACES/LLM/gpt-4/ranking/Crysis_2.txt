@@ -1,0 +1,22 @@
+Crysis 2	http://dbpedia.org/ontology/genre	First-person shooter
+Crysis 2	http://dbpedia.org/ontology/producer	Crytek
+Crysis 2	http://dbpedia.org/ontology/releaseDate	2011-03-22
+Crysis 2	http://dbpedia.org/ontology/distributor	Electronic Arts
+Crysis 2	http://dbpedia.org/ontology/publisher	Electronic Arts
+Crysis 2	http://dbpedia.org/ontology/developer	Crytek
+Crysis 2	http://dbpedia.org/ontology/engine	CryEngine 3
+Crysis 2	http://dbpedia.org/ontology/series	Crysis
+Crysis 2	http://dbpedia.org/ontology/composer	Borislav Slavov
+Crysis 2	http://dbpedia.org/ontology/operatingSystem	Windows
+Crysis 2	http://dbpedia.org/ontology/mediaType	Video game
+Crysis 2	http://dbpedia.org/ontology/latestReleaseVersion	1.9
+Crysis 2	http://dbpedia.org/ontology/programmingLanguage	C++
+Crysis 2	http://dbpedia.org/ontology/latestReleaseDate	2011-03-22
+Crysis 2	http://dbpedia.org/ontology/platform	Microsoft Windows
+Crysis 2	http://dbpedia.org/ontology/platform	PlayStation 3
+Crysis 2	http://dbpedia.org/ontology/platform	Xbox 360
+Crysis 2	http://dbpedia.org/ontology/gameMode	Multiplayer
+Crysis 2	http://dbpedia.org/ontology/softwareVersion	1.9
+Crysis 2	http://dbpedia.org/ontology/awards	BAFTA Games Award for Audio Achievement
+Crysis 2	http://dbpedia.org/ontology/precededBy	Crysis
+Crysis 2	http://dbpedia.org/ontology/followedBy	Crysis 3

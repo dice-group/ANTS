@@ -1,0 +1,1 @@
+< pad > The kotumachagi is a populated place in the county of Dehgolan. It has an object 100000000, an http: / / schema.org / place and an http: / / www.w3.org / 2002 / 07 / owl # thing. kotumachagi died in the village of Dehgolan County. < / s >

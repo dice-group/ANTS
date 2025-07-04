@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/matthew_mcconaughey
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/governmenttype	http://dbpedia.org/resource/representative_democracy
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/leadername	http://dbpedia.org/resource/danny_faure
+http://dbpedia.org/resource/seychelles	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/seychelles
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/name	http://dbpedia.org/resource/manchester_city_f.c.

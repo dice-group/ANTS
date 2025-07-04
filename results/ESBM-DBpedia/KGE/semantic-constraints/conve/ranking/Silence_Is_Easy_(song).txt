@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2003_singles
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_james_stelfox
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:starsailor_(band)_songs
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_barry_westhead
+http://dbpedia.org/resource/silence_is_easy_(song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_james_walsh_(musician)
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/property/label	http://dbpedia.org/resource/emi_records
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/property/label	http://dbpedia.org/resource/capitol_records
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/ontology/artist	http://dbpedia.org/resource/starsailor_(band)
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/ontology/album	http://dbpedia.org/resource/silence_is_easy
+http://dbpedia.org/resource/silence_is_easy_(song)	http://dbpedia.org/property/prevtitle	http://dbpedia.org/resource/poor_misguided_fool

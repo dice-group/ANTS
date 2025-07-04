@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/rwanda
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/south_sudan
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/writer	http://dbpedia.org/ontology/river
+http://dbpedia.org/resource/nile	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/stream
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/source2location	http://dbpedia.org/resource/lake_tana
+http://dbpedia.org/resource/nile	http://dbpedia.org/ontology/firstwinner	http://dbpedia.org/resource/egypt
+http://dbpedia.org/resource/nile	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:geography_of_ancient_egypt
+http://dbpedia.org/resource/nile	http://dbpedia.org/property/source2location	http://dbpedia.org/resource/ethiopia

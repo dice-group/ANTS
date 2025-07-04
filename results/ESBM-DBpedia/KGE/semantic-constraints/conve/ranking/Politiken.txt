@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:newspapers_published_in_copenhagen
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1884_establishments_in_denmark
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:social_liberalism
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:newspapers_established_in_1884
+http://dbpedia.org/resource/politiken	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/daily_newspaper
+http://dbpedia.org/resource/politiken	http://dbpedia.org/property/language	http://dbpedia.org/resource/danish_language
+http://dbpedia.org/resource/politiken	http://dbpedia.org/property/publisher	http://dbpedia.org/resource/jp/politikens_hus
+http://dbpedia.org/resource/politiken	http://dbpedia.org/ontology/headquarter	http://dbpedia.org/resource/denmark
+http://dbpedia.org/resource/politiken	http://dbpedia.org/property/editor	http://dbpedia.org/resource/christian_jensen_(journalist)
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work

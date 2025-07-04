@@ -1,0 +1,1 @@
+ <H> battle_of_zacatecas_(1914) <R> type <T> societalevent <H> battle_of_zacatecas_(1914) <R> type <T> militaryconflict <H> battle_of_zacatecas_(1914) <R> type <T> http://www.w3.org/2002/07/owl#thing <H> battle_of_zacatecas_(1914) <R> type <T> http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event <H> battle_of_zacatecas_(1914) <R> type <T> event

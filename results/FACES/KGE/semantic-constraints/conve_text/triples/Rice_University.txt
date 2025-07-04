@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/vicepresident	http://dbpedia.org/resource/reginald_desroches
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/accreditation	http://dbpedia.org/resource/southern_association_of_colleges_and_schools
+http://dbpedia.org/resource/rice_university	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:rice_university
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/sportingaffiliations	http://dbpedia.org/resource/conference_usa
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/houston

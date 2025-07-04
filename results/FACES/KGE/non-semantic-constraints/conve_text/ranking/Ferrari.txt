@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/property/type	http://dbpedia.org/resource/joint-stock_company
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/property/keypeople	http://dbpedia.org/resource/luca_cordero_di_montezemolo
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/property/keypeople	http://dbpedia.org/resource/luca_di_montezemolo
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/property/locationcountry	http://dbpedia.org/resource/italy
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/leipzig_university

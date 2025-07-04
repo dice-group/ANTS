@@ -1,0 +1,41 @@
+Benjamin Franklin	http://dbpedia.org/ontology/birthPlace	Boston
+Benjamin Franklin	http://dbpedia.org/ontology/occupation	Writer
+Benjamin Franklin	http://dbpedia.org/ontology/occupation	Politician
+Benjamin Franklin	http://dbpedia.org/ontology/occupation	Inventor
+Benjamin Franklin	http://dbpedia.org/ontology/occupation	Scientist
+Benjamin Franklin	http://dbpedia.org/ontology/occupation	Printer
+Benjamin Franklin	http://dbpedia.org/ontology/occupation	Diplomat
+Benjamin Franklin	http://dbpedia.org/ontology/deathPlace	Philadelphia
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/isaac_norris_(statesman)
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/property/successor	http://dbpedia.org/resource/thomas_jefferson
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/property/successor	http://dbpedia.org/resource/william_smith_(episcopal_priest)
+Benjamin Franklin	http://dbpedia.org/ontology/almaMater	University of St Andrews
+Benjamin Franklin	http://dbpedia.org/ontology/award	Copley Medal
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/ontology/party	http://dbpedia.org/resource/independent_politician
+Benjamin Franklin	http://dbpedia.org/ontology/nationality	American
+Benjamin Franklin	http://dbpedia.org/ontology/education	"self-taught"
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/property/founded	http://dbpedia.org/resource/abiah_folger
+Benjamin Franklin	http://dbpedia.org/ontology/knownFor	Founding Fathers of the United States
+Benjamin Franklin	http://dbpedia.org/ontology/spouse	Deborah Read
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/sarah_franklin_bache
+Benjamin Franklin	http://dbpedia.org/ontology/residence	Philadelphia
+Benjamin Franklin	http://dbpedia.org/ontology/parent	Josiah Franklin
+Benjamin Franklin	http://dbpedia.org/ontology/parent	Abiah Folger
+Benjamin Franklin	http://dbpedia.org/ontology/influencedBy	John Locke
+Benjamin Franklin	http://dbpedia.org/ontology/notableWork	Experiments and Observations on Electricity
+Benjamin Franklin	http://dbpedia.org/ontology/influenced	Thomas Jefferson
+Benjamin Franklin	http://dbpedia.org/ontology/signature	http://dbpedia.org/resource/File:BenFranklinDuplessis.jpg
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/property/lyricist	http://dbpedia.org/resource/josiah_franklin
+Benjamin Franklin	http://dbpedia.org/ontology/philosophicalSchool	Deism
+http://dbpedia.org/resource/benjamin_franklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:continental_congressmen_from_pennsylvania
+http://dbpedia.org/resource/benjamin_franklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:philosophers_of_science
+http://dbpedia.org/resource/benjamin_franklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:members_of_the_american_philosophical_society
+http://dbpedia.org/resource/benjamin_franklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:independent_scientists
+http://dbpedia.org/resource/benjamin_franklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:hall_of_fame_for_great_americans_inductees
+http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/ontology/restingplace	http://dbpedia.org/resource/christ_church_burial_ground
+Benjamin Franklin	http://dbpedia.org/ontology/children	William Franklin
+Benjamin Franklin	http://dbpedia.org/ontology/children	Francis Folger Franklin
+Benjamin Franklin	http://dbpedia.org/ontology/children	Sarah Franklin Bache
+Benjamin Franklin	http://dbpedia.org/ontology/sibling	James Franklin
+Benjamin Franklin	http://dbpedia.org/ontology/memberOf	American Philosophical Society
+Benjamin Franklin	http://dbpedia.org/ontology/religiousBelief	Deism

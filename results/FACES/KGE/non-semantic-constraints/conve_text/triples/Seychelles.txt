@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/matthew_mcconaughey
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/governmenttype	http://dbpedia.org/resource/representative_democracy
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/leadername	http://dbpedia.org/resource/danny_faure
+http://dbpedia.org/resource/seychelles	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/seychelles
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/name	http://dbpedia.org/resource/manchester_city_f.c.
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/sovereigntytype	http://dbpedia.org/resource/independence
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/leadername	http://dbpedia.org/resource/james_michel
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/languages	http://dbpedia.org/resource/seychellois_creole
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/izabella_scorupco
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/aladdin_(1992_disney_film)
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/governmenttype	http://dbpedia.org/resource/presidential_system
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/mouthcountry	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/callingcode	http://dbpedia.org/resource/telephone_numbers_in_seychelles
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/capital	http://dbpedia.org/resource/victoria,_seychelles

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/property/house	http://dbpedia.org/resource/cao_wei
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/property/students	http://dbpedia.org/resource/jesse_glover
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/property/associatedacts	http://dbpedia.org/resource/o'hooley_&_tidow
+http://dbpedia.org/resource/lucy_ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/property/language	http://dbpedia.org/resource/dutch_language
+http://dbpedia.org/resource/lucy_ward_(musician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_littleover
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/derby
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/ontology/species	http://dbpedia.org/class/yago/group100031264
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/navigator_records
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/ontology/instrument	http://dbpedia.org/resource/concertina

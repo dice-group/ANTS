@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/the_cosby_show	http://dbpedia.org/property/starring	http://dbpedia.org/resource/sabrina_le_beauf
+http://dbpedia.org/resource/the_cosby_show	http://dbpedia.org/property/starring	http://dbpedia.org/resource/phylicia_rash%c4%81d
+http://dbpedia.org/resource/the_cosby_show	http://dbpedia.org/property/starring	http://dbpedia.org/resource/erika_alexander
+http://dbpedia.org/resource/the_cosby_show	http://dbpedia.org/property/camera	http://dbpedia.org/resource/multiple-camera_setup
+http://dbpedia.org/resource/the_cosby_show	http://dbpedia.org/property/camera	http://dbpedia.org/resource/videotape

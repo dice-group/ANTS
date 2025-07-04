@@ -1,0 +1,3 @@
+http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/james_allan_(musician)
+http://dbpedia.org/resource/if_(glasvegas_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q134556
+http://dbpedia.org/resource/if_(glasvegas_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork

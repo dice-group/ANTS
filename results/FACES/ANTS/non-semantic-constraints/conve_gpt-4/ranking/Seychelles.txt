@@ -1,0 +1,27 @@
+Seychelles	http://dbpedia.org/ontology/country	Seychelles
+Seychelles	http://dbpedia.org/ontology/timeZone	Seychelles Time
+Seychelles	http://dbpedia.org/ontology/populationTotal	98910
+Seychelles	http://dbpedia.org/ontology/areaTotal	459
+Seychelles	http://dbpedia.org/ontology/motto	"Finis Coronat Opus"
+Seychelles	http://dbpedia.org/ontology/militaryBranch	Seychelles People's Defence Force
+Seychelles	http://dbpedia.org/ontology/governmentType	Unitary presidential republic
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/languages	http://dbpedia.org/resource/seychellois_creole
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/capital	http://dbpedia.org/resource/victoria,_seychelles
+Seychelles	http://dbpedia.org/ontology/demonym	Seychellois
+Seychelles	http://dbpedia.org/ontology/capital	Victoria
+Seychelles	http://dbpedia.org/ontology/largestCity	Victoria
+Seychelles	http://dbpedia.org/ontology/currency	Seychellois rupee
+Seychelles	http://dbpedia.org/ontology/officialLanguage	French
+Seychelles	http://dbpedia.org/ontology/anthem	Koste Seselwa
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/poland
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/leadername	http://dbpedia.org/resource/danny_faure
+http://dbpedia.org/resource/seychelles	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/seychelles
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/leadername	http://dbpedia.org/resource/james_michel
+http://dbpedia.org/resource/seychelles	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/seychelles?oldid=547744333
+Seychelles	http://dbpedia.org/ontology/callingCode	+248
+Seychelles	http://dbpedia.org/ontology/iso3166Code	SC
+Seychelles	http://dbpedia.org/ontology/grossDomesticProductNominal	$1.061 billion
+Seychelles	http://dbpedia.org/ontology/grossDomesticProductNominalPerCapita	16632.12
+Seychelles	http://dbpedia.org/ontology/continent	Africa
+Seychelles	http://dbpedia.org/ontology/foundationDate	1976-06-29
+Seychelles	http://dbpedia.org/ontology/highestPoint	Morne Seychellois

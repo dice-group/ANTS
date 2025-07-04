@@ -1,0 +1,15 @@
+Manchester City F.C.	founded_in	1880
+Manchester City F.C.	home_ground	Etihad Stadium
+Manchester City F.C.	manager	Pep Guardiola
+Manchester City F.C.	stadium_capacity	55,097
+Manchester City F.C.	league_champions	7
+Manchester City F.C.	current_captain	Fernandinho
+Manchester City F.C.	rival_club	Manchester United
+Manchester City F.C.	top_scorer	Sergio Agüero
+Manchester City F.C.	current_season_position	1st
+Manchester City F.C.	most_appearances	Alan Oakes
+Manchester City F.C.	primary_color	Blue
+Manchester City F.C.	secondary_color	White
+Manchester City F.C.	trophy_cabinet	Premier League, FA Cup, EFL Cup
+Manchester City F.C.	sponsor	Etihad Airways
+Manchester City F.C.	current_squad_size	26

@@ -1,0 +1,1 @@
+< pad > Texas is located in the United States, and has a population of 29145505 people. Texas' capital is Austin, and its official language is English. The state's capital is Austin, and it has a UTCOffset of -6. Greg Abbott is the leader of Texas, and its border is in Louisiana. < / s >

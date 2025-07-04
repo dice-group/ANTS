@@ -1,0 +1,15 @@
+The Cosby Show	http://dbpedia.org/ontology/hasCastMember	Bill Cosby
+The Cosby Show	http://dbpedia.org/ontology/hasCastMember	Phylicia Rashad
+The Cosby Show	http://dbpedia.org/ontology/hasCastMember	Malcolm-Jamal Warner
+The Cosby Show	http://dbpedia.org/ontology/hasGenre	Sitcom
+The Cosby Show	http://dbpedia.org/ontology/hasSeasons	8
+The Cosby Show	http://dbpedia.org/ontology/hasEpisodes	202
+The Cosby Show	http://dbpedia.org/ontology/hasSetting	Brooklyn, New York
+The Cosby Show	http://dbpedia.org/ontology/hasThemeSong	Kiss Me
+The Cosby Show	http://dbpedia.org/ontology/hasAwards	6 Emmy Awards
+The Cosby Show	http://dbpedia.org/ontology/hasSpinOff	A Different World
+The Cosby Show	http://dbpedia.org/ontology/hasLegacy	Influential in changing the portrayal of African-Americans on television
+The Cosby Show	http://dbpedia.org/ontology/hasCreator	Bill Cosby
+The Cosby Show	http://dbpedia.org/ontology/hasOriginalNetwork	NBC
+The Cosby Show	http://dbpedia.org/ontology/hasRunTime	22 minutes per episode
+The Cosby Show	http://dbpedia.org/ontology/hasPremiereDate	September 20, 1984

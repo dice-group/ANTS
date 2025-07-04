@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/family_feud	http://dbpedia.org/ontology/director	http://dbpedia.org/resource/paul_alter
+http://dbpedia.org/resource/family_feud	http://dbpedia.org/property/distributor	http://dbpedia.org/resource/all_american_television
+http://dbpedia.org/resource/family_feud	http://dbpedia.org/property/presenter	http://dbpedia.org/resource/louie_anderson
+http://dbpedia.org/resource/family_feud	http://dbpedia.org/property/presenter	http://dbpedia.org/resource/john_o'hurley
+http://dbpedia.org/resource/family_feud	http://dbpedia.org/property/presenter	http://dbpedia.org/resource/ray_combs

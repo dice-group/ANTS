@@ -1,0 +1,20 @@
+(Amphisbaena ridleyi, species, Amphisbaena)
+Amphisbaena ridleyi, genus, Amphisbaena
+Amphisbaena ridleyi, family, Amphisbaenidae.
+Amphisbaena ridleyi, order, Squamata
+(Amphisbaena ridleyi, class, Reptilia)
+(Amphisbaena ridleyi, phylum, Chordata)
+(Amphisbaena ridleyi, kingdom, Animalia)
+Amphisbaena ridleyi, conservationStatus, LC.
+(Amphisbaena ridleyi, habitat, Fernando de Noronha)
+(Amphisbaena ridleyi, distribution, Fernando de Noronha)
+(Amphisbaena ridleyi, binomialAuthority, Boulenger, 1902)
+Amphisbaena ridleyi, isPartOf, Squamata
+Amphisbaena ridleyi, synonym, "Amphisbaena silvestrii"
+Amphisbaena ridleyi, length, 650 mm
+(Amphisbaena ridleyi, populationTotal, ?)
+Amphisbaena ridleyi, related, Squamata.
+Amphisbaena ridleyi, precededBy, Amphisbaena alba.
+Amphisbaena ridleyi, followedBy, Amphisbaena uroxena.
+Amphisbaena ridleyi, locatedInArea, Brazil.
+Amphisbaena ridleyi, produces, ?

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:major_league_baseball_pitchers
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:rome_braves_players
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:tri-city_valleycats_players
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mississippi_braves_players
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:lancaster_jethawks_players
+http://dbpedia.org/resource/dallas_keuchel	http://dbpedia.org/ontology/position	http://dbpedia.org/resource/pitcher
+http://dbpedia.org/resource/dallas_keuchel	http://dbpedia.org/property/after	http://dbpedia.org/resource/chris_sale
+http://dbpedia.org/resource/dallas_keuchel	http://dbpedia.org/property/stat2label	http://dbpedia.org/resource/earned_run_average
+http://dbpedia.org/resource/dallas_keuchel	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/tulsa,_oklahoma
+http://dbpedia.org/resource/dallas_keuchel	http://dbpedia.org/property/title	http://dbpedia.org/resource/major_league_baseball_pitcher_of_the_month_award

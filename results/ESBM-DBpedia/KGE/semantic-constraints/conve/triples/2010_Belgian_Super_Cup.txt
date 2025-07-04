@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/2010_belgian_super_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/2010_belgian_super_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/2010_belgian_super_cup	http://dbpedia.org/property/team	http://dbpedia.org/resource/r.s.c._anderlecht
+http://dbpedia.org/resource/2010_belgian_super_cup	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/anderlecht
+http://dbpedia.org/resource/2010_belgian_super_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:k.a.a._gent_matches
+http://dbpedia.org/resource/2010_belgian_super_cup	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/constant_vanden_stock_stadium
+http://dbpedia.org/resource/2010_belgian_super_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:july_2010_sports_events_in_europe
+http://dbpedia.org/resource/2010_belgian_super_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2010–11_in_belgian_football
+http://dbpedia.org/resource/2010_belgian_super_cup	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/k.a.a._gent
+http://dbpedia.org/resource/2010_belgian_super_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:belgian_supercup

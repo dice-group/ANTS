@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/property/stat1label	http://dbpedia.org/resource/point_(basketball)
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/adrian_griffin__careerstation__7
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/property/cteam	http://dbpedia.org/resource/oklahoma_city_thunder
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:roseto_sharks_players
+http://dbpedia.org/resource/adrian_griffin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/basketballplayer
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:21st-century_african-american_sportspeople
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/continental_basketball_association_mvp_award
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/property/house	http://dbpedia.org/resource/small_forward
+http://dbpedia.org/resource/adrian_griffin	http://dbpedia.org/property/team	http://dbpedia.org/resource/roseto_basket
+http://dbpedia.org/resource/adrian_griffin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:shooting_guards

@@ -1,0 +1,15 @@
+Yukon River	http://dbpedia.org/ontology/knownFor	Moose population
+Yukon River	http://dbpedia.org/ontology/hasLength	1,979 miles
+Yukon River	http://dbpedia.org/ontology/flowsThrough	Canada and United States
+Yukon River	http://dbpedia.org/ontology/source	Lewes Lake
+Yukon River	http://dbpedia.org/ontology/hasTributaries	Porcupine River
+Yukon River	http://dbpedia.org/ontology/dischargesInto	Bering Sea
+Yukon River	http://dbpedia.org/ontology/drains	Yukon-Koyukuk
+Yukon River	http://dbpedia.org/ontology/averageDischarge	2,180 cubic meters per second
+Yukon River	http://dbpedia.org/ontology/hasFishSpecies	Chinook salmon
+Yukon River	http://dbpedia.org/ontology/travelsThrough	Alaska
+Yukon River	http://dbpedia.org/ontology/largestTributary	Tanana River
+Yukon River	http://dbpedia.org/ontology/historicalImportance	Gold Rush
+Yukon River	http://dbpedia.org/ontology/ecosystemSupport	Boreal forests
+Yukon River	http://dbpedia.org/ontology/hasNativeCommunities	Koyukon
+Yukon River	http://dbpedia.org/ontology/popularRecreationalSpot	Canoeing and kayaking

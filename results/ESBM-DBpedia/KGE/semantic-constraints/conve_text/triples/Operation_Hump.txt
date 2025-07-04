@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/organisation
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/property/location	http://dbpedia.org/resource/adelaide
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/ellis_w._williamson
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/melbourne
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/vietnam_war
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1965_in_vietnam
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/militaryconflict
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/property/firstdriver	http://dbpedia.org/resource/innes_ireland
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_vietnam_war_involving_new_zealand

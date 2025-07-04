@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/andrew_kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english_christian_religious_leaders
+http://dbpedia.org/resource/andrew_kippis	http://dbpedia.org/property/coachteam	http://dbpedia.org/resource/wheaton_thunder_football
+http://dbpedia.org/resource/andrew_kippis	http://dbpedia.org/property/doctoraladvisor	http://dbpedia.org/resource/jonathan_austyn
+http://dbpedia.org/resource/andrew_kippis	http://dbpedia.org/property/story	http://dbpedia.org/resource/nan_commandery
+http://dbpedia.org/resource/andrew_kippis	http://dbpedia.org/property/language	http://dbpedia.org/resource/welsh_language
+http://dbpedia.org/resource/andrew_kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:18th-century_presbyterian_ministers
+http://dbpedia.org/resource/andrew_kippis	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/first_opium_war
+http://dbpedia.org/resource/andrew_kippis	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/andrew_kippis	http://dbpedia.org/property/president	http://dbpedia.org/resource/joe_biden
+http://dbpedia.org/resource/andrew_kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fellows_of_the_royal_society

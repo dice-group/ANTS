@@ -1,0 +1,1 @@
+< pad > The triathlon at the 2000 summer olympics is an event which is a form of societalevent. It was preceded by the triathlon at the 2004 summer olympics which took place in Men's home town of Windsor. The protocol for the olympics is http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # event. < / s >

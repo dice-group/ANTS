@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/hagar_wilde	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th-century_women_writers
+http://dbpedia.org/resource/hagar_wilde	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactorgeo
+http://dbpedia.org/resource/hagar_wilde	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/hagar_wilde	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/writer110794014
+http://dbpedia.org/resource/hagar_wilde	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1905_births
+http://dbpedia.org/resource/hagar_wilde	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_women_screenwriters
+http://dbpedia.org/resource/hagar_wilde	http://dbpedia.org/ontology/musicalartist	http://dbpedia.org/resource/fired_wife
+http://dbpedia.org/resource/hagar_wilde	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:place_of_birth_missing
+http://dbpedia.org/resource/hagar_wilde	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/causalagent100007347
+http://dbpedia.org/resource/hagar_wilde	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/hagar_wilde	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_television_writers

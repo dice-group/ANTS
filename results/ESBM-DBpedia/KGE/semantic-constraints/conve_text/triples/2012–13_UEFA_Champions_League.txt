@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2012–13_uefa_champions_league
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/south_africa
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uefa_champions_league_seasons
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/property/country	http://dbpedia.org/resource/costa_rica
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/tournament
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/yugoslav_front
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/property/referee	http://dbpedia.org/resource/charles_barette
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/property/title	http://dbpedia.org/resource/west_indian_national_cricket_captains
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/property/label	http://dbpedia.org/resource/magic_records
+http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/property/referee	http://dbpedia.org/resource/georges_hubrecht

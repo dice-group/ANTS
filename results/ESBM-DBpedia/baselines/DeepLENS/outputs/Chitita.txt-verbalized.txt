@@ -1,0 +1,1 @@
+< pad > The Chitita is part of the Arica y Parinacota region in the country of Chile. The type of Chitita is the http: / / www.dbpedia.org / class / yago / GeographicalArea108574314. The type of Chitita is the http: / / dbpedia.org / class / yago / AdministrativeDistrict1086308 and the http: / / www.dbpedia.org / ontology / Location < / s >

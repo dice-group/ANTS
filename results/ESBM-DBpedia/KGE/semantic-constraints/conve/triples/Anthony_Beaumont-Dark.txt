@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:conservative_party_(uk)_mps_for_english_constituencies
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:alumni_of_the_university_of_birmingham
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2006_deaths
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uk_mps_1983–1987
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/property/before	http://dbpedia.org/resource/tom_litterick
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:politicians_awarded_knighthoods
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/property/prizes	http://dbpedia.org/resource/departments_of_senegal
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/carl_berendsen__careerstation__1
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/property/title	http://dbpedia.org/resource/list_of_high_commissioners_of_new_zealand_to_australia
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event

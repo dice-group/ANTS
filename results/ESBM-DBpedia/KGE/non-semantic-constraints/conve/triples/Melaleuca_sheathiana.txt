@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/melaleuca_sheathiana	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:myrtales_of_australia
+http://dbpedia.org/resource/melaleuca_sheathiana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/plant
+http://dbpedia.org/resource/melaleuca_sheathiana	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/rosids
+http://dbpedia.org/resource/melaleuca_sheathiana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/melaleuca_sheathiana	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/animal
+http://dbpedia.org/resource/melaleuca_sheathiana	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/plant
+http://dbpedia.org/resource/melaleuca_sheathiana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
+http://dbpedia.org/resource/melaleuca_sheathiana	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/eudicots
+http://dbpedia.org/resource/melaleuca_sheathiana	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:melaleuca
+http://dbpedia.org/resource/melaleuca_sheathiana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/melaleuca_sheathiana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q756
+http://dbpedia.org/resource/melaleuca_sheathiana	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/flowering_plant

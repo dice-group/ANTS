@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_chris_robinson_(singer)
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:the_black_crowes_songs
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1992_songs
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_recordings_(record_label)_singles
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/rich_robinson
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/george_drakoulias
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/ontology/artist	http://dbpedia.org/resource/the_black_crowes
+http://dbpedia.org/resource/sting_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/ontology/previouswork	http://dbpedia.org/resource/remedy_(the_black_crowes_song)
+http://dbpedia.org/resource/sting_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/song
