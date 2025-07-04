@@ -102,7 +102,13 @@ ESSUM is a silver-standard dataset that combines entities from ESBM-DBpedia and 
 
 ### ESSUM-ABSENT
 
-Derived by randomly removing 20% of triples from ESBM-DBpedia and FACES. These omitted triples serve as ground-truth absent triples to evaluate a model’s ability to infer missing facts.
+ESSUM-ABSENT is derived by randomly removing 20% of triples from ESBM-DBpedia and FACES. These omitted triples serve as ground-truth absent triples to evaluate a model’s ability to infer missing facts.
+
+- **ESSUM-ABSENT-DBpedia** (from ESBM-DBpedia):  
+  [https://github.com/dice-group/ANTS/tree/main/data/ESBM-DBpedia/ESSUM/absent](https://github.com/dice-group/ANTS/tree/main/data/ESBM-DBpedia/ESSUM/absent)
+
+- **ESSUM-ABSENT-FACES** (from FACES):  
+  [https://github.com/dice-group/ANTS/tree/main/data/FACES/ESSUM/absent](https://github.com/dice-group/ANTS/tree/main/data/FACES/ESSUM/absent)
 
 
 ---
