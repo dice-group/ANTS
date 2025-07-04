@@ -18,7 +18,7 @@ def get_directories(system_, dataset, base_model, semantic_constraints):
     dir_ = "/semantic-constraints" if semantic_constraints else "/non-semantic-constraints"
     if base_model in ["baselines", "LLM"]:
         dir_ = ""
-    evaluation_dir = f"../../data/{dataset}/predictions/{base_model}{dir_}/{system_}"
+    evaluation_dir = f"../../results/{dataset}/{base_model}{dir_}/{system_}"
     system_dir = f"{evaluation_dir}/evaluation"
     
     return evaluation_dir, system_dir
@@ -46,7 +46,7 @@ def process_references(hyp_entities, system_dir, dataset):
             entity_filename = hyp_entity.split("/")[-1].replace(".txt-verbalized.txt", "")
             print(f"Processing reference: {num + 1}, {entity_filename}")
 
-            ref_file_path = f"../../data/{dataset}/ESSUM/silver-standard-summaries/{entity_filename}"
+            ref_file_path = f"../../data.v.1.2/{dataset}/ESSUM/silver-standard-summaries/{entity_filename}.txt"
             with open(ref_file_path, "r") as file:
                 content = file.readlines()
                 sentences = " ".join([line.replace("\n", "").replace("< pad >", "").replace("< / s >", "").replace("<s>", "").strip() for line in content]).strip()

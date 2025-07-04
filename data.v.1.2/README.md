@@ -28,14 +28,14 @@ We strongly recommend using this updated version for future experiments to ensur
 
 | System         | BLEU | METEOR | chrF++ | TER  | BLEURT |
 |----------------|------|--------|--------|------|--------|
-| **ESSUM_DBpedia** |      |        |        |      |        |
+| **ESSUM_DBpedia** |   |        |        |      |        |
 | ESA            | 4.04 | 0.13   | 0.28   | 2.05 | 0.36   |
 | AutoSUM        | 4.71 | 0.14   | 0.28   | 2.35 | 0.36   |
 | DeepLENS       | 4.80 | 0.14   | 0.29   | 1.90 | 0.37   |
 | GATES          | 4.63 | 0.14   | 0.28   | 1.83 | 0.37   |
 | **ANTS (ours)**| **5.87** | **0.15** | **0.30** | **1.69** | **0.37** |
-
-| **ESSUM_FACES**    |      |        |        |      |        |
+|                |      |        |        |      |        |
+| **ESSUM_FACES**|      |        |        |      |        |
 | ESA            | 3.58 | 0.10   | 0.21   | **1.13** | 0.34   |
 | AutoSUM        | 4.43 | 0.10   | 0.22   | 1.21 | 0.35   |
 | DeepLENS       | 3.15 | 0.09   | 0.20   | 1.13 | 0.33   |
