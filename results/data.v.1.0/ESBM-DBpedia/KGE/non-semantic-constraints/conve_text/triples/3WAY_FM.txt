@@ -1,0 +1,2 @@
+http://dbpedia.org/resource/3way_fm	http://dbpedia.org/ontology/ispartof	http://dbpedia.org/resource/community_radio
+http://dbpedia.org/resource/3way_fm	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:community_radio_stations_in_australia

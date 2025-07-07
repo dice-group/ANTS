@@ -1,0 +1,1 @@
+< pad > The convoy hx 156 is type of societalevent and is found in http: / / www.ontologydesignpatterns.org / ont / dul.owl # thing. It is type of event and comes under the category of http: / / www.w3.org / 2002 / 07 / owl # thing. < / s >

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/poland	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:countries_in_europe
+http://dbpedia.org/resource/poland	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:central_european_countries
+http://dbpedia.org/resource/poland	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:member_states_of_nato
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/currency	http://dbpedia.org/resource/polish_złoty
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/legislature	http://dbpedia.org/resource/parliament_of_poland
+http://dbpedia.org/resource/poland	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/poland__historicalevent__3
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/polish–lithuanian_commonwealth
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/history_of_poland_(1989–present)
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/partitions_of_poland
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/kingdom_of_poland

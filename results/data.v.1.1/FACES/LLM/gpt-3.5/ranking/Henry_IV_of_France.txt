@@ -1,0 +1,15 @@
+Henry IV of France	http://dbpedia.org/ontology/birthPlace	Pau, Kingdom of Navarre
+Henry IV of France	http://dbpedia.org/ontology/birthDate	December 13, 1553
+Henry IV of France	http://dbpedia.org/ontology/title	King of France
+Henry IV of France	http://dbpedia.org/ontology/deathDate	May 14, 1610
+Henry IV of France	http://dbpedia.org/ontology/successor	Louis XIII of France
+Henry IV of France	http://dbpedia.org/ontology/spouse	Marie de' Medici
+Henry IV of France	http://dbpedia.org/ontology/religion	Roman Catholic
+Henry IV of France	http://dbpedia.org/ontology/father	Antoine of Bourbon
+Henry IV of France	http://dbpedia.org/ontology/mother	Jeanne III of Navarre
+Henry IV of France	http://dbpedia.org/ontology/children	Louis XIII of France, Elizabeth of France
+Henry IV of France	http://dbpedia.org/ontology/reignStart	August 2, 1589
+Henry IV of France	http://dbpedia.org/ontology/reignEnd	May 14, 1610
+Henry IV of France	http://dbpedia.org/ontology/assassinated	Yes
+Henry IV of France	http://dbpedia.org/ontology/assassin	François Ravaillac
+Henry IV of France	http://dbpedia.org/ontology/legacy	Edict of Nantes, promoting religious tolerance

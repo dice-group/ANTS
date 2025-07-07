@@ -1,0 +1,33 @@
+Crysis 2	http://dbpedia.org/ontology/genre	First-person shooter
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/richard_k._morgan
+Crysis 2	http://dbpedia.org/ontology/producer	Crytek
+Crysis 2	http://dbpedia.org/ontology/releaseDate	2011-03-22
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/publisher	http://dbpedia.org/resource/electronic_arts
+Crysis 2	http://dbpedia.org/ontology/distributor	Electronic Arts
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/microsoft_windows
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/playstation_3
+Crysis 2	http://dbpedia.org/ontology/publisher	Electronic Arts
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/ontology/network	http://dbpedia.org/resource/nbc
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/composer	http://dbpedia.org/resource/lorne_balfe
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/composer	http://dbpedia.org/resource/hans_zimmer
+Crysis 2	http://dbpedia.org/ontology/developer	Crytek
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/modes	http://dbpedia.org/resource/single-player_video_game
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/religion	http://dbpedia.org/resource/mike_turner
+Crysis 2	http://dbpedia.org/ontology/engine	CryEngine 3
+Crysis 2	http://dbpedia.org/ontology/series	Crysis
+Crysis 2	http://dbpedia.org/ontology/composer	Borislav Slavov
+Crysis 2	http://dbpedia.org/ontology/operatingSystem	Windows
+Crysis 2	http://dbpedia.org/ontology/mediaType	Video game
+Crysis 2	http://dbpedia.org/ontology/latestReleaseVersion	1.9
+Crysis 2	http://dbpedia.org/ontology/programmingLanguage	C++
+Crysis 2	http://dbpedia.org/ontology/latestReleaseDate	2011-03-22
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/ontology/computingplatform	http://dbpedia.org/resource/xbox_360
+http://dbpedia.org/resource/crysis_2	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/crysis_2
+Crysis 2	http://dbpedia.org/ontology/platform	Microsoft Windows
+Crysis 2	http://dbpedia.org/ontology/platform	PlayStation 3
+Crysis 2	http://dbpedia.org/ontology/platform	Xbox 360
+Crysis 2	http://dbpedia.org/ontology/gameMode	Multiplayer
+Crysis 2	http://dbpedia.org/ontology/softwareVersion	1.9
+Crysis 2	http://dbpedia.org/ontology/awards	BAFTA Games Award for Audio Achievement
+Crysis 2	http://dbpedia.org/ontology/precededBy	Crysis
+Crysis 2	http://dbpedia.org/ontology/followedBy	Crysis 3

@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/ann_arbor,_michigan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:cities_in_washtenaw_county,_michigan
+http://dbpedia.org/resource/ann_arbor,_michigan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:geographical_articles_missing_image_alternative_text
+http://dbpedia.org/resource/ann_arbor,_michigan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1824_establishments_in_michigan_territory
+http://dbpedia.org/resource/ann_arbor,_michigan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:metro_detroit
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/municipal_clerk
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/city_council
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/list_of_counties_in_michigan
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/council–manager_government
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/politicalleader	http://dbpedia.org/resource/ann_arbor,_michigan__politicalfunction__1
+http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/politicalleader	http://dbpedia.org/resource/ann_arbor,_michigan__politicalfunction__3
+Ann Arbor	http://dbpedia.org/ontology/Michigan	populationTotal,  123851
+Ann Arbor	http://dbpedia.org/ontology/Michigan	areaCode,  734
+Ann Arbor	http://dbpedia.org/ontology/Michigan	postalCode,  48103-48109
+Ann Arbor	http://dbpedia.org/ontology/Michigan	isPartOf,  Michigan
+Ann Arbor	http://dbpedia.org/ontology/Michigan	country,  United States
+Ann Arbor	http://dbpedia.org/ontology/Michigan	timeZone,  Eastern Time Zone
+Ann Arbor	http://dbpedia.org/ontology/Michigan	foundingDate,  1824
+Ann Arbor	http://dbpedia.org/ontology/Michigan	leaderName,  Christopher Taylor
+Ann Arbor	http://dbpedia.org/ontology/Michigan	populationDensity,  1717.8
+Ann Arbor	http://dbpedia.org/ontology/Michigan	location,  Michigan
+Ann Arbor	http://dbpedia.org/ontology/Michigan	elevation,  256 meters
+Ann Arbor	http://dbpedia.org/ontology/Michigan	areaTotal,  74.33 km²
+Ann Arbor	http://dbpedia.org/ontology/Michigan	governmentType,  Council-Manager
+Ann Arbor	http://dbpedia.org/ontology/Michigan	twinCity,  Tübingen
+Ann Arbor	http://dbpedia.org/ontology/Michigan	politicalParty,  Democratic Party
+Ann Arbor	http://dbpedia.org/ontology/Michigan	officialLanguage,  English
+Ann Arbor	http://dbpedia.org/ontology/Michigan	utcOffset,  -5
+Ann Arbor	http://dbpedia.org/ontology/Michigan	nearbyFeatures,  University of Michigan
+Ann Arbor	http://dbpedia.org/ontology/Michigan	hasPart,  University of Michigan
+Ann Arbor	http://dbpedia.org/ontology/Michigan	river,  Huron River

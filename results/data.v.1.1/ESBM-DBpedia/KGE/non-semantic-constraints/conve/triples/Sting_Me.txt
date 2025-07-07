@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/the_black_crowes
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_rich_robinson
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/netherlands
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/william_lucas_(actor)
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_chris_robinson_(singer)
+http://dbpedia.org/resource/sting_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/sting_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/sting_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/sting_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_recordings_(record_label)_singles
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:the_black_crowes_songs

@@ -1,0 +1,1 @@
+< pad > The e.k. mawlong is an artist for the category of painters, and is located in the area of causalagent100007347. Located in the area of http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # naturalperson, e.k. mawlong has an object of 100000000000, and is an http: / / www.xmlns.com / foaf / 1 / person. < / s >

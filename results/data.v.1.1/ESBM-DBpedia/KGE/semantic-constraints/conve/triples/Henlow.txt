@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/henlow	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/village
+http://dbpedia.org/resource/henlow	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
+http://dbpedia.org/resource/henlow	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/henlow	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
+http://dbpedia.org/resource/henlow	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:central_bedfordshire_district
+http://dbpedia.org/resource/henlow	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_kingdom
+http://dbpedia.org/resource/henlow	http://dbpedia.org/property/southwest	http://dbpedia.org/resource/colchester
+http://dbpedia.org/resource/henlow	http://dbpedia.org/property/southwest	http://dbpedia.org/resource/stratford_st_mary
+http://dbpedia.org/resource/henlow	http://dbpedia.org/property/southwest	http://dbpedia.org/resource/east_bergholt
+http://dbpedia.org/resource/henlow	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/countries_of_the_world

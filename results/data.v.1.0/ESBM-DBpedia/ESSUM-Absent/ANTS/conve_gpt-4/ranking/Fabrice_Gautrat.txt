@@ -1,0 +1,21 @@
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:north_american_soccer_league_players
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:orange_county_blues_fc_players
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/fabrice_gautrat	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:atlanta_silverbacks_players
+Fabrice Gautrat	http://dbpedia.org/ontology/careerStation	FC Martigues
+Fabrice Gautrat	http://dbpedia.org/ontology/birthPlace	La Rochelle
+Fabrice Gautrat	http://dbpedia.org/ontology/numberOfGoals	0
+Fabrice Gautrat	http://dbpedia.org/ontology/numberOfMatches	0
+Fabrice Gautrat	http://dbpedia.org/ontology/birthDate	1980-09-28
+Fabrice Gautrat	http://dbpedia.org/ontology/birthDate	1981-01-21
+Fabrice Gautrat	http://dbpedia.org/ontology/position	Midfielder
+Fabrice Gautrat	http://dbpedia.org/ontology/formerTeam	USL Dunkerque
+Fabrice Gautrat	http://dbpedia.org/ontology/nationality	France
+Fabrice Gautrait	http://dbpedia.org/ontology/club	Stade Lavallois
+Fabrice Gautrat	http://dbpedia.org/ontology/associate	Yoann Gourcuff
+http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/the_master's_college
+Fabrice Gautrat	http://dbpedia.org/ontology/team	FC Libourne
+Fabrice Gautrat	http://dbpedia.org/ontology/goals	0
+Fabrice Gautrat	http://dbpedia.org/ontology/youthYears	1995-1996
+Fabrice Gautrat	http://dbpedia.org/ontology/youthClubs	Tours FC
+Fabrice Gautrat	http://dbpedia.org/ontology/competingIn	Ligue 2

@@ -1,0 +1,1 @@
+ <H> usain_bolt <R> birthplace <T> jamaica <H> usain_bolt <R> placeofbirth <T> trelawny_parish,_jamaica <H> usain_bolt <R> residence <T> kingston,_jamaica <H> usain_bolt <R> placeofbirth <T> trelawny_parish

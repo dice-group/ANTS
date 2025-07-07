@@ -1,0 +1,15 @@
+Usain Bolt	hasAge	34
+Usain Bolt	hasHeight	1.95
+Usain Bolt	hasWeight	94
+Usain Bolt	hasNationality	Jamaican
+Usain Bolt	hasGoldMedals	8
+Usain Bolt	hasSilverMedals	2
+Usain Bolt	hasBronzeMedals	0
+Usain Bolt	hasWorldRecords	3
+Usain Bolt	hasEvent	100m
+Usain Bolt	hasEvent	200m
+Usain Bolt	hasEvent	4x100m relay
+Usain Bolt	hasNickname	Lightning Bolt
+Usain Bolt	hasCoach	Glen Mills
+Usain Bolt	hasRetirementDate	August 2017
+Usain Bolt	hasPersonalBest100m	9.58 seconds

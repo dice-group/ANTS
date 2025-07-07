@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/original_sin_(2001_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_mystery_drama_films
+http://dbpedia.org/resource/original_sin_(2001_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_with_screenplays_by_michael_cristofer
+http://dbpedia.org/resource/original_sin_(2001_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_romantic_drama_films
+Original Sin 2001 film	http://dbpedia.org/ontology/country	United States
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/angelina_jolie
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/thomas_jane
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/antonio_banderas
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/jack_thompson_(actor)
+Original Sin 2001 film	http://dbpedia.org/ontology/starring	Angelina Jolie
+Original Sin 2001 film	http://dbpedia.org/ontology/genre	Thriller
+Original Sin 2001 film	http://dbpedia.org/ontology/writer	Cornell Woolrich
+Original Sin 2001 film	http://dbpedia.org/ontology/runtime	118 minutes
+Original Sin 2001 film	http://dbpedia.org/ontology/producer	Denise Di Novi
+Original Sin 2001 film	http://dbpedia.org/ontology/releaseDate	2001-08-03
+Original Sin 2001 film	http://dbpedia.org/ontology/director	Michael Cristofer
+Original Sin 2001 film	http://dbpedia.org/ontology/language	English
+Original Sin 2001 film	http://dbpedia.org/ontology/distributor	Metro-Goldwyn-Mayer
+Original Sin 2001 film	http://dbpedia.org/ontology/musicComposer	Terence Blanchard
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/rodrigo_prieto
+Original Sin 2001 film	http://dbpedia.org/ontology/cinematography	Rodrigo Prieto
+Original Sin 2001 film	http://dbpedia.org/ontology/productionCompany	Metro-Goldwyn-Mayer
+Original Sin 2001 film	http://dbpedia.org/ontology/editing	Luis Colina
+Original Sin 2001 film	http://dbpedia.org/ontology/budget	$42 million
+Original Sin 2001 film	http://dbpedia.org/ontology/gross	$10, 019, 109
+Original Sin 2001 film	http://dbpedia.org/ontology/basedOn	Waltz into Darkness
+http://dbpedia.org/resource/original_sin_(2001_film)	http://dbpedia.org/ontology/musiccomposer	http://dbpedia.org/resource/terence_blanchard
+http://dbpedia.org/resource/original_sin_(2001_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+Original Sin 2001 film	http://dbpedia.org/ontology/filmLocation	Mexico
+Original Sin 2001 film	http://dbpedia.org/ontology/screenplay	Michael Cristofer
+Original Sin 2001 film	http://dbpedia.org/ontology/costumeDesigner	Dona Granata.

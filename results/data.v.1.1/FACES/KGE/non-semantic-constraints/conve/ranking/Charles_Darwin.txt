@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/charles_darwin	http://xmlns.com/foaf/0.1/depiction	http://upload.wikimedia.org/wikipedia/commons/2/2e/charles_darwin_seated_crop.jpg
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/influenced	http://dbpedia.org/resource/joseph_dalton_hooker
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/influenced	http://dbpedia.org/resource/thomas_henry_huxley
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/influencedby	http://dbpedia.org/resource/alexander_von_humboldt
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/influencedby	http://dbpedia.org/resource/charles_lyell

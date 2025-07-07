@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_involving_vietnam
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_vietnam_war_involving_australia
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:campaigns_of_the_vietnam_war
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1965_in_vietnam
+http://dbpedia.org/resource/operation_hump	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:conflicts_in_1965
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/battle100953559
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/act100030358
+http://dbpedia.org/resource/operation_hump	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/militaryaction100952963
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/conflict100958896
+http://dbpedia.org/resource/operation_hump	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/groupaction101080366

@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/radiostation
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/radiostation
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactor
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/organisation
+http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q15265344
+http://dbpedia.org/resource/3way_fm	http://dbpedia.org/ontology/headquarter	http://dbpedia.org/resource/community_radio

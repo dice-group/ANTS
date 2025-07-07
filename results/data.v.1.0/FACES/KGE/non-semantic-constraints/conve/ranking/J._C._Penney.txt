@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/starring	http://dbpedia.org/resource/aladdin_(1992_disney_film)
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/retail
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/tradedas	http://dbpedia.org/resource/s&p_500
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/j._c._penney
+http://dbpedia.org/resource/j._c._penney	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/j._c._penney

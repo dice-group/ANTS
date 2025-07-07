@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:polygram_filmed_entertainment_films
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1981_films
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_films
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:universal_pictures_films
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://dbpedia.org/ontology/producer	http://dbpedia.org/resource/jack_frost_sanders
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/artifact100021939

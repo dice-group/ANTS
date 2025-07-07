@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/walt_disney	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:producers_who_won_the_best_animated_short_academy_award
+http://dbpedia.org/resource/walt_disney	http://dbpedia.org/property/depots	http://dbpedia.org/resource/category:20th-century_american_businesspeople
+http://dbpedia.org/resource/walt_disney	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th-century_american_artists
+http://dbpedia.org/resource/walt_disney	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_people_of_canadian_descent
+http://dbpedia.org/resource/walt_disney	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:writers_from_chicago
+http://dbpedia.org/resource/walt_disney	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/burbank,_california
+http://dbpedia.org/resource/walt_disney	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/golden_globe_award
+http://dbpedia.org/resource/walt_disney	http://dbpedia.org/ontology/spouse	http://dbpedia.org/resource/lillian_disney
+http://dbpedia.org/resource/walt_disney	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/academy_awards
+http://dbpedia.org/resource/walt_disney	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:congressional_gold_medal_recipients

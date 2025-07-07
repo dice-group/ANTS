@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_about_dogs
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:black-and-white_films
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1930s_comedy_films
+http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/ontology/series	http://dbpedia.org/resource/pooch_the_pup
+http://dbpedia.org/resource/the_crowd_snores	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english-language_films
+http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:auto_racing_films

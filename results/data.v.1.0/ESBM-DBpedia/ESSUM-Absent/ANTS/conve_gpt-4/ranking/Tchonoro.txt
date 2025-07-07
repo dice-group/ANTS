@@ -1,0 +1,19 @@
+http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
+http://dbpedia.org/resource/tchonoro	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagogeoentity
+http://dbpedia.org/resource/tchonoro	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:populated_places_in_kara_region
+http://dbpedia.org/resource/tchonoro	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:assoli
+Tchonoro	http://dbpedia.org/ontology/birthPlace	Timbuktu
+http://dbpedia.org/resource/tchonoro	http://dbpedia.org/ontology/thumbnail	http://commons.wikimedia.org/wiki/special:filepath/flag_of_togo.svg?width=300
+Tchonoro	http://dbpedia.org/ontology/country	Burkina Faso
+Tchonoro	http://dbpedia.org/ontology/country	Mozambique
+Tchonoro	http://dbpedia.org/ontology/occupation	Village.
+Tchonoro	http://dbpedia.org/ontology/deathPlace	Angola.
+Tchonoro	http://dbpedia.org/ontology/genre	Music of Africa
+Tchonoro	http://dbpedia.org/ontology/language	Portuguese
+Tchonoro	http://dbpedia.org/ontology/locatedInArea	Mozambique
+Tchonoro	http://dbpedia.org/ontology/related	Togo
+Tchonoro	http://dbpedia.org/ontology/subsidiary	Cervejaria Petrópolis.
+Tchonoro	http://dbpedia.org/ontology/leaderName	Agostinho Neto
+Tchonoro	http://dbpedia.org/ontology/continent	Africa
+Tchonoro	http://dbpedia.org/ontology/partOf	Tombouctou Region
+Tchonoro	http://dbpedia.org/ontology/tributary	Mamoré River

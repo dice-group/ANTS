@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/balanites	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/plant
+http://dbpedia.org/resource/balanites	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q756
+http://dbpedia.org/resource/balanites	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/balanites	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/balanites	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/balanites	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/flowering_plant

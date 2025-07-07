@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_birmingham,_west_midlands
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:knights_bachelor
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uk_mps_1983–87
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uk_mps_1987–92
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:members_of_the_parliament_of_the_united_kingdom_for_english_constituencies
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/ohio
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/person100007846
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/insein_township
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/british_rule_in_burma
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5

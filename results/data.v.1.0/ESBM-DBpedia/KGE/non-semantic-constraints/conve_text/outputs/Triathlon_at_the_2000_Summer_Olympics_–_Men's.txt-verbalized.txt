@@ -1,0 +1,1 @@
+< pad > The event, triathlon at the 2000 summer olympics, is a type of societalevent. Men's participation is via http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # event. The olympics are located in the district of http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # event. < / s >

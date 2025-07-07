@@ -1,0 +1,42 @@
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1992_animated_films
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_with_screenplays_by_john_musker
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:race-related_controversies_in_animation
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1992_comedy_films
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/country	United States
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Scott Weinger
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Robin Williams
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Linda Larkin
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Jonathan Freeman
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Frank Welker
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Gilbert Gottfried
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/starring	Douglas Seale
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/genre	Musical
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/ron_clements
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/sue_nichols
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/roger_allers
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/writer	Ron Clements
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/writer	John Musker
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/writer	Ted Elliott
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/writer	Terry Rossio
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/runtime	90 minutes
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/award	Academy Award for Best Original Score
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/producer	John Musker
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/releaseDate	1992-11-25
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/director	John Musker
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/director	Ron Clements
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/language	English
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/distributor	Buena Vista Pictures Distribution
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/musicComposer	Alan Menken
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/cinematography	Mark Henn
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/air_transport
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/editing	H. Lee Peterson
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/budget	$28 million
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/property/story	http://dbpedia.org/resource/daan_jippes
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/property/story	http://dbpedia.org/resource/brian_pimental
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/property/story	http://dbpedia.org/resource/burny_mattinson
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/gross	$504.1 million
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/basedOn	One Thousand and One Nights
+http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/property/nationallanguages	http://dbpedia.org/resource/john_musker
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/filmSeries	Aladdin film series
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/precededBy	The Little Mermaid.
+Aladdin 1992 Disney film	http://dbpedia.org/ontology/followedBy	The Return of Jafar

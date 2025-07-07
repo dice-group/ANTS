@@ -1,0 +1,1 @@
+ <H> akalwadi <R> type <T> indian_standard_time <H> akalwadi <R> type <T> village <H> akalwadi <R> type <T> http://www.wikidata.org/entity/q486972 <H> akalwadi <R> type <T> location100027167 <H> akalwadi <R> type <T> object100002684 <H> akalwadi <R> type <T> place <H> akalwadi <R> parentmountainpeak <T> village <H> akalwadi <R> type <T> http://schema.org/place

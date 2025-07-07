@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/ontology/computingplatform	http://dbpedia.org/resource/xbox_360
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/microsoft_windows
+http://dbpedia.org/resource/crysis_2	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/crysis_2
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/composer	http://dbpedia.org/resource/lorne_balfe
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/playstation_3
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/richard_k._morgan
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/publisher	http://dbpedia.org/resource/electronic_arts
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/ontology/network	http://dbpedia.org/resource/nbc
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/modes	http://dbpedia.org/resource/single-player_video_game
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/composer	http://dbpedia.org/resource/hans_zimmer
+http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/religion	http://dbpedia.org/resource/mike_turner

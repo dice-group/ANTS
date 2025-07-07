@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/executiveproducer	http://dbpedia.org/resource/baywatch
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/type	http://dbpedia.org/resource/public_company
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/keyperson	http://dbpedia.org/resource/ron_johnson_(businessman)
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/retail
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/candidate	http://dbpedia.org/resource/texas
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/j._c._penney
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/ontology/foundedby	http://dbpedia.org/resource/james_cash_penney
+http://dbpedia.org/resource/j._c._penney	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/poland

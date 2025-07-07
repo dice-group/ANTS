@@ -1,0 +1,15 @@
+Henry IV of France	birthDate	December 13, 1553
+Henry IV of France	deathDate	May 14, 1610
+Henry IV of France	birthPlace	Pau, Kingdom of Navarre
+Henry IV of France	title	King of France
+Henry IV of France	successor	Louis XIII of France
+Henry IV of France	spouse	Marie de' Medici
+Henry IV of France	children	Louis XIII of France, Elizabeth of France
+Henry IV of France	religion	Roman Catholic
+Henry IV of France	reignStart	August 2, 1589
+Henry IV of France	reignEnd	May 14, 1610
+Henry IV of France	father	Antoine of Bourbon
+Henry IV of France	mother	Jeanne III of Navarre
+Henry IV of France	assassinated	Yes
+Henry IV of France	assassin	François Ravaillac
+Henry IV of France	legacy	Edict of Nantes, promoting religious tolerance

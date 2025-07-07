@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/property/governor	http://dbpedia.org/resource/harrison_ludington
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/property/children	http://dbpedia.org/resource/henry_clay_sloan
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/property/successor	http://dbpedia.org/resource/alexander_wilson_(wisconsin_politician)
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:new_york_(state)_lawyers
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:wisconsin_lawyers
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/property/successor	http://dbpedia.org/resource/amasa_cobb
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/morrisville,_new_york
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/charles_burchard
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:19th-century_american_judges

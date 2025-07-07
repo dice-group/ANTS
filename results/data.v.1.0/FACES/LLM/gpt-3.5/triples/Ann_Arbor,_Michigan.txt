@@ -1,0 +1,15 @@
+Ann Arbor,_Michigan	hasPopulation	121,890
+Ann Arbor,_Michigan	hasArea	28.70 square miles
+Ann Arbor,_Michigan	locatedIn	Washtenaw County
+Ann Arbor,_Michigan	hasMayor	Christopher Taylor
+Ann Arbor,_Michigan	hasUniversity	University of Michigan
+Ann Arbor,_Michigan	hasMedianHouseholdIncome	$62,157
+Ann Arbor,_Michigan	hasMedianAge	27.8 years
+Ann Arbor,_Michigan	hasAverageCommuteTime	19.4 minutes
+Ann Arbor,_Michigan	hasPublicTransportationSystem	TheRide
+Ann Arbor,_Michigan	hasSportsTeam	Michigan Wolverines
+Ann Arbor,_Michigan	hasTopEmployers	University of Michigan Health System
+Ann Arbor,_Michigan	hasClimate	Humid continental climate
+Ann Arbor,_Michigan	hasFamousFestival	Ann Arbor Art Fair
+Ann Arbor,_Michigan	hasMainAttraction	Michigan Theater
+Ann Arbor,_Michigan	hasAirport	Ann Arbor Municipal Airport

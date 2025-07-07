@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/periodicalliterature
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:danish-language_newspapers
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:newspapers_published_in_denmark
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:media_in_copenhagen
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1884_establishments_in_denmark
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:publications_established_in_1884
+http://dbpedia.org/resource/politiken	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/newspaper106267145
+http://dbpedia.org/resource/politiken	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/work104599396
+http://dbpedia.org/resource/politiken	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/ontology/writtenwork
+http://dbpedia.org/resource/politiken	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/press106263369

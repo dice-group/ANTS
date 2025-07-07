@@ -1,0 +1,15 @@
+Ferrari	http://dbpedia.org/ontology/hasBrand	Ferrari
+Ferrari	http://dbpedia.org/ontology/hasFounder	Enzo Ferrari
+Ferrari	http://dbpedia.org/ontology/hasHeadquarters	Maranello, Italy
+Ferrari	http://dbpedia.org/ontology/hasEstablishedYear	1939
+Ferrari	http://dbpedia.org/ontology/hasCEO	Louis Camilleri
+Ferrari	http://dbpedia.org/ontology/hasModel	Ferrari 488 GTB
+Ferrari	http://dbpedia.org/ontology/hasEngineType	V8
+Ferrari	http://dbpedia.org/ontology/hasTopSpeed	211 mph
+Ferrari	http://dbpedia.org/ontology/hasRevenue	$3.8 billion
+Ferrari	http://dbpedia.org/ontology/hasEmployees	about 4,000
+Ferrari	http://dbpedia.org/ontology/hasParentCompany	Exor N.V.
+Ferrari	http://dbpedia.org/ontology/hasProductionOutput	over 9,000 units per year
+Ferrari	http://dbpedia.org/ontology/hasPriceRange	starts from $215,000
+Ferrari	http://dbpedia.org/ontology/hasRacingTeam	Scuderia Ferrari
+Ferrari	http://dbpedia.org/ontology/hasFamousModels	LaFerrari, F40, 250 GTO

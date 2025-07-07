@@ -1,0 +1,19 @@
+England	http://dbpedia.org/ontology/birthPlace	William Shakespeare
+http://dbpedia.org/resource/england	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:germanic_countries_and_territories
+http://dbpedia.org/resource/england	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:great_britain
+http://dbpedia.org/resource/england	http://dbpedia.org/property/caption	http://dbpedia.org/resource/queen_elizabeth_i
+http://dbpedia.org/resource/england	http://dbpedia.org/property/caption	http://dbpedia.org/resource/ceremonial_counties_of_england
+England	http://dbpedia.org/ontology/award	Victoria Cross
+England	http://dbpedia.org/ontology/associatedBand	The Beatles
+England	http://dbpedia.org/ontology/associatedMusicalArtist	The Beatles
+http://dbpedia.org/resource/england	http://dbpedia.org/property/source	http://dbpedia.org/resource/william_shakespeare
+England	http://dbpedia.org/ontology/alias	"Blighty"
+England	http://dbpedia.org/ontology/instrument	Church bell
+England	http://dbpedia.org/ontology/formationYear	927
+England	http://dbpedia.org/ontology/musicSubgenre	Britpop
+http://dbpedia.org/resource/england	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/country
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/soundrecording	http://dbpedia.org/resource/england__sound__3
+http://dbpedia.org/resource/england	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalartist
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/soundrecording	http://dbpedia.org/resource/england__sound__4
+http://dbpedia.org/resource/england	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/acts_of_union_1707
+England	http://dbpedia.org/ontology/musicFestival	Glastonbury Festival

@@ -1,0 +1,15 @@
+Marie Curie	http://dbpedia.org/ontology/occupation	Physicist
+Marie Curie	http://dbpedia.org/ontology/occupation	Chemist
+Marie Curie	http://dbpedia.org/ontology/nationality	Polish
+Marie Curie	http://dbpedia.org/ontology/education	Sorbonne University
+Marie Curie	http://dbpedia.org/ontology/full_name	Marie Curie
+Marie Curie	http://dbpedia.org/ontology/birth_date	November 7, 1867
+Marie Curie	http://dbpedia.org/ontology/birth_place	Warsaw, Poland
+Marie Curie	http://dbpedia.org/ontology/death_date	July 4, 1934
+Marie Curie	http://dbpedia.org/ontology/death_place	Sallanches, France
+Marie Curie	http://dbpedia.org/ontology/awards	Nobel Prize in Physics
+Marie Curie	http://dbpedia.org/ontology/awards	Nobel Prize in Chemistry
+Marie Curie	http://dbpedia.org/ontology/discovery	Radioactivity
+Marie Curie	http://dbpedia.org/ontology/discovery	Polonium
+Marie Curie	http://dbpedia.org/ontology/discovery	Radium
+Marie Curie	http://dbpedia.org/ontology/institutions	Institute of Radium

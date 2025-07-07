@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_johntá_austin
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2010_singles
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_justin_bieber
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_bryan-michael_cox
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/type	http://dbpedia.org/resource/promotional_recording
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/johntá_austin
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/ontology/artist	http://dbpedia.org/resource/justin_bieber
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/ontology/subsequentwork	http://dbpedia.org/resource/turn_to_you_(mother's_day_dedication)
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/song

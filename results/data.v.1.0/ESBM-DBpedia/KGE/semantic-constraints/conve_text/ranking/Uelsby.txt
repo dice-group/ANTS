@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/blankname	http://dbpedia.org/resource/köppen_climate_classification
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/partstype	http://dbpedia.org/resource/list_of_nova_scotia_provincial_electoral_districts
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/blank1namesec	http://dbpedia.org/resource/list_of_cantons_of_switzerland_by_elevation
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/blank1infosec	http://dbpedia.org/resource/manuel_crescencio_rejón_international_airport
+http://dbpedia.org/resource/uelsby	http://dbpedia.org/property/timezonedst	http://dbpedia.org/resource/central_european_summer_time

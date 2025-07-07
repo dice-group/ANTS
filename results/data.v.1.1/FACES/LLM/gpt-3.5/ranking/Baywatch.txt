@@ -1,0 +1,15 @@
+Baywatch	http://dbpedia.org/ontology/hasTitle	Baywatch
+Baywatch	http://dbpedia.org/ontology/hasCreator	Michael Berk
+Baywatch	http://dbpedia.org/ontology/hasCreator	Douglas Schwartz
+Baywatch	http://dbpedia.org/ontology/hasCreator	Gregory J. Bonann
+Baywatch	http://dbpedia.org/ontology/hasGenre	Action
+Baywatch	http://dbpedia.org/ontology/hasGenre	Drama
+Baywatch	http://dbpedia.org/ontology/hasReleaseDate	September 22, 1989
+Baywatch	http://dbpedia.org/ontology/hasTotalSeasons	11
+Baywatch	http://dbpedia.org/ontology/hasTotalEpisodes	242
+Baywatch	http://dbpedia.org/ontology/hasMainCharacters	Mitch Buchannon
+Baywatch	http://dbpedia.org/ontology/hasMainCharacters	C.J. Parker
+Baywatch	http://dbpedia.org/ontology/hasMainCharacters	Hobie Buchannon
+Baywatch	http://dbpedia.org/ontology/hasMainCharacters	Summer Quinn
+Baywatch	http://dbpedia.org/ontology/hasSetting	Malibu, California
+Baywatch	http://dbpedia.org/ontology/hasThemeSong	I'm Always Here

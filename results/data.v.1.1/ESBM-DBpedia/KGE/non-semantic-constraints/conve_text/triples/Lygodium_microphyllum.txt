@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/livingthing100004258
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_malesia
+http://dbpedia.org/resource/lygodium_microphyllum	http://dbpedia.org/ontology/nextevent	http://dbpedia.org/resource/leptosporangiate_fern
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_queensland
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_india
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_the_northwestern_pacific
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
+http://dbpedia.org/resource/lygodium_microphyllum	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/lygodium
+http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_fiji

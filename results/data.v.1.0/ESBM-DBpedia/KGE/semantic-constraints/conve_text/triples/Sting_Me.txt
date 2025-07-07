@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/property/license	http://dbpedia.org/resource/proprietary_software
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/property/starring	http://dbpedia.org/resource/jennie_garth
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:the_black_crowes_songs
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/ontology/origin	http://dbpedia.org/resource/india
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/property/starring	http://dbpedia.org/resource/kathleen_robertson
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/property/executiveproducer	http://dbpedia.org/resource/chris_robinson_(singer)
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1992_songs
+http://dbpedia.org/resource/sting_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/sting_me	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/rich_robinson
+http://dbpedia.org/resource/sting_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_recordings_(record_label)_singles

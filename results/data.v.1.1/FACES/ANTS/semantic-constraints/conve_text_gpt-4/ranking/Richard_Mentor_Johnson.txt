@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/richard_mentor_johnson	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_lawyers_admitted_to_the_practice_of_law_by_reading_law
+http://dbpedia.org/resource/richard_mentor_johnson	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_militiamen_in_the_war_of_1812
+http://dbpedia.org/resource/richard_mentor_johnson	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:politicians_from_lexington,_kentucky
+http://dbpedia.org/resource/richard_mentor_johnson	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:kentucky_state_senators
+http://dbpedia.org/resource/richard_mentor_johnson	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:kentucky_democrats
+Richard Mentor Johnson	http://dbpedia.org/ontology/birthPlace	Beargrass,  Virginia
+http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/party	http://dbpedia.org/resource/democratic-republican_party
+http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/party	http://dbpedia.org/resource/democratic_party_(united_states)
+Richard Mentor Johnson	http://dbpedia.org/ontology/occupation	Politician
+Richard Mentor Johnson	http://dbpedia.org/ontology/deathPlace	Frankfort,  Kentucky
+Richard Mentor Johnson	http://dbpedia.org/ontology/termPeriod	1837-1841
+Richard Mentor Johnson	http://dbpedia.org/ontology/office	Vice President of the United States
+http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/thomas_sandford
+Richard Mentor Johnson	http://dbpedia.org/ontology/almaMater	Transylvania University
+Richard Mentor Johnson	http://dbpedia.org/ontology/award	Congressional Gold Medal
+Richard Mentor Johnson	http://dbpedia.org/ontology/battle	Battle of the Thames
+Richard Mentor Johnson	http://dbpedia.org/ontology/nationality	United States
+http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/state	http://dbpedia.org/resource/kentucky
+Richard Mentor Johnson	http://dbpedia.org/ontology/education	Transylvania University
+Richard Mentor Johnson	http://dbpedia.org/ontology/spouse	Julia Chinn
+Richard Mentor Johnson	http://dbpedia.org/ontology/serviceStartYear	1807
+Richard Mentor Johnson	http://dbpedia.org/ontology/religion	Christianity
+Richard Mentor Johnson	http://dbpedia.org/ontology/signature	"http://commons.wikimedia.org/wiki/Special:FilePath/Richard_Mentor_Johnson_sig.png"
+Richard Mentor Johnson	http://dbpedia.org/ontology/vicePresident	Martin Van Buren
+Richard Mentor Johnson	http://dbpedia.org/ontology/militaryRank	Colonel
+http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/richard_mentor_johnson__tenure__2
+Richard Mentor Johnson	http://dbpedia.org/ontology/branch	United States Army
+Richard Mentor Johnson	http://dbpedia.org/ontology/children	Imogene Malvinia Johnson
+Richard Mentor Johnson	http://dbpedia.org/ontology/parents	Jemima Suggett Johnson
+Richard Mentor Johnson	http://dbpedia.org/ontology/parents	Robert Johnson

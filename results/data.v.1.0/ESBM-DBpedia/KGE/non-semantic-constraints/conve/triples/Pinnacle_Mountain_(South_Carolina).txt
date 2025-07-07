@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactorgeo
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/naturalelevation109366317
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/germany
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity

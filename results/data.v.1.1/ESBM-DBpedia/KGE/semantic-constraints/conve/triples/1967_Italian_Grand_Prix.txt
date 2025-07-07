@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/1967_italian_grand_prix	http://dbpedia.org/property/location	http://dbpedia.org/resource/monza
+http://dbpedia.org/resource/1967_italian_grand_prix	http://dbpedia.org/property/firstteam	http://dbpedia.org/resource/honda_racing_f1
+http://dbpedia.org/resource/1967_italian_grand_prix	http://dbpedia.org/property/poleteam	http://dbpedia.org/resource/ford_motor_company
+http://dbpedia.org/resource/1967_italian_grand_prix	http://dbpedia.org/property/firstdriver	http://dbpedia.org/resource/john_surtees
+http://dbpedia.org/resource/1967_italian_grand_prix	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:italian_grand_prix
+http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/1967_italian_grand_prix	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:european_grand_prix
+http://dbpedia.org/resource/1967_italian_grand_prix	http://dbpedia.org/ontology/poledriverteam	http://dbpedia.org/resource/team_lotus
+http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
+http://dbpedia.org/resource/1967_italian_grand_prix	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/italy

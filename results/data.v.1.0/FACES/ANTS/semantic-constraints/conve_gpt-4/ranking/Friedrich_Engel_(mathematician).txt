@@ -1,0 +1,31 @@
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/birthPlace	Saxony
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/property/referee	http://dbpedia.org/resource/university_of_leipzig
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/occupation	Mathematician
+Friedrich Engel mathathetician	http://dbpedia.org/ontology/deathPlace	Giessen
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/genre	Mathematics
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/almaMater	University of Leipzig
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/award	Lobachevsky Medal
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/nationality	German
+Friedrich Engel mathematician	http://dbpedia.org/ontology/education	University of Leipzig
+Friedrich Engel mathematician	http://dbpedia.org/ontology/knownFor	Lie algebra theory
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/air_transport
+Friedrich Engel mathanatician	http://dbpedia.org/ontology/field	Mathematics
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/doctoralAdvisor	Felix Klein
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/influenced	Sophus Lie.
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/citizenship	Germany
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/german_confederation
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/lugau
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/academicAdvisor	Felix Klein.
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/era	Modern era
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/hessen
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://dbpedia.org/property/doctoraladvisor	http://dbpedia.org/resource/christian_gustav_adolph_mayer
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:leipzig_university_faculty
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:humboldt_university_of_berlin_alumni
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:leipzig_university_alumni
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:19th-century_german_mathematicians
+http://dbpedia.org/resource/friedrich_engel_(mathematician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_the_kingdom_of_saxony
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/workInstitutions	University of Greifswald
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/doctoralStudents	Otto Haupt.
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/contribution	Lie algebra theory
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/notableWorks	Theorie der Transformationsgruppen.
+Friedrich Engel mathathematician	http://dbpedia.org/ontology/studentOf	Felix Klein

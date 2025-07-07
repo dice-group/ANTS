@@ -1,0 +1,33 @@
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/album
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000s_ballads
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_peter_svensson
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2009_songs
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:dance-pop_songs
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:justin_bieber_songs
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/writer	http://dbpedia.org/resource/peter_svensson
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/contemporary_r&b
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/dance-pop
+Love Me Justin Bieber song	http://dbpedia.org/ontology/genre	Pop
+Love Me Justin Bieber song	http://dbpedia.org/ontology/writer	Bruno Mars
+Love Me Justin Bieber song	http://dbpedia.org/ontology/writer	Ari Levine
+Love Me Justin Bieber song	http://dbpedia.org/ontology/writer	Philip Lawrence
+Love Me Justin Bieber song	http://dbpedia.org/ontology/runtime	3 minutes 12 seconds
+Love Me Justin Bieber song	http://dbpedia.org/ontology/recordLabel	Island Records
+Love Me Justin Bieber song	http://dbpedia.org/ontology/award	Myx Music Award for Favorite International Video
+Love Me Justin Bieber song	http://dbpedia.org/ontology/producer	DJ Frank E
+Love Me Justin Bieber song	http://dbpedia.org/ontology/releaseDate	"2009-10-26"
+Love Me Justin Bieber song	http://dbpedia.org/ontology/artist	Justin Bieber
+Love Me Justin Bieber song	http://dbpedia.org/ontology/musicComposer	Usher
+Love Me Justin Bieber song	http://dbpedia.org/ontology/previousWork	One Time
+Love Me Justin Bieber song	http://dbpedia.org/ontology/album	My World
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/fields	http://dbpedia.org/resource/promotional_recording
+Love Me Justin Bieber song	http://dbpedia.org/ontology/recordedIn	2009
+http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/ep	http://dbpedia.org/resource/my_world_(ep)
+Love Me Justin Bieber song	http://dbpedia.org/ontology/musicFormat	Digital download
+Love Me Justin Bieber song	http://dbpedia.org/ontology/certification	Gold
+Love Me Justin Bieber song	http://dbpedia.org/ontology/chartPosition	37
+Love Me Justin Bieber song	http://dbpedia.org/ontology/nextWork	Somebody to Love Justin Bieber song
+Love Me Justin Bieber song	http://dbpedia.org/ontology/salesAmount	3.2 million
+Love Me Justin Bieber song	http://dbpedia.org/ontology/audio	http://commons.wikimedia.org/wiki/Special:FilePath/Justin_Bieber_-_Love_Me.ogg
+Love Me Justin Bieber song	http://dbpedia.org/ontology/coverArt	https://upload.wikimedia.org/wikipedia/en/7/72/Love_Me_cover.png

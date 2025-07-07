@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/rebel_love_song	http://dbpedia.org/ontology/artist	http://dbpedia.org/resource/black_veil_brides
+http://dbpedia.org/resource/rebel_love_song	http://dbpedia.org/property/genre	http://dbpedia.org/resource/hard_rock
+http://dbpedia.org/resource/rebel_love_song	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/glam_metal
+http://dbpedia.org/resource/rebel_love_song	http://dbpedia.org/property/album	http://dbpedia.org/resource/set_the_world_on_fire_(black_veil_brides_album)
+http://dbpedia.org/resource/rebel_love_song	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/rebel_love_song	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_andy_biersack
+http://dbpedia.org/resource/rebel_love_song	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/lava_records
+http://dbpedia.org/resource/rebel_love_song	http://dbpedia.org/property/prevtitle	http://dbpedia.org/resource/the_legacy_(song)
+http://dbpedia.org/resource/rebel_love_song	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/single_(music)
+http://dbpedia.org/resource/rebel_love_song	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:black_veil_brides_songs

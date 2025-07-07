@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/gangsta_rap
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q2188189
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2003_albums
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:capitol_records_albums
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:ice_cube_albums
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mack_10_albums
+http://dbpedia.org/resource/terrorist_threats	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:albums_produced_by_fredwreck
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/west_coast_hip_hop
+http://dbpedia.org/resource/terrorist_threats	http://dbpedia.org/ontology/series	http://dbpedia.org/resource/category:albums_certified_gold_by_the_recording_industry_association_of_america
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/terrorist_threats	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/single

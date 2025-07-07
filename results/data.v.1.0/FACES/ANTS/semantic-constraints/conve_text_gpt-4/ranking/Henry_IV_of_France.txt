@@ -1,0 +1,32 @@
+http://dbpedia.org/resource/henry_iv_of_france	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/henry_iv_of_france	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/king
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/title	http://dbpedia.org/resource/albret
+Henry IV of France	http://dbpedia.org/ontology/birthDate	1553-12-13
+Henry IV of France	http://dbpedia.org/ontology/country	France
+Henry IV of France	http://dbpedia.org/ontology/occupation	King of France
+Henry IV of France	http://dbpedia.org/ontology/title	King of France
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/spouse	http://dbpedia.org/resource/margaret_of_valois
+Henry IV of France	http://dbpedia.org/ontology/deathDate	1610-05-14
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/successor	http://dbpedia.org/resource/louis_xiii_of_france
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/successor	http://dbpedia.org/resource/louis_xiii
+Henry IV of France	http://dbpedia.org/ontology/predecessor	Henry III of France
+Henry IV of France	http://dbpedia.org/ontology/successor	Louis XIII of France
+Henry IV of France	http://dbpedia.org/ontology/award	Knight of the Order of the Garter
+Henry IV of France	http://dbpedia.org/ontology/battle	Siege of Amiens
+Henry IV of France	http://dbpedia.org/ontology/nationality	French
+Henry IV of France	http://dbpedia.org/ontology/education	University of Navarre
+Henry IV of France	http://dbpedia.org/ontology/spouse	Margaret of Valois
+Henry IV of France	http://dbpedia.org/ontology/spouse	Marie de' Medici
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/gaston,_duke_of_orléans
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/christine_marie_of_france
+Henry IV of France	http://dbpedia.org/ontology/child	Louis XIII of France
+Henry IV of France	http://dbpedia.org/ontology/parent	Jeanne III of Navarre
+Henry IV of France	http://dbpedia.org/ontology/parent	Antoine of Navarre
+Henry IV of France	http://dbpedia.org/ontology/religion	Catholicism
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/succession	http://dbpedia.org/resource/king_of_navarre
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/house	http://dbpedia.org/resource/house_of_bourbon
+Henry IV of France	http://dbpedia.org/ontology/placeOfBurial	Saint Denis Basilica
+Henry IV of France	http://dbpedia.org/ontology/royalHouse	House of Bourbon
+Henry IV of France	http://dbpedia.org/ontology/placeOfBirth	Pau
+Henry IV of France	http://dbpedia.org/ontology/placeOfDeath	Paris
+Henry IV of France	http://dbpedia.org/ontology/causeOfDeath	Assassination

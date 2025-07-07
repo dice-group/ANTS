@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:sony_music_albums
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mandopop_albums
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/album
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/mandopop
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/label	http://dbpedia.org/resource/sony_music_entertainment
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/label	http://dbpedia.org/resource/cinepoly
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/james_eckhouse
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/artist	http://dbpedia.org/resource/faye_wong

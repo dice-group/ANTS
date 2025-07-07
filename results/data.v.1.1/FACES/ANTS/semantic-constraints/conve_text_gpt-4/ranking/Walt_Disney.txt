@@ -1,0 +1,31 @@
+Walt Disney	http://dbpedia.org/ontology/birthPlace	Chicago
+http://dbpedia.org/resource/walt_disney	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th-century_american_artists
+http://dbpedia.org/resource/walt_disney	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_people_of_canadian_descent
+http://dbpedia.org/resource/walt_disney	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:producers_who_won_the_best_animated_short_academy_award
+http://dbpedia.org/resource/walt_disney	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:congressional_gold_medal_recipients
+http://dbpedia.org/resource/walt_disney	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:writers_from_chicago
+Walt Disney	http://dbpedia.org/ontology/birthDate	1901-12-05
+Walt Disney	http://dbpedia.org/ontology/occupation	Animator
+Walt Disney	http://dbpedia.org/ontology/deathPlace	Burbank,  California
+Walt Disney	http://dbpedia.org/ontology/genre	Animation
+Walt Disney	http://dbpedia.org/ontology/deathDate	1966-12-15
+http://dbpedia.org/resource/walt_disney	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/golden_globe_award
+http://dbpedia.org/resource/walt_disney	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/academy_awards
+Walt Disney	http://dbpedia.org/ontology/award	Academy Award
+Walt Disney	http://dbpedia.org/ontology/nationality	American
+Walt Disney	http://dbpedia.org/ontology/education	School of the Art Institute of Chicago
+Walt Disney	http://dbpedia.org/ontology/knownFor	Mickey Mouse
+http://dbpedia.org/resource/walt_disney	http://dbpedia.org/ontology/spouse	http://dbpedia.org/resource/lillian_disney
+Walt Disney	http://dbpedia.org/ontology/spouse	Lillian Bounds
+Walt Disney	http://dbpedia.org/ontology/parent	Elias Disney
+Walt Disney	http://dbpedia.org/ontology/affiliation	The Walt Disney Company
+Walt Disney	http://dbpedia.org/ontology/religion	Christianity
+Walt Disney	http://dbpedia.org/ontology/influencedBy	Ub Iwerks
+Walt Disney	http://dbpedia.org/ontology/notableWork	Snow White and the Seven Dwarfs
+Walt Disney	http://dbpedia.org/ontology/signature	http://commons.wikimedia.org/wiki/Special:FilePath/Walt_Disney_1942_signature.svg
+http://dbpedia.org/resource/walt_disney	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/burbank,_california
+http://dbpedia.org/resource/walt_disney	http://dbpedia.org/property/title	http://dbpedia.org/resource/mickey_mouse
+Walt Disney	http://dbpedia.org/ontology/children	Diane Marie Disney
+Walt Disney	http://dbpedia.org/ontology/children	Sharon Mae Disney
+Walt Disney	http://dbpedia.org/ontology/founderOf	Walt Disney Company
+Walt Disney	http://dbpedia.org/ontology/ethnicity	American

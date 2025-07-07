@@ -1,0 +1,22 @@
+Ferrari	http://dbpedia.org/ontology/owner	Exor N.V.
+Ferrari	http://dbpedia.org/ontology/headquarter	Maranello
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/automotive_industry
+Ferrari	http://dbpedia.org/ontology/industry	Automotive
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/supercar
+Ferrari	http://dbpedia.org/ontology/product	Sports cars
+Ferrari	http://dbpedia.org/ontology/keyPerson	John Elkann
+Ferrari	http://dbpedia.org/ontology/numberOfEmployees	4508
+Ferrari	http://dbpedia.org/ontology/foundedBy	Enzo Ferrari
+Ferrari	http://dbpedia.org/ontology/parentCompany	Fiat Chrysler Automobiles
+Ferrari	http://dbpedia.org/ontology/revenue	€4.29 billion
+Ferrari	http://dbpedia.org/ontology/subsidiary	Scuderia Ferrari S.p.A.
+Ferrari	http://dbpedia.org/ontology/operatingIncome	€917 million
+Ferrari	http://dbpedia.org/ontology/equity	€1.96 billion
+Ferrari	http://dbpedia.org/ontology/logo	http://dbpedia.org/resource/File:Ferrari-Logo.svg
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/property/keypeople	http://dbpedia.org/resource/luca_cordero_di_montezemolo
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/property/keypeople	http://dbpedia.org/resource/piero_ferrari
+Ferrari	http://dbpedia.org/ontology/brand	Scuderia Ferrari
+Ferrari	http://dbpedia.org/ontology/production	Luxury sports cars
+Ferrari	http://dbpedia.org/ontology/foundationPlace	Maranello
+http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/keyperson	http://dbpedia.org/resource/luca_di_montezemolo
+Ferrari	http://dbpedia.org/ontology/sponsor	Shell

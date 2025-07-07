@@ -1,0 +1,1 @@
+ <H> nile <R> source <T> blue_nile <H> nile <R> statlabel <T> lake_tana <H> nile <R> discharge2location <T> egypt <H> nile <R> rivermouth <T> mediterranean_sea <H> nile <R> college <T> aswan <H> nile <R> subdivisionname <T> kenya <H> nile <R> discharge2location <T> cairo

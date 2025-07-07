@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/edward_teller	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/edward_teller	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:university_of_chicago_faculty
+http://dbpedia.org/resource/edward_teller	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:nuclear_proliferation
+http://dbpedia.org/resource/edward_teller	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:hungarian_jews
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/air_transport
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/university_of_karlsruhe
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/ontology/citizenship	http://dbpedia.org/resource/kingdom_of_hungary
+http://dbpedia.org/resource/edward_teller	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2003_deaths
+http://dbpedia.org/resource/edward_teller	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/property/doctoraladvisor	http://dbpedia.org/resource/werner_heisenberg
+http://dbpedia.org/resource/edward_teller	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/university_of_munich
+http://dbpedia.org/resource/edward_teller	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th-century_hungarian_physicists

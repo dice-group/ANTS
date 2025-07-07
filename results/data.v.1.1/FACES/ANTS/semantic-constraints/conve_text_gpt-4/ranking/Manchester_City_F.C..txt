@@ -1,0 +1,30 @@
+http://dbpedia.org/resource/manchester_city_f.c.	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:former_english_football_league_clubs
+http://dbpedia.org/resource/manchester_city_f.c.	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:premier_league_clubs
+http://dbpedia.org/resource/manchester_city_f.c.	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:manchester_city_f.c.
+http://dbpedia.org/resource/manchester_city_f.c.	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uefa_cup_winners'_cup_winning_clubs
+Manchester City F.C.	http://dbpedia.org/ontology/location	Manchester.
+Manchester City F.C.	http://dbpedia.org/ontology/owner	City Football Group
+Manchester City F.C.	http://dbpedia.org/ontology/league	Premier League
+Manchester City F.C.	http://dbpedia.org/ontology/ground	Etihad Stadium
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/ground	http://dbpedia.org/resource/city_of_manchester_stadium
+Manchester City F.C.	http://dbpedia.org/ontology/affiliation	Premier League
+Manchester City F.C.	http://dbpedia.org/ontology/manager	Pep Guardiola
+Manchester City F.C.	http://dbpedia.org/ontology/foundedBy	St. Mark's Church
+Manchester City F.C.	http://dbpedia.org/ontology/capacity	"53, 000"
+Manchester City F.C.	http://dbpedia.org/ontology/formationDate	1880-04-16
+Manchester City F.C.	http://dbpedia.org/ontology/chairman	Khaldoon Al Mubarak.
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/kyle_walker
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/cole_palmer
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/james_trafford
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/luke_mbete
+http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/rico_lewis
+Manchester City F.C.	http://dbpedia.org/ontology/kitAlt	Light blue with white arms
+Manchester City F.C.	http://dbpedia.org/ontology/trainingGround	City Football Academy
+Manchester City F.C.	http://dbpedia.org/ontology/nickname	"The Citizens"
+Manchester City F.C.	http://dbpedia.org/ontology/clubColour	Sky Blue
+Manchester City F.C.	http://dbpedia.org/ontology/hasPart	Manchester City Women's F.C.
+Manchester City F.C.	http://dbpedia.org/ontology/previousName	Ardwick Association Football Club
+Manchester City F.C.	http://dbpedia.org/ontology/broadcastPartner	Sky Sports
+Manchester City F.C.	http://dbpedia.org/ontology/sponsor	Etihad Airways
+Manchester City F.C.	http://dbpedia.org/ontology/fanclub	Manchester City Official Supporters Club
+Manchester City F.C.	http://dbpedia.org/ontology/recordAttendance	84569

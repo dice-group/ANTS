@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/can_u_get_wit_it	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/can_u_get_wit_it	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/song
+http://dbpedia.org/resource/can_u_get_wit_it	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/can_u_get_wit_it	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:hip_hop_soul_songs
+http://dbpedia.org/resource/can_u_get_wit_it	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1990s_ballads
+http://dbpedia.org/resource/can_u_get_wit_it	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:arista_records_singles
+http://dbpedia.org/resource/can_u_get_wit_it	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1994_singles
+http://dbpedia.org/resource/can_u_get_wit_it	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:usher_(musician)_songs
+http://dbpedia.org/resource/can_u_get_wit_it	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/contemporary_r&b
+http://dbpedia.org/resource/can_u_get_wit_it	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/laface_records

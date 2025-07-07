@@ -1,0 +1,26 @@
+http://dbpedia.org/resource/simon_(2004_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_directed_by_eddy_terstall
+http://dbpedia.org/resource/simon_(2004_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2004_films
+http://dbpedia.org/resource/simon_(2004_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_set_in_the_netherlands
+http://dbpedia.org/resource/simon_(2004_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000s_drama_films
+Simon 2004 film	http://dbpedia.org/ontology/country	Netherlands
+Simon 2004 film	http://dbpedia.org/ontology/starring	Cees Geel
+Simon 2004 film	http://dbpedia.org/ontology/starring	Marcel Hensema
+Simon 2004 film	http://dbpedia.org/ontology/genre	Comedy-drama
+Simon 2004 film	http://dbpedia.org/ontology/writer	Eddy Terstall
+Simon 2004 film	http://dbpedia.org/ontology/runtime	102 minutes
+Simon 2004 film	http://dbpedia.org/ontology/producer	Ronald van Spaendonck
+Simon 2004 film	http://dbpedia.org/ontology/releaseDate	2004-09-30
+Simon 2004 film	http://dbpedia.org/ontology/director	Eddy Terstall
+Simon 2004 film	http://dbpedia.org/ontology/language	Dutch
+Simon 2004 film	http://dbpedia.org/ontology/distributor	A-Film Distribution
+Simon 2004 film	http://dbpedia.org/ontology/musicComposer	Henny Vrienten
+Simon 2004 film	http://dbpedia.org/ontology/cinematography	Menno Westendorp
+Simon 2004 film	http://dbpedia.org/ontology/productionCompany	IDTV Film
+Simon 2004 film	http://dbpedia.org/ontology/editing	Bas Roeterink
+Simon 2004 film	http://dbpedia.org/ontology/budget	200, 000 Euros
+Simon 2004 film	http://dbpedia.org/ontology/gross	$500, 000
+Simon 2004 film	http://dbpedia.org/ontology/basedOn	Joost Zwagerman novel
+http://dbpedia.org/resource/simon_(2004_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+Simon 2004 film	http://dbpedia.org/ontology/awards	Golden Calf for Best Feature Film
+Simon 2004 film	http://dbpedia.org/ontology/filmFestival	Nederlands Film Festival
+Simon 2004 film	http://dbpedia.org/ontology/screenplay	Eddy Terstall

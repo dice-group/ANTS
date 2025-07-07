@@ -1,0 +1,1 @@
+< pad > The Zarudcze is located in the village of Gmina Koprzywnica, in Poland. It has the type of habitat known as Zarudcze and its type of language is http: / / dbpedia.org / class / yago / Yago / GeoEntity. The http: / / www.dbpedia.org / ontology / PopulatedPlace is the location of the Zarudcze. < / s >

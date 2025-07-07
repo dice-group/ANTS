@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/alan_arkin
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/john_goodman
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/ben_affleck
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/distributor	http://dbpedia.org/resource/warner_bros.
+http://dbpedia.org/resource/argo_(2012_film)	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/argo_(2012_film)?oldid=548580418

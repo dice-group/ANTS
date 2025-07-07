@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/physicalentity100001930
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1957_births
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:japanese_mystery_writers
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:japanese_novelists
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/whole100003553
+http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_aichi_prefecture

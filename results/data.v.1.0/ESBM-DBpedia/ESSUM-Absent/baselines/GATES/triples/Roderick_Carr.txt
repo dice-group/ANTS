@@ -1,0 +1,20 @@
+http://dbpedia.org/resource/Roderick_Carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Royal_Air_Force_personnel_of_World_War_I
+http://dbpedia.org/resource/Roderick_Carr	http://dbpedia.org/ontology/birthYear	1891-01-01
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/Person
+http://dbpedia.org/resource/Roderick_Carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Royal_Naval_Air_Service_aviators
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/2000/01/rdf-schema#label	Roderick Carr
+http://dbpedia.org/resource/Roderick_Carr	http://purl.org/dc/elements/1.1/description	Royal Air Force air marshals
+http://dbpedia.org/resource/Roderick_Carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:1971_deaths
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Aviator109826204
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/Agent
+http://dbpedia.org/resource/Roderick_Carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:New_Zealand_military_personnel
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Explorer110072708
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Friend110112591
+http://dbpedia.org/resource/Roderick_Carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:People_from_Feilding
+http://dbpedia.org/resource/Roderick_Carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/Category:Royal_Flying_Corps_officers
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/Whole100003553
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/Person
+http://dbpedia.org/resource/Roderick_Carr	http://xmlns.com/foaf/0.1/name	Roderick Carr
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/MilitaryOfficer110317007
+http://dbpedia.org/resource/Roderick_Carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/RoyalNavyOfficersOfWorldWarI

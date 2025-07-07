@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/rebel_love_song	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/rebel_love_song	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_singles
+http://dbpedia.org/resource/rebel_love_song	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q134556
+http://dbpedia.org/resource/rebel_love_song	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:glam_metal_songs
+http://dbpedia.org/resource/rebel_love_song	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/rebel_love_song	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/single
+http://dbpedia.org/resource/rebel_love_song	http://dbpedia.org/ontology/previouswork	http://dbpedia.org/resource/in_the_end_(black_veil_brides_song)
+http://dbpedia.org/resource/rebel_love_song	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing

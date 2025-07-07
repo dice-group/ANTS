@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/product104007894
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/psychologicalfeature100023100
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/socialevent107288639
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:polygram_filmed_entertainment_films
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/jack_frost_sanders
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing

@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/cantopop
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/producer	http://dbpedia.org/resource/lou_adler
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://dbpedia.org/property/artist	http://dbpedia.org/resource/faye_wong
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work

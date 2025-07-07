@@ -1,0 +1,14 @@
+Vladimir Putin	nationality	Russian
+Vladimir Putin	position	President of Russia
+Vladimir Putin	birthdate	October 7, 1952
+Vladimir Putin	spouse	Lyudmila Putina
+Vladimir Putin	education	Leningrad State University
+Vladimir Putin	political party	United Russia
+Vladimir Putin	height	1.70 meters
+Vladimir Putin	children	Mariya Putina
+Vladimir Putin	siblings	Viktor Putin
+Vladimir Putin	awards	Order of St. Andrew
+Vladimir Putin	net worth	$70 billion
+Vladimir Putin	languages spoken	Russian, German
+Vladimir Putin	favorite sport	Judo
+Vladimir Putin	residence	Moscow Kremlin

@@ -1,0 +1,1 @@
+ <H> mortal_kombat_trilogy <R> genre <T> fighting_game <H> mortal_kombat_trilogy <R> publisher <T> gt_interactive <H> mortal_kombat_trilogy <R> publisher <T> gt_interactive_software <H> mortal_kombat_trilogy <R> publisher <T> midway_games <H> mortal_kombat_trilogy <R> platforms <T> sega_saturn <H> mortal_kombat_trilogy <R> publisher <T> wms_industries

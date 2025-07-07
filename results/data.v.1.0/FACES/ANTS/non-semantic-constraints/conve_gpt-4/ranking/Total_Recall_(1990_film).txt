@@ -1,0 +1,31 @@
+Total Recall 1990 film	http://dbpedia.org/ontology/country	United States
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/michael_ironside
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/rachel_ticotin
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/sharon_stone
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/ronny_cox
+Total Recall 1990 film	http://dbpedia.org/ontology/starring	Arnold Schwarzenegger
+Total Recall 1990 film	http://dbpedia.org/ontology/starring	Rachel Ticotin
+Total Recall 1990 film	http://dbpedia.org/ontology/starring	Sharon Stone
+Total Recall 1990 film	http://dbpedia.org/ontology/starring	Michael Ironside
+Total Recall 1990 film	http://dbpedia.org/ontology/starring	Ronny Cox
+Total Recall 1990 film	http://dbpedia.org/ontology/writer	Philip K. Dick.
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/property/director	http://dbpedia.org/resource/paul_verhoeven
+Total Recall 1990 film	http://dbpedia.org/ontology/runtime	113 minutes
+Total Recall 1990 film	http://dbpedia.org/ontology/award	Saturn Award for Best Science Fiction Film
+Total Recall 1990 film	http://dbpedia.org/ontology/producer	Buzz Feitshans
+Total Recall 1990 film	http://dbpedia.org/ontology/releaseDate	1990-06-01
+Total Recall 1990 film	http://dbpedia.org/ontology/director	Paul Verhoeven
+Total Recall 1990 film	http://dbpedia.org/ontology/language	English
+Total Recall 1990 film	http://dbpedia.org/ontology/distributor	TriStar Pictures
+Total Recall 1990 film	http://dbpedia.org/ontology/musicComposer	Jerry Goldsmith
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/ontology/cinematography	http://dbpedia.org/resource/jost_vacano
+Total Recall 1990 film	http://dbpedia.org/ontology/cinematography	Jost Vacano
+Total Recall 1990 film	http://dbpedia.org/ontology/productionCompany	Carolco Pictures
+Total Recall 1990 film	http://dbpedia.org/ontology/editing	Frank J. Urioste
+Total Recall 1990 film	http://dbpedia.org/ontology/budget	$50–60 million
+Total Recall 1990 film	http://dbpedia.org/ontology/gross	$261.3 million
+Total Recall 1990 film	http://dbpedia.org/ontology/basedOn	"We Can Remember It for You Wholesale" by Philip K. Dick
+http://dbpedia.org/resource/total_recall_(1990_film)	http://dbpedia.org/ontology/musiccomposer	http://dbpedia.org/resource/jerry_goldsmith
+Total Recall 1990 film	http://dbpedia.org/ontology/boxOffice	$261.3 million
+Total Recall 1990 film	http://dbpedia.org/ontology/filmGenre	Science Fiction
+Total Recall 1990 film	http://dbpedia.org/ontology/filmFestival	Sitges Film Festival

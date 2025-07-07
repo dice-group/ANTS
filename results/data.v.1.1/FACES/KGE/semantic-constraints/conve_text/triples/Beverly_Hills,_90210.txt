@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/starring	http://dbpedia.org/resource/tori_spelling
+http://dbpedia.org/resource/beverly_hills,_90210	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:beverly_hills,_90210_(franchise)
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/starring	http://dbpedia.org/resource/james_eckhouse
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/lindsay_price
+http://dbpedia.org/resource/beverly_hills,_90210	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1990_american_television_series_debuts
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/executiveproducer	http://dbpedia.org/resource/darren_star
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/audioformat	http://dbpedia.org/resource/dolby_surround
+http://dbpedia.org/resource/beverly_hills,_90210	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english-language_television_shows
+http://dbpedia.org/resource/beverly_hills,_90210	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_television_series_revived_after_cancellation
+http://dbpedia.org/resource/beverly_hills,_90210	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:television_shows_filmed_in_los_angeles
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/cbs_television_distribution
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/name	http://dbpedia.org/resource/melrose_place_(2009_tv_series)
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/executiveproducer	http://dbpedia.org/resource/e._duke_vincent
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/tiffani_thiessen
+http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/starring	http://dbpedia.org/resource/douglas_emerson

@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/ontology/education	http://dbpedia.org/resource/university_of_dayton
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/property/party	http://dbpedia.org/resource/republican_party_(united_states)
+http://dbpedia.org/resource/mike_turner	http://dbpedia.org/ontology/locatedinarea	http://dbpedia.org/resource/united_states_congressional_delegations_from_ohio
+http://dbpedia.org/resource/mike_turner	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/mike_turner	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/politician

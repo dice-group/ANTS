@@ -1,0 +1,1 @@
+ <H> if_glasvegas_song <R> type <T> single <H> if_glasvegas_song <R> type <T> http://www.wikidata.org/entity/q2188189 <H> if_glasvegas_song <R> type <T> musicalwork <H> if_glasvegas_song <R> type <T> work <H> if_glasvegas_song <R> type <T> http://www.wikidata.org/entity/q134556 <H> if_glasvegas_song <R> owner <T> glasvegas

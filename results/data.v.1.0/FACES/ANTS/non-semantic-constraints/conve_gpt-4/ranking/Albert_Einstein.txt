@@ -1,0 +1,41 @@
+Albert Einstein	http://dbpedia.org/ontology/deathPlace	Princeton New Jersey
+Albert Einstein	http://dbpedia.org/ontology/almaMater	ETH Zurich
+Albert Einstein	http://dbpedia.org/ontology/award	Nobel Prize in Physics
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/children	http://dbpedia.org/resource/einstein_family
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/children	http://dbpedia.org/resource/hans_albert_einstein
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/children	http://dbpedia.org/resource/lieserl_einstein
+Albert Einstein	http://dbpedia.org/ontology/nationality	German
+Albert Einstein	http://dbpedia.org/ontology/knownFor	Theory of Relativity
+Albert Einstein	http://dbpedia.org/ontology/spouse	Mileva Marić
+Albert Einstein	http://dbpedia.org/ontology/spouse	Elsa Löwenthal
+Albert Einstein	http://dbpedia.org/ontology/academicDiscipline	Physics
+Albert Einstein	http://dbpedia.org/ontology/child	Hans Albert Einstein
+Albert Einstein	http://dbpedia.org/ontology/child	Eduard Einstein
+Albert Einstein	http://dbpedia.org/ontology/residence	Princeton New Jersey
+Albert Einstein	http://dbpedia.org/ontology/parent	Hermann Einstein
+Albert Einstein	http://dbpedia.org/ontology/parent	Pauline Koch
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/fields	http://dbpedia.org/resource/physics
+Albert Einstein	http://dbpedia.org/ontology/religion	Agnostic
+Albert Einstein	http://dbpedia.org/ontology/influencedBy	Isaac Newton
+Albert Einstein	http://dbpedia.org/ontology/field	Physics
+Albert Einstein	http://dbpedia.org/ontology/doctoralAdvisor	Alfred Kleiner
+Albert Einstein	http://dbpedia.org/ontology/influenced	Quantum Mechanics
+Albert Einstein	http://dbpedia.org/ontology/doctoralStudent	Ernest Straus
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/ulm
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/german_empire
+Albert Einstein	http://dbpedia.org/ontology/philosophicalSchool	Philosophy of science
+Albert Einstein	http://dbpedia.org/ontology/notableIdea	Theory of Relativity
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/placeofbirth	http://dbpedia.org/resource/baden-w%c3%bcrttemberg
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/regionserved	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/shortdescription	http://dbpedia.org/resource/physicist
+http://dbpedia.org/resource/albert_einstein	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/albert_einstein
+http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/doctoraladvisor	http://dbpedia.org/resource/alfred_kleiner
+Albert Einstein	http://dbpedia.org/ontology/birthPlace	Ulm
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	Swiss Patent Office
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	University of Zurich
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	Charles University
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	ETH Zurich
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	University of Prague
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	Humboldt University of Berlin
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	Leiden University
+Albert Einstein	http://dbpedia.org/ontology/workInstitutions	Institute for Advanced Study

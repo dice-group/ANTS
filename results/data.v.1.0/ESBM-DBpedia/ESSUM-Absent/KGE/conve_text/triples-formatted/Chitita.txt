@@ -1,0 +1,1 @@
+ <H> chitita <R> type <T> http://schema.org/place <H> chitita <R> type <T> geographicalarea108574314 <H> chitita <R> type <T> location100027167 <H> chitita <R> type <T> http://www.wikidata.org/entity/q486972 <H> chitita <R> type <T> place <H> chitita <R> type <T> village <H> chitita <R> parentmountainpeak <T> indian_standard_time

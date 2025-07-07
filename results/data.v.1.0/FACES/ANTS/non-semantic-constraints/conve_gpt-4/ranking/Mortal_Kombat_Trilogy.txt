@@ -1,0 +1,35 @@
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/fighting_game
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/genre	Fighting game
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/predecessor	Ultimate Mortal Kombat 3
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/successor	Mortal Kombat 4
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/producer	Josh Tsui
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/releaseDate	1996-10-10
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/nintendo_64
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/playstation_(console)
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/sega_saturn
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/wms_industries
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/gt_interactive
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/gt_interactive_software
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/ontology/publisher	http://dbpedia.org/resource/midway_games
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/publisher	Midway Games
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/developer	Midway Games
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/series	Mortal Kombat
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/operatingSystem	PlayStation
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/mediaType	Video game
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/license	Midway Games
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/latestReleaseVersion	"N/A"
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/programmingLanguage	Assembly
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/latestReleaseDate	1996-10-10
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/isPartOf	Mortal Kombat series
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/mortal_kombat_trilogy
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/mortal_kombat_trilogy?oldid=541603965
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/platform	PlayStation
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/platform	Nintendo 64
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/platform	Sega Saturn
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/platform	PC
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/platform	Game.com
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/platform	R-Zone
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/softwareVersion	"1.0"
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/gameMode	Single-player Multiplayer
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasPart	Mortal Kombat
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/distribution	GT Interactive

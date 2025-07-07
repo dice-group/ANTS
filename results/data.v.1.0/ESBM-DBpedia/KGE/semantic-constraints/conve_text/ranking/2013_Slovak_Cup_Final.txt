@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/2013_slovak_cup_final	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/mšk_žilina
+http://dbpedia.org/resource/2013_slovak_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2012–13_in_slovak_football
+http://dbpedia.org/resource/2013_slovak_cup_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
+http://dbpedia.org/resource/2013_slovak_cup_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/2013_slovak_cup_final	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/cadavéu

@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/united_kingdom
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://dbpedia.org/ontology/category	http://dbpedia.org/class/yago/creation103129123
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/product104007894
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://dbpedia.org/ontology/region	http://dbpedia.org/resource/india
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_films
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/film
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://dbpedia.org/ontology/associatedband	http://dbpedia.org/resource/germany
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/king_of_the_mountain_(film)	http://dbpedia.org/ontology/category	http://dbpedia.org/class/yago/socialevent107288639

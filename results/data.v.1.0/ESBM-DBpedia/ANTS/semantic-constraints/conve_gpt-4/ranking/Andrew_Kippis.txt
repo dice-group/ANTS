@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/andrew_kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english_christian_religious_leaders
+http://dbpedia.org/resource/andrew_kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fellows_of_the_royal_society
+http://dbpedia.org/resource/andrew_kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_educated_at_carre's_grammar_school
+http://dbpedia.org/resource/andrew_kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1725_births
+http://dbpedia.org/resource/andrew_kippis	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:burials_at_bunhill_fields
+Andrew Kippis	http://dbpedia.org/ontology/birthPlace	Nottingham
+Andrew Kippis	http://dbpedia.org/ontology/birthDate	1725-03-28
+Andrew Kippis	http://dbpedia.org/ontology/occupation	Biographer
+Andrew Kippis	http://dbpedia.org/ontology/deathPlace	Westminster
+Andrew Kippis	http://dbpedia.org/ontology/deathDate	1795-10-08
+Andrew Kippis	http://dbpedia.org/ontology/award	Fellow of the Royal Society
+Andrew Kippis	http://dbpedia.org/ontology/nationality	British
+Andrew Kippis	http://dbpedia.org/ontology/language	English
+Andrew Kippis	http://dbpedia.org/ontology/education	Northampton Academy
+Andrew Kippis	http://dbpedia.org/ontology/knownFor	Biographia Britannica
+Andrew Kippis	http://dbpedia.org/ontology/academicDiscipline	Theology
+Andrew Kippis	http://dbpedia.org/ontology/literaryGenre	Biography
+Andrew Kippis	http://dbpedia.org/ontology/influencedBy	Jean Le Clerc
+Andrew Kippis	http://dbpedia.org/ontology/employer	New College at Hackney
+Andrew Kippis	http://dbpedia.org/ontology/notableWork	The New Annual Register
+Andrew Kippis	http://dbpedia.org/ontology/mainInterest	Biography
+Andrew Kippis	http://dbpedia.org/ontology/philosophicalSchool	Unitarianism
+Andrew Kippis	http://dbpedia.org/ontology/placeOfBurial	Westminster Abbey
+Andrew Kippis	http://dbpedia.org/ontology/memberOf	Royal Society of Edinburgh
+Andrew Kippis	http://dbpedia.org/ontology/contribution	Biographia Britannica

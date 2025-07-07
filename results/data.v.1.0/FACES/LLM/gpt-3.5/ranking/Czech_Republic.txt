@@ -1,0 +1,15 @@
+Czech Republic	http://dbpedia.org/ontology/area	78,866 square kilometers
+Czech Republic	http://dbpedia.org/ontology/president	Milos Zeman
+Czech Republic	http://dbpedia.org/ontology/capital	Prague
+Czech Republic	http://dbpedia.org/ontology/currency	Czech koruna
+Czech Republic	http://dbpedia.org/ontology/population	10.65 million
+Czech Republic	http://dbpedia.org/ontology/official_language	Czech
+Czech Republic	http://dbpedia.org/ontology/prime_minister	Andrej Babis
+Czech Republic	http://dbpedia.org/ontology/neighbor	Germany
+Czech Republic	http://dbpedia.org/ontology/neighbor	Slovakia
+Czech Republic	http://dbpedia.org/ontology/neighbor	Austria
+Czech Republic	http://dbpedia.org/ontology/UNESCO_World_Heritage_Sites	Historic Centre of Prague
+Czech Republic	http://dbpedia.org/ontology/popular_food	Svickova
+Czech Republic	http://dbpedia.org/ontology/national_sport	Ice hockey
+Czech Republic	http://dbpedia.org/ontology/iconic_architecture	Prague Castle
+Czech Republic	http://dbpedia.org/ontology/tourist_attraction	Charles Bridge

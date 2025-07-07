@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1820_in_argentina
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/ontology/parent	http://dbpedia.org/resource/battle_of_cepeda_(1859)

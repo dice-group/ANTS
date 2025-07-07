@@ -1,0 +1,30 @@
+Battle of Bregalnica	http://dbpedia.org/ontology/location	Bregalnica
+Battle of Bregalnica	http://dbpedia.org/ontology/award	Order of the Karađorđe's Star
+Battle of Bregalnica	http://dbpedia.org/ontology/commander	Radomir Putnik
+Battle of Bregalnica	http://dbpedia.org/ontology/commander	Petar Bojović
+Battle of Bregalnica	http://dbpedia.org/ontology/commander	Kliment Boyadzhiev
+Battle of Bregalnica	http://dbpedia.org/ontology/commander	Georgi Todorov
+Battle of Bregalnica	http://dbpedia.org/ontology/previousWork	First Balkan War
+Battle of Bregalnica	http://dbpedia.org/ontology/combatant	Kingdom of Serbia
+Battle of Bregalnica	http://dbpedia.org/ontology/combatant	Bulgaria
+Battle of Bregalnica	http://dbpedia.org/ontology/militaryBranch	Serbian Army
+Battle of Bregalnica	http://dbpedia.org/ontology/strength	Serbian forces: 130, 000,  Bulgarian forces: 70, 000
+Battle of Bregalnica	http://dbpedia.org/ontology/place	Bregalnica
+Battle of Bregalnica	http://dbpedia.org/ontology/date	30 June 1913 – 8 July 1913
+Battle of Bregalnica	http://dbpedia.org/ontology/result	Serbian victory
+Battle of Bregalnica	http://dbpedia.org/ontology/isPartOfMilitaryConflict	Second Balkan War
+Battle of Bregalnica	http://dbpedia.org/ontology/territory	North Macedonia
+Battle of Bregalnica	http://dbpedia.org/ontology/casualties	1, 000-7, 000
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_involving_bulgaria
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:july_1913_events
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:june_1913_events
+http://dbpedia.org/resource/battle_of_bregalnica	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_of_bregalnica	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1913_in_serbia
+Battle of Bregalnica	http://dbpedia.org/ontology/partOf	Second Balkan War
+Battle of Bregalnica	http://dbpedia.org/ontology/followingWork	Battle of Kumanovo
+Battle of Bregalnica	http://dbpedia.org/ontology/cause	Balkan Wars
+Battle of Bregalnica	http://dbpedia.org/ontology/strategy	Encirclement
+Battle of Bregalnica	http://dbpedia.org/ontology/outcome	Serbian victory
+Battle of Bregalnica	http://dbpedia.org/ontology/belligerent	Kingdom of Serbia
+Battle of Bregalnica	http://dbpedia.org/ontology/belligerent	Kingdom of Bulgaria
+Battle of Bregalnica	http://dbpedia.org/ontology/relatedDocument	Treaty of Bucharest

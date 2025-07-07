@@ -1,0 +1,24 @@
+http://dbpedia.org/resource/melaleuca_sheathiana	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/plant
+http://dbpedia.org/resource/melaleuca_sheathiana	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:taxa_named_by_william_vincent_fitzgerald
+http://dbpedia.org/resource/melaleuca_sheathiana	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:melaleuca
+Melaleuca sheathiana	http://dbpedia.org/ontology/family	Myrtaceae
+Melaleuca sheathiana	http://dbpedia.org/ontology/class	Plant
+Melaleuca sheathiana	http://dbpedia.org/ontology/order	Myrtales
+Melaleucia sheathiana	http://dbpedia.org/ontology/phylum	Tracheophyta
+Melaleuca sheathiana	http://dbpedia.org/ontology/kingdom	Plantae
+Melaleuca sheathiana	http://dbpedia.org/ontology/synonym	Melaleuca lasiandra
+Melaleuca sheathiana	http://dbpedia.org/ontology/genus	Melaleuca
+Melaleuca sheathiana	http://dbpedia.org/ontology/binomialAuthority	C.A.Gardner
+Melaleuca sheathiana	http://dbpedia.org/ontology/domain	Plantae
+Melaleuca sheathiana	http://dbpedia.org/ontology/conservationStatus	Least Concern
+Melaleuca sheathiana	http://dbpedia.org/ontology/species	Melaleuca
+Melaleuca sheathiana	http://dbpedia.org/ontology/isSpeciesOf	Myrtaceae
+Melaleuca sheathiana	http://dbpedia.org/ontology/habitat	Heathland
+Melaleuca sheathiana	http://dbpedia.org/ontology/distribution	Western Australia
+Melaleuca sheathiana	http://dbpedia.org/ontology/pollinator	Birds
+Melaleuca sheathiana	http://dbpedia.org/ontology/seedDispersal	Ants
+Melaleuca sheathiana	http://dbpedia.org/ontology/flowerColor	Yellow
+Melaleuca sheathiana	http://dbpedia.org/ontology/fruitType	capsule.
+Melaleuca sheathiana	http://dbpedia.org/ontology/leafType	Sessile
+Melaleuca sheathiana	http://dbpedia.org/ontology/plantType	Shrub
+Melaleuca sheathiana	http://dbpedia.org/ontology/bloomingPeriod	September to December

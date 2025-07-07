@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/type	http://dbpedia.org/resource/promotional_recording
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/teen_pop
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/island_records
+http://dbpedia.org/resource/never_let_you_go_(justin_bieber_song)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/atlanta,_georgia

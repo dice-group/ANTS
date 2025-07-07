@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/bruce_lee	http://dbpedia.org/property/spouse	http://dbpedia.org/resource/linda_lee_cadwell
+http://dbpedia.org/resource/bruce_lee	http://dbpedia.org/property/restingplace	http://dbpedia.org/resource/lake_view_cemetery_(seattle)
+http://dbpedia.org/resource/bruce_lee	http://dbpedia.org/property/deathplace	http://dbpedia.org/resource/kowloon
+http://dbpedia.org/resource/bruce_lee	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/san_francisco
+http://dbpedia.org/resource/bruce_lee	http://dbpedia.org/property/mouthcountry	http://dbpedia.org/resource/united_states

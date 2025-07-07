@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/battles	http://dbpedia.org/resource/all_american_television
+http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/starring	http://dbpedia.org/resource/billy_warlock
+http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/starring	http://dbpedia.org/resource/shawn_weatherly
+http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/starring	http://dbpedia.org/resource/michael_bergin
+http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/starring	http://dbpedia.org/resource/yasmine_bleeth
+http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/northwest	http://dbpedia.org/resource/pearson_television
+http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/starring	http://dbpedia.org/resource/josé_solano_(actor)

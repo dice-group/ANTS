@@ -1,0 +1,20 @@
+(Hilarographa excellens, family, Tortricidae)
+(Hilarographa excellens, genus, Hilarographa)
+(Hilarographa excellens, order, Lepidoptera)
+(Hilarographa excellens, phylum, Arthropoda)
+(Hilarographa excellens, class, Insecta)
+(Hilarographa excellens, kingdom, Animalia)
+(Hilarographa excellens, species, Hilarographa excellens)
+(Hilarographa excellens, conservationStatus, Not Evaluated)
+Hilarographa excellens, conservationStatusSystem, IUCN3.1
+(Hilarographa excellens, binomialAuthority, H.Druce)
+(Hilarographa excellens, binomialName, "Hilarographa excellens")
+(Hilarographa excellens, synonym, "Tortrix excellens")
+(Hilarographa excellens, habitat, Tropical moist forests)
+(Hilarographa excellens, distribution, South America)
+Hilarographa excellens, diet, host plants
+Hilarographa excellens, pollinator, ?
+Hilarographa excellens, predator, ?
+Hilarographa excellens, isPartOf, Tortricidae
+Hilarographa excellens, lifeSpan, ?
+Hilarographa excellens, reproductiveType, sexual reproduction

@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/property/products	http://dbpedia.org/resource/ed_boon
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/property/depots	http://dbpedia.org/resource/game.com
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/property/breeder	http://dbpedia.org/resource/fighting_game
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/ontology/computingplatform	http://dbpedia.org/resource/ms-dos
+http://dbpedia.org/resource/mortal_kombat_trilogy	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/playstation_(console)

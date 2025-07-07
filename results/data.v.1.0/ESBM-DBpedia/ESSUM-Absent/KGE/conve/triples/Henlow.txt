@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/henlow	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/henlow_camp_railway_station
+http://dbpedia.org/resource/henlow	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/physicalentity100001930
+http://dbpedia.org/resource/henlow	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/jim_watts
+http://dbpedia.org/resource/henlow	http://dbpedia.org/ontology/broadcastarea	http://dbpedia.org/resource/bedfordshire
+http://dbpedia.org/resource/henlow	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/peter_watts_(cricketer,_born_1938)
+http://dbpedia.org/resource/henlow	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/henlow	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/animal
+http://dbpedia.org/resource/henlow	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/henlow	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/henlow	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167
+http://dbpedia.org/resource/henlow	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location

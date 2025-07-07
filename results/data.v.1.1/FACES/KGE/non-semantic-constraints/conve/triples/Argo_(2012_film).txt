@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/argo_(2012_film)
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/john_goodman
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/poland
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/john_hieftje
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/alan_arkin
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/cinematography	http://dbpedia.org/resource/rodrigo_prieto
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/editing	http://dbpedia.org/resource/william_goldenberg
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/location	http://dbpedia.org/resource/warner_bros.

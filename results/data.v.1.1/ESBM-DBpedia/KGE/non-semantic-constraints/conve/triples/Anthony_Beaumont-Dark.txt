@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactorgeo
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/physicalentity100001930
+http://dbpedia.org/resource/anthony_beaumont-dark	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing

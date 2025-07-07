@@ -1,0 +1,16 @@
+http://dbpedia.org/resource/schistura_jarutanini	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q729
+http://dbpedia.org/resource/schistura_jarutanini	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/schistura_jarutanini	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
+http://dbpedia.org/resource/schistura_jarutanini	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/schistura_jarutanini	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal
+http://dbpedia.org/resource/schistura_jarutanini	http://dbpedia.org/ontology/thumbnail	http://commons.wikimedia.org/wiki/special:filepath/mekong_river_location.jpg?width=300
+http://dbpedia.org/resource/schistura_jarutanini	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/rock_music
+http://dbpedia.org/resource/schistura_jarutanini	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/nemacheilidae
+http://dbpedia.org/resource/schistura_jarutanini	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/actinopterygii
+http://dbpedia.org/resource/schistura_jarutanini	http://dbpedia.org/ontology/order	http://dbpedia.org/resource/characiformes
+http://dbpedia.org/resource/schistura_jarutanini	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/animal
+http://dbpedia.org/resource/schistura_jarutanini	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:anostomidae
+http://dbpedia.org/resource/schistura_jarutanini	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_south_america
+http://dbpedia.org/resource/schistura_jarutanini	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:cnblue_albums
+http://dbpedia.org/resource/schistura_jarutanini	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_brazil
+http://dbpedia.org/resource/schistura_jarutanini	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_albums

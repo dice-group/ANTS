@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/roque_ceruti	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/roque_ceruti	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/roque_ceruti	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/roque_ceruti	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/roque_ceruti	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/ontology/commander	http://commons.wikimedia.org/wiki/special:filepath/dallas_keuchel_signing_autographs_in_jan_2015.jpg?width=300
+http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1760_deaths
+http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:italian_classical_composers
+http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:italian_male_composers
+http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/houston_astros
+http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1680s_births
+http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:baroque_composers
+http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/starting_pitcher

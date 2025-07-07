@@ -1,0 +1,36 @@
+http://dbpedia.org/resource/argo_(2012_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_whose_director_won_the_best_director_golden_globe
+http://dbpedia.org/resource/argo_(2012_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:warner_bros._films
+http://dbpedia.org/resource/argo_(2012_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_set_in_1980
+http://dbpedia.org/resource/argo_(2012_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_whose_director_won_the_best_direction_bafta_award
+http://dbpedia.org/resource/argo_(2012_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:race-related_controversies_in_film
+Argo 2012 film	http://dbpedia.org/ontology/country	United States
+Argo 2012 film	http://dbpedia.org/ontology/starring	Ben Affleck
+Argo 2012 film	http://dbpedia.org/ontology/starring	Bryan Cranston
+Argo 2012 film	http://dbpedia.org/ontology/starring	Alan Arkin
+Argo 2012 film	http://dbpedia.org/ontology/starring	John Goodman
+Argo 2012 film	http://dbpedia.org/ontology/genre	Thriller film
+Argo 2012 film	http://dbpedia.org/ontology/writer	Chris Terrio
+Argo 2012 film	http://dbpedia.org/ontology/runtime	120 minutes
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/studio	http://dbpedia.org/resource/graham_king
+Argo 2012 film	http://dbpedia.org/ontology/award	Academy Award for Best Picture
+Argo 2012 film	http://dbpedia.org/ontology/producer	George Clooney
+Argo 2012 film	http://dbpedia.org/ontology/producer	Grant Heslov
+Argo 2012 film	http://dbpedia.org/ontology/producer	Ben Affleck
+Argo 2012 film	http://dbpedia.org/ontology/releaseDate	2012-10-12
+Argo 2012 film	http://dbpedia.org/ontology/director	Ben Affleck
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/battles	http://dbpedia.org/resource/william_goldenberg
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/cinematography	http://dbpedia.org/resource/rodrigo_prieto
+Argo 2012 film	http://dbpedia.org/ontology/language	English
+Argo 2012 film	http://dbpedia.org/ontology/distributor	Warner Bros. Pictures
+Argo 2012 film	http://dbpedia.org/ontology/musicComposer	Alexandre Desplat
+Argo 2012 film	http://dbpedia.org/ontology/cinematography	Rodrigo Prieto
+Argo 2012 film	http://dbpedia.org/ontology/editing	William Goldenberg
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/fields	http://dbpedia.org/resource/ben_affleck
+Argo 2012 film	http://dbpedia.org/ontology/budget	$44.5 million
+Argo 2012 film	http://dbpedia.org/ontology/gross	$232 million
+Argo 2012 film	http://dbpedia.org/ontology/basedOn	"The Master of Disguise" by Antonio J. Mendez and "A Great Escape" article by Joshuah Bearman
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/property/restoredby	http://dbpedia.org/resource/category:smokehouse_pictures_films
+http://dbpedia.org/resource/argo_(2012_film)	http://dbpedia.org/ontology/architecturalstyle	http://dbpedia.org/resource/alexandre_desplat
+Argo 2012 film	http://dbpedia.org/ontology/workRuntime	120 minutes
+Argo 2012 film	http://dbpedia.org/ontology/filmFestival	Academy Awards
+Argo 2012 film	http://dbpedia.org/ontology/filmSeries	None

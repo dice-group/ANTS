@@ -1,0 +1,18 @@
+Darreh Dang	http://dbpedia.org/ontology/country	Iran
+Darreh Dang	http://dbpedia.org/ontology/location	Iran
+Darreh Dang	http://dbpedia.org/ontology/timeZone	IRST
+Darreh Dang	http://dbpedia.org/ontology/elevation	1592
+Darreh Dang	http://dbpedia.org/ontology/postalCode	63671
+Darreh Dang	http://dbpedia.org/ontology/leaderTitle	Village Chief
+Darreh Dang	http://dbpedia.org/ontology/nearestCity	Yasuj
+Darreh Dang	http://dbpedia.org/ontology/region	Fars
+Darreh Dang	http://dbpedia.org/ontology/governmentType	Islamic Republic
+Darreh Dang	http://dbpedia.org/ontology/name	Darreh Dang
+Darreh Dang	http://dbpedia.org/ontology/officialLanguage	Persian
+http://dbpedia.org/resource/darreh_dang	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
+http://dbpedia.org/resource/darreh_dang	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167
+http://dbpedia.org/resource/darreh_dang	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/darreh_dang	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/darreh_dang	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+Darreh Dang	http://dbpedia.org/ontology/iso3166Code	IR
+Darreh Dang	http://dbpedia.org/ontology/UTCOffset	+3:30

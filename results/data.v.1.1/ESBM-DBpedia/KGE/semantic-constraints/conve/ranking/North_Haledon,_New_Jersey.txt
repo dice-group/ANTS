@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1901_establishments_in_new_jersey
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:populated_places_established_in_1901
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:boroughs_in_passaic_county,_new_jersey
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/eastern_time_zone
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/property/blankname	http://dbpedia.org/resource/federal_information_processing_standards
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/mayor
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/borough_(new_jersey)
+http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/u.s._state

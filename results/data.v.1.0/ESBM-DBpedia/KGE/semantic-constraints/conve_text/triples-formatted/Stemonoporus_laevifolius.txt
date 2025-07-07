@@ -1,0 +1,1 @@
+ <H> stemonoporus_laevifolius <R> subject <T> category:taxonomy_articles_created_by_polbot <H> stemonoporus_laevifolius <R> subject <T> category:stemonoporus <H> stemonoporus_laevifolius <R> hypernym <T> plant <H> stemonoporus_laevifolius <R> type <T> plant <H> stemonoporus_laevifolius <R> subject <T> category:endangered_plants

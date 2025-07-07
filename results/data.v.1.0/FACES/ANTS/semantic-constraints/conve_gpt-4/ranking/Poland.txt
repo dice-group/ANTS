@@ -1,0 +1,41 @@
+Poland	http://dbpedia.org/ontology/timeZone	Central European Time
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/central_european_time
+Poland	http://dbpedia.org/ontology/populationTotal	37950802
+Poland	http://dbpedia.org/ontology/areaTotal	312696
+Poland	http://dbpedia.org/ontology/leaderTitle	President
+Poland	http://dbpedia.org/ontology/militaryBranch	Polish Land Forces
+Poland	http://dbpedia.org/ontology/militaryBranch	Polish Navy
+Poland	http://dbpedia.org/ontology/militaryBranch	Polish Air Force
+Poland	http://dbpedia.org/ontology/militaryBranch	Special Forces
+Poland	http://dbpedia.org/ontology/militaryBranch	Territorial Defence Force
+http://dbpedia.org/resource/poland	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/battle_of_eylau_(1455)
+Poland	http://dbpedia.org/ontology/governmentType	"Unitary parliamentary republic"
+Poland	http://dbpedia.org/ontology/membership	European Union
+Poland	http://dbpedia.org/ontology/capital	Warsaw
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/currency	http://dbpedia.org/resource/polish_złoty
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/legislature	http://dbpedia.org/resource/parliament_of_poland
+http://dbpedia.org/resource/poland	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/poland__historicalevent__1
+http://dbpedia.org/resource/poland	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/poland__historicalevent__3
+http://dbpedia.org/resource/poland	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/poland__historicalevent__7
+http://dbpedia.org/resource/poland	http://dbpedia.org/ontology/event	http://dbpedia.org/resource/poland__historicalevent__8
+Poland	http://dbpedia.org/ontology/largestCity	Warsaw
+Poland	http://dbpedia.org/ontology/currency	Polish złoty
+Poland	http://dbpedia.org/ontology/officialLanguage	Polish
+Poland	http://dbpedia.org/ontology/anthem	"Mazurek Dąbrowskiego"
+Poland	http://dbpedia.org/ontology/leaderName	Andrzej Duda
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/kingdom_of_poland
+http://dbpedia.org/resource/poland	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:member_states_of_nato
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/history_of_poland_(1918–1939)
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/partitions_of_poland
+http://dbpedia.org/resource/poland	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/unitary_parliamentary_republic
+http://dbpedia.org/resource/poland	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/carl_friedrich_goerdeler
+http://dbpedia.org/resource/poland	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:countries_in_europe
+http://dbpedia.org/resource/poland	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:central_european_countries
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/polish–lithuanian_commonwealth
+http://dbpedia.org/resource/poland	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/history_of_poland_(1989–present)
+Poland	http://dbpedia.org/ontology/gdpNominal	$642 billion
+Poland	http://dbpedia.org/ontology/gdpPpp	$1.424 trillion
+Poland	http://dbpedia.org/ontology/gdpNominalPerCapita	15800 USD
+Poland	http://dbpedia.org/ontology/iso3166Code	"PL"
+Poland	http://dbpedia.org/ontology/flag	Flag of Poland
+Poland	http://dbpedia.org/ontology/nationalDish	Bigos

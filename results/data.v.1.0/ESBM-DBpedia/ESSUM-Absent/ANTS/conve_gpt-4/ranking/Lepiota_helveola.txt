@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:deadly_fungi
+http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fungi_described_in_1882
+http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fungi_of_europe
+http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:poisonous_fungi
+http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:agaricaceae
+Lepiota helveola	http://dbpedia.org/ontology/family	Agaricaceae
+Lepiota helveola	http://dbpedia.org/ontology/class	Fungi
+Lepiota helveola	http://dbpedia.org/ontology/order	Agaricales
+Lepiota helveola	http://dbpedia.org/ontology/phylum	Basidiomycota
+Lepiota helveola	http://dbpedia.org/ontology/kingdom	Fungi
+Lepiota helveola	http://dbpedia.org/ontology/synonym	Lepiota luteophylla
+Lepiota helveola	http://dbpedia.org/ontology/genus	Lepiota
+Lepiota helveola	http://dbpedia.org/ontology/binomialAuthority	Bres.
+Lepiota helveola	http://dbpedia.org/ontology/relatedMeanOfTransportation	None
+Lepiota helveola	http://dbpedia.org/ontology/isPartOf	Fungi
+Lepiota helveola	http://dbpedia.org/ontology/species	Lepiota
+Lepiota helveola	http://dbpedia.org/ontology/habitat	Woodlands
+Lepiota helveola	http://dbpedia.org/ontology/distribution	Europe
+Lepiota helveola	http://dbpedia.org/ontology/sporePrintColor	White
+Lepiota helveola	http://dbpedia.org/ontology/capShape	Convex
+Lepiota helveola	http://dbpedia.org/ontology/edibility	poisonous
+Lepiota helveola	http://dbpedia.org/ontology/fruitBodyColor	Yellow or yellow-brown
+Lepiota helveola	http://dbpedia.org/ontology/mycologicalCharacteristics	Poisonous
+Lepiota helveola	http://dbpedia.org/ontology/toxicity	Deadly
+Lepiota helveola	http://dbpedia.org/ontology/rdf:type	dbo:Species

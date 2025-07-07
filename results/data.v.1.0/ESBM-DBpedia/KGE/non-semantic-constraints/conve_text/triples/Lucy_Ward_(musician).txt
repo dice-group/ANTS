@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/ontology/category	http://www.wikidata.org/entity/q483501
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/ontology/locatedinarea	http://dbpedia.org/resource/navigator_records
+http://dbpedia.org/resource/lucy_ward_(musician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/lucy_ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/causalagent100007347
+http://dbpedia.org/resource/lucy_ward_(musician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:music_in_derby
+http://dbpedia.org/resource/lucy_ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/livingthing100004258
+http://dbpedia.org/resource/lucy_ward_(musician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english_singer-songwriters
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/ontology/category	http://dbpedia.org/class/yago/musician110339966
+http://dbpedia.org/resource/lucy_ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/lucy_ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/livingpeople
+http://dbpedia.org/resource/lucy_ward_(musician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english_folk_singers
+http://dbpedia.org/resource/lucy_ward_(musician)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:english_female_singers
+http://dbpedia.org/resource/lucy_ward_(musician)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactorgeo
+http://dbpedia.org/resource/lucy_ward_(musician)	http://dbpedia.org/ontology/category	http://dbpedia.org/class/yago/peoplefromderby

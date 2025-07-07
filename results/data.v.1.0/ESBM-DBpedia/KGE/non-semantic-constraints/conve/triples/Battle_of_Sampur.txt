@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/battle_of_sampur	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:conflicts_in_2006
+http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/militaryconflict
+http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
+http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_of_sampur	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2006_in_sri_lanka
+http://dbpedia.org/resource/battle_of_sampur	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/edward_pellew,_1st_viscount_exmouth
+http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/battle_of_sampur	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/african_grey_hornbill
+http://dbpedia.org/resource/battle_of_sampur	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_eastern_theater_of_eelam_war_iv

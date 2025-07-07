@@ -1,0 +1,39 @@
+Nile	http://dbpedia.org/ontology/country	Egypt
+Nile	http://dbpedia.org/ontology/elevation	0 meters
+Nile	http://dbpedia.org/ontology/length	6650 km
+Nile	http://dbpedia.org/ontology/length	6650km
+Nile	http://dbpedia.org/ontology/crosses	Egypt
+Nile	http://dbpedia.org/ontology/mouthPosition	Mediterranean Sea
+Nile	http://dbpedia.org/ontology/mouthRegion	Mediterranean Sea
+Nile	http://dbpedia.org/ontology/sourceElevation	1130 m
+Nile	http://dbpedia.org/ontology/sourcePosition	Burundi
+Nile	http://dbpedia.org/ontology/sourceMountain	Rwenzori Mountains
+Nile	http://dbpedia.org/ontology/sourceRegion	Lake Victoria
+Nile	http://dbpedia.org/ontology/basinCountry	Egypt
+Nile	http://dbpedia.org/ontology/basinCountry	Sudan
+Nile	http://dbpedia.org/ontology/basinCountry	Ethiopia
+Nile	http://dbpedia.org/ontology/basinCountry	Uganda
+Nile	http://dbpedia.org/ontology/basinCountry	Congo
+Nile	http://dbpedia.org/ontology/basinCountry	Kenya
+Nile	http://dbpedia.org/ontology/basinCountry	Tanzania
+Nile	http://dbpedia.org/ontology/basinCountry	Rwanda
+Nile	http://dbpedia.org/ontology/basinCountry	Burundi
+Nile	http://dbpedia.org/ontology/basinCountry	South Sudan
+Nile	http://dbpedia.org/ontology/tributary	Blue Nile
+Nile	http://dbpedia.org/ontology/tributary	White Nile
+Nile	http://dbpedia.org/ontology/tributary	Atbara River
+Nile	http://dbpedia.org/ontology/discharge	2800 m³/s
+Nile	http://dbpedia.org/ontology/sourceCountry	Burundi
+Nile	http://dbpedia.org/ontology/source	Lake Victoria
+Nile	http://dbpedia.org/ontology/bridge	Qasr al-Nil Bridge
+Nile	http://dbpedia.org/ontology/flowingThrough	Egypt
+Nile	http://dbpedia.org/ontology/cities	Cairo
+Nile	http://dbpedia.org/ontology/cities	Khartoum
+Nile	http://dbpedia.org/ontology/cities	Gondar
+Nile	http://dbpedia.org/ontology/cities	Jinja
+Nile	http://dbpedia.org/ontology/cities	Luxor
+Nile	http://dbpedia.org/ontology/cities	Aswan
+Nile	http://dbpedia.org/ontology/cities	Alexandria
+Nile	http://dbpedia.org/ontology/rightTributary	Atbara River
+Nile	http://dbpedia.org/ontology/leftTributary	Blue Nile
+Nile	http://dbpedia.org/ontology/flows_into	Mediterranean Sea

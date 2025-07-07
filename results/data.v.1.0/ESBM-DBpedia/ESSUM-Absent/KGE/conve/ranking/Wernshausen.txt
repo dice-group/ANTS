@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/wernshausen	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:populated_places_in_aligudarz_county
+http://dbpedia.org/resource/wernshausen	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:geography_of_thuringia
+http://dbpedia.org/resource/wernshausen	http://dbpedia.org/ontology/district	http://dbpedia.org/resource/schmalkalden-meiningen
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#spatialthing
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/wernshausen	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place

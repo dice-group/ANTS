@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/property/executiveproducer	http://dbpedia.org/resource/e._duke_vincent
+http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/property/executiveproducer	http://dbpedia.org/resource/aaron_spelling
+http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/indie_rock
+http://dbpedia.org/resource/if_(glasvegas_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2013_singles
+http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/property/album	http://dbpedia.org/resource/later...when_the_tv_turns_to_static
+http://dbpedia.org/resource/if_(glasvegas_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:glasvegas_songs
+http://dbpedia.org/resource/if_(glasvegas_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/single
+http://dbpedia.org/resource/if_(glasvegas_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/ontology/recordlabel	http://dbpedia.org/resource/laface_records
+http://dbpedia.org/resource/if_(glasvegas_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_james_allan_(musician)

@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:tolled_sections_of_interstate_highways
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/infrastructure
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:transportation_in_richmond,_virginia
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/road
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:former_toll_roads_in_virginia
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:interstate_85
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1955_establishments_in_virginia

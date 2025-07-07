@@ -1,0 +1,21 @@
+http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
+http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
+http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+Yayoidai Station	http://dbpedia.org/ontology/country	Japan
+Yayoidai Station	http://dbpedia.org/ontology/location	Yokohama
+Yayoidai Station	http://dbpedia.org/ontology/location	Japan
+Yayoidai Station	http://dbpedia.org/ontology/elevation	27.0
+Yayoidai Station	http://dbpedia.org/ontology/address	Japan,  Saitama Prefecture,  Iruma District,  Yokoze,  Yayoi
+Yayoidai Station	http://dbpedia.org/ontology/architecturalStyle	Modernism
+Yayoidai Station	http://dbpedia.org/ontology/openingDate	1923-03-18
+Yayoidai Station	http://dbpedia.org/ontology/servingRailwayLine	Seibu Tamako Line
+Yayoidai Station	http://dbpedia.org/ontology/operator	Keio Corporation
+Yayoidai Station	http://dbpedia.org/ontology/line	Keisei Main Line
+Yayoidai Station	http://dbpedia.org/ontology/platform	2 sides
+Yayoidai Station	http://dbpedia.org/ontology/stationCode	Y09
+Yayoidai Station	http://dbpedia.org/ontology/previousStation	Minami-Sakurai Station
+Yayoidai Station	http://dbpedia.org/ontology/nextStation	Musashi-Urawa Station
+Yayoidai Station	http://dbpedia.org/ontology/numberOfPlatforms	2
+Yayoidai Station	http://dbpedia.org/ontology/ownedBy	Keihan Electric Railway

@@ -1,0 +1,27 @@
+http://dbpedia.org/resource/candle_in_the_wind	http://xmlns.com/foaf/0.1/depiction	http://upload.wikimedia.org/wikipedia/commons/0/07/elton_john_-_candle_in_the_wind_(1986).jpg
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/property/writer	http://dbpedia.org/resource/bernie_taupin
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/property/label	http://dbpedia.org/resource/djm_records
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/glam_rock
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/pop_rock
+Candle in the Wind	http://dbpedia.org/ontology/genre	Pop
+Candle in the Wind	http://dbpedia.org/ontology/writer	Elton John and Bernie Taupin
+Candle in the Wind	http://dbpedia.org/ontology/recordLabel	MCA Records
+Candle in the Wind	http://dbpedia.org/ontology/award	Grammy Award
+Candle in the Wind	http://dbpedia.org/ontology/producer	Gus Dudgeon
+Candle in the Wind	http://dbpedia.org/ontology/releaseDate	1973-01-01
+Candle in the Wind	http://dbpedia.org/ontology/associatedBand	Elton John
+Candle in the Wind	http://dbpedia.org/ontology/associatedMusicalArtist	Elton John
+Candle in the Wind	http://dbpedia.org/ontology/language	English
+Candle in the Wind	http://dbpedia.org/ontology/artist	Elton John
+Candle in the Wind	http://dbpedia.org/ontology/musicComposer	Elton John
+Candle in the Wind	http://dbpedia.org/ontology/previousWork	Don't Let the Sun Go Down on Me
+Candle in the Wind	http://dbpedia.org/ontology/format	CD single
+Candle in the Wind	http://dbpedia.org/ontology/recordedIn	Goodbye Yellow Brick Road
+Candle in the Wind	http://dbpedia.org/ontology/lyrics	Bernie Taupin
+Candle in the Wind	http://dbpedia.org/ontology/musicBy	Elton John
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/ontology/locationcity	http://dbpedia.org/resource/elton_john
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/property/fromalbum	http://dbpedia.org/resource/goodbye_yellow_brick_road
+http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/candle_in_the_wind
+Candle in the Wind	http://dbpedia.org/ontology/nextWork	Candle in the Wind 1997
+Candle in the Wind	http://dbpedia.org/ontology/studio	Gus Dudgeon
+Candle in the Wind	http://dbpedia.org/ontology/certification	Platinum

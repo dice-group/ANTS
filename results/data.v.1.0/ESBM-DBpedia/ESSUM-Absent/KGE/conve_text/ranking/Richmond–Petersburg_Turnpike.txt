@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q34442
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/turnpike104501018
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/formertollroadsintheunitedstates
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:interstate_85
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:transportation_in_petersburg,_virginia
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/guilty_as_charged
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://dbpedia.org/ontology/recordedin	http://commons.wikimedia.org/wiki/special:filepath/reamer_barn.jpg
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:tolled_sections_of_interstate_highways
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/highway103519981
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:former_toll_roads_in_virginia
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/ontology/routeoftransportation
+http://dbpedia.org/resource/richmond–petersburg_turnpike	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:interstate_95

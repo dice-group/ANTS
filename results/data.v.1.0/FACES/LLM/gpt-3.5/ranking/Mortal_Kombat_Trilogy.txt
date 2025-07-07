@@ -1,0 +1,15 @@
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasTitle	Mortal Kombat Trilogy
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/includesCharacter	Scorpion
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasReleaseDate	October 1996
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasPlatforms	PlayStation, Nintendo 64, Sega Saturn
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasDeveloper	Midway Games
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasPublisher	Williams Entertainment
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasGenre	Fighting
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasModes	Single-player, multiplayer
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasOnlineSupport	No
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasRating	Mature
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasNumberofCharacters	30
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasUnlockableContent	Secret characters and stages
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasSpecialMoves	Fatalities, Babalities, Friendships
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasAlternateCostumes	Yes
+Mortal Kombat Trilogy	http://dbpedia.org/ontology/hasCheatCodes	Unlock hidden content

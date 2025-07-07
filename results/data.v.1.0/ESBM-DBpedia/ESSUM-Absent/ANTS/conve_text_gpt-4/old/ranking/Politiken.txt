@@ -1,0 +1,35 @@
+Politiken	http://dbpedia.org/ontology/country	Denmark
+Politiken	http://dbpedia.org/ontology/language	Danish
+Politiken	http://dbpedia.org/ontology/publisher	JP/Politikens Hus
+Politiken	http://dbpedia.org/ontology/owner	JP/Politikens Hus
+Politiken	http://dbpedia.org/ontology/headquarter	Copenhagen
+Politiken	http://dbpedia.org/ontology/industry	Newspaper
+Politiken	http://dbpedia.org/ontology/foundingDate	"1884-10-01"
+Politiken	http://dbpedia.org/ontology/keyPerson	Christian Jensen
+Politiken	http://dbpedia.org/ontology/format	Broadsheet
+Politiken	http://dbpedia.org/ontology/issn	0907-1814
+Politiken	http://dbpedia.org/ontology/editor	Christian Jensen
+Politiken	http://dbpedia.org/ontology/circulation	97,448
+Politiken	http://dbpedia.org/ontology/founder	Edvard Brandes
+Politiken	http://dbpedia.org/ontology/slogan	"Størst på nyheder"
+Politiken	http://dbpedia.org/ontology/sisterNewspaper	Jyllands-Posten
+Politiken	http://dbpedia.org/ontology/previousEditor	Tøger Seidenfaden
+Politiken	http://dbpedia.org/ontology/foundationPlace	Copenhagen
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:danish-language_newspapers
+http://dbpedia.org/resource/politiken	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/newspaper106267145
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:newspapers_published_in_denmark
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:media_in_copenhagen
+http://dbpedia.org/resource/politiken	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/work104599396
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1884_establishments_in_denmark
+http://dbpedia.org/resource/politiken	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/ontology/writtenwork
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/politiken	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/press106263369
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/periodicalliterature
+http://dbpedia.org/resource/politiken	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework
+http://dbpedia.org/resource/politiken	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:publications_established_in_1884
+Politiken	http://dbpedia.org/ontology/politicalAlignment	Social Liberal
+Politiken	http://dbpedia.org/ontology/affiliate	Jyllands-Posten
+Politiken	http://dbpedia.org/ontology/associatedJournal	Jyllands-Posten
+Politiken	http://dbpedia.org/ontology/website	https://politiken.dk/

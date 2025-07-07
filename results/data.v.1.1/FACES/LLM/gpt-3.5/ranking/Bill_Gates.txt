@@ -1,0 +1,15 @@
+Bill Gates	http://dbpedia.org/ontology/occupation	entrepreneur
+Bill Gates	http://dbpedia.org/ontology/nationality	American
+Bill Gates	http://dbpedia.org/ontology/spouse	Melinda Gates
+Bill Gates	http://dbpedia.org/ontology/residence	Medina, Washington
+Bill Gates	http://dbpedia.org/ontology/networth	130 billion USD
+Bill Gates	http://dbpedia.org/ontology/birthdate	October 28, 1955
+Bill Gates	http://dbpedia.org/ontology/co-founder	Microsoft
+Bill Gates	http://dbpedia.org/ontology/philanthropist	Yes
+Bill Gates	http://dbpedia.org/ontology/children	3
+Bill Gates	http://dbpedia.org/ontology/almamater	Harvard University
+Bill Gates	http://dbpedia.org/ontology/CEO	Microsoft
+Bill Gates	http://dbpedia.org/ontology/foundation	Bill and Melinda Gates Foundation
+Bill Gates	http://dbpedia.org/ontology/awards	Presidential Medal of Freedom
+Bill Gates	http://dbpedia.org/ontology/books	The Road Ahead
+Bill Gates	http://dbpedia.org/ontology/technology	computer programming

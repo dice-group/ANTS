@@ -1,0 +1,1 @@
+ <H> muławki <R> type <T> village <H> muławki <R> subject <T> category:populated_places_in_kara_region <H> muławki <R> type <T> http://www.wikidata.org/entity/q486972 <H> muławki <R> type <T> http://schema.org/place <H> muławki <R> type <T> location <H> muławki <R> type <T> populatedplace <H> muławki <R> subject <T> category:assoli <H> muławki <R> type <T> place

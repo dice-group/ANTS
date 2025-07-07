@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/footballmatch
+http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/2011_kor_royal_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_in_thai_football_cups
+http://dbpedia.org/resource/2011_kor_royal_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:kor_royal_cup_seasons
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/property/team	http://dbpedia.org/resource/muangthong_united_f.c.
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/property/city	http://dbpedia.org/resource/bangkok
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/napoleon
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/property/strength	http://dbpedia.org/resource/uss_louisiana_(1861)
+http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/followingevent	http://dbpedia.org/resource/2012_kor_royal_cup

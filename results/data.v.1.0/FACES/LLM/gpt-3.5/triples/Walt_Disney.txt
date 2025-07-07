@@ -1,0 +1,15 @@
+Walt Disney	birthDate	December 5, 1901
+Walt Disney	birthPlace	Chicago, Illinois
+Walt Disney	deathDate	December 15, 1966
+Walt Disney	nationality	American
+Walt Disney	profession	Animator
+Walt Disney	founderOf	The Walt Disney Company
+Walt Disney	created	Mickey Mouse
+Walt Disney	created	Disneyland
+Walt Disney	awards	26 Academy Awards
+Walt Disney	spouse	Lillian Disney
+Walt Disney	children	Diane Disney Miller
+Walt Disney	children	Sharon Mae Disney
+Walt Disney	netWorth	$5 billion
+Walt Disney	influenced	Generations of animators
+Walt Disney	famousQuote	"All our dreams can come true, if we have the courage to pursue them."

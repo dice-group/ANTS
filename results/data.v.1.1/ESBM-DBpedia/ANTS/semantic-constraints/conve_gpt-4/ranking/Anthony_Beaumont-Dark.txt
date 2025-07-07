@@ -1,0 +1,24 @@
+http://dbpedia.org/resource/anthony_beaumont-dark	http://dbpedia.org/property/title	http://dbpedia.org/resource/list_of_high_commissioners_of_new_zealand_to_australia
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/birthPlace	Birmingham
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/occupation	Politician
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/deathPlace	Birmingham
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/termPeriod	1979-1992
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/office	Member of Parliament for Birmingham Selly Oak
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/almaMater	University of Birmingham
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/award	Officer of the Order of the British Empire
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/party	Conservative Party
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/nationality	British
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/education	The King's School,  Worcester
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/spouse	Susan Beaumont-Dark
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/parent	Betty Dark
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/militaryBranch	British Army
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/serviceStartYear	1979
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/serviceEndYear	1992
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/profession	Politician
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/militaryRank	Lieutenant
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:conservative_party_(uk)_mps_for_english_constituencies
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:alumni_of_the_university_of_birmingham
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2006_deaths
+http://dbpedia.org/resource/anthony_beaumont-dark	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uk_mps_1983–1987
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/children	Emma Beaumont-Dark
+Anthony Beaumont-Dark	http://dbpedia.org/ontology/memberOf	Conservative Party

@@ -1,0 +1,39 @@
+http://dbpedia.org/resource/joe_biden	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/joe_biden	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_people_of_irish_descent
+http://dbpedia.org/resource/joe_biden	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:democratic_party_(united_states)_presidential_nominees
+http://dbpedia.org/resource/joe_biden	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1942_births
+http://dbpedia.org/resource/joe_biden	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:public_defenders
+Joe Biden	http://dbpedia.org/ontology/birthPlace	Scranton
+Joe Biden	http://dbpedia.org/ontology/birthDate	1942-11-20
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/caps	http://dbpedia.org/resource/family_of_joe_biden
+Joe Biden	http://dbpedia.org/ontology/occupation	Politician
+Joe Biden	http://dbpedia.org/ontology/office	President of the United States
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/donald_trump
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/predecessor	http://dbpedia.org/resource/j._caleb_boggs
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/ted_kaufman
+Joe Biden	http://dbpedia.org/ontology/predecessor	Donald Trump
+Joe Biden	http://dbpedia.org/ontology/almaMater	University of Delaware
+Joe Biden	http://dbpedia.org/ontology/almaMater	Syracuse University College of Law
+Joe Biden	http://dbpedia.org/ontology/award	Presidential Medal of Freedom
+Joe Biden	http://dbpedia.org/ontology/party	Democratic Party
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/awards	http://dbpedia.org/resource/list_of_honors_and_awards_received_by_joe_biden
+Joe Biden	http://dbpedia.org/ontology/nationality	United States
+Joe Biden	http://dbpedia.org/ontology/education	University of Delaware
+Joe Biden	http://dbpedia.org/ontology/education	Syracuse University College of Law
+Joe Biden	http://dbpedia.org/ontology/spouse	Jill Biden
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/hunter_biden
+Joe Biden	http://dbpedia.org/ontology/residence	Number One Observatory Circle
+Joe Biden	http://dbpedia.org/ontology/militaryBranch	None
+Joe Biden	http://dbpedia.org/ontology/religion	Catholicism
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/alongside	http://dbpedia.org/resource/paul_tsongas
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/alongside	http://dbpedia.org/resource/tom_daschle
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/alongside	http://dbpedia.org/resource/david_l._boren
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/alongside	http://dbpedia.org/resource/barbara_boxer
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/alongside	http://dbpedia.org/resource/barbara_b._kennelly
+Joe Biden	http://dbpedia.org/ontology/profession	Politician
+Joe Biden	http://dbpedia.org/ontology/signature	http://commons.wikimedia.org/wiki/Special:FilePath/Joe_Biden_signature.svg
+Joe Biden	http://dbpedia.org/ontology/vicePresident	Barack Obama
+Joe Biden	http://dbpedia.org/ontology/militaryRank	None
+Joe Biden	http://dbpedia.org/ontology/children	Hunter Biden
+Joe Biden	http://dbpedia.org/ontology/children	Ashley Biden
+Joe Biden	http://dbpedia.org/ontology/succeeding	Donald Trump

@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/reign_of_fire_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_set_in_london
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/editing	http://dbpedia.org/resource/thom_noble
+http://dbpedia.org/resource/reign_of_fire_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:giant_monster_films
+http://dbpedia.org/resource/reign_of_fire_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:british_science_fantasy_films
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/ontology/productioncompany	http://dbpedia.org/resource/the_zanuck_company
+http://dbpedia.org/resource/reign_of_fire_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/film
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/screenplay	http://dbpedia.org/resource/matt_greenberg
+http://dbpedia.org/resource/reign_of_fire_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:irish_survival_films
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/shirecounty	http://dbpedia.org/resource/republic_of_ireland
+http://dbpedia.org/resource/reign_of_fire_(film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_post-apocalyptic_films
+http://dbpedia.org/resource/reign_of_fire_(film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/ontology/musiccomposer	http://dbpedia.org/resource/edward_shearmur

@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:teddybears_songs
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2006_singles
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2004_songs
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_klas_åhlund
+http://dbpedia.org/resource/hey_boy_(teddybears_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:epic_records_singles
+Hey Boy Teddybears song	http://dbpedia.org/ontology/genre	Electronic music
+Hey Boy Teddybears song	http://dbpedia.org/ontology/writer	Patrik Arve
+Hey Boy Teddybears song	http://dbpedia.org/ontology/recordLabel	Atlantic Records
+Hey Boy Teddybears song	http://dbpedia.org/ontology/award	null
+Hey Boy Teddybears song	http://dbpedia.org/ontology/producer	Teddybears
+Hey Boy Teddybears song	http://dbpedia.org/ontology/releaseDate	2004
+Hey Boy Teddybears song	http://dbpedia.org/ontology/releaseDate	2004-07-26
+Hey Boy Teddybears song	http://dbpedia.org/ontology/associatedBand	Teddybears
+Hey Boy Teddybears song	http://dbpedia.org/ontology/associatedMusicalArtist	Teddybears
+Hey Boy Teddybears song	http://dbpedia.org/ontology/language	English
+Hey Boy Teddybears song	http://dbpedia.org/ontology/artist	Teddybears
+Hey Boy Teddybears song	http://dbpedia.org/ontology/musicComposer	Patrik Arve
+Hey Boy Teddybears song	http://dbpedia.org/ontology/previousWork	Cobrastyle
+Hey Boy Teddybears song	http://dbpedia.org/ontology/album	Fresh Teddybears album
+Hey Boy Teddybears song	http://dbpedia.org/ontology/format	CD single
+Hey Boy Teddybears song	http://dbpedia.org/ontology/recordedIn	2004
+Hey Boy Teddybears song	http://dbpedia.org/ontology/lyrics	Patrik Arve,  Joakim Åhlund
+Teddybears song	http://dbpedia.org/ontology/musicalArtist	Teddybears
+Hey Boy Teddybears song	http://dbpedia.org/ontology/followingWork	Hey Girl Teddybears song
+Hey Boy Teddybears song	http://dbpedia.org/ontology/certification	None

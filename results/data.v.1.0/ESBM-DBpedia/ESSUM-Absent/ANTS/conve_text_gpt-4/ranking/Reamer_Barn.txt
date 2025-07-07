@@ -1,0 +1,17 @@
+Reamer Barn	http://dbpedia.org/ontology/location	Cornell University
+Reamer Barn	http://dbpedia.org/ontology/owner	Cornell University
+Reamer Barn	http://dbpedia.org/ontology/architecturalStyle	Rustic architecture.
+Reamer Barn	http://dbpedia.org/ontology/completionDate	1903.
+Reamer Barn	http://dbpedia.org/ontology/architect	Robert Reamer.
+Reamer Barn	http://dbpedia.org/ontology/tenant	Columbia University.
+Reamer Barn	http://dbpedia.org/ontology/floorCount	2
+Reamer Barn	http://dbpedia.org/ontology/cost	$50000
+Reamer Barn	http://dbpedia.org/ontology/isPartOf	Preservation_and_Restoration_of_the_Campus_of_Columbia_University
+Reamer Barn	http://dbpedia.org/ontology/numberOfRooms	1
+Reamer Barn	http://dbpedia.org/ontology/material	Stone.
+Reamer Barn	http://dbpedia.org/ontology/structuralSystem	Timber frame
+http://dbpedia.org/resource/reamer_barn	http://dbpedia.org/ontology/recordedin	http://commons.wikimedia.org/wiki/special:filepath/reamer_barn.jpg
+Reamer Barn	http://dbpedia.org/ontology/buildingType	Barn
+Reamer Barn	http://dbpedia.org/ontology/renovationDate	2014.
+Reamer Barn	http://dbpedia.org/ontology/hasPart	Cupola
+Reamer Barn	http://dbpedia.org/ontology/usedFor	storage of agricultural equipment.

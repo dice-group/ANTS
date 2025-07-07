@@ -1,0 +1,24 @@
+Kotumachagi	http://dbpedia.org/ontology/country	India
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/village
+Kotumachagi	http://dbpedia.org/ontology/timeZone	Asia/Kolkata
+Kotumachagi	http://dbpedia.org/ontology/elevation	590
+Kotumachagi	http://dbpedia.org/ontology/postalCode	582205
+Kotumachagi	http://dbpedia.org/ontology/areaCode	08337
+Kotumachagi	http://dbpedia.org/ontology/leaderTitle	Gram Panchayat
+Kotumachagi	http://dbpedia.org/ontology/state	Karnataka
+Kotumachagi	http://dbpedia.org/ontology/foundingDate	1200
+Kotumachagi	http://dbpedia.org/ontology/district	Gadag
+Kotumachagi	http://dbpedia.org/ontology/nearestCity	Gadag
+Kotumachagi	http://dbpedia.org/ontology/governmentType	Gram panchayat
+Kotumachagi	http://dbpedia.org/ontology/isPartOf	Gadag district
+Kotumachagi	http://dbpedia.org/ontology/isPartOf	Karnataka
+Kotumachagi	http://dbpedia.org/ontology/officialLanguage	Kannada
+Kotumachagi	http://dbpedia.org/ontology/leaderName	Veerendra Patil
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
+http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167
+http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/ontology/village
+Kotumachagi	http://dbpedia.org/ontology/latitude	15.4333
+Kotumachagi	http://dbpedia.org/ontology/longitude	75.51667
+Kotumachagi	http://dbpedia.org/ontology/demographicsAsOf	2011
+Kotumachagi	http://dbpedia.org/ontology/demographicsType1	Rural

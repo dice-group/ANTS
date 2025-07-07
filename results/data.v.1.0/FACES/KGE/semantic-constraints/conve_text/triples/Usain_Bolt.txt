@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/usain_bolt	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/sprinter
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/sherwood_content
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/racers_track_club
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:medalists_at_the_2008_summer_olympics
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:athletes_(track_and_field)_at_the_2008_summer_olympics
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/property/next	http://dbpedia.org/resource/the_honourable
+http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/ontology/saint	http://dbpedia.org/resource/track_and_field
+http://dbpedia.org/resource/usain_bolt	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:commonwealth_games_gold_medallists_in_athletics
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:medalists_at_the_2012_summer_olympics
+http://dbpedia.org/resource/usain_bolt	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:bbc_sports_personality_world_sport_star_of_the_year_winners

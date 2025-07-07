@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/england	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/language	http://dbpedia.org/resource/cornish_language
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/devolution
+http://dbpedia.org/resource/england	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/england
+http://dbpedia.org/resource/england	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/prime_minister_of_the_united_kingdom
+http://dbpedia.org/resource/england	http://dbpedia.org/property/currency	http://dbpedia.org/resource/pound_sterling
+http://dbpedia.org/resource/england	http://dbpedia.org/ontology/officiallanguage	http://dbpedia.org/resource/english_language
+http://dbpedia.org/resource/england	http://dbpedia.org/property/leadertitle	http://dbpedia.org/resource/monarchy_of_the_united_kingdom

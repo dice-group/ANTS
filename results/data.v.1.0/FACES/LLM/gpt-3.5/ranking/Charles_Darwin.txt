@@ -1,0 +1,15 @@
+Charles Darwin	http://dbpedia.org/ontology/occupation	Naturalist
+Charles Darwin	http://dbpedia.org/ontology/nationality	British
+Charles Darwin	http://dbpedia.org/ontology/family	Emma Darwin
+Charles Darwin	http://dbpedia.org/ontology/education	University of Edinburgh
+Charles Darwin	http://dbpedia.org/ontology/born_in	Shrewsbury, England
+Charles Darwin	http://dbpedia.org/ontology/date_of_birth	February 12, 1809
+Charles Darwin	http://dbpedia.org/ontology/published_work	On the Origin of Species
+Charles Darwin	http://dbpedia.org/ontology/influenced_by	Thomas Malthus
+Charles Darwin	http://dbpedia.org/ontology/spent_time_exploring	Galapagos Islands
+Charles Darwin	http://dbpedia.org/ontology/awards	Copley Medal
+Charles Darwin	http://dbpedia.org/ontology/contribution_to_science	Theory of Evolution
+Charles Darwin	http://dbpedia.org/ontology/children	10
+Charles Darwin	http://dbpedia.org/ontology/date_of_death	April 19, 1882
+Charles Darwin	http://dbpedia.org/ontology/place_of_death	Kent, England
+Charles Darwin	http://dbpedia.org/ontology/resting_place	Westminster Abbey

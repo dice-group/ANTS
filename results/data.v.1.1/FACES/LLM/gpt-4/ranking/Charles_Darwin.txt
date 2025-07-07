@@ -1,0 +1,30 @@
+Charles Darwin	http://dbpedia.org/ontology/birthDate	1809-02-12
+Charles Darwin	http://dbpedia.org/ontology/occupation	Naturalist
+Charles Darwin	http://dbpedia.org/ontology/deathDate	1882-04-19
+Charles Darwin	http://dbpedia.org/ontology/almaMater	University of Cambridge
+Charles Darwin	http://dbpedia.org/ontology/award	Royal Medal
+Charles Darwin	http://dbpedia.org/ontology/nationality	British
+Charles Darwin	http://dbpedia.org/ontology/education	University of Cambridge
+Charles Darwin	http://dbpedia.org/ontology/knownFor	Theory of Evolution
+Charles Darwin	http://dbpedia.org/ontology/spouse	Emma Darwin
+Charles Darwin	http://dbpedia.org/ontology/child	William Erasmus Darwin
+Charles Darwin	http://dbpedia.org/ontology/child	Anne Elizabeth Darwin
+Charles Darwin	http://dbpedia.org/ontology/child	Mary Eleanor Darwin
+Charles Darwin	http://dbpedia.org/ontology/child	Henrietta Emma Darwin
+Charles Darwin	http://dbpedia.org/ontology/child	George Howard Darwin
+Charles Darwin	http://dbpedia.org/ontology/child	Elizabeth Darwin
+Charles Darwin	http://dbpedia.org/ontology/child	Francis Darwin
+Charles Darwin	http://dbpedia.org/ontology/child	Leonard Darwin
+Charles Darwin	http://dbpedia.org/ontology/child	Horace Darwin
+Charles Darwin	http://dbpedia.org/ontology/child	Charles Waring Darwin
+Charles Darwin	http://dbpedia.org/ontology/residence	Down House
+Charles Darwin	http://dbpedia.org/ontology/parent	Robert Darwin
+Charles Darwin	http://dbpedia.org/ontology/parent	Susannah Wedgwood
+Charles Darwin	http://dbpedia.org/ontology/influencedBy	Alfred Russel Wallace
+Charles Darwin	http://dbpedia.org/ontology/field	Natural History
+Charles Darwin	http://dbpedia.org/ontology/academicAdvisor	John Stevens Henslow
+Charles Darwin	http://dbpedia.org/ontology/notableStudent	George Howard Darwin
+Charles Darwin	http://dbpedia.org/ontology/placeOfBurial	Westminster Abbey
+Charles Darwin	http://dbpedia.org/ontology/workInstitution	University of Cambridge
+Charles Darwin	http://dbpedia.org/ontology/contribution	Theory of Evolution
+Charles Darwin	http://dbpedia.org/ontology/thesisTitle	On the Monads of the Class Algæ

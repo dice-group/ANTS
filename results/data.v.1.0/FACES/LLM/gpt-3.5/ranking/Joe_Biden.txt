@@ -1,0 +1,15 @@
+Joe Biden	http://dbpedia.org/ontology/occupation	President
+Joe Biden	http://dbpedia.org/ontology/height	6 feet
+Joe Biden	http://dbpedia.org/ontology/education	University of Delaware
+Joe Biden	http://dbpedia.org/ontology/spouse	Jill Biden
+Joe Biden	http://dbpedia.org/ontology/politicalparty	Democratic
+Joe Biden	http://dbpedia.org/ontology/birthdate	November 20, 1942
+Joe Biden	http://dbpedia.org/ontology/birthplace	Scranton, Pennsylvania
+Joe Biden	http://dbpedia.org/ontology/children	Hunter, Beau, Ashley
+Joe Biden	http://dbpedia.org/ontology/vicepresident	Barack Obama
+Joe Biden	http://dbpedia.org/ontology/vicepresidentialterm	2009-2017
+Joe Biden	http://dbpedia.org/ontology/favoriteicecreamflavor	Chocolate chip
+Joe Biden	http://dbpedia.org/ontology/almamater	Syracuse University College of Law
+Joe Biden	http://dbpedia.org/ontology/Twitterhandle	@JoeBiden
+Joe Biden	http://dbpedia.org/ontology/favoritebook	Middlemarch by George Eliot
+Joe Biden	http://dbpedia.org/ontology/notableaccomplishment	passage of the Violence Against Women Act

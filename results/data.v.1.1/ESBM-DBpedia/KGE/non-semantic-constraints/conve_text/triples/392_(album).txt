@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/ontology/category	http://dbpedia.org/ontology/album
+http://dbpedia.org/resource/392_(album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q2188189
+http://dbpedia.org/resource/392_(album)	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/rock_music
+http://dbpedia.org/resource/392_(album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/392_(album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_albums
+http://dbpedia.org/resource/392_(album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/392_(album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q482994
+http://dbpedia.org/resource/392_(album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework

@@ -1,0 +1,26 @@
+If Glasvegas song	http://dbpedia.org/ontology/genre	Indie rock
+If Glasvegas song	http://dbpedia.org/ontology/writer	James Allan
+If Glasvegas song	http://dbpedia.org/ontology/runtime	229
+If Glasvegas song	http://dbpedia.org/ontology/recordLabel	Columbia Records
+If Glasvegas song	http://dbpedia.org/ontology/award	NME's Philip Hall Radar Award
+If Glasvegas song	http://dbpedia.org/ontology/producer	Rich Costey
+If Glasvegas song	http://dbpedia.org/ontology/releaseDate	2008-09-22
+If Glasvegas song	http://dbpedia.org/ontology/language	English
+Glasvegas song	http://dbpedia.org/ontology/artist	Glasvegas
+If Glasvegas song	http://dbpedia.org/ontology/musicComposer	James Allan
+http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/ontology/owner	http://dbpedia.org/resource/glasvegas
+If Glasvegas song	http://dbpedia.org/ontology/previousWork	It's My Own Cheating Heart That Makes Me Cry
+If Glasvegas song	http://dbpedia.org/ontology/format	CD single
+If Glasvegas song	http://dbpedia.org/ontology/soundRecording	Glasvegas
+If Glasvegas song	http://dbpedia.org/ontology/recordedIn	2008
+If Glasvegas song	http://dbpedia.org/ontology/lyrics	"The lyrics are not provided in this response"
+If Glasvegas song	http://dbpedia.org/ontology/engineer	Rich Costey
+http://dbpedia.org/resource/if_(glasvegas_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/single
+http://dbpedia.org/resource/if_(glasvegas_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q2188189
+http://dbpedia.org/resource/if_(glasvegas_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
+http://dbpedia.org/resource/if_(glasvegas_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/if_(glasvegas_song)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q134556
+If Glasvegas song	http://dbpedia.org/ontology/followingWork	Geraldine Glasvegas song
+If Glasvegas song	http://dbpedia.org/ontology/certification	Silver
+Glasvegas song	http://dbpedia.org/ontology/musicalBand	Glasvegas
+Glasvegas song	http://dbpedia.org/ontology/musicalArtist	Glasvegas

@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://xmlns.com/foaf/0.1/depiction	http://commons.wikimedia.org/wiki/special:filepath/flag_of_artigas.svg
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/josé_rondeau
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/estanislao_lópez
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/francisco_ramírez_(governor)
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/lineatriton_orchimelas
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/ontology/firstdriverteam	http://dbpedia.org/resource/enallagma_truncatum
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/militaryconflict
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1820_in_argentina
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/ontology/thumbnail	http://commons.wikimedia.org/wiki/special:filepath/flag_of_artigas.svg?width=300
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://dbpedia.org/ontology/followingevent	http://dbpedia.org/resource/argentine_civil_wars
+http://dbpedia.org/resource/battle_of_cepeda_(1820)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_argentine_civil_war

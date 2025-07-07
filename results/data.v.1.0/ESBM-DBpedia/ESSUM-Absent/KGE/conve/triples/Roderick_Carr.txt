@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_flying_corps_officers
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/currentmember	http://dbpedia.org/resource/secretary_of_state_for_transport
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/causalagent100007347
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:commandeurs_of_the_légion_d'honneur
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_navy_officers_of_world_war_i
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/feilding
+http://dbpedia.org/resource/roderick_carr	http://dbpedia.org/ontology/currentmember	http://dbpedia.org/resource/bampton,_oxfordshire
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/roderick_carr	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:royal_air_force_air_marshals
+http://dbpedia.org/resource/roderick_carr	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:new_zealand_recipients_of_the_légion_d'honneur

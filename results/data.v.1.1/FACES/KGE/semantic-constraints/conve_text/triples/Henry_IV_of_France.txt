@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/spouse	http://dbpedia.org/resource/margaret_of_valois
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/title	http://dbpedia.org/resource/albret
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/succession	http://dbpedia.org/resource/king_of_navarre
+http://dbpedia.org/resource/henry_iv_of_france	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/king
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/césar,_duke_of_vendôme
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/successor	http://dbpedia.org/resource/louis_xiii_of_france
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/gaston,_duke_of_orléans
+http://dbpedia.org/resource/henry_iv_of_france	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/henrietta_maria_of_france
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/ontology/child	http://dbpedia.org/resource/christine_marie_of_france
+http://dbpedia.org/resource/henry_iv_of_france	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:counts_of_foix
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/house	http://dbpedia.org/resource/house_of_bourbon
+http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/successor	http://dbpedia.org/resource/louis_xiii

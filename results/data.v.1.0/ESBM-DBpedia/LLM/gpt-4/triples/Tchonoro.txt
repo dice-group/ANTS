@@ -1,0 +1,22 @@
+(Tchonoro, rdf:type, ?)
+(Tchonoro, birthPlace, Timbuktu)
+Tchonoro, deathPlace, Angola.
+(Tchonoro, populationTotal, ?)
+(Tchonoro, areaTotal, ? )
+(Tchonoro, foundingDate, ?)
+(Tchonoro, elevation, ?)
+(Tchonoro, leaderName, Agostinho Neto)
+(Tchonoro, country, Burkina Faso)
+(Tchonoro, continent, Africa)
+(Tchonoro, genre, Music of Africa)
+Tchonoro, historicalPopulation, ?
+(Tchonoro, language, Portuguese)
+(Tchonoro, locatedInArea, Mozambique)
+Tchonoro, occupation, Village.
+(Tchonoro, partOf, Tombouctou Region)
+(Tchonoro, related, Togo)
+(Tchonoro, spouse, ?)
+Tchonoro, subsidiary, Cervejaria Petrópolis.
+(Tchonoro, tributary, Mamoré River)
+(Tchonoro, wikiPageWikiLink, Central_African_Republic)
+(Tchonoro, country, Mozambique)

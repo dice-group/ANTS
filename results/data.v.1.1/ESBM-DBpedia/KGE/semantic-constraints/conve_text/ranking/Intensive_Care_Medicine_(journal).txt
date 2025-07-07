@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:academic_journals_associated_with_learned_and_professional_societies
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:emergency_medicine_journals
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/intensive_care_medicine_(journal)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/periodicalliterature

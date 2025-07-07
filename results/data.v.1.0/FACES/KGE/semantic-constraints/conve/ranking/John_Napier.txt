@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/john_napier	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1550_births
+http://dbpedia.org/resource/john_napier	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:16th-century_apocalypticists
+http://dbpedia.org/resource/john_napier	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:17th-century_apocalypticists
+http://dbpedia.org/resource/john_napier	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1617_deaths
+http://dbpedia.org/resource/john_napier	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:scottish_mathematicians
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/almamater	http://dbpedia.org/resource/university_of_st_andrews
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/spherical_trigonometry
+http://dbpedia.org/resource/john_napier	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/napier's_bones
+http://dbpedia.org/resource/john_napier	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/edinburgh

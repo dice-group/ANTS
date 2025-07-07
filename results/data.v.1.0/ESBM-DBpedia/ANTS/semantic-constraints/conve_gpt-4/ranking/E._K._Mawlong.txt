@@ -1,0 +1,23 @@
+http://dbpedia.org/resource/e._k._mawlong	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/e._k._mawlong	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:united_democratic_party_(meghalaya)_politicians
+E. K. Mawlong	http://dbpedia.org/ontology/birthPlace	Umpling
+E. K. Mawlong	http://dbpedia.org/ontology/birthDate	1951-08-20
+E. K. Mawlong	http://dbpedia.org/ontology/occupation	Politician
+E. K. Mawlong	http://dbpedia.org/ontology/deathPlace	Shillong
+E. K. Mawlong	http://dbpedia.org/ontology/deathDate	2008-09-17
+E. K. Mawlong	http://dbpedia.org/ontology/termPeriod	1998-2001
+E. K. Mawlong	http://dbpedia.org/ontology/office	Speaker of the Meghalaya Legislative Assembly
+http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/property/successor	http://dbpedia.org/resource/flinder_anderson_khonglam
+E. K. Mawlong	http://dbpedia.org/ontology/predecessor	S. C. Marak
+E. K. Mawlong	http://dbpedia.org/ontology/successor	Flinder Anderson Khonglam
+E. K. Mawlong	http://dbpedia.org/ontology/almaMater	Shillong College
+E. K. Mawlong	http://dbpedia.org/ontology/award	Padma Shri
+E. K. Mawlong	http://dbpedia.org/ontology/party	United Democratic Party
+E. K. Mawlong	http://dbpedia.org/ontology/nationality	Indian
+E. K. Mawlong	http://dbpedia.org/ontology/education	University of Calcutta
+E. K. Mawlong	http://dbpedia.org/ontology/religion	Christianity
+E. K. Mawlong	http://dbpedia.org/ontology/profession	Politician
+http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/property/governor	http://dbpedia.org/resource/m._m._jacob
+http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/property/deathplace	http://dbpedia.org/resource/meghalaya
+E. K. Mawlong	http://dbpedia.org/ontology/children	Kitboklang Kharshiing
+E. K. Mawlong	http://dbpedia.org/ontology/memberOf	Meghalaya Legislative Assembly

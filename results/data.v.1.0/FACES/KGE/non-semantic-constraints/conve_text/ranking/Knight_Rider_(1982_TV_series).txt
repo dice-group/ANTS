@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/knight_rider_(1982_tv_series)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/david_hasselhoff
+http://dbpedia.org/resource/knight_rider_(1982_tv_series)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/action_(fiction)
+http://dbpedia.org/resource/knight_rider_(1982_tv_series)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/adventure_(genre)
+http://dbpedia.org/resource/knight_rider_(1982_tv_series)	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/nbc_universal_television_distribution
+http://dbpedia.org/resource/knight_rider_(1982_tv_series)	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/nbcuniversal_television_distribution

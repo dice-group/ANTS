@@ -1,0 +1,23 @@
+Poland	http://dbpedia.org/ontology/timeZone	Central European Time
+Poland	http://dbpedia.org/ontology/populationTotal	37950802
+Poland	http://dbpedia.org/ontology/areaTotal	312696
+Poland	http://dbpedia.org/ontology/leaderTitle	President
+Poland	http://dbpedia.org/ontology/militaryBranch	Polish Land Forces
+Poland	http://dbpedia.org/ontology/militaryBranch	Polish Navy
+Poland	http://dbpedia.org/ontology/militaryBranch	Polish Air Force
+Poland	http://dbpedia.org/ontology/militaryBranch	Special Forces
+Poland	http://dbpedia.org/ontology/militaryBranch	Territorial Defence Force
+Poland	http://dbpedia.org/ontology/governmentType	Unitary parliamentary republic
+Poland	http://dbpedia.org/ontology/membership	European Union
+Poland	http://dbpedia.org/ontology/capital	Warsaw
+Poland	http://dbpedia.org/ontology/largestCity	Warsaw
+Poland	http://dbpedia.org/ontology/currency	Polish złoty
+Poland	http://dbpedia.org/ontology/officialLanguage	Polish
+Poland	http://dbpedia.org/ontology/anthem	Mazurek Dąbrowskiego
+Poland	http://dbpedia.org/ontology/leaderName	Andrzej Duda
+Poland	http://dbpedia.org/ontology/gdpNominal	$642 billion
+Poland	http://dbpedia.org/ontology/gdpPpp	$1.424 trillion
+Poland	http://dbpedia.org/ontology/gdpNominalPerCapita	15800 USD
+Poland	http://dbpedia.org/ontology/iso3166Code	PL
+Poland	http://dbpedia.org/ontology/flag	Flag of Poland
+Poland	http://dbpedia.org/ontology/nationalDish	Bigos

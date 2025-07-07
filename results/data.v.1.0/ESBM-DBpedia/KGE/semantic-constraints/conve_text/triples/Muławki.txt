@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/village
+http://dbpedia.org/resource/muławki	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/warmian-masurian_voivodeship
+http://dbpedia.org/resource/muławki	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/kętrzyn_county
+http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
+http://dbpedia.org/resource/muławki	http://dbpedia.org/property/blankname	http://dbpedia.org/resource/köppen_climate_classification
+http://dbpedia.org/resource/muławki	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/poland
+http://dbpedia.org/resource/muławki	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:villages_in_kętrzyn_county
+http://dbpedia.org/resource/muławki	http://dbpedia.org/ontology/subdivision	http://dbpedia.org/resource/gmina_kętrzyn
+http://dbpedia.org/resource/muławki	http://dbpedia.org/property/demographics1title	http://dbpedia.org/resource/measuring_poverty
+http://dbpedia.org/resource/muławki	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/village

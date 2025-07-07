@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
+http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/juiz_de_fora
+http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
+http://dbpedia.org/resource/battle_on_the_elster	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/battle

@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/battle_of_rottofreddo	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_involving_austria
+http://dbpedia.org/resource/battle_of_rottofreddo	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/italy
+http://dbpedia.org/resource/battle_of_rottofreddo	http://dbpedia.org/property/place	http://dbpedia.org/resource/rottofreno
+http://dbpedia.org/resource/battle_of_rottofreddo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
+http://dbpedia.org/resource/battle_of_rottofreddo	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_involving_france
+http://dbpedia.org/resource/battle_of_rottofreddo	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1746_in_austria
+http://dbpedia.org/resource/battle_of_rottofreddo	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/war_of_the_austrian_succession
+http://dbpedia.org/resource/battle_of_rottofreddo	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/jean_bonaventure_du_mont,_comte_de_gages
+http://dbpedia.org/resource/battle_of_rottofreddo	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/maximilian_ulysses_browne
+http://dbpedia.org/resource/battle_of_rottofreddo	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_in_emilia-romagna

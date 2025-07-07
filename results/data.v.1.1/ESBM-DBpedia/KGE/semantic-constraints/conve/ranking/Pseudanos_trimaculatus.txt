@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/pseudanos_trimaculatus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/pseudanos_trimaculatus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/fish
+http://dbpedia.org/resource/pseudanos_trimaculatus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:taxa_named_by_rudolf_kner
+http://dbpedia.org/resource/pseudanos_trimaculatus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_peru
+http://dbpedia.org/resource/pseudanos_trimaculatus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_argentina
+http://dbpedia.org/resource/pseudanos_trimaculatus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_brazil
+http://dbpedia.org/resource/pseudanos_trimaculatus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_described_in_1858
+http://dbpedia.org/resource/pseudanos_trimaculatus	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/anostomidae
+http://dbpedia.org/resource/pseudanos_trimaculatus	http://dbpedia.org/property/phylum	http://dbpedia.org/resource/chordata
+http://dbpedia.org/resource/pseudanos_trimaculatus	http://dbpedia.org/ontology/genus	http://dbpedia.org/resource/pseudanos

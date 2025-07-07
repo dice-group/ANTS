@@ -1,0 +1,1 @@
+< pad > The fabrice gautrat is located in http: / / www.wikidata.org / entity / q215627. It has the type of fabrice gautrat and its location is http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # naturalperson. The fabrice gautrat is http: / / www.xmlns.com / foaf / 0.1 / person and is of the type of http: / / www.wikidata.org / entity < / s >

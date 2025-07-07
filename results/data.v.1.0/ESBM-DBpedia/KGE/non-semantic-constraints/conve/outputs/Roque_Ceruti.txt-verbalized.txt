@@ -1,0 +1,1 @@
+< pad > roque ceruti is a type of person who is http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # naturalperson. It is a type of person who is http: / / www.ontologydesignpatterns.org / ont / dul / dul / dul / agent and a type of http: / / www.xmlns.com / foaf / 0.1 / person. The roque ceruti is an example of < / s >

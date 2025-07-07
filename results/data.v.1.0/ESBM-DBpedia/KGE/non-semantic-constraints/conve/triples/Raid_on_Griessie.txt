@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/raid_on_griessie	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/edward_pellew,_1st_viscount_exmouth
+http://dbpedia.org/resource/raid_on_griessie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/african_grey_hornbill
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/psychologicalfeature100023100
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/militaryaction100952963
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/act100030358
+http://dbpedia.org/resource/raid_on_griessie	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/militaryconflict

@@ -1,0 +1,22 @@
+(Thaia saprophytica, rdf:type, Species)
+(Thaia saprophytica, kingdom, Bacteria)
+Thaia saprophytica, phylum, Firmicutes.
+(Thaia saprophytica, class, Bacteria)
+Thaia saprophytica, order, Liliales
+(Thaia saprophytica, family, Staphylinidae)
+(Thaia saprophytica, genus, Thaia)
+(Thaia saprophytica, species, Thaia)
+Thaia saprophytica, binomial, "Thaia saprophytica".
+(Thaia saprophytica, binomialAuthority, H.Kurata)
+Thaia saprophytica, isPartOf, Fungi
+Thaia saprophytica, locatedInArea, Thailand.
+(Thaia saprophytica, location, Soil)
+(Thaia saprophytica, habitat, soil)
+(Thaia saprophytica, conservationStatus, Least Concern)
+(Thaia saprophytica, statusSystem, ICZN)
+(Thaia saprophytica, population, ?)
+(Thaia saprophytica, discoveryYear, 1913)
+(Thaia saprophytica, discoveredBy, Hans Reichenbach)
+(Thaia saprophytica, synonym, "Thaia umbrina")
+Thaia saprophytica, subspecies, None
+(Thaia saprophytica, kingdom, Fungi)

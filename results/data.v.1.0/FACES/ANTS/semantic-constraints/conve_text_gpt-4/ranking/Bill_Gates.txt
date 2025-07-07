@@ -1,0 +1,35 @@
+http://dbpedia.org/resource/bill_gates	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/bill_gates	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+Bill Gates	http://dbpedia.org/ontology/birthPlace	Seattle
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_medina,_washington
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_philanthropists
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:history_of_microsoft
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:21st-century_philanthropists
+http://dbpedia.org/resource/bill_gates	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_people_of_english_descent
+Bill Gates	http://dbpedia.org/ontology/birthDate	1955-10-28
+Bill Gates	http://dbpedia.org/ontology/occupation	Entrepreneur
+Bill Gates	http://dbpedia.org/ontology/occupation	Software Developer
+Bill Gates	http://dbpedia.org/ontology/occupation	Philanthropist
+Bill Gates	http://dbpedia.org/ontology/almaMater	Harvard University
+http://dbpedia.org/resource/bill_gates	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/presidential_medal_of_freedom
+Bill Gates	http://dbpedia.org/ontology/award	Knight Commander of the Order of the British Empire
+Bill Gates	http://dbpedia.org/ontology/nationality	American
+http://dbpedia.org/resource/bill_gates	http://dbpedia.org/property/education	http://dbpedia.org/resource/harvard_university
+Bill Gates	http://dbpedia.org/ontology/education	Harvard University
+Bill Gates	http://dbpedia.org/ontology/author	"The Road Ahead"
+Bill Gates	http://dbpedia.org/ontology/knownFor	Microsoft
+http://dbpedia.org/resource/bill_gates	http://dbpedia.org/ontology/spouse	http://dbpedia.org/resource/melinda_french_gates
+Bill Gates	http://dbpedia.org/ontology/spouse	Melinda Gates
+Bill Gates	http://dbpedia.org/ontology/child	Jennifer Katharine Gates
+Bill Gates	http://dbpedia.org/ontology/child	Rory John Gates
+Bill Gates	http://dbpedia.org/ontology/child	Phoebe Adele Gates
+Bill Gates	http://dbpedia.org/ontology/residence	Medina
+Bill Gates	http://dbpedia.org/ontology/institution	Harvard University
+Bill Gates	http://dbpedia.org/ontology/influencedBy	Warren Buffett
+Bill Gates	http://dbpedia.org/ontology/influenced	Steve Jobs
+Bill Gates	http://dbpedia.org/ontology/founder	Microsoft
+Bill Gates	http://dbpedia.org/ontology/netWorth	$129 billion
+Bill Gates	http://dbpedia.org/ontology/boardMember	Microsoft
+Bill Gates	http://dbpedia.org/ontology/philanthropy	Bill & Melinda Gates Foundation
+Bill Gates	http://dbpedia.org/ontology/parents	William H. Gates Sr.
+Bill Gates	http://dbpedia.org/ontology/parents	Mary Maxwell Gates

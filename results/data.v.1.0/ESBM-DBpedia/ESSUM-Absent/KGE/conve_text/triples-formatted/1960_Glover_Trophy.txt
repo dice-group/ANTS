@@ -1,0 +1,1 @@
+ <H> 1960_glover_trophy <R> type <T> http://schema.org/event <H> 1960_glover_trophy <R> type <T> event <H> 1960_glover_trophy <R> type <T> sportsevent <H> 1960_glover_trophy <R> type <T> http://schema.org/sportsevent <H> 1960_glover_trophy <R> type <T> societalevent <H> 1960_glover_trophy <R> team <T> cooper_car_company <H> 1960_glover_trophy <R> recordedin <T> stirling_moss

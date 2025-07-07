@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/kings_ripton	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/village
+http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:villages_in_cambridgeshire
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/property/neighboringmunicipalities	http://dbpedia.org/resource/huntingdonshire
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/property/communestatus	http://dbpedia.org/resource/communes_of_france
+http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/property/subdivisionname	http://dbpedia.org/resource/texas

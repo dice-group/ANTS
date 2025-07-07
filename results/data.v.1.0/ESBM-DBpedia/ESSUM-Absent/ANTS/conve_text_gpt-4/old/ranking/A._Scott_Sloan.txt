@@ -1,0 +1,31 @@
+A. Scott Sloan	http://dbpedia.org/ontology/birthPlace	Australia
+A. Scott Sloan	http://dbpedia.org/ontology/birthDate	"1958-05-04"
+A. Scott Sloan	http://dbpedia.org/ontology/birthDate	"1958-03-07"
+A. Scott Sloan	http://dbpedia.org/ontology/occupation	Civil Engineer
+A. Scott Sloan	http://dbpedia.org/ontology/almaMater	University of New South Wales
+A. Scott Sloan	http://dbpedia.org/ontology/award	Walter L. Huber Civil Engineering Research Prize
+A. Scott Sloan	http://dbpedia.org/ontology/nationality	Australia
+A. Scott Sloan	http://dbpedia.org/ontology/education	University of New South Wales
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/ontology/commander	http://commons.wikimedia.org/wiki/special:filepath/andrew_scott_sloan_(wisconsin_congressman).jpg?width=300
+A. Scott Sloan	http://dbpedia.org/ontology/academicDiscipline	Civil Engineering
+A. Scott Sloan	http://dbpedia.org/ontology/influencedBy	Karl Terzaghi
+A. Scott Sloan	http://dbpedia.org/ontology/doctoralAdvisor	John H. Argyris
+A. Scott Sloan	http://dbpedia.org/ontology/doctoralStudent	Scott William Sloan
+A. Scott Sloan	http://dbpedia.org/ontology/notableStudent	Terence Chan
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1971_deaths
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/causalagent100007347
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:wisconsin_attorneys_general
+http://dbpedia.org/resource/a._scott_sloan	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:republican_party_members_of_the_united_states_house_of_representatives
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagolegalactor
+http://dbpedia.org/resource/a._scott_sloan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/organism100004475
+http://dbpedia.org/resource/a._scott_sloan	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/morrisville,_new_york
+A. Scott Sloan	http://dbpedia.org/ontology/workInstitution	University of Newcastle
+A. Scott Sloan	http://dbpedia.org/ontology/fieldOfWork	Geotechnical Engineering
+A. Scott Sloan	http://dbpedia.org/ontology/thesisYear	1985
+A. Scott Sloan	http://dbpedia.org/ontology/honor	Fellow of the Australian Academy of Science
+A. Scott Sloan	http://dbpedia.org/ontology/publication	"Geotechnical Stability Analysis"
+A. Scott Sloan	http://dbpedia.org/ontology/memberOf	Australian National Committee on Large Dams
+A. Scott Sloan	http://dbpedia.org/ontology/contribution	Slope stability analysis

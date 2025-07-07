@@ -1,0 +1,1 @@
+< pad > The 2011 League of ireland Cup final is an event which took place during 2011. The league's parentmountainpeak is http: / / schema.org / sportsevent and it has an http: / / www.ontologydesignpatterns.org / ont / dul.owl # event. It is a societalevent and has an http: / / www.wikidata.org / entity / q1656682 as its final. < / s >

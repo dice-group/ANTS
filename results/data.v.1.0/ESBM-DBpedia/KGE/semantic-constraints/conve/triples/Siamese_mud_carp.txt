@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/siamese_mud_carp	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/fish
+http://dbpedia.org/resource/siamese_mud_carp	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_thailand
+http://dbpedia.org/resource/siamese_mud_carp	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_cambodia
+http://dbpedia.org/resource/siamese_mud_carp	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_described_in_1881
+http://dbpedia.org/resource/siamese_mud_carp	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_the_mekong_basin

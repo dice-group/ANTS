@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/dallas_keuchel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:tri-city_valleycats_players
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/baseballplayer
+http://dbpedia.org/resource/dallas_keuchel	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+http://dbpedia.org/resource/dallas_keuchel	http://dbpedia.org/property/after	http://dbpedia.org/resource/chris_sale
+http://dbpedia.org/resource/dallas_keuchel	http://dbpedia.org/property/stat1label	http://dbpedia.org/resource/batting_average_(baseball)

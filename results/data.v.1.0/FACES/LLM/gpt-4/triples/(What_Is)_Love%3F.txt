@@ -1,0 +1,20 @@
+(What Is) Love%3F, artist, Haddaway
+(What Is) Love%3F, recordLabel, Coconut Records.
+(What Is) Love%3F, releaseDate, 1993-05-08.
+(What Is) Love%3F, genre, Eurodance
+(What Is) Love%3F, producer, Dee Dee Halligan
+(What Is) Love%3F, runtime, 227 seconds
+(What Is) Love%3F, format, Maxi single
+(What Is) Love%3F, writer, Dee Dee Halligan.
+(What Is) Love%3F, musicComposer, Dee Dee Halligan.
+(What Is) Love%3F, lyrics, "Baby don't hurt me don't hurt me no more"
+(What Is) Love%3F, award, ?
+(What Is) Love%3F, certification, Gold.
+(What Is) Love%3F, chartPosition, #2 UK Singles Chart
+(What Is) Love%3F, salesAmount, 7 million copies.
+(What Is) Love%3F, previousWork, Life.
+(What Is) Love?, nextWork, Life.
+(What Is) Love%3F, associatedMusicalArtist, Haddaway
+(What Is) Love%3F, associatedBand, Haddaway
+(What Is) Love%3F, recordedIn, 1993
+(What Is) Love%3F, musicArranger, ? 

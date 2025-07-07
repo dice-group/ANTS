@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/charles_darwin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/wollaston_medal
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/spouse	http://dbpedia.org/resource/emma_darwin
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/university_of_cambridge
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/university_of_edinburgh_medical_school
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/institution	http://dbpedia.org/resource/christ's_college,_cambridge
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/property/restingplace	http://dbpedia.org/resource/westminster_abbey
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/kent
+http://dbpedia.org/resource/charles_darwin	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/the_voyage_of_the_beagle
+http://dbpedia.org/resource/charles_darwin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1882_deaths

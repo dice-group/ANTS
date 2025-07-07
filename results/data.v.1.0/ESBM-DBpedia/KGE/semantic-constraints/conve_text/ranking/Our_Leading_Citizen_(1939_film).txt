@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_black-and-white_films
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/susan_hayward
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://dbpedia.org/property/rev	http://dbpedia.org/resource/allmusic
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/film
+http://dbpedia.org/resource/our_leading_citizen_(1939_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work

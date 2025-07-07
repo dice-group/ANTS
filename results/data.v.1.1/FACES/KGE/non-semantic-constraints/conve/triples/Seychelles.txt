@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/poland
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/leadername	http://dbpedia.org/resource/danny_faure
+http://dbpedia.org/resource/seychelles	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/seychelles
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/capital	http://dbpedia.org/resource/victoria,_seychelles
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/property/languages	http://dbpedia.org/resource/seychellois_creole
+http://dbpedia.org/resource/seychelles	http://dbpedia.org/ontology/leadername	http://dbpedia.org/resource/james_michel
+http://dbpedia.org/resource/seychelles	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/seychelles?oldid=547744333

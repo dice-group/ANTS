@@ -1,0 +1,25 @@
+http://dbpedia.org/resource/rice_university	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:private_universities_and_colleges_in_texas
+http://dbpedia.org/resource/rice_university	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:educational_institutions_established_in_1891
+http://dbpedia.org/resource/rice_university	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:universities_and_colleges_accredited_by_the_southern_association_of_colleges_and_schools
+Rice University	http://dbpedia.org/ontology/country	United States
+Rice University	http://dbpedia.org/ontology/location	Houston
+Rice University	http://dbpedia.org/ontology/city	Houston
+Rice University	http://dbpedia.org/ontology/motto	"Letters;Science;Art"
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/ontology/state	http://dbpedia.org/resource/texas
+Rice University	http://dbpedia.org/ontology/state	Texas
+Rice University	http://dbpedia.org/ontology/president	Reginald DesRoches
+Rice University	http://dbpedia.org/ontology/affiliation	Association of American Universities
+Rice University	http://dbpedia.org/ontology/mascot	Sammy the Owl
+Rice University	http://dbpedia.org/ontology/facultySize	700
+Rice University	http://dbpedia.org/ontology/campus	Urban
+Rice University	http://dbpedia.org/ontology/sport	American football
+Rice University	http://dbpedia.org/ontology/established	1912
+Rice University	http://dbpedia.org/ontology/endowment	$6.3 billion
+Rice University	http://dbpedia.org/ontology/alumni	Candace Owens
+http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/thirdteam	http://dbpedia.org/resource/southern_association_of_colleges_and_schools
+Rice University	http://dbpedia.org/ontology/nickname	The Owls
+Rice University	http://dbpedia.org/ontology/undergrad	3.992
+Rice University	http://dbpedia.org/ontology/postgrad	3.132
+Rice University	http://dbpedia.org/ontology/colors	Blue and Gray
+Rice University	http://dbpedia.org/ontology/academicStaff	684
+Rice University	http://dbpedia.org/ontology/athletics	Rice Owls

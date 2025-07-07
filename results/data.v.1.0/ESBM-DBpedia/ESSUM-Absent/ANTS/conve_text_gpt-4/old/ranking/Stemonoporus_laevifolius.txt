@@ -1,0 +1,26 @@
+http://dbpedia.org/resource/stemonoporus_laevifolius	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:trichoscypha
+Stemonoporus laevifolius	http://dbpedia.org/ontology/location	Sri Lanka
+Stemonoporus laevifolius	http://dbpedia.org/ontology/family	Dipterocarpaceae
+Stemonoporus laevifolius	http://dbpedia.org/ontology/class	Species
+Stemonoporus laevifolius	http://dbpedia.org/ontology/order	Malvales
+http://dbpedia.org/resource/stemonoporus_laevifolius	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/chordate
+Stemonoporus laevifolius	http://dbpedia.org/ontology/phylum	Tracheophyta
+http://dbpedia.org/resource/stemonoporus_laevifolius	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/plant
+Stemonoporus laevifolius	http://dbpedia.org/ontology/kingdom	Plantae
+Stemonoporus laevifolius	http://dbpedia.org/ontology/synonym	Stemonoporus oblongifolius
+Stemonoporus laevifolius	http://dbpedia.org/ontology/genus	Stemonoporus
+Stemonoporus laevifolius	http://dbpedia.org/ontology/status	Vulnerable
+Stemonoporus laevifolius	http://dbpedia.org/ontology/product	Wood
+Stemonoporus laevifolius	http://dbpedia.org/ontology/binomialAuthority	Thwaites
+Stemonoporus laevifolius	http://dbpedia.org/ontology/related	Dipterocarpaceae
+Stemonoporus laevifolius	http://dbpedia.org/ontology/domain	Botany
+Stemonoporus laevifolius	http://dbpedia.org/ontology/isPartOf	Flora of Sri Lanka
+Stemonoporus laevifolius	http://dbpedia.org/ontology/conservationStatus	NE
+Stemonoporus laevifolius	http://dbpedia.org/ontology/species	Stemonoporus
+http://dbpedia.org/resource/stemonoporus_laevifolius	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
+http://dbpedia.org/resource/stemonoporus_laevifolius	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
+http://dbpedia.org/resource/stemonoporus_laevifolius	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
+http://dbpedia.org/resource/stemonoporus_laevifolius	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/stemonoporus_laevifolius	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
+Stemonoporus laevifolius	http://dbpedia.org/ontology/habitat	Tropical forests
+Stemonoporus laevifolius	http://dbpedia.org/ontology/distribution	Sri Lanka

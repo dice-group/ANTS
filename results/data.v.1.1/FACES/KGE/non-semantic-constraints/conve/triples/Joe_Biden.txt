@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/president	http://dbpedia.org/resource/barack_obama
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/party	http://dbpedia.org/resource/democratic_party_(united_states)
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/profession	http://dbpedia.org/resource/lawyer
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/catholic_church
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/ted_kaufman
+http://dbpedia.org/resource/joe_biden	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/joe_biden?oldid=547812672
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/joe_biden
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/scranton,_pennsylvania
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/dianne_feinstein
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/jesse_helms
+http://dbpedia.org/resource/joe_biden	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/pennsylvania

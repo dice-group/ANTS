@@ -1,0 +1,34 @@
+Marie Curie	http://dbpedia.org/ontology/birthPlace	Warsaw
+Marie Curie	http://dbpedia.org/ontology/occupation	Physicist
+Marie Curie	http://dbpedia.org/ontology/occupation	Chemist
+Marie Curie	http://dbpedia.org/ontology/deathPlace	Passy
+Marie Curie	http://dbpedia.org/ontology/almaMater	University of Paris
+Marie Curie	http://dbpedia.org/ontology/award	Nobel Prize in Physics,
+Marie Curie	http://dbpedia.org/ontology/award	Nobel Prize in Chemistry
+Marie Curie	http://dbpedia.org/ontology/nationality	Polish
+Marie Curie	http://dbpedia.org/ontology/knownFor	Radioactivity
+Marie Curie	http://dbpedia.org/ontology/spouse	Pierre Curie
+Marie Curie	http://dbpedia.org/ontology/child	Irène Joliot-Curie
+Marie Curie	http://dbpedia.org/ontology/child	Ève Curie
+Marie Curie	http://dbpedia.org/ontology/residence	France
+Marie Curie	http://dbpedia.org/ontology/parent	Bronisława Boguska
+Marie Curie	http://dbpedia.org/ontology/parent	Władysław Skłodowski
+Marie Curie	http://dbpedia.org/ontology/field	Physics
+Marie Curie	http://dbpedia.org/ontology/doctoralAdvisor	Gabriel Lippmann
+Marie Curie	http://dbpedia.org/ontology/influenced	Lise Meitner
+Marie Curie	http://dbpedia.org/ontology/doctoralStudent	Óscar Moreno
+Marie Curie	http://dbpedia.org/ontology/academicAdvisor	Gabriel Lippmann
+Marie Curie	http://dbpedia.org/ontology/notableStudent	Irène Joliot-Curie
+http://dbpedia.org/resource/marie_curie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:légion_d'honneur_refusals
+http://dbpedia.org/resource/marie_curie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1934_deaths
+http://dbpedia.org/resource/marie_curie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th-century_polish_chemists
+http://dbpedia.org/resource/marie_curie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:french_women_physicists
+http://dbpedia.org/resource/marie_curie	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th-century_french_physicists
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/doctoralstudent	http://dbpedia.org/resource/irène_joliot-curie
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/property/doctoralstudents	http://dbpedia.org/resource/ladislas_goldstein
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/academicdiscipline	http://dbpedia.org/resource/chemistry
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/property/doctoralstudents	http://dbpedia.org/resource/émile_henriot_(chemist)
+http://dbpedia.org/resource/marie_curie	http://dbpedia.org/property/doctoralstudents	http://dbpedia.org/resource/marguerite_perey
+Marie Curie	http://dbpedia.org/ontology/doctrine	Radiology
+Marie Curie	http://dbpedia.org/ontology/workInstitution	University of Paris
+Marie Curie	http://dbpedia.org/ontology/contribution	Discovery of Polonium and Radium

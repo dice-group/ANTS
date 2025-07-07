@@ -1,0 +1,22 @@
+The Honolulu Advertiser	http://dbpedia.org/ontology/language	English
+The Honolulu Advertiser	http://dbpedia.org/ontology/publisher	Gannett Company
+The Honolulu Advertiser	http://dbpedia.org/ontology/owner	Gannett Company
+The Honolulu Advertiser	http://dbpedia.org/ontology/headquarter	Honolulu
+The Honolulu Advertiser	http://dbpedia.org/ontology/industry	Newspapers
+The Honolulu Advertiser	http://dbpedia.org/ontology/product	Newspaper
+The Honolulu Advertiser	http://dbpedia.org/ontology/keyPerson	Thurston Twigg-Smith
+The Honolulu Advertiser	http://dbpedia.org/ontology/format	Newspaper
+The Honolulu Advertiser	http://dbpedia.org/ontology/parentCompany	Gannett Company
+The Honolulu Advertiser	http://dbpedia.org/ontology/issn	0733-1237
+The Honolulu Advertiser	http://dbpedia.org/ontology/circulation	154, 000
+The Honolulu Advertiser	http://dbpedia.org/ontology/founder	Wallace Rider Farrington
+The Honolulu Advertiser	http://dbpedia.org/ontology/sisterNewspaper	Honolulu Star-Bulletin
+The Honolulu Advertiser	http://dbpedia.org/ontology/previousEditor	George Chaplin
+The Honolulu Advertiser	http://dbpedia.org/ontology/ceo	None
+The Honolulu Advertiser	http://dbpedia.org/ontology/foundationPlace	Honolulu
+http://dbpedia.org/resource/the_honolulu_advertiser	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:publications_established_in_1856
+http://dbpedia.org/resource/the_honolulu_advertiser	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1856_establishments_in_hawaii
+http://dbpedia.org/resource/the_honolulu_advertiser	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:defunct_newspapers_published_in_hawaii
+http://dbpedia.org/resource/the_honolulu_advertiser	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:publications_disestablished_in_2010
+http://dbpedia.org/resource/the_honolulu_advertiser	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2010_disestablishments_in_hawaii
+The Honolulu Advertiser	http://dbpedia.org/ontology/politicalAlignment	None

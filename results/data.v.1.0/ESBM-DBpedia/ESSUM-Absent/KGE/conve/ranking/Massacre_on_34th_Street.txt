@@ -1,0 +1,12 @@
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:professional_wrestling_in_new_york
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000_in_new_york
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:extreme_championship_wrestling_shows
+http://dbpedia.org/resource/massacre_on_34th_street	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2000_in_professional_wrestling
+http://dbpedia.org/resource/massacre_on_34th_street	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
+http://dbpedia.org/resource/massacre_on_34th_street	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/november_to_remember
+http://dbpedia.org/resource/massacre_on_34th_street	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/holiday_hell
+http://dbpedia.org/resource/massacre_on_34th_street	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
+http://dbpedia.org/resource/massacre_on_34th_street	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/guilty_as_charged
+http://dbpedia.org/resource/massacre_on_34th_street	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent
+http://dbpedia.org/resource/massacre_on_34th_street	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
+http://dbpedia.org/resource/massacre_on_34th_street	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q1656682

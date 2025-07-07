@@ -1,0 +1,20 @@
+(Trachelipus dimorphus, species, Trachelipus)
+(Trachelipus dimorphus, genus, Trachelipus)
+(Trachelipus dimorphus, family, Armadillidiidae)
+(Trachelipus dimorphus, order, Isopoda)
+(Trachelipus dimorphus, class, Isopoda)
+(Trachelipus dimorphus, phylum, Arthropoda)
+(Trachelipus dimorphus, kingdom, Animalia)
+(Trachelipus dimorphus, domain, Eukaryota)
+Trachelipus dimorphus, conservationStatus, Least Concern
+(Trachelipus dimorphus, habitat, Forests)
+(Trachelipus dimorphus, distribution, Europe)
+Trachelipus dimorphus, lifeSpan, ?
+(Trachelipus dimorphus, behavior, Nocturnal)
+Trachelipus dimorphus, feedingBehavior, Herbivorous.
+(Trachelipus dimorphus, predator, ?)
+Trachelipus dimorphus, prey, Artemia salina.
+(Trachelipus dimorphus, reproductiveBehavior, sexual reproduction)
+(Trachelipus dimorphus, synonym, Armadillidium dimorphum)
+(Trachelipus dimorphus, discoveryYear, 1973)
+Trachelipus dimorphus, describedBy, Christian Schmidt, Jörg Spelda, Elisabeth Lipke, Karin Voigtländer, Stefan F. K. Schmolz, Thomas Wesener (2020)

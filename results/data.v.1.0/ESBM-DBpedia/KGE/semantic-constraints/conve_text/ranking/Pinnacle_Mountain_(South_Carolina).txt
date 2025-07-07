@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/property/location	http://dbpedia.org/resource/south_carolina
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/hip_hop_music
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/property/range	http://dbpedia.org/resource/blue_ridge_mountains
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/property/category	http://dbpedia.org/resource/wta_tier_i_tournaments
+http://dbpedia.org/resource/pinnacle_mountain_(south_carolina)	http://dbpedia.org/property/listing	http://dbpedia.org/resource/marilyn_(hill)

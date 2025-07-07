@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/starring	http://dbpedia.org/resource/christian_bale
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/producer	http://dbpedia.org/resource/roger_birnbaum
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/party	http://dbpedia.org/resource/democratic_party_(united_states)
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/ontology/distributor	http://dbpedia.org/resource/touchstone_pictures
+http://dbpedia.org/resource/reign_of_fire_(film)	http://dbpedia.org/property/name	http://dbpedia.org/resource/manchester_city_f.c.

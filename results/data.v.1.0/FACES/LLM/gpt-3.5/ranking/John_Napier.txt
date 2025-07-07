@@ -1,0 +1,15 @@
+John Napier	http://dbpedia.org/ontology/birthDate	1550
+John Napier	http://dbpedia.org/ontology/occupation	Mathematician
+John Napier	http://dbpedia.org/ontology/deathDate	1617
+John Napier	http://dbpedia.org/ontology/nationality	Scottish
+John Napier	http://dbpedia.org/ontology/education	University of St Andrews
+John Napier	http://dbpedia.org/ontology/education	University of Edinburgh
+John Napier	http://dbpedia.org/ontology/knownFor	Invention of logarithms
+John Napier	http://dbpedia.org/ontology/knownFor	Napier's bones
+John Napier	http://dbpedia.org/ontology/influencedBy	Michael Maestlin
+John Napier	http://dbpedia.org/ontology/influencedBy	David Gregory
+John Napier	http://dbpedia.org/ontology/influenced	Johann Kepler
+John Napier	http://dbpedia.org/ontology/influenced	Henry Briggs
+John Napier	http://dbpedia.org/ontology/publication	Mirifici logarithmorum canonis descriptio
+John Napier	http://dbpedia.org/ontology/publication	Rabdologiae
+John Napier	http://dbpedia.org/ontology/awards	Knighted by James VI
