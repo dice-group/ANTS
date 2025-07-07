@@ -6,7 +6,7 @@
 This repository contains the implementation of ANTS, a research paper accepted at ESWC 2025 (Research Track). ANTS addresses the challenges of abstractive entity summarization in Knowledge Graphs (KGs) by generating optimal summaries that integrate existing triples with inferred (absent) triples. It leverages Knowledge Graph Embeddings (KGE) and Large Language Models (LLMs) to enhance summarization quality.
 
 <p align="center">
-<img src="images/ANTs-new.jpg" width="75%">
+<img src="images/ANTs-alt.jpg" width="75%">
 </p>
 
 ## 🚀 Table of Contents
