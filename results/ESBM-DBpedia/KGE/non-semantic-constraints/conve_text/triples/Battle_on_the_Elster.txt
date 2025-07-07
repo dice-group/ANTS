@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/ontology/category	http://dbpedia.org/class/yago/battlesinvolvingbohemia
-http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/ontology/category	http://dbpedia.org/class/yago/battlesinvolvingsaxony
-http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/psychologicalfeature100023100
-http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
-http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/ontology/position	http://dbpedia.org/resource/guilty_as_charged
-http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
-http://dbpedia.org/resource/battle_on_the_elster	http://dbpedia.org/ontology/category	http://dbpedia.org/class/yago/battlesinvolvingtheholyromanempire
-http://dbpedia.org/resource/battle_on_the_elster	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/militaryconflict

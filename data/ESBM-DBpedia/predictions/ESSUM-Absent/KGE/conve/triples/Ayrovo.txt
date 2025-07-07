@@ -1,6 +1,0 @@
-http://dbpedia.org/resource/ayrovo	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/storme_warren
-http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
-http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagogeoentity
-http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
-http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
-http://dbpedia.org/resource/ayrovo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location

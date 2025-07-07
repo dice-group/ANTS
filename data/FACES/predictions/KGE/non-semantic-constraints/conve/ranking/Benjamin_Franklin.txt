@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/property/successor	http://dbpedia.org/resource/richard_bache
-http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/property/successor	http://dbpedia.org/resource/isaac_norris_(statesman)
-http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/property/successor	http://dbpedia.org/resource/jonathan_russell
-http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/property/appointed	http://dbpedia.org/resource/congress_of_the_confederation
-http://dbpedia.org/resource/benjamin_franklin	http://dbpedia.org/ontology/associate	http://dbpedia.org/resource/arthur_lee_(diplomat)

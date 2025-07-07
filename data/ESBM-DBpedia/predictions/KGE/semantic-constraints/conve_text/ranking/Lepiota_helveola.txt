@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:lepiota
-http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fungi_described_in_1882
-http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:deadly_fungi
-http://dbpedia.org/resource/lepiota_helveola	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fungi_of_europe
-http://dbpedia.org/resource/lepiota_helveola	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/mushroom

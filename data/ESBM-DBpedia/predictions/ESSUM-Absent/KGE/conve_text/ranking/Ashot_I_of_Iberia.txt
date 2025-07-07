@@ -1,6 +1,0 @@
-http://dbpedia.org/resource/ashot_i_of_iberia	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/organism100004475
-http://dbpedia.org/resource/ashot_i_of_iberia	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
-http://dbpedia.org/resource/ashot_i_of_iberia	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q215627
-http://dbpedia.org/resource/ashot_i_of_iberia	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/livingthing100004258
-http://dbpedia.org/resource/ashot_i_of_iberia	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
-http://dbpedia.org/resource/ashot_i_of_iberia	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/bagrat_i_of_iberia

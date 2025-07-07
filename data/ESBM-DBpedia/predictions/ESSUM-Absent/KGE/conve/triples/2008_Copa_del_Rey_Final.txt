@@ -1,6 +1,0 @@
-http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
-http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent
-http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
-http://dbpedia.org/resource/2008_copa_del_rey_final	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/2009_copa_del_rey_final
-http://dbpedia.org/resource/2008_copa_del_rey_final	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event

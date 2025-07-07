@@ -1,1 +1,0 @@
- <H> operation_hump <R> genre <T> vietnam_war <H> operation_hump <R> type <T> http://www.wikidata.org/entity/q1656682 <H> operation_hump <R> type <T> groupaction101080366 <H> operation_hump <R> type <T> event <H> operation_hump <R> type <T> battle100953559 <H> operation_hump <R> type <T> event100029378 <H> operation_hump <R> subsequentwork <T> biên_hòa

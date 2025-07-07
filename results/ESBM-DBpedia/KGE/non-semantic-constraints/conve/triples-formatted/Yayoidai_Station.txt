@@ -1,1 +1,0 @@
- <H> yayoidai_station <R> type <T> yagopermanentlylocatedentity <H> yayoidai_station <R> type <T> location <H> yayoidai_station <R> type <T> http://www.w3.org/2002/07/owl#thing <H> yayoidai_station <R> type <T> place <H> yayoidai_station <R> type <T> http://schema.org/place

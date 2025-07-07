@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/2010_belgian_super_cup	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/brussels
-http://dbpedia.org/resource/2010_belgian_super_cup	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/anderlecht
-http://dbpedia.org/resource/2010_belgian_super_cup	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/paraguayan_war
-http://dbpedia.org/resource/2010_belgian_super_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:july_2010_sports_events_in_europe
-http://dbpedia.org/resource/2010_belgian_super_cup	http://dbpedia.org/ontology/followingevent	http://dbpedia.org/resource/2011_belgian_super_cup

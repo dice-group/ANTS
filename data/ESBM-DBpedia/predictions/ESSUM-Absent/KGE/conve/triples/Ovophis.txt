@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/ovophis	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/ovophis	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/chordate
-http://dbpedia.org/resource/ovophis	http://dbpedia.org/ontology/nationality	http://dbpedia.org/resource/viperidae
-http://dbpedia.org/resource/ovophis	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
-http://dbpedia.org/resource/ovophis	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote
-http://dbpedia.org/resource/ovophis	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal
-http://dbpedia.org/resource/ovophis	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q729
-http://dbpedia.org/resource/ovophis	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/reptile
-http://dbpedia.org/resource/ovophis	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/vertebrate

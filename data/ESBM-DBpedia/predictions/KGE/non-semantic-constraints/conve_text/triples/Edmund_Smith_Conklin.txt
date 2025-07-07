@@ -1,4 +1,0 @@
-http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1884_births
-http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:people_from_new_britain,_connecticut
-http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1942_deaths
-http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:clark_university_alumni

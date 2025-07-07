@@ -1,1 +1,0 @@
-< pad > e.k. mawlong is a type of person in the category of people from shillong. They are http: / / www.wikidata.org / entity / q5 and are in the category of http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # naturalperson. The e.k. mawlong is a type of person and their address is http: / / www.schema.org / person. < / s >

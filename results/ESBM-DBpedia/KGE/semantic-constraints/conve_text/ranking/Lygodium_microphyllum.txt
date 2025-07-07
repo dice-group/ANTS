@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/lygodium_microphyllum	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/fern
-http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/woodlouse
-http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_the_northwestern_pacific
-http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:flora_of_fiji
-http://dbpedia.org/resource/lygodium_microphyllum	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:ferns_of_africa

@@ -1,1 +1,0 @@
-< pad > Dallas keuchel is a baseball player who is considered a living person. He is an http: / / www.wikidata.org / entity / q215627 and is a type of http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # naturalperson. Dallas keuchel is located in the area of http: / / www.wikidata.org / entity / q10871364. < / s >

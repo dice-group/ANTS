@@ -1,1 +1,0 @@
- <H> marie_curie <R> combatant <T> aplastic_anemia <H> marie_curie <R> championindoublefemale <T> émile_henriot_(chemist) <H> marie_curie <R> doctoralstudent <T> ladislas_goldstein <H> marie_curie <R> birthplace <T> congress_poland <H> marie_curie <R> commander <T> category:corresponding_members_of_the_saint_petersburg_academy_of_sciences

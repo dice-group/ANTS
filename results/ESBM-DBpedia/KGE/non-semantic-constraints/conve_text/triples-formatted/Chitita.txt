@@ -1,1 +1,0 @@
- <H> chitita <R> subject <T> category:populated_places_in_kara_region <H> chitita <R> subject <T> category:assoli <H> chitita <R> type <T> http://schema.org/place <H> chitita <R> type <T> place <H> chitita <R> type <T> village <H> chitita <R> type <T> populatedplace <H> chitita <R> type <T> location <H> chitita <R> type <T> http://www.wikidata.org/entity/q486972

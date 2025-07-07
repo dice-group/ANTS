@@ -1,1 +1,0 @@
- <H> john_napier <R> field <T> mathematician <H> john_napier <R> regionserved <T> j._c._penney <H> john_napier <R> almamater <T> university_of_st_andrews <H> john_napier <R> knownfor <T> decimal_mark <H> john_napier <R> establishedevent <T> poland <H> john_napier <R> birthplace <T> merchiston_castle <H> john_napier <R> birthplace <T> edinburgh

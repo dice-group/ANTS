@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/carolien_gehrels
-http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/eric_van_der_burg
-http://dbpedia.org/resource/amsterdam	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/parliamentary_republic
-http://dbpedia.org/resource/amsterdam	http://dbpedia.org/property/populationblank1title	http://dbpedia.org/resource/demonym
-http://dbpedia.org/resource/amsterdam	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/amsterdam

@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/pseudanos_trimaculatus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_of_south_america
-http://dbpedia.org/resource/pseudanos_trimaculatus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:fish_described_in_1858
-http://dbpedia.org/resource/pseudanos_trimaculatus	http://dbpedia.org/ontology/class	http://dbpedia.org/resource/actinopterygii
-http://dbpedia.org/resource/pseudanos_trimaculatus	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/animalia
-http://dbpedia.org/resource/pseudanos_trimaculatus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species

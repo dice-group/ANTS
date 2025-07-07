@@ -1,1 +1,0 @@
- <H> tchonoro <R> type <T> yagopermanentlylocatedentity <H> tchonoro <R> type <T> location <H> tchonoro <R> category <T> geologicalformation109287968 <H> tchonoro <R> type <T> http://schema.org/place <H> tchonoro <R> type <T> object100002684 <H> tchonoro <R> type <T> yagolegalactorgeo <H> tchonoro <R> category <T> naturalplace <H> tchonoro <R> deathplace <T> village

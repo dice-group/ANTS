@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/henriiv.jpg/200px-henriiv.jpg
-http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
-http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/issue	http://dbpedia.org/resource/louis_xiii_of_france
-http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/mother	http://dbpedia.org/resource/jeanne_iii_of_navarre
-http://dbpedia.org/resource/henry_iv_of_france	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/kingdom_of_navarre

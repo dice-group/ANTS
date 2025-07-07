@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
-http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q1656682
-http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/2012_kor_royal_cup
-http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/previousevent	http://dbpedia.org/resource/2010_kor_royal_cup
-http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
-http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
-http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent

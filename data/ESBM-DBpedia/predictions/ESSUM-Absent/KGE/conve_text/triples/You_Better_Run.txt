@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/you_better_run	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:song_recordings_produced_by_tom_dowd
-http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
-http://dbpedia.org/resource/you_better_run	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1966_songs
-http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q2188189
-http://dbpedia.org/resource/you_better_run	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/pat_benatar
-http://dbpedia.org/resource/you_better_run	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1980_singles
-http://dbpedia.org/resource/you_better_run	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:pat_benatar_songs
-http://dbpedia.org/resource/you_better_run	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:song_recordings_produced_by_keith_olsen
-http://dbpedia.org/resource/you_better_run	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/the_rascals

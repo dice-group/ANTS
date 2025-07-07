@@ -1,1 +1,0 @@
-< pad > Hagar Wilde wrote the book "The Secrets of War" and is an example of American style writing. Hagar Wilde's genre is http: / / www.dbpedia.org / class / yago / WomenScreenwriters and his typo is "http: / / www.dbpedia.org / class / yago / CausalAgent / WomenScreenwriters. Hagar Wilde is an author of the book" http: / / www.wikipedia.org / ontology < / s >

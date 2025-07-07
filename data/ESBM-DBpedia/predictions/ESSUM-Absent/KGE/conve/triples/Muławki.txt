@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
-http://dbpedia.org/resource/muławki	http://dbpedia.org/ontology/ispartof	http://dbpedia.org/resource/warmian-masurian_voivodeship
-http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
-http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
-http://dbpedia.org/resource/muławki	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/village
-http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
-http://dbpedia.org/resource/muławki	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167

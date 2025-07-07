@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/rock_music
-http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/billy_joel
-http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q134556
-http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
-http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:singles_certified_platinum_by_the_recording_industry_association_of_america
-http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:songs_written_by_billy_joel
-http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q2188189
-http://dbpedia.org/resource/it's_still_rock_and_roll_to_me	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork

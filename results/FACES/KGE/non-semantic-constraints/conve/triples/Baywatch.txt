@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/distributor	http://dbpedia.org/resource/lexington_broadcast_services_company
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/distributor	http://dbpedia.org/resource/all_american_television
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/genre	http://dbpedia.org/resource/dramatic_programming
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/distributor	http://dbpedia.org/resource/fremantlemedia
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/baywatch_logo.jpg/200px-baywatch_logo.jpg
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/action_(genre)
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/distributor	http://dbpedia.org/resource/fremantlemedia_enterprises
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/ontology/network	http://dbpedia.org/resource/broadcast_syndication
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/ontology/executiveproducer	http://dbpedia.org/resource/baywatch

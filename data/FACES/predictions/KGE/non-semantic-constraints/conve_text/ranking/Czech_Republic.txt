@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/capital	http://dbpedia.org/resource/prague
-http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/petr_ne%c4%8das
-http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/dissolution_of_czechoslovakia
-http://dbpedia.org/resource/czech_republic	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/czech_republic?oldid=548486944
-http://dbpedia.org/resource/czech_republic	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/czechoslovakia

@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/property/name	http://dbpedia.org/resource/manchester_city_f.c.
-http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/property/genre	http://dbpedia.org/resource/pop_rock
-http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/ontology/occupation	http://dbpedia.org/resource/bill_gates
-http://dbpedia.org/resource/candle_in_the_wind	http://dbpedia.org/ontology/musicalband	http://dbpedia.org/resource/elton_john
-http://dbpedia.org/resource/candle_in_the_wind	http://xmlns.com/foaf/0.1/depiction	http://upload.wikimedia.org/wikipedia/commons/0/07/elton_john_-_candle_in_the_wind_(1986).jpg

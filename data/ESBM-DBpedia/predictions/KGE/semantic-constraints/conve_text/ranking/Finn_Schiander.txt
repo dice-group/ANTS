@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/finn_schiander	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:medalists_at_the_1920_summer_olympics
-http://dbpedia.org/resource/finn_schiander	http://dbpedia.org/property/genre	http://dbpedia.org/resource/cantopop
-http://dbpedia.org/resource/finn_schiander	http://dbpedia.org/ontology/species	http://dbpedia.org/resource/vitis_vinifera
-http://dbpedia.org/resource/finn_schiander	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/ottoman_expeditions_to_morocco
-http://dbpedia.org/resource/finn_schiander	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species

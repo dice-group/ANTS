@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/aladdin_(1992_disney_film)
-http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/automotive_industry
-http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/west	http://dbpedia.org/resource/jackson,_michigan
-http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/john_hieftje
-http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/governmenttype	http://dbpedia.org/resource/council%e2%80%93manager_government

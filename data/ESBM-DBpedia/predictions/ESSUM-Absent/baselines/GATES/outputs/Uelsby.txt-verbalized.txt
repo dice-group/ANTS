@@ -1,1 +1,0 @@
-< pad > Uelsby, located in Germany, has a population of 461 people and an area of 9.566666666666. Its type of marker is http: / / dbpedia.org / class / yago / Location / Location / Uelsby and its thumbnail is http: / / www.commons.wikimedia.org / wiki / Special / FilePath / Uelsby. Uelsby has an area code of SL and its type of label is Uelsby < / s >

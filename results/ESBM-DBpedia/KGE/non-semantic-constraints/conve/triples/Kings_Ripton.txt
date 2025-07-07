@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
-http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/physicalentity100001930
-http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
-http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/ontology/category	http://dbpedia.org/ontology/place
-http://dbpedia.org/resource/kings_ripton	http://dbpedia.org/ontology/deathplace	http://dbpedia.org/resource/village
-http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:villages_in_bijapur_district
-http://dbpedia.org/resource/kings_ripton	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:populated_places_in_dehgolan_county
-http://dbpedia.org/resource/kings_ripton	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684

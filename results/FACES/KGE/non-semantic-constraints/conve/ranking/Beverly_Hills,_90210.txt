@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/starring	http://dbpedia.org/resource/jamie_walters_(american_entertainer)
-http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/starring	http://dbpedia.org/resource/brian_austin_green
-http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/starring	http://dbpedia.org/resource/jason_priestley
-http://dbpedia.org/resource/beverly_hills,_90210	http://dbpedia.org/property/channel	http://dbpedia.org/resource/fox_broadcasting_company
-http://dbpedia.org/resource/beverly_hills,_90210	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/beverly_hills,_90210

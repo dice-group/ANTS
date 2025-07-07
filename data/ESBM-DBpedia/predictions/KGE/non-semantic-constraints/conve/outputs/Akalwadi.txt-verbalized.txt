@@ -1,1 +1,0 @@
-< pad > The asteroid called akalwadi, has an object type of http: / / www.wikidata.org / entity / q486972. It is located in the village of Dehgolan County, and has the type of place of death in the village. Akalwadi has an address of http: / / www.schema.org / place and its type of habitat is the category of place. < / s >

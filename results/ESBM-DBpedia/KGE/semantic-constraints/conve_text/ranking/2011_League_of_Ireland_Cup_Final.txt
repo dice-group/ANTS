@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:cork_city_f.c._matches
-http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:september_2011_sports_events_in_europe
-http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:derry_city_f.c._matches
-http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/turners_cross_(stadium)
-http://dbpedia.org/resource/2011_league_of_ireland_cup_final	http://dbpedia.org/property/commander	http://dbpedia.org/resource/fukushima_masanori

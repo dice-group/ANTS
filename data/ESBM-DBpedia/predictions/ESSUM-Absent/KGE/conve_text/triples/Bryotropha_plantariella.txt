@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/bryotropha_plantariella	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/bryotropha_plantariella	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q19088
-http://dbpedia.org/resource/bryotropha_plantariella	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:insects_of_europe
-http://dbpedia.org/resource/bryotropha_plantariella	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal
-http://dbpedia.org/resource/bryotropha_plantariella	http://dbpedia.org/ontology/programmeformat	http://www.wikidata.org/entity/q1390
-http://dbpedia.org/resource/bryotropha_plantariella	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/animal
-http://dbpedia.org/resource/bryotropha_plantariella	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:bryotropha
-http://dbpedia.org/resource/bryotropha_plantariella	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/eukaryote

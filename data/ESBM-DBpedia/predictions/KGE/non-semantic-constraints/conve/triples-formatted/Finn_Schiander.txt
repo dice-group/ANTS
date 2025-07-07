@@ -1,1 +1,0 @@
- <H> finn_schiander <R> type <T> causalagent100007347 <H> finn_schiander <R> type <T> agent <H> finn_schiander <R> type <T> http://xmlns.com/foaf/0.1/person <H> finn_schiander <R> type <T> http://www.wikidata.org/entity/q5 <H> finn_schiander <R> type <T> http://schema.org/person

@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/lance_comfort
-http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1960s_crime_films
-http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:black-and-white_films
-http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/fungus
-http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/rock_music
-http://dbpedia.org/resource/touch_of_death_(1961_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:british_films
-http://dbpedia.org/resource/touch_of_death_(1961_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
-http://dbpedia.org/resource/touch_of_death_(1961_film)	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_kingdom

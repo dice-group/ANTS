@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/action_(genre)
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/executiveproducer	http://dbpedia.org/resource/baywatch
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/property/audioformat	http://dbpedia.org/resource/stereophonic_sound
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/ontology/executiveproducer	http://dbpedia.org/resource/douglas_schwartz
-http://dbpedia.org/resource/baywatch	http://dbpedia.org/ontology/executiveproducer	http://dbpedia.org/resource/gregory_j._bonann

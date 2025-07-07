@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/industry	http://dbpedia.org/resource/automotive_industry
-http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/product	http://dbpedia.org/resource/supercar
-http://dbpedia.org/resource/ferrari	http://dbpedia.org/property/keypeople	http://dbpedia.org/resource/luca_cordero_di_montezemolo
-http://dbpedia.org/resource/ferrari	http://dbpedia.org/property/keypeople	http://dbpedia.org/resource/piero_ferrari
-http://dbpedia.org/resource/ferrari	http://dbpedia.org/ontology/keyperson	http://dbpedia.org/resource/luca_di_montezemolo

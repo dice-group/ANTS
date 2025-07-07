@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/name	http://dbpedia.org/resource/manchester_city_f.c.
-http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/canada
-http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/mouthregion	http://dbpedia.org/resource/alaska
-http://dbpedia.org/resource/yukon_river	http://dbpedia.org/ontology/sourcemountain	http://dbpedia.org/resource/atlin_district
-http://dbpedia.org/resource/yukon_river	http://dbpedia.org/property/sourceregion	http://dbpedia.org/resource/british_columbia

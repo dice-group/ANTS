@@ -1,1 +1,0 @@
- <H> muławki <R> type <T> village <H> muławki <R> type <T> location <H> muławki <R> ispartof <T> warmian-masurian_voivodeship <H> muławki <R> type <T> http://schema.org/place <H> muławki <R> type <T> object100002684 <H> muławki <R> type <T> place <H> muławki <R> type <T> location100027167

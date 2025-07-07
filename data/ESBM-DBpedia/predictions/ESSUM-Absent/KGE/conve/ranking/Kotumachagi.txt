@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/kotumachagi	http://xmlns.com/foaf/0.1/depiction	http://commons.wikimedia.org/wiki/special:filepath/kotumachagivillagetemple.jpg
-http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/ontology/type	http://dbpedia.org/resource/village
-http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
-http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q486972
-http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
-http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/location100027167
-http://dbpedia.org/resource/kotumachagi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place
-http://dbpedia.org/resource/kotumachagi	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/peter_watts_(cricketer,_born_1938)

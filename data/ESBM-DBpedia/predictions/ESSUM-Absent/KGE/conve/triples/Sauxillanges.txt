@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2003/01/geo/wgs84_pos#spatialthing
-http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/yagopermanentlylocatedentity
-http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
-http://dbpedia.org/resource/sauxillanges	http://dbpedia.org/ontology/fastestdriver	http://dbpedia.org/resource/puy-de-dôme
-http://dbpedia.org/resource/sauxillanges	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
-http://dbpedia.org/resource/sauxillanges	http://dbpedia.org/ontology/thumbnail	http://dbpedia.org/resource/france

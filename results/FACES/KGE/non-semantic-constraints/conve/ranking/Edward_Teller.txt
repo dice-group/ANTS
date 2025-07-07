@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/edward_teller	http://dbpedia.org/property/placeofbirth	http://dbpedia.org/resource/austria-hungary
-http://dbpedia.org/resource/edward_teller	http://dbpedia.org/property/placeofbirth	http://dbpedia.org/resource/budapest
-http://dbpedia.org/resource/edward_teller	http://dbpedia.org/ontology/doctoralstudent	http://dbpedia.org/resource/chen_ning_yang
-http://dbpedia.org/resource/edward_teller	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/leipzig_university
-http://dbpedia.org/resource/edward_teller	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/karlsruhe_institute_of_technology

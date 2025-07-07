@@ -1,1 +1,0 @@
- <H> joe_biden <R> successor <T> dianne_feinstein <H> joe_biden <R> successor <T> jesse_helms <H> joe_biden <R> successor <T> ted_kaufman <H> joe_biden <R> party <T> democratic_party_(united_states) <H> joe_biden <R> successor <T> richard_lugar <H> joe_biden <R> successor <T> orrin_hatch <H> joe_biden <R> president <T> barack_obama

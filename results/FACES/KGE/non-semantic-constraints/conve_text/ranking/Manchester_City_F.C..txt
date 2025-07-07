@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/sergio_ag%c3%bcero
-http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/vincent_kompany
-http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/name	http://dbpedia.org/resource/ryan_mcgivern_(footballer)
-http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/country	http://dbpedia.org/resource/united_states
-http://dbpedia.org/resource/manchester_city_f.c.	http://dbpedia.org/property/league	http://dbpedia.org/resource/premier_league

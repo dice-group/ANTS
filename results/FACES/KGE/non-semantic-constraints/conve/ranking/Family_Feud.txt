@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/family_feud	http://dbpedia.org/property/location	http://dbpedia.org/resource/the_prospect_studios
-http://dbpedia.org/resource/family_feud	http://dbpedia.org/property/location	http://dbpedia.org/resource/cbs_television_city
-http://dbpedia.org/resource/family_feud	http://dbpedia.org/property/presenter	http://dbpedia.org/resource/richard_dawson
-http://dbpedia.org/resource/family_feud	http://dbpedia.org/property/presenter	http://dbpedia.org/resource/john_o'hurley
-http://dbpedia.org/resource/family_feud	http://dbpedia.org/property/presenter	http://dbpedia.org/resource/richard_karn

@@ -1,1 +1,0 @@
- <H> roque_ceruti <R> type <T> http://www.wikidata.org/entity/q5 <H> roque_ceruti <R> type <T> http://schema.org/person <H> roque_ceruti <R> type <T> agent <H> roque_ceruti <R> subject <T> category:living_people

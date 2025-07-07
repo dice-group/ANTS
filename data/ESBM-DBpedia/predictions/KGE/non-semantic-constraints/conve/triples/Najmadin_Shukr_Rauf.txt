@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/najmadin_shukr_rauf	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1957_births
-http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
-http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#naturalperson
-http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/najmadin_shukr_rauf	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:living_people
-http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/object100002684
-http://dbpedia.org/resource/najmadin_shukr_rauf	http://dbpedia.org/ontology/category	http://schema.org/person
-http://dbpedia.org/resource/najmadin_shukr_rauf	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person

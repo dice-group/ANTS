@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/north_haledon,_new_jersey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1901_establishments_in_new_jersey
-http://dbpedia.org/resource/north_haledon,_new_jersey	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:boroughs_in_passaic_county,_new_jersey
-http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/ontology/subdivision	http://dbpedia.org/resource/passaic_county,_new_jersey
-http://dbpedia.org/resource/north_haledon,_new_jersey	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/populatedplace
-http://dbpedia.org/resource/north_haledon,_new_jersey	http://dbpedia.org/ontology/politicalleader	http://dbpedia.org/resource/north_haledon,_new_jersey__politicalfunction__2

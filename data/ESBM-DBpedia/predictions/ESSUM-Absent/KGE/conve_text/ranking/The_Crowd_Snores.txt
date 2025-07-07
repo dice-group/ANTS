@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_about_dogs
-http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:auto_racing_films
-http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:walter_lantz_productions_shorts
-http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1930s_american_animated_films
-http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:films_directed_by_walter_lantz
-http://dbpedia.org/resource/the_crowd_snores	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/pooch_the_pup

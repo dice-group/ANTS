@@ -1,1 +1,0 @@
- <H> ayrovo <R> type <T> http://www.w3.org/2002/07/owl#thing <H> ayrovo <R> type <T> place <H> ayrovo <R> type <T> location <H> ayrovo <R> type <T> yagopermanentlylocatedentity <H> ayrovo <R> deathplace <T> village <H> ayrovo <R> type <T> http://schema.org/place

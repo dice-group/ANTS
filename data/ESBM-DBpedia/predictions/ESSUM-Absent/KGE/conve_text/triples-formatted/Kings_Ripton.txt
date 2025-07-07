@@ -1,1 +1,0 @@
- <H> kings_ripton <R> type <T> http://schema.org/place <H> kings_ripton <R> type <T> place <H> kings_ripton <R> type <T> location100027167 <H> kings_ripton <R> type <T> http://www.wikidata.org/entity/q486972 <H> kings_ripton <R> type <T> http://www.w3.org/2002/07/owl#thing <H> kings_ripton <R> parentmountainpeak <T> geographicalarea108574314

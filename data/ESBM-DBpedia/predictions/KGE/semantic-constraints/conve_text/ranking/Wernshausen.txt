@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/wernshausen	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/part
-http://dbpedia.org/resource/wernshausen	http://dbpedia.org/ontology/city	http://dbpedia.org/resource/schmalkalden
-http://dbpedia.org/resource/wernshausen	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/northland_regional_council
-http://dbpedia.org/resource/wernshausen	http://dbpedia.org/property/lieutenancyengland	http://dbpedia.org/resource/bristol
-http://dbpedia.org/resource/wernshausen	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:former_municipalities_in_thuringia

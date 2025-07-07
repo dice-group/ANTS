@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/single
-http://dbpedia.org/resource/you_better_run	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
-http://dbpedia.org/resource/you_better_run	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:pat_benatar_songs
-http://dbpedia.org/resource/you_better_run	http://dbpedia.org/property/label	http://dbpedia.org/resource/chrysalis_records
-http://dbpedia.org/resource/you_better_run	http://dbpedia.org/ontology/writer	http://dbpedia.org/resource/felix_cavaliere

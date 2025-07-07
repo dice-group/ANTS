@@ -1,1 +1,0 @@
-< pad > Ayrovo is located in the Eastern European region of the country of Bulgaria and has the name of Ayrovo. They are part of the Kardzhali Municipality in the Kardzhali Province. The Ayrovo has the following details: http: / / www.dbpedia.org / ontology / Location / http: / / www.schema.org / Place, and their uTCOffset is + 2. < / s >

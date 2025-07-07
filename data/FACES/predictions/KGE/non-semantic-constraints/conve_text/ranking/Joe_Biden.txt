@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/dianne_feinstein
-http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/jesse_helms
-http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/ted_kaufman
-http://dbpedia.org/resource/joe_biden	http://dbpedia.org/property/successor	http://dbpedia.org/resource/richard_lugar
-http://dbpedia.org/resource/joe_biden	http://dbpedia.org/ontology/party	http://dbpedia.org/resource/democratic_party_(united_states)

@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/team	http://dbpedia.org/resource/atlanta_silverbacks
-http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/najib_razak
-http://dbpedia.org/resource/fabrice_gautrat	http://dbpedia.org/ontology/careerstation	http://dbpedia.org/resource/fabrice_gautrat__careerstation__4
-http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
-http://dbpedia.org/resource/fabrice_gautrat	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/athlete

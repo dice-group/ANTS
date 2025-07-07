@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:american_black-and-white_films
-http://dbpedia.org/resource/the_crowd_snores	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1930s_english-language_films
-http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/property/producer	http://dbpedia.org/resource/genesis_(band)
-http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/yasmine_bleeth
-http://dbpedia.org/resource/the_crowd_snores	http://dbpedia.org/property/pedigree	http://dbpedia.org/resource/garganega

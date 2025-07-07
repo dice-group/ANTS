@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_mexican_revolution
-http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/andrew_kippis
-http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/luís_medina_barrón
-http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/pancho_villa
-http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://dbpedia.org/ontology/place	http://dbpedia.org/resource/zacatecas,_zacatecas
-http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
-http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
-http://dbpedia.org/resource/battle_of_zacatecas_(1914)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event

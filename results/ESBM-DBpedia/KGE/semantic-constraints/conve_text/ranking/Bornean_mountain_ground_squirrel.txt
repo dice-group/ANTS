@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/bornean_mountain_ground_squirrel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mammals_described_in_1890
-http://dbpedia.org/resource/bornean_mountain_ground_squirrel	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/fedor_von_bock
-http://dbpedia.org/resource/bornean_mountain_ground_squirrel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:taxa_named_by_oldfield_thomas
-http://dbpedia.org/resource/bornean_mountain_ground_squirrel	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:taxonomy_articles_created_by_polbot
-http://dbpedia.org/resource/bornean_mountain_ground_squirrel	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/rodent

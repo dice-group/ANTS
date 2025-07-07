@@ -1,1 +1,0 @@
-< pad > The men's version of the triathlon at the 2000 summer olympics is http: / / www.ontologydesignpatterns.org / ont / dul / dul.owl # event. They are part of the Simon whitfield type of men and play in the category of Uefa champions league. The event takes place in July 10th, 2000 and their web site is http: / / www.schema.org / content / q1656682. < / s >

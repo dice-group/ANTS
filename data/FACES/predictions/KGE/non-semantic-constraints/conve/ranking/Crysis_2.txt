@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/microsoft_windows
-http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/platforms	http://dbpedia.org/resource/playstation_3
-http://dbpedia.org/resource/crysis_2	http://dbpedia.org/property/composer	http://dbpedia.org/resource/lorne_balfe
-http://dbpedia.org/resource/crysis_2	http://dbpedia.org/ontology/computingplatform	http://dbpedia.org/resource/xbox_360
-http://dbpedia.org/resource/crysis_2	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/crysis_2

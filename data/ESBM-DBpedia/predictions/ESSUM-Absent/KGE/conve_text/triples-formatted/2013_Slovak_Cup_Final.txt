@@ -1,1 +1,0 @@
- <H> 2013_slovak_cup_final <R> type <T> http://www.wikidata.org/entity/q1656682 <H> 2013_slovak_cup_final <R> type <T> http://schema.org/sportsevent <H> 2013_slovak_cup_final <R> type <T> event <H> 2013_slovak_cup_final <R> type <T> http://schema.org/event <H> 2013_slovak_cup_final <R> type <T> societalevent

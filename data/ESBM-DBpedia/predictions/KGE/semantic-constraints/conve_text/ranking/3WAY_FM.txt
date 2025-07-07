@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/station
-http://dbpedia.org/resource/3way_fm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/organisation
-http://dbpedia.org/resource/3way_fm	http://dbpedia.org/property/name	http://dbpedia.org/resource/jun_takenaka
-http://dbpedia.org/resource/3way_fm	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:hurricanes_(rugby_union)
-http://dbpedia.org/resource/3way_fm	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1990_establishments_in_australia

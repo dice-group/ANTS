@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/simon_(2004_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2004_lgbt-related_films
-http://dbpedia.org/resource/simon_(2004_film)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:dutch_lgbt-related_films
-http://dbpedia.org/resource/simon_(2004_film)	http://dbpedia.org/ontology/director	http://dbpedia.org/resource/eddy_terstall
-http://dbpedia.org/resource/simon_(2004_film)	http://dbpedia.org/property/camera	http://dbpedia.org/resource/film
-http://dbpedia.org/resource/simon_(2004_film)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/film

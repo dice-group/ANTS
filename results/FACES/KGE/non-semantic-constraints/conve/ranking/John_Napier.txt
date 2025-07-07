@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/knownfor	http://dbpedia.org/resource/decimal_point
-http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/almamater	http://dbpedia.org/resource/university_of_st_andrews
-http://dbpedia.org/resource/john_napier	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/edinburgh
-http://dbpedia.org/resource/john_napier	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/john_napier
-http://dbpedia.org/resource/john_napier	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/merchiston_castle

@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/2011_kor_royal_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_in_czech_sport
-http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
-http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
-http://dbpedia.org/resource/2011_kor_royal_cup	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/2012–13_debreceni_vsc_season
-http://dbpedia.org/resource/2011_kor_royal_cup	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2011_itf_women's_circuit
-http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent
-http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
-http://dbpedia.org/resource/2011_kor_royal_cup	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event

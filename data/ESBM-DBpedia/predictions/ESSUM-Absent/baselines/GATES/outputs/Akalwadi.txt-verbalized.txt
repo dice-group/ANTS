@@ -1,1 +1,0 @@
-< pad > Akalwadi is located in the district of Bijapur, which is part of the country of India. The type of Akalwadi is http: / / www.dbpedia.org / class / yago / PhysicalEntity / 100000000. The type of Akalwadi is http: / / www.dbpedia.org / ontology / Settlement / 108630985 / type of http: / / www.dbpedia.org / ontology / Location. < / s >

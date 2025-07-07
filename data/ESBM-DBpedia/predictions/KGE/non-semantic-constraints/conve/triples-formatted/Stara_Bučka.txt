@@ -1,1 +1,0 @@
- <H> stara_bučka <R> type <T> location <H> stara_bučka <R> type <T> object100002684 <H> stara_bučka <R> category <T> place <H> stara_bučka <R> type <T> yagolegalactorgeo <H> stara_bučka <R> type <T> http://schema.org/place <H> stara_bučka <R> deathplace <T> village <H> stara_bučka <R> type <T> http://www.w3.org/2002/07/owl#thing

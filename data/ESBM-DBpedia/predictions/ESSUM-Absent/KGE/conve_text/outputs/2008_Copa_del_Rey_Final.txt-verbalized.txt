@@ -1,1 +1,0 @@
-< pad > The 2008 copa del rey final is an epoch which is part of the societalevent type. It is located at http: / / schema.org / event / and is of the type of sport. The event is attended by the 2008 copa del rey final who is also located at http: / / schema.org / sportsevent. < / s >

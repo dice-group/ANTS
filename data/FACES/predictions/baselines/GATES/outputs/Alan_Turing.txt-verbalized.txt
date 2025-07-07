@@ -1,1 +1,0 @@
-< pad > Alan Turing was born in Paddington and died in Manchester. He was a Cryptanalysis and maths teacher who worked at the Alonzo Church and was awarded the Order of the British Empire. He was awarded the Fellowship of the Royal Society and the Governor of the United States. Alan Turing was awarded the Halting Problem and the Government Communications Headquarters. < / s >

@@ -1,6 +1,0 @@
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q1656682
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/ontology/relative	http://dbpedia.org/resource/2012–13_debreceni_vsc_season

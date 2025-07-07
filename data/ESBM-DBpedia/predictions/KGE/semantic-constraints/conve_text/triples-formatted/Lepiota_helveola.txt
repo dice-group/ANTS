@@ -1,1 +1,0 @@
- <H> lepiota_helveola <R> subject <T> category:lepiota <H> lepiota_helveola <R> hypernym <T> mushroom <H> lepiota_helveola <R> subject <T> category:fungi_described_in_1882 <H> lepiota_helveola <R> subject <T> category:deadly_fungi <H> lepiota_helveola <R> subject <T> category:fungi_of_europe <H> lepiota_helveola <R> subject <T> category:taxa_named_by_giacomo_bresadola

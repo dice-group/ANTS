@@ -1,1 +1,0 @@
-< pad > The yayoidai station is located in the city of Chesterfield, at http: / / schema.org / place. The station is of yagopermanentlylocated ethnicity and has an HTTP: / / www.w3.org / 2002 / 07 / owl # thing type. < / s >

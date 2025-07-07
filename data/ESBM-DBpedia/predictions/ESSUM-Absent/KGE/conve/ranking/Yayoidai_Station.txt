@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/yayoidai_station	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/sagami_railway_izumino_line
-http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
-http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/location
-http://dbpedia.org/resource/yayoidai_station	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/sagami_railway
-http://dbpedia.org/resource/yayoidai_station	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/place

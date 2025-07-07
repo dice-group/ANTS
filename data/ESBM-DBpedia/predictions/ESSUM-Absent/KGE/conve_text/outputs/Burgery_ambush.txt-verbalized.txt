@@ -1,1 +1,0 @@
-< pad > The burgery ambush, which is a type of societalevent, is located in http: / / www.w3.org / 2002 / 07 / owl # thing. It is, however, not surprisingly, a type of event. The burgery ambush is also identified by an asteroid called http: / / www.wikidata.org / entity / q1656682 and is also located in England. < / s >

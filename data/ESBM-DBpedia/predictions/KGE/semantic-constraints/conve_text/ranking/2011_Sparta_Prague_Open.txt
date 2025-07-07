@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/2011_sparta_prague_open	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
-http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/hampden_park
-http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/property/stadium	http://dbpedia.org/resource/celtic_park
-http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/championindoublemale	http://dbpedia.org/resource/petra_cetkovská
-http://dbpedia.org/resource/2011_sparta_prague_open	http://dbpedia.org/ontology/championinmixeddouble	http://dbpedia.org/resource/tatiana_golovin

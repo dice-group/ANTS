@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/convoy_hx_156	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:populated_places_in_dehgolan_county
-http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
-http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
-http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
-http://dbpedia.org/resource/convoy_hx_156	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
-http://dbpedia.org/resource/convoy_hx_156	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:battles_of_the_mexican_revolution

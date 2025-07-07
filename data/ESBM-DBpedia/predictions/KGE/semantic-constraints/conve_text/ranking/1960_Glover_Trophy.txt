@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/1960_glover_trophy	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/race
-http://dbpedia.org/resource/1960_glover_trophy	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1960_in_british_motorsport
-http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/property/location	http://dbpedia.org/resource/west_sussex
-http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/property/name	http://dbpedia.org/resource/innes_ireland
-http://dbpedia.org/resource/1960_glover_trophy	http://dbpedia.org/ontology/firstdriverteam	http://dbpedia.org/resource/team_lotus

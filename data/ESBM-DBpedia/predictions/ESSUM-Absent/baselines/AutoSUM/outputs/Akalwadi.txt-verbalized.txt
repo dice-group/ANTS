@@ -1,1 +1,0 @@
-< pad > Akalwadi is located in the district of Bijapur, in the state of Karnataka, and has an utcoffset of 5 minutes. The type of interaction with Akalwadi is http: / / www.dbpedia.org / class / yago / Location / Location. Akalwadi has the type of http: / / www.dbpedia.org / ontology / Location / Location. Akalwadi < / s >

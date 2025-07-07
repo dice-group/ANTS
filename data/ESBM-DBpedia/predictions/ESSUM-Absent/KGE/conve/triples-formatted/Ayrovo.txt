@@ -1,1 +1,0 @@
- <H> ayrovo <R> birthplace <T> storme_warren <H> ayrovo <R> type <T> http://schema.org/place <H> ayrovo <R> type <T> yagogeoentity <H> ayrovo <R> type <T> place <H> ayrovo <R> type <T> settlement <H> ayrovo <R> type <T> location

@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/eastern_time_zone_(north_america)
-http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/west	http://dbpedia.org/resource/jackson,_michigan
-http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/west	http://dbpedia.org/resource/kalamazoo,_michigan
-http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/property/leadername	http://dbpedia.org/resource/john_hieftje
-http://dbpedia.org/resource/ann_arbor,_michigan	http://dbpedia.org/ontology/regionserved	http://dbpedia.org/resource/united_states

@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/tournament
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/south_africa
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://dbpedia.org/property/country	http://dbpedia.org/resource/costa_rica
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2012–13_uefa_champions_league
-http://dbpedia.org/resource/2012–13_uefa_champions_league	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:uefa_champions_league_seasons

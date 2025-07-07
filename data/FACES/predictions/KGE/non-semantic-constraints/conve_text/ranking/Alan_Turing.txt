@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
-http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/fellow_of_the_royal_society
-http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/field	http://dbpedia.org/resource/mathematics
-http://dbpedia.org/resource/alan_turing	http://dbpedia.org/property/knownfor	http://dbpedia.org/resource/cryptanalysis_of_the_enigma
-http://dbpedia.org/resource/alan_turing	http://dbpedia.org/property/thesisurl	http://search.proquest.com/docview/301792588

@@ -1,6 +1,0 @@
-http://dbpedia.org/resource/trachelipus_dimorphus	http://dbpedia.org/ontology/family	http://dbpedia.org/resource/trachelipodidae
-http://dbpedia.org/resource/trachelipus_dimorphus	http://dbpedia.org/ontology/phylum	http://dbpedia.org/resource/arthropod
-http://dbpedia.org/resource/trachelipus_dimorphus	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:woodlice_of_europe
-http://dbpedia.org/resource/trachelipus_dimorphus	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/woodlouse
-http://dbpedia.org/resource/trachelipus_dimorphus	http://dbpedia.org/property/classis	http://dbpedia.org/resource/malacostraca
-http://dbpedia.org/resource/trachelipus_dimorphus	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/animal

@@ -1,1 +1,0 @@
-< pad > The country of Poland is the location of the Muyawki which has a population of 113 people. The village is located in the county of Gmina, and has the following details: http: / / www.dbpedia.org / class / Village108672738, the length of the hut is 54.051945, and the type of rug is http: / / www.dbpedia.org / ontology / population / Village. < / s >

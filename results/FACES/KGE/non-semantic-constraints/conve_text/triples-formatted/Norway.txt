@@ -1,1 +1,0 @@
- <H> norway <R> currency <T> norwegian_krone <H> norway <R> starring <T> aladdin_(1992_disney_film) <H> norway <R> demonym <T> norwegians

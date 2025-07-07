@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/convoy_hx_156	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:naval_battles_of_world_war_ii_involving_the_united_states
-http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/vukoman_aračić
-http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/territory	http://dbpedia.org/resource/baghdad
-http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/ontology/ispartofmilitaryconflict	http://dbpedia.org/resource/world_war_ii
-http://dbpedia.org/resource/convoy_hx_156	http://dbpedia.org/property/secondteam	http://dbpedia.org/resource/fc_barcelona_femení

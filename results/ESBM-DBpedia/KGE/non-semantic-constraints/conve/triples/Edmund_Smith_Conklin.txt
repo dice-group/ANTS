@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/ontology/division	http://dbpedia.org/resource/flowering_plant
-http://dbpedia.org/resource/edmund_smith_conklin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/ontology/kingdom	http://dbpedia.org/resource/plant
-http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/the_black_crowes
-http://dbpedia.org/resource/edmund_smith_conklin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
-http://dbpedia.org/resource/edmund_smith_conklin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
-http://dbpedia.org/resource/edmund_smith_conklin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person
-http://dbpedia.org/resource/edmund_smith_conklin	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/netherlands

@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/synthpop
-http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download
-http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/property/format	http://dbpedia.org/resource/ogg
-http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/subsequentwork	http://dbpedia.org/resource/first_dance_(song)
-http://dbpedia.org/resource/love_me_(justin_bieber_song)	http://dbpedia.org/ontology/recordedin	http://dbpedia.org/resource/denver,_colorado

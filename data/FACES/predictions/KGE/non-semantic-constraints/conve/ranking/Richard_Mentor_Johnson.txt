@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/successor	http://dbpedia.org/resource/george_m._bibb
-http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/after	http://dbpedia.org/resource/robert_p._letcher
-http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/religion	http://dbpedia.org/resource/baptist
-http://dbpedia.org/resource/richard_mentor_johnson	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/richard_mentor_johnson?oldid=547019771
-http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/ontology/regionserved	http://dbpedia.org/resource/united_states

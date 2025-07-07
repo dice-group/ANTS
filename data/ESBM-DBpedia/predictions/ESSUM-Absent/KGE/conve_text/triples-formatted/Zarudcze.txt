@@ -1,1 +1,0 @@
- <H> zarudcze <R> type <T> place <H> zarudcze <R> type <T> http://www.wikidata.org/entity/q486972 <H> zarudcze <R> type <T> location100027167 <H> zarudcze <R> type <T> http://schema.org/place <H> zarudcze <R> type <T> geographicalarea108574314 <H> zarudcze <R> type <T> village <H> zarudcze <R> parentmountainpeak <T> village

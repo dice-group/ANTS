@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/kuleh_bayan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/settlement
-http://dbpedia.org/resource/kuleh_bayan	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/place
-http://dbpedia.org/resource/kuleh_bayan	http://dbpedia.org/property/blankname	http://dbpedia.org/resource/köppen_climate_classification
-http://dbpedia.org/resource/kuleh_bayan	http://dbpedia.org/property/subdivisiontype	http://dbpedia.org/resource/bakhsh
-http://dbpedia.org/resource/kuleh_bayan	http://dbpedia.org/property/marktitle	http://dbpedia.org/resource/battle_of_caldiero_(1809)

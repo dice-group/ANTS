@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/if_(glasvegas_song)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:2013_singles
-http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/property/genre	http://dbpedia.org/resource/indie_rock
-http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/property/album	http://dbpedia.org/resource/later...when_the_tv_turns_to_static
-http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/property/executiveproducer	http://dbpedia.org/resource/e._duke_vincent
-http://dbpedia.org/resource/if_(glasvegas_song)	http://dbpedia.org/property/executiveproducer	http://dbpedia.org/resource/aaron_spelling

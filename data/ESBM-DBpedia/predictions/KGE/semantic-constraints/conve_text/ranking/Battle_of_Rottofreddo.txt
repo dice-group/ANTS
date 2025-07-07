@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/battle_of_rottofreddo	http://dbpedia.org/property/place	http://dbpedia.org/resource/province_of_piacenza
-http://dbpedia.org/resource/battle_of_rottofreddo	http://dbpedia.org/property/place	http://dbpedia.org/resource/rottofreno
-http://dbpedia.org/resource/battle_of_rottofreddo	http://dbpedia.org/ontology/commander	http://dbpedia.org/resource/maximilian_ulysses_browne
-http://dbpedia.org/resource/battle_of_rottofreddo	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:conflicts_in_1746
-http://dbpedia.org/resource/battle_of_rottofreddo	http://dbpedia.org/property/firstdriver	http://dbpedia.org/resource/john_surtees

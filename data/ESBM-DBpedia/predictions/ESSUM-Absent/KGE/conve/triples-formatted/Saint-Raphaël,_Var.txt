@@ -1,1 +1,0 @@
- <H> saint-raphaël,_var <R> type <T> yagopermanentlylocatedentity <H> saint-raphaël,_var <R> type <T> location <H> saint-raphaël,_var <R> type <T> settlement <H> saint-raphaël,_var <R> secondteam <T> france <H> saint-raphaël,_var <R> type <T> commune108541609 <H> saint-raphaël,_var <R> type <T> administrativedistrict108491826

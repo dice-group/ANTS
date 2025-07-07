@@ -1,1 +1,0 @@
-< pad > The 2010 belgian super cup is an epoch type which is held in the event of a sporting event. It is made of http: / / www.wikidata.org / entity / q1656682 and is of the sporting type societalevent. The cup is of the type http: / / schema.org / sportsevent and the other is an http: / / www.schema.org / event. < / s >

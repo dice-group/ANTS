@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/hiroshi_mori_(writer)	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/writer
-http://dbpedia.org/resource/hiroshi_mori_(writer)	http://dbpedia.org/property/children	http://dbpedia.org/resource/einstein_family
-http://dbpedia.org/resource/hiroshi_mori_(writer)	http://dbpedia.org/ontology/notablework	http://dbpedia.org/resource/subete_ga_f_ni_naru
-http://dbpedia.org/resource/hiroshi_mori_(writer)	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/aichi_prefecture
-http://dbpedia.org/resource/hiroshi_mori_(writer)	http://dbpedia.org/ontology/notablework	http://dbpedia.org/resource/the_sky_crawlers

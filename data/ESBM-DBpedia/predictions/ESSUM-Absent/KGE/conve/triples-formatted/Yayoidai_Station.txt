@@ -1,1 +1,0 @@
- <H> yayoidai_station <R> genre <T> sagami_railway_izumino_line <H> yayoidai_station <R> type <T> place <H> yayoidai_station <R> type <T> location <H> yayoidai_station <R> birthplace <T> sagami_railway <H> yayoidai_station <R> type <T> http://schema.org/place

@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/wehlaberg	http://dbpedia.org/property/timezone	http://dbpedia.org/resource/central_european_time
-http://dbpedia.org/resource/wehlaberg	http://dbpedia.org/property/city	http://dbpedia.org/resource/moscow
-http://dbpedia.org/resource/wehlaberg	http://dbpedia.org/property/currency	http://dbpedia.org/resource/pound_sterling
-http://dbpedia.org/resource/wehlaberg	http://dbpedia.org/ontology/locatedinarea	http://dbpedia.org/resource/germany
-http://dbpedia.org/resource/wehlaberg	http://dbpedia.org/property/populationblank1title	http://dbpedia.org/resource/winnsboro,_louisiana

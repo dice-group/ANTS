@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/roque_ceruti	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/person
-http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:italian_male_composers
-http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:peruvian_baroque_composers
-http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:italian_male_classical_composers
-http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:italian_baroque_composers
-http://dbpedia.org/resource/roque_ceruti	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1680s_births
-http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/ontology/restingplace	http://dbpedia.org/resource/lake_view_cemetery,_seattle
-http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/ontology/restingplace	http://dbpedia.org/resource/delhi
-http://dbpedia.org/resource/roque_ceruti	http://dbpedia.org/property/baseofoperations	http://dbpedia.org/resource/west_indies

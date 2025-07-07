@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/marie_curie	http://dbpedia.org/property/field	http://dbpedia.org/resource/physics
-http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/polonium
-http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/knownfor	http://dbpedia.org/resource/radium
-http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/congress_poland
-http://dbpedia.org/resource/marie_curie	http://dbpedia.org/ontology/almamater	http://dbpedia.org/resource/espci

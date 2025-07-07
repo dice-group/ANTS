@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
-http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1983_deaths
-http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
-http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/class/yago/causalagent100007347
-http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/agent
-http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:estonian_painters
-http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1899_births
-http://dbpedia.org/resource/juhan_muks	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://xmlns.com/foaf/0.1/person

@@ -1,1 +1,0 @@
- <H> zarudcze <R> type <T> http://www.wikidata.org/entity/q486972 <H> zarudcze <R> type <T> populatedplace <H> zarudcze <R> subject <T> category:populated_places_in_kara_region <H> zarudcze <R> type <T> place <H> zarudcze <R> type <T> village <H> zarudcze <R> subject <T> category:assoli <H> zarudcze <R> type <T> location <H> zarudcze <R> type <T> http://schema.org/place

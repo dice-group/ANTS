@@ -1,1 +1,0 @@
-< pad > The Chitita is located in the Arica y Parinacota region of the country of Chile. It has the type of village known as Chitita and its type of habitat is http: / / www.dbpedia.org / class / yago / GeographicalArea1086314. The type of Chitita is http: / / dbpedia.org / class / yago / Location / Place. The http: / / dbpedia.org / class / yago / < / s >

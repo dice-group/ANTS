@@ -1,3 +1,0 @@
-http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/currency	http://dbpedia.org/resource/norwegian_krone
-http://dbpedia.org/resource/norway	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/aladdin_(1992_disney_film)
-http://dbpedia.org/resource/norway	http://dbpedia.org/property/demonym	http://dbpedia.org/resource/norwegians

@@ -1,1 +1,0 @@
- <H> alan_turing <R> fields <T> mathematics <H> alan_turing <R> award <T> officer_of_the_order_of_the_british_empire <H> alan_turing <R> doctoraladvisor <T> alonzo_church <H> alan_turing <R> prizes <T> order_of_the_british_empire <H> alan_turing <R> prizes <T> fellow_of_the_royal_society

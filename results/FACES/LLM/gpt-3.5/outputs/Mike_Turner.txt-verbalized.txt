@@ -1,1 +1,0 @@
-< pad > Mike Turner, who has a full name of Mike Turner, is located in San Francisco and works as a Java programmer. His phone number is + 1-555-1234 and he has been awarded the Employee of the Month in 2019. Mike Turner's background includes developing mobile applications for XYZ Company, and his previous employer was Oracle Certified Java Programmer. < / s >

@@ -1,1 +1,0 @@
-< pad > The 2011 league of ireland cup final is categorized as a sportsevent and is http: / / www.ontologydesignpatterns.org / ont / dul.owl # event. It is held in the city of Washington DC and is of the type of societalevent. The 2011 league is held at http: / / schema.org / sportsevent and is http: / / www.wikidata.org / entity / q1656682. < / s >

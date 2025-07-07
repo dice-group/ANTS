@@ -1,1 +1,0 @@
- <H> balanites <R> type <T> plant <H> balanites <R> type <T> http://www.wikidata.org/entity/q756 <H> balanites <R> type <T> species <H> balanites <R> type <T> eukaryote <H> balanites <R> type <T> http://www.w3.org/2002/07/owl#thing <H> balanites <R> division <T> flowering_plant

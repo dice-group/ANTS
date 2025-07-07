@@ -1,1 +1,0 @@
- <H> darreh_dang <R> deathplace <T> village <H> darreh_dang <R> type <T> yagopermanentlylocatedentity <H> darreh_dang <R> type <T> http://schema.org/place <H> darreh_dang <R> category <T> place <H> darreh_dang <R> type <T> object100002684 <H> darreh_dang <R> type <T> location <H> darreh_dang <R> type <T> http://www.w3.org/2002/07/owl#thing

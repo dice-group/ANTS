@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/sportsevent
-http://dbpedia.org/resource/1967_italian_grand_prix	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1967_formula_one_races
-http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
-http://dbpedia.org/resource/1967_italian_grand_prix	http://dbpedia.org/ontology/firstdriver	http://dbpedia.org/resource/john_surtees
-http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/sportsevent
-http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
-http://dbpedia.org/resource/1967_italian_grand_prix	http://dbpedia.org/ontology/location	http://dbpedia.org/resource/italy
-http://dbpedia.org/resource/1967_italian_grand_prix	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/1967_italian_grand_prix	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1967_in_italian_motorsport

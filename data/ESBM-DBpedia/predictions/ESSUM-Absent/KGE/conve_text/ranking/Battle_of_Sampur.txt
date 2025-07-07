@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/event
-http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/event
-http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/societalevent
-http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q1656682
-http://dbpedia.org/resource/battle_of_sampur	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.ontologydesignpatterns.org/ont/dul/dul.owl#event
-http://dbpedia.org/resource/battle_of_sampur	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/battle100953559
-http://dbpedia.org/resource/battle_of_sampur	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/class/yago/militaryaction100952963
-http://dbpedia.org/resource/battle_of_sampur	http://dbpedia.org/ontology/locatedinarea	http://dbpedia.org/class/yago/groupaction101080366
-http://dbpedia.org/resource/battle_of_sampur	http://dbpedia.org/ontology/parentmountainpeak	http://dbpedia.org/ontology/militaryconflict

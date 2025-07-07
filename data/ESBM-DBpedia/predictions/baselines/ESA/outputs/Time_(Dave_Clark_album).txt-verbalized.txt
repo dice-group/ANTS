@@ -1,1 +1,0 @@
-< pad > The pop rock album Time (Dave Clark) has a runaway of 6129 minutes and is labelled as Dave Clark's Time (Dave Clark). It is published by Capitol Records and has the following details: http: / / www.dbpedia.org / class / yago / ConceptAlbums, http: / / www.dbpedia.org / class / yago / musicalAlbums, http: / / www.w3.org / 07 / owl # Thing. < / s >

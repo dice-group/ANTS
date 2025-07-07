@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/children	http://dbpedia.org/resource/einstein_family
-http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/fields	http://dbpedia.org/resource/physics
-http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/ontology/regionserved	http://dbpedia.org/resource/united_states
-http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/shortdescription	http://dbpedia.org/resource/physicist
-http://dbpedia.org/resource/albert_einstein	http://xmlns.com/foaf/0.1/isprimarytopicof	http://en.wikipedia.org/wiki/albert_einstein

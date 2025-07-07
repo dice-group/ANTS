@@ -1,1 +1,0 @@
-< pad > The United States television personality Storme Warren was born in Cincinnati, Ohio. He has a variety of occupations, including Host, TV personality and TV personality. Storme Warren's occupation is http: / / www.ontologydesignpatterns.org / ont / dul / Dul / NaturalPerson, and his style is http: / / www.wikidata.org / class / yago / YagoLegalActorGeo. < / s >

@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/children	http://dbpedia.org/resource/lieserl_einstein
-http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/children	http://dbpedia.org/resource/hans_albert_einstein
-http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/children	http://dbpedia.org/resource/einstein_family
-http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/kingdom_of_w%c3%bcrttemberg
-http://dbpedia.org/resource/albert_einstein	http://dbpedia.org/property/birthplace	http://dbpedia.org/resource/german_empire

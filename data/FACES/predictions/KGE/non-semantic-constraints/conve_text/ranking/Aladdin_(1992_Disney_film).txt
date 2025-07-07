@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/douglas_seale
-http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/scott_weinger
-http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/robin_williams
-http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/ontology/starring	http://dbpedia.org/resource/linda_larkin
-http://dbpedia.org/resource/aladdin_(1992_disney_film)	http://dbpedia.org/property/director	http://dbpedia.org/resource/ron_clements

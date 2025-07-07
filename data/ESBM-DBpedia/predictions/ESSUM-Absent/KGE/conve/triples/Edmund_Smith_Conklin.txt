@@ -1,4 +1,0 @@
-http://dbpedia.org/resource/edmund_smith_conklin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/person
-http://dbpedia.org/resource/edmund_smith_conklin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/edmund_smith_conklin	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q5
-http://dbpedia.org/resource/edmund_smith_conklin	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1942_deaths

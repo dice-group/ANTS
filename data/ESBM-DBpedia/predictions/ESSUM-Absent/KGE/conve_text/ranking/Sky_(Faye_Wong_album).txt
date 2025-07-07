@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/sky_(faye_wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:albums_by_singaporean_artists
-http://dbpedia.org/resource/sky_(faye_wong_album)	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:mandopop_albums
-http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#thing
-http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/work
-http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/musicalwork
-http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.wikidata.org/entity/q386724
-http://dbpedia.org/resource/sky_(faye_wong_album)	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://schema.org/creativework

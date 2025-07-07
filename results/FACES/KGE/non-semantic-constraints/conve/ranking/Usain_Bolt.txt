@@ -1,4 +1,0 @@
-http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/property/residence	http://dbpedia.org/resource/kingston,_jamaica
-http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/property/placeofbirth	http://dbpedia.org/resource/trelawny_parish,_jamaica
-http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/property/placeofbirth	http://dbpedia.org/resource/trelawny_parish
-http://dbpedia.org/resource/usain_bolt	http://dbpedia.org/ontology/birthplace	http://dbpedia.org/resource/jamaica

@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/knight_rider_(1982_tv_series)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/adventure_fiction
-http://dbpedia.org/resource/knight_rider_(1982_tv_series)	http://dbpedia.org/ontology/genre	http://dbpedia.org/resource/u.s._television_science_fiction
-http://dbpedia.org/resource/knight_rider_(1982_tv_series)	http://dbpedia.org/ontology/narrator	http://dbpedia.org/resource/richard_basehart
-http://dbpedia.org/resource/knight_rider_(1982_tv_series)	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/knight_rider_(1982_tv_series)?oldid=544395569
-http://dbpedia.org/resource/knight_rider_(1982_tv_series)	http://dbpedia.org/ontology/subsequentwork	http://dbpedia.org/resource/knight_rider_(2008_tv_series)

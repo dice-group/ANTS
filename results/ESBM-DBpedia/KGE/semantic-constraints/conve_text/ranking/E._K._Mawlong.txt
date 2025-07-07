@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/e._k._mawlong	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://dbpedia.org/ontology/species
-http://dbpedia.org/resource/e._k._mawlong	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/politician
-http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/ontology/canonizedplace	http://dbpedia.org/resource/haarlemmermeer
-http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/property/deathplace	http://dbpedia.org/resource/shillong
-http://dbpedia.org/resource/e._k._mawlong	http://dbpedia.org/ontology/termperiod	http://dbpedia.org/resource/e._k._mawlong__tenure__1

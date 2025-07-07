@@ -1,1 +1,0 @@
-http://dbpedia.org/resource/massacre_on_34th_street	http://dbpedia.org/ontology/position	http://dbpedia.org/resource/guilty_as_charged

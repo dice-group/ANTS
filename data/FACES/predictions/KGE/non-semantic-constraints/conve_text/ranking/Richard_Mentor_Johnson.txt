@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/ontology/country	http://dbpedia.org/resource/united_states
-http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/successor	http://dbpedia.org/resource/george_m._bibb
-http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/after	http://dbpedia.org/resource/robert_p._letcher
-http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/after	http://dbpedia.org/resource/william_wright_southgate
-http://dbpedia.org/resource/richard_mentor_johnson	http://dbpedia.org/property/president	http://dbpedia.org/resource/martin_van_buren

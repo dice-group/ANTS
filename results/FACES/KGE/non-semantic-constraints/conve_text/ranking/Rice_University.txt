@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/rice_university	http://dbpedia.org/ontology/thumbnail	http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/rice_university_seal.svg/200px-rice_university_seal.svg.png
-http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/affiliations	http://dbpedia.org/resource/association_of_american_universities
-http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/provost	http://dbpedia.org/resource/george_mclendon
-http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/name	http://dbpedia.org/resource/manchester_city_f.c.
-http://dbpedia.org/resource/rice_university	http://dbpedia.org/property/hasphotocollection	http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/rice_university

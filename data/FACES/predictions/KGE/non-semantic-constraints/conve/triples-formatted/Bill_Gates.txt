@@ -1,1 +1,0 @@
- <H> bill_gates <R> birthplace <T> washington_(state) <H> bill_gates <R> occupation <T> bill_gates__3 <H> bill_gates <R> occupation <T> corbis <H> bill_gates <R> regionserved <T> united_states <H> bill_gates <R> occupation <T> bill_gates__2 <H> bill_gates <R> religion <T> agnostic <H> bill_gates <R> restingplace <T> seattle

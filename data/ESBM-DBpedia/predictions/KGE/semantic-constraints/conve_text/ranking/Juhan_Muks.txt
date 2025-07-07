@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/juhan_muks	http://dbpedia.org/property/house	http://dbpedia.org/resource/ruckman_(australian_rules_football_position)
-http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:20th-century_estonian_painters
-http://dbpedia.org/resource/juhan_muks	http://dbpedia.org/property/baseofoperations	http://dbpedia.org/resource/koronowo
-http://dbpedia.org/resource/juhan_muks	http://purl.org/linguistics/gold/hypernym	http://dbpedia.org/resource/artist
-http://dbpedia.org/resource/juhan_muks	http://purl.org/dc/terms/subject	http://dbpedia.org/resource/category:1899_births

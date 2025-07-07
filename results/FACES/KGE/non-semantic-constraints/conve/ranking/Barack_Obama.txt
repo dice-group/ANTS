@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/barack_obama	http://dbpedia.org/property/party	http://dbpedia.org/resource/democratic_party_(united_states)
-http://dbpedia.org/resource/barack_obama	http://dbpedia.org/property/spouse	http://dbpedia.org/resource/michelle_obama
-http://dbpedia.org/resource/barack_obama	http://dbpedia.org/property/format	http://dbpedia.org/resource/music_download
-http://dbpedia.org/resource/barack_obama	http://dbpedia.org/property/establishedevent	http://dbpedia.org/resource/poland
-http://dbpedia.org/resource/barack_obama	http://www.w3.org/ns/prov#wasderivedfrom	http://en.wikipedia.org/wiki/barack_obama?oldid=548538288

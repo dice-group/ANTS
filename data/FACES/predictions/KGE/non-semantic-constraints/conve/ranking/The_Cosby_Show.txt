@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/the_cosby_show	http://dbpedia.org/property/genre	http://dbpedia.org/resource/sitcom
-http://dbpedia.org/resource/the_cosby_show	http://dbpedia.org/property/starring	http://dbpedia.org/resource/lisa_bonet
-http://dbpedia.org/resource/the_cosby_show	http://dbpedia.org/property/starring	http://dbpedia.org/resource/phylicia_rash%c4%81d
-http://dbpedia.org/resource/the_cosby_show	http://dbpedia.org/property/starring	http://dbpedia.org/resource/erika_alexander
-http://dbpedia.org/resource/the_cosby_show	http://dbpedia.org/ontology/network	http://dbpedia.org/resource/nbc

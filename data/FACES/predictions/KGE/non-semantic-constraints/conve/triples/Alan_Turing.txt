@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/alan_turing	http://dbpedia.org/property/fields	http://dbpedia.org/resource/mathematics
-http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/award	http://dbpedia.org/resource/officer_of_the_order_of_the_british_empire
-http://dbpedia.org/resource/alan_turing	http://dbpedia.org/ontology/doctoraladvisor	http://dbpedia.org/resource/alonzo_church
-http://dbpedia.org/resource/alan_turing	http://dbpedia.org/property/prizes	http://dbpedia.org/resource/order_of_the_british_empire
-http://dbpedia.org/resource/alan_turing	http://dbpedia.org/property/prizes	http://dbpedia.org/resource/fellow_of_the_royal_society

@@ -1,1 +1,0 @@
-< pad > The type of Chitita is http: / / www.dbpedia.org / class / yago / Yago / Location / 101705684. The type of Chitita is a village in the Arica yeoland, in the country of Chile. The type of Chitita is the http: / / www.dbpedia.org / class / yago / Geocentricity / Location of Chitita. The type of Chitita < / s >
