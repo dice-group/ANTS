@@ -238,7 +238,6 @@ python eval.py \
 Villalón, María and van Erp, Marieke and Ojo, Adegboyega and Hose, Katja and Shimizu, Cogan and Lisena, Pasquale},
   booktitle  = {Semantic Web – 22nd International Conference, ESWC 2025, Portoroz, Slovenia, June 1-5, 2025, Proceedings},
   year       = {2025},
-  keywords   = {dice enexa whale trr318 firmansyah zahera sherif moussallem ngonga},
   url        = {https://papers.dice-research.org/2025/ESWC_ANTS/public.pdf}
 }
 ```
