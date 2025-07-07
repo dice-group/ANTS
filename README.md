@@ -202,12 +202,31 @@ python converting-to-evaluation-format.py --system "conve_text_gpt-4" --dataset 
 ```
 
 #### Step 3: Evaluate Experiment Results using BLEU, METEOR, ChrF++, BLEURT
+
+Before running the evaluation, make sure to install and set up the `GenerationEval` evaluation module. You can do this using the following commands:
+
+```bash
+# Navigate to the evaluation-modules directory
+cd src/evaluation-modules
+
+# Run the setup script
+bash run-evaluation-pipeline.sh
 ```
-# Make sure the directory still in src/evaluation-modules directory
+
+Once the setup is complete, run the evaluation:
+
+```
+# Ensure you're inside the GenerationEval directory
 cd GenerationEval
 
 # Execute the script to perform automatic evaluation
-python eval.py -R ../../data/ESBM-DBpedia/predictions/ANTS/semantic-constraints/conve_text_gpt-4/evaluation/refs.txt -H ../../data/ESBM-DBpedia/predictions/ANTS/semantic-constraints/conve_text_gpt-4/evaluation/hyp.txt -lng en -nr 1 -m bleu,meteor,chrf++,ter,bert,bleurt
+python eval.py \
+  -R ../../../results/data.v.1.1/ESBM-DBpedia/ANTS/semantic-constraints/conve_gpt-4/evaluation/refs.txt \
+  -H ../../../results/data.v.1.1/ESBM-DBpedia/ANTS/semantic-constraints/conve_gpt-4/evaluation/hyp.txt \
+  -lng en \
+  -nr 1 \
+  -m bleu,meteor,chrf++,ter,bert,bleurt
+
 ```
 ---
 ## How to Cite
