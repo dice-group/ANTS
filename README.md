@@ -54,27 +54,29 @@ pip install -r requirements.txt
 ---
 ## 📂 Repository Structure
 ```
-├── data
+├── data.v.1.0
 │   ├── ESBM-DBpedia
 │   │   ├── ESSUM
 │   │   │   ├── silver-standard-summaries
 │   │   │   └── absent
-│   │   ├── predictions
-│   │   │   ├── ANTS
-│   │   │   ├── baselines
-│   │   │   ├── KGE
-│   │   │   └── LLM
 │   │   └── elist.txt
 │   └── FACES
 │       ├── ESSUM
 │       │   ├── silver-standard-summaries
 │       │   └── absent
-│       ├── predictions
-│       │   ├── ANTS
-│       │   ├── baselines
-│       │   ├── KGE
-│       │   └── LLM
 │       └── elist.txt
+├── data.v.1.1
+│   ├── ESBM-DBpedia
+│   │   ├── ESSUM
+│   │   │   ├── silver-standard-summaries
+│   │   │   └── absent
+│   │   └── elist.txt
+│   └── FACES
+│       ├── ESSUM
+│       │   ├── silver-standard-summaries
+│       │   └── absent
+│       └── elist.txt
+├── results
 ├── src
 ├── ├── evaluation-modules
 ├── ├── KGE-triples
@@ -91,10 +93,10 @@ pip install -r requirements.txt
 ESSUM is a silver-standard dataset that combines entities from ESBM-DBpedia and FACES. For each entity, we extract sentences with mentioned entities from the first paragraph of its Wikipedia page. In our experiments, we created two subsets:
 
 - **ESSUM-DBpedia** (110 entities from ESBM-DBpedia):  
-  [https://github.com/dice-group/ANTS/tree/main/data/ESBM-DBpedia/ESSUM/silver-standard-summaries](https://github.com/dice-group/ANTS/tree/main/data/ESBM-DBpedia/ESSUM/silver-standard-summaries)
+  [https://github.com/dice-group/ANTS/tree/main/data/ESBM-DBpedia/ESSUM/silver-standard-summaries](https://github.com/dice-group/ANTS/tree/main/data.v.1.1/ESBM-DBpedia/ESSUM/silver-standard-summaries)
 
 - **ESSUM-FACES** (50 entities from FACES):  
-  [https://github.com/dice-group/ANTS/tree/main/data/FACES/ESSUM/silver-standard-summaries](https://github.com/dice-group/ANTS/tree/main/data/FACES/ESSUM/silver-standard-summaries)
+  [https://github.com/dice-group/ANTS/tree/main/data/FACES/ESSUM/silver-standard-summaries](https://github.com/dice-group/ANTS/tree/main/data.v.1.1/FACES/ESSUM/silver-standard-summaries)
 
 <p align="center">
 <img src="images/silver-summary-example-alt2.jpg" width="75%">
@@ -105,10 +107,10 @@ ESSUM is a silver-standard dataset that combines entities from ESBM-DBpedia and 
 ESSUM-ABSENT is derived by randomly removing 20% of triples from ESBM-DBpedia and FACES. These omitted triples serve as ground-truth absent triples to evaluate a model’s ability to infer missing facts.
 
 - **ESSUM-ABSENT-DBpedia** (from ESBM-DBpedia):  
-  [https://github.com/dice-group/ANTS/tree/main/data/ESBM-DBpedia/ESSUM/absent](https://github.com/dice-group/ANTS/tree/main/data/ESBM-DBpedia/ESSUM/absent)
+  [https://github.com/dice-group/ANTS/tree/main/data/ESBM-DBpedia/ESSUM/absent](https://github.com/dice-group/ANTS/tree/main/data.v.1.1/ESBM-DBpedia/ESSUM/absent)
 
 - **ESSUM-ABSENT-FACES** (from FACES):  
-  [https://github.com/dice-group/ANTS/tree/main/data/FACES/ESSUM/absent](https://github.com/dice-group/ANTS/tree/main/data/FACES/ESSUM/absent)
+  [https://github.com/dice-group/ANTS/tree/main/data/FACES/ESSUM/absent](https://github.com/dice-group/ANTS/tree/main/data.v.1.1/FACES/ESSUM/absent)
 
 
 ---
