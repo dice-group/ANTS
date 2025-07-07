@@ -4,7 +4,7 @@ We release an improved version of the **ESSUM-DBpedia** and **ESSUM-FACES** data
 
 ### 🔧 What's New?
 
-This update resolves a technical issue found in the earlier version, where **some entity descriptions contained more than one paragraph** from their corresponding Wikipedia articles. This was caused by a bug in the extraction script.
+This update resolves a technical issue found in the earlier version, where **some silver-standard summaries of entities contained more than one paragraph** from their corresponding Wikipedia articles.
 
 ### ✅ What’s Fixed?
 
